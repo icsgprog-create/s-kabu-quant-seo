@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "3687",
+    "name": "フィックスターズ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 1848.0,
+    "min_s_kabu_yen": 1848,
+    "unit_lot_yen": 184800,
+    "dps_yen": 19.0,
+    "dividend_yield_pct": 1.03,
+    "raw_annual_return_pct": 18.52,
+    "capped_annual_return_pct": 18.52,
+    "geometric_growth_pct": 3.39,
+    "annual_volatility_pct": 55.02,
+    "max_drawdown_pct": -50.23,
+    "monthly_var_95_pct": -17.73,
+    "sharpe_ratio": 0.06,
+    "quant_score": 14.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 632,
+        "nisa_required_capital_yen": 1167936,
+        "specific_required_shares": 793,
+        "specific_required_capital_yen": 1465464
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 5835984,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 7323624
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 11671968,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 14647248
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18948,
+        "nisa_required_capital_yen": 35015904,
+        "specific_required_shares": 23778,
+        "specific_required_capital_yen": 43941744
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 31579,
+        "nisa_required_capital_yen": 58357992,
+        "specific_required_shares": 39630,
+        "specific_required_capital_yen": 73236240
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122917,
+        "upper_90_yen": 204544,
+        "lower_10_yen": 75586
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251387,
+        "upper_90_yen": 513028,
+        "lower_10_yen": 129452
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 385662,
+        "upper_90_yen": 926659,
+        "lower_10_yen": 173219
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 526003,
+        "upper_90_yen": 1456195,
+        "lower_10_yen": 210521
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 672686,
+        "upper_90_yen": 2115923,
+        "lower_10_yen": 243208
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 825995,
+        "upper_90_yen": 2922780,
+        "lower_10_yen": 272393
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 986231,
+        "upper_90_yen": 3896206,
+        "lower_10_yen": 298811
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1153706,
+        "upper_90_yen": 5058197,
+        "lower_10_yen": 322981
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1328748,
+        "upper_90_yen": 6433470,
+        "lower_10_yen": 345287
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1511699,
+        "upper_90_yen": 8049681,
+        "lower_10_yen": 366019
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フィックスターズ(3687)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フィックスターズ(3687)を1株(1,848円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,848円から購入可能",
+      "年率ボラティリティは55.02%",
+      "月1万円の配当には6,316株が必要"
+    ],
+    "accumulation_strategy_analysis": "フィックスターズは1株（約1,848円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は1,511,699円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は19.0円（利回り1.03%）です。月次95%VaRは-17.73%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "フィックスターズはいくらから買えますか？",
+        "answer": "1株あたり約1,848円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約11,671,968円必要です。"
+      }
+    ]
+  }
+}

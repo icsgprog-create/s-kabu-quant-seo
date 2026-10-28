@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "9432",
+    "name": "日本電信電話",
+    "sector": "情報・通信業",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 174.0,
+    "min_s_kabu_yen": 174,
+    "unit_lot_yen": 17400,
+    "dps_yen": 5.4,
+    "dividend_yield_pct": 3.1,
+    "raw_annual_return_pct": 9.33,
+    "capped_annual_return_pct": 9.33,
+    "geometric_growth_pct": 7.97,
+    "annual_volatility_pct": 16.47,
+    "max_drawdown_pct": -23.7,
+    "monthly_var_95_pct": -5.6,
+    "sharpe_ratio": 0.61,
+    "quant_score": 73.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2223,
+        "nisa_required_capital_yen": 386802,
+        "specific_required_shares": 2789,
+        "specific_required_capital_yen": 485286
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 11112,
+        "nisa_required_capital_yen": 1933488,
+        "specific_required_shares": 13944,
+        "specific_required_capital_yen": 2426256
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 22223,
+        "nisa_required_capital_yen": 3866802,
+        "specific_required_shares": 27888,
+        "specific_required_capital_yen": 4852512
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 66667,
+        "nisa_required_capital_yen": 11600058,
+        "specific_required_shares": 83663,
+        "specific_required_capital_yen": 14557362
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 111112,
+        "nisa_required_capital_yen": 19333488,
+        "specific_required_shares": 139438,
+        "specific_required_capital_yen": 24262212
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127486,
+        "upper_90_yen": 148262,
+        "lower_10_yen": 109847
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 269907,
+        "upper_90_yen": 333345,
+        "lower_10_yen": 219506
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 429012,
+        "upper_90_yen": 556159,
+        "lower_10_yen": 333159
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 606756,
+        "upper_90_yen": 820677,
+        "lower_10_yen": 452627
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 805322,
+        "upper_90_yen": 1132147,
+        "lower_10_yen": 579241
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1027151,
+        "upper_90_yen": 1496871,
+        "lower_10_yen": 714182
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1274967,
+        "upper_90_yen": 1922211,
+        "lower_10_yen": 858587
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1551814,
+        "upper_90_yen": 2416667,
+        "lower_10_yen": 1013613
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1861093,
+        "upper_90_yen": 2989998,
+        "lower_10_yen": 1180470
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2206604,
+        "upper_90_yen": 3653377,
+        "lower_10_yen": 1360441
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本電信電話(9432)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本電信電話(9432)を1株(174円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小174円から購入可能",
+      "年率ボラティリティは16.47%",
+      "月1万円の配当には22,223株が必要"
+    ],
+    "accumulation_strategy_analysis": "日本電信電話は1株（約174円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は2,206,604円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は5.4円（利回り3.1%）です。月次95%VaRは-5.6%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "日本電信電話はいくらから買えますか？",
+        "answer": "1株あたり約174円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約3,866,802円必要です。"
+      }
+    ]
+  }
+}

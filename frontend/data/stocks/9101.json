@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "9101",
+    "name": "日本郵船",
+    "sector": "海運業",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 7334.0,
+    "min_s_kabu_yen": 7334,
+    "unit_lot_yen": 733400,
+    "dps_yen": 240.0,
+    "dividend_yield_pct": 3.27,
+    "raw_annual_return_pct": 30.3,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.08,
+    "annual_volatility_pct": 34.42,
+    "max_drawdown_pct": -25.82,
+    "monthly_var_95_pct": -11.3,
+    "sharpe_ratio": 0.47,
+    "quant_score": 53.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 50,
+        "nisa_required_capital_yen": 366700,
+        "specific_required_shares": 63,
+        "specific_required_capital_yen": 462042
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 250,
+        "nisa_required_capital_yen": 1833500,
+        "specific_required_shares": 314,
+        "specific_required_capital_yen": 2302876
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 3667000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 4605752
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 11001000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 13809922
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 18335000,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 23014092
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131988,
+        "upper_90_yen": 181665,
+        "lower_10_yen": 96755
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288979,
+        "upper_90_yen": 453543,
+        "lower_10_yen": 187647
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 475712,
+        "upper_90_yen": 831426,
+        "lower_10_yen": 280068
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 697820,
+        "upper_90_yen": 1341667,
+        "lower_10_yen": 376862
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 962004,
+        "upper_90_yen": 2019012,
+        "lower_10_yen": 479993
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1276236,
+        "upper_90_yen": 2907851,
+        "lower_10_yen": 591164
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1649998,
+        "upper_90_yen": 4064318,
+        "lower_10_yen": 712035
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2094565,
+        "upper_90_yen": 5559055,
+        "lower_10_yen": 844330
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2623353,
+        "upper_90_yen": 7480711,
+        "lower_10_yen": 989906
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3252316,
+        "upper_90_yen": 9940303,
+        "lower_10_yen": 1150811
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本郵船(9101)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本郵船(9101)を1株(7,334円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,334円から購入可能",
+      "年率ボラティリティは34.42%",
+      "月1万円の配当には500株が必要"
+    ],
+    "accumulation_strategy_analysis": "日本郵船は1株（約7,334円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は3,252,316円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は240.0円（利回り3.27%）です。月次95%VaRは-11.3%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "日本郵船はいくらから買えますか？",
+        "answer": "1株あたり約7,334円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約3,667,000円必要です。"
+      }
+    ]
+  }
+}

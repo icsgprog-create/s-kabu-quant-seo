@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "4502",
+    "name": "武田薬品工業",
+    "sector": "医薬品",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 6407.0,
+    "min_s_kabu_yen": 6407,
+    "unit_lot_yen": 640700,
+    "dps_yen": 204.0,
+    "dividend_yield_pct": 3.18,
+    "raw_annual_return_pct": 18.48,
+    "capped_annual_return_pct": 18.48,
+    "geometric_growth_pct": 16.69,
+    "annual_volatility_pct": 18.97,
+    "max_drawdown_pct": -19.39,
+    "monthly_var_95_pct": -5.93,
+    "sharpe_ratio": 0.99,
+    "quant_score": 81.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 59,
+        "nisa_required_capital_yen": 378013,
+        "specific_required_shares": 74,
+        "specific_required_capital_yen": 474118
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 295,
+        "nisa_required_capital_yen": 1890065,
+        "specific_required_shares": 370,
+        "specific_required_capital_yen": 2370590
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 589,
+        "nisa_required_capital_yen": 3773723,
+        "specific_required_shares": 739,
+        "specific_required_capital_yen": 4734773
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1765,
+        "nisa_required_capital_yen": 11308355,
+        "specific_required_shares": 2215,
+        "specific_required_capital_yen": 14191505
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2942,
+        "nisa_required_capital_yen": 18849394,
+        "specific_required_shares": 3692,
+        "specific_required_capital_yen": 23654644
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133854,
+        "upper_90_yen": 159504,
+        "lower_10_yen": 112634
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 297132,
+        "upper_90_yen": 380451,
+        "lower_10_yen": 233390
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 496299,
+        "upper_90_yen": 674141,
+        "lower_10_yen": 368523
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 739247,
+        "upper_90_yen": 1058327,
+        "lower_10_yen": 522208
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1035597,
+        "upper_90_yen": 1556202,
+        "lower_10_yen": 698652
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1397089,
+        "upper_90_yen": 2197307,
+        "lower_10_yen": 902527
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1838042,
+        "upper_90_yen": 3018973,
+        "lower_10_yen": 1139211
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2375921,
+        "upper_90_yen": 4068213,
+        "lower_10_yen": 1414993
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3032034,
+        "upper_90_yen": 5404117,
+        "lower_10_yen": 1737280
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3832368,
+        "upper_90_yen": 7100858,
+        "lower_10_yen": 2114838
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "武田薬品工業(4502)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "武田薬品工業(4502)を1株(6,407円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,407円から購入可能",
+      "年率ボラティリティは18.97%",
+      "月1万円の配当には589株が必要"
+    ],
+    "accumulation_strategy_analysis": "武田薬品工業は1株（約6,407円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は3,832,368円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は204.0円（利回り3.18%）です。月次95%VaRは-5.93%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "武田薬品工業はいくらから買えますか？",
+        "answer": "1株あたり約6,407円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約3,773,723円必要です。"
+      }
+    ]
+  }
+}

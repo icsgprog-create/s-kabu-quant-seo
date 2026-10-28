@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "2914",
+    "name": "日本たばこ産業",
+    "sector": "食料品",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 7504.0,
+    "min_s_kabu_yen": 7504,
+    "unit_lot_yen": 750400,
+    "dps_yen": 272.0,
+    "dividend_yield_pct": 3.62,
+    "raw_annual_return_pct": 29.83,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.87,
+    "annual_volatility_pct": 20.65,
+    "max_drawdown_pct": -23.09,
+    "monthly_var_95_pct": -4.92,
+    "sharpe_ratio": 0.99,
+    "quant_score": 83.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 45,
+        "nisa_required_capital_yen": 337680,
+        "specific_required_shares": 56,
+        "specific_required_capital_yen": 420224
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 221,
+        "nisa_required_capital_yen": 1658384,
+        "specific_required_shares": 277,
+        "specific_required_capital_yen": 2078608
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 442,
+        "nisa_required_capital_yen": 3316768,
+        "specific_required_shares": 554,
+        "specific_required_capital_yen": 4157216
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1324,
+        "nisa_required_capital_yen": 9935296,
+        "specific_required_shares": 1661,
+        "specific_required_capital_yen": 12464144
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2206,
+        "nisa_required_capital_yen": 16553824,
+        "specific_required_shares": 2769,
+        "specific_required_capital_yen": 20778576
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135074,
+        "upper_90_yen": 163544,
+        "lower_10_yen": 111918
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 302535,
+        "upper_90_yen": 396359,
+        "lower_10_yen": 232484
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 510148,
+        "upper_90_yen": 713280,
+        "lower_10_yen": 368569
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 767541,
+        "upper_90_yen": 1137250,
+        "lower_10_yen": 524896
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1086650,
+        "upper_90_yen": 1698672,
+        "lower_10_yen": 706334
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1482272,
+        "upper_90_yen": 2436964,
+        "lower_10_yen": 918388
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1972754,
+        "upper_90_yen": 3402894,
+        "lower_10_yen": 1167500
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2580840,
+        "upper_90_yen": 4661635,
+        "lower_10_yen": 1461317
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3334727,
+        "upper_90_yen": 6296696,
+        "lower_10_yen": 1808975
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4269376,
+        "upper_90_yen": 8414953,
+        "lower_10_yen": 2221438
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本たばこ産業(2914)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本たばこ産業(2914)を1株(7,504円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,504円から購入可能",
+      "年率ボラティリティは20.65%",
+      "月1万円の配当には442株が必要"
+    ],
+    "accumulation_strategy_analysis": "日本たばこ産業は1株（約7,504円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は4,269,376円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は272.0円（利回り3.62%）です。月次95%VaRは-4.92%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "日本たばこ産業はいくらから買えますか？",
+        "answer": "1株あたり約7,504円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約3,316,768円必要です。"
+      }
+    ]
+  }
+}

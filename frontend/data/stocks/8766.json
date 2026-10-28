@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "8766",
+    "name": "東京海上ホールディングス",
+    "sector": "保険業",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 578.6,
+    "min_s_kabu_yen": 579,
+    "unit_lot_yen": 57860,
+    "dps_yen": 130.0,
+    "dividend_yield_pct": 22.47,
+    "raw_annual_return_pct": 37.7,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.69,
+    "annual_volatility_pct": 35.52,
+    "max_drawdown_pct": -38.66,
+    "monthly_var_95_pct": -9.23,
+    "sharpe_ratio": 0.99,
+    "quant_score": 79.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 93,
+        "nisa_required_capital_yen": 53810,
+        "specific_required_shares": 116,
+        "specific_required_capital_yen": 67118
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 267313,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 335588
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 534626,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 670597
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2770,
+        "nisa_required_capital_yen": 1602722,
+        "specific_required_shares": 3476,
+        "specific_required_capital_yen": 2011214
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 2670817,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 3351830
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 146754,
+        "upper_90_yen": 205133,
+        "lower_10_yen": 105972
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 357435,
+        "upper_90_yen": 577534,
+        "lower_10_yen": 225495
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 659890,
+        "upper_90_yen": 1204965,
+        "lower_10_yen": 371540
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 1094098,
+        "upper_90_yen": 2231300,
+        "lower_10_yen": 555459
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1717449,
+        "upper_90_yen": 3881154,
+        "lower_10_yen": 791196
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 2612338,
+        "upper_90_yen": 6502039,
+        "lower_10_yen": 1096987
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 3897049,
+        "upper_90_yen": 10629140,
+        "lower_10_yen": 1497160
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 5741389,
+        "upper_90_yen": 17083934,
+        "lower_10_yen": 2024444
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 8389140,
+        "upper_90_yen": 27123897,
+        "lower_10_yen": 2723060
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 12190273,
+        "upper_90_yen": 42669319,
+        "lower_10_yen": 3652920
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東京海上ホールディングス(8766)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東京海上ホールディングス(8766)を1株(579円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小579円から購入可能",
+      "年率ボラティリティは35.52%",
+      "月1万円の配当には924株が必要"
+    ],
+    "accumulation_strategy_analysis": "東京海上ホールディングスは1株（約579円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は12,190,273円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は130.0円（利回り22.47%）です。月次95%VaRは-9.23%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "東京海上ホールディングスはいくらから買えますか？",
+        "answer": "1株あたり約579円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約534,626円必要です。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "285A",
+    "name": "キオクシアホールディングス",
+    "sector": "電気機器",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 12605.0,
+    "min_s_kabu_yen": 12605,
+    "unit_lot_yen": 1260500,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 172.54,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": -29.7,
+    "annual_volatility_pct": 99.7,
+    "max_drawdown_pct": -65.36,
+    "monthly_var_95_pct": -41.82,
+    "sharpe_ratio": -0.31,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 102543,
+        "upper_90_yen": 255509,
+        "lower_10_yen": 44446
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 178740,
+        "upper_90_yen": 624604,
+        "lower_10_yen": 60531
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 235360,
+        "upper_90_yen": 1055900,
+        "lower_10_yen": 68064
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 277433,
+        "upper_90_yen": 1519161,
+        "lower_10_yen": 71921
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 308696,
+        "upper_90_yen": 1992706,
+        "lower_10_yen": 74001
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 331926,
+        "upper_90_yen": 2460733,
+        "lower_10_yen": 75161
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 349189,
+        "upper_90_yen": 2911961,
+        "lower_10_yen": 75824
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 362016,
+        "upper_90_yen": 3338683,
+        "lower_10_yen": 76212
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 371547,
+        "upper_90_yen": 3736005,
+        "lower_10_yen": 76441
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 378629,
+        "upper_90_yen": 4101217,
+        "lower_10_yen": 76579
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "キオクシアホールディングス(285A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "キオクシアホールディングス(285A)を1株(12,605円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小12,605円から購入可能",
+      "年率ボラティリティは99.7%",
+      "月1万円の配当には0株が必要"
+    ],
+    "accumulation_strategy_analysis": "キオクシアホールディングスは1株（約12,605円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は378,629円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は0.0円（利回り0.0%）です。月次95%VaRは-41.82%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "キオクシアホールディングスはいくらから買えますか？",
+        "answer": "1株あたり約12,605円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約0円必要です。"
+      }
+    ]
+  }
+}

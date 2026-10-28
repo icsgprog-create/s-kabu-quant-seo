@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "8591",
+    "name": "オリックス",
+    "sector": "その他金融業",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 5806.0,
+    "min_s_kabu_yen": 5806,
+    "unit_lot_yen": 580600,
+    "dps_yen": 169.61,
+    "dividend_yield_pct": 2.92,
+    "raw_annual_return_pct": 22.84,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.94,
+    "annual_volatility_pct": 28.5,
+    "max_drawdown_pct": -28.41,
+    "monthly_var_95_pct": -8.81,
+    "sharpe_ratio": 0.63,
+    "quant_score": 60.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 71,
+        "nisa_required_capital_yen": 412226,
+        "specific_required_shares": 89,
+        "specific_required_capital_yen": 516734
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 354,
+        "nisa_required_capital_yen": 2055324,
+        "specific_required_shares": 444,
+        "specific_required_capital_yen": 2577864
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 708,
+        "nisa_required_capital_yen": 4110648,
+        "specific_required_shares": 888,
+        "specific_required_capital_yen": 5155728
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2123,
+        "nisa_required_capital_yen": 12326138,
+        "specific_required_shares": 2664,
+        "specific_required_capital_yen": 15467184
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3538,
+        "nisa_required_capital_yen": 20541628,
+        "specific_required_shares": 4440,
+        "specific_required_capital_yen": 25778640
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133104,
+        "upper_90_yen": 173350,
+        "lower_10_yen": 102828
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 293836,
+        "upper_90_yen": 426600,
+        "lower_10_yen": 205026
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 487931,
+        "upper_90_yen": 774515,
+        "lower_10_yen": 313426
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 722315,
+        "upper_90_yen": 1241158,
+        "lower_10_yen": 431243
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1005350,
+        "upper_90_yen": 1858296,
+        "lower_10_yen": 561129
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1347136,
+        "upper_90_yen": 2666686,
+        "lower_10_yen": 705707
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1759866,
+        "upper_90_yen": 3718148,
+        "lower_10_yen": 867784
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2258267,
+        "upper_90_yen": 5078285,
+        "lower_10_yen": 1050482
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2860122,
+        "upper_90_yen": 6829947,
+        "lower_10_yen": 1257340
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3586904,
+        "upper_90_yen": 9077582,
+        "lower_10_yen": 1492416
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オリックス(8591)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オリックス(8591)を1株(5,806円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,806円から購入可能",
+      "年率ボラティリティは28.5%",
+      "月1万円の配当には708株が必要"
+    ],
+    "accumulation_strategy_analysis": "オリックスは1株（約5,806円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は3,586,904円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は169.61円（利回り2.92%）です。月次95%VaRは-8.81%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "オリックスはいくらから買えますか？",
+        "answer": "1株あたり約5,806円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約4,110,648円必要です。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "8306",
+    "name": "三菱UFJフィナンシャル・グループ",
+    "sector": "銀行業",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 3370.0,
+    "min_s_kabu_yen": 3370,
+    "unit_lot_yen": 337000,
+    "dps_yen": 96.0,
+    "dividend_yield_pct": 2.85,
+    "raw_annual_return_pct": 37.25,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.15,
+    "annual_volatility_pct": 31.13,
+    "max_drawdown_pct": -31.85,
+    "monthly_var_95_pct": -9.96,
+    "sharpe_ratio": 0.55,
+    "quant_score": 55.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 125,
+        "nisa_required_capital_yen": 421250,
+        "specific_required_shares": 157,
+        "specific_required_capital_yen": 529090
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 625,
+        "nisa_required_capital_yen": 2106250,
+        "specific_required_shares": 785,
+        "specific_required_capital_yen": 2645450
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1250,
+        "nisa_required_capital_yen": 4212500,
+        "specific_required_shares": 1569,
+        "specific_required_capital_yen": 5287530
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 12637500,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 15862590
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6250,
+        "nisa_required_capital_yen": 21062500,
+        "specific_required_shares": 7844,
+        "specific_required_capital_yen": 26434280
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132469,
+        "upper_90_yen": 176803,
+        "lower_10_yen": 99979
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291070,
+        "upper_90_yen": 437408,
+        "lower_10_yen": 196711
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 480956,
+        "upper_90_yen": 796621,
+        "lower_10_yen": 297218
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 708300,
+        "upper_90_yen": 1278959,
+        "lower_10_yen": 404473
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 980490,
+        "upper_90_yen": 1916741,
+        "lower_10_yen": 520721
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1306372,
+        "upper_90_yen": 2751289,
+        "lower_10_yen": 648050
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1696537,
+        "upper_90_yen": 3834917,
+        "lower_10_yen": 788602
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2163668,
+        "upper_90_yen": 5233558,
+        "lower_10_yen": 944686
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2722945,
+        "upper_90_yen": 7030082,
+        "lower_10_yen": 1118862
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3392546,
+        "upper_90_yen": 9328454,
+        "lower_10_yen": 1314009
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三菱UFJフィナンシャル・グループ(8306)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三菱UFJフィナンシャル・グループ(8306)を1株(3,370円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,370円から購入可能",
+      "年率ボラティリティは31.13%",
+      "月1万円の配当には1,250株が必要"
+    ],
+    "accumulation_strategy_analysis": "三菱UFJフィナンシャル・グループは1株（約3,370円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は3,392,546円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は96.0円（利回り2.85%）です。月次95%VaRは-9.96%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "三菱UFJフィナンシャル・グループはいくらから買えますか？",
+        "answer": "1株あたり約3,370円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約4,212,500円必要です。"
+      }
+    ]
+  }
+}

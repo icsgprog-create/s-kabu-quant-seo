@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "code": "6758",
+    "name": "ソニーグループ",
+    "sector": "電気機器",
+    "updated_at": "2026-10-28",
+    "current_price_yen": 4070.0,
+    "min_s_kabu_yen": 4070,
+    "unit_lot_yen": 407000,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 0.86,
+    "raw_annual_return_pct": 9.86,
+    "capped_annual_return_pct": 9.86,
+    "geometric_growth_pct": 4.46,
+    "annual_volatility_pct": 32.86,
+    "max_drawdown_pct": -39.78,
+    "monthly_var_95_pct": -12.6,
+    "sharpe_ratio": 0.13,
+    "quant_score": 27.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 1396010,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 1754170
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 6980050,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 8758640
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 13956030,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 17513210
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 41864020,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 52535560
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 69772010,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 87561980
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123522,
+        "upper_90_yen": 167028,
+        "lower_10_yen": 92102
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253791,
+        "upper_90_yen": 386699,
+        "lower_10_yen": 169542
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 391177,
+        "upper_90_yen": 655617,
+        "lower_10_yen": 239832
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 536068,
+        "upper_90_yen": 975792,
+        "lower_10_yen": 305468
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 688874,
+        "upper_90_yen": 1350831,
+        "lower_10_yen": 367778
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 850027,
+        "upper_90_yen": 1785294,
+        "lower_10_yen": 427593
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1019983,
+        "upper_90_yen": 2284505,
+        "lower_10_yen": 485487
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1199224,
+        "upper_90_yen": 2854486,
+        "lower_10_yen": 541880
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1388256,
+        "upper_90_yen": 3501953,
+        "lower_10_yen": 597093
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1587615,
+        "upper_90_yen": 4234329,
+        "lower_10_yen": 651381
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ソニーグループ(6758)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ソニーグループ(6758)を1株(4,070円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,070円から購入可能",
+      "年率ボラティリティは32.86%",
+      "月1万円の配当には3,429株が必要"
+    ],
+    "accumulation_strategy_analysis": "ソニーグループは1株（約4,070円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は1,587,615円です。",
+    "dividend_and_risk_commentary": "年間予想配当金は35.0円（利回り0.86%）です。月次95%VaRは-12.6%であり、時間分散が有効です。",
+    "faqs": [
+      {
+        "question": "ソニーグループはいくらから買えますか？",
+        "answer": "1株あたり約4,070円から購入可能です。"
+      },
+      {
+        "question": "配当で月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISAで約13,956,030円必要です。"
+      }
+    ]
+  }
+}

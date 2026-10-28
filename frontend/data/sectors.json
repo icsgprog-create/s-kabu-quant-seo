@@ -1,0 +1,311 @@
+{
+  "輸送用機器": {
+    "sector_name": "輸送用機器",
+    "stock_count": 1,
+    "avg_dividend_yield_pct": 3.22,
+    "avg_volatility_pct": 31.04,
+    "stocks": [
+      {
+        "code": "7203",
+        "name": "トヨタ自動車",
+        "sector": "輸送用機器",
+        "current_price_yen": 3102.0,
+        "min_s_kabu_yen": 3102,
+        "dividend_yield_pct": 3.22,
+        "annual_volatility_pct": 31.04,
+        "geometric_growth_pct": 6.95,
+        "sharpe_ratio": 0.3,
+        "quant_score": 52.1,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "銀行業": {
+    "sector_name": "銀行業",
+    "stock_count": 2,
+    "avg_dividend_yield_pct": 2.83,
+    "avg_volatility_pct": 30.55,
+    "stocks": [
+      {
+        "code": "8306",
+        "name": "三菱UFJフィナンシャル・グループ",
+        "sector": "銀行業",
+        "current_price_yen": 3370.0,
+        "min_s_kabu_yen": 3370,
+        "dividend_yield_pct": 2.85,
+        "annual_volatility_pct": 31.13,
+        "geometric_growth_pct": 15.15,
+        "sharpe_ratio": 0.55,
+        "quant_score": 55.3,
+        "updated_at": "2026-10-28"
+      },
+      {
+        "code": "8316",
+        "name": "三井住友フィナンシャルグループ",
+        "sector": "銀行業",
+        "current_price_yen": 3187.0,
+        "min_s_kabu_yen": 3187,
+        "dividend_yield_pct": 2.82,
+        "annual_volatility_pct": 29.97,
+        "geometric_growth_pct": 15.51,
+        "sharpe_ratio": 0.58,
+        "quant_score": 57.1,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "情報・通信業": {
+    "sector_name": "情報・通信業",
+    "stock_count": 3,
+    "avg_dividend_yield_pct": 2.36,
+    "avg_volatility_pct": 30.35,
+    "stocks": [
+      {
+        "code": "9432",
+        "name": "日本電信電話",
+        "sector": "情報・通信業",
+        "current_price_yen": 174.0,
+        "min_s_kabu_yen": 174,
+        "dividend_yield_pct": 3.1,
+        "annual_volatility_pct": 16.47,
+        "geometric_growth_pct": 7.97,
+        "sharpe_ratio": 0.61,
+        "quant_score": 73.7,
+        "updated_at": "2026-10-28"
+      },
+      {
+        "code": "9433",
+        "name": "KDDI",
+        "sector": "情報・通信業",
+        "current_price_yen": 2850.5,
+        "min_s_kabu_yen": 2851,
+        "dividend_yield_pct": 2.95,
+        "annual_volatility_pct": 19.55,
+        "geometric_growth_pct": 10.46,
+        "sharpe_ratio": 0.63,
+        "quant_score": 69.9,
+        "updated_at": "2026-10-28"
+      },
+      {
+        "code": "3687",
+        "name": "フィックスターズ",
+        "sector": "情報・通信業",
+        "current_price_yen": 1848.0,
+        "min_s_kabu_yen": 1848,
+        "dividend_yield_pct": 1.03,
+        "annual_volatility_pct": 55.02,
+        "geometric_growth_pct": 3.39,
+        "sharpe_ratio": 0.06,
+        "quant_score": 14.8,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "卸売業": {
+    "sector_name": "卸売業",
+    "stock_count": 2,
+    "avg_dividend_yield_pct": 2.21,
+    "avg_volatility_pct": 28.34,
+    "stocks": [
+      {
+        "code": "8058",
+        "name": "三菱商事",
+        "sector": "卸売業",
+        "current_price_yen": 4936.0,
+        "min_s_kabu_yen": 4936,
+        "dividend_yield_pct": 2.55,
+        "annual_volatility_pct": 29.67,
+        "geometric_growth_pct": 15.6,
+        "sharpe_ratio": 0.58,
+        "quant_score": 55.2,
+        "updated_at": "2026-10-28"
+      },
+      {
+        "code": "8001",
+        "name": "伊藤忠商事",
+        "sector": "卸売業",
+        "current_price_yen": 2366.0,
+        "min_s_kabu_yen": 2366,
+        "dividend_yield_pct": 1.86,
+        "annual_volatility_pct": 27.01,
+        "geometric_growth_pct": 16.35,
+        "sharpe_ratio": 0.64,
+        "quant_score": 53.8,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "食料品": {
+    "sector_name": "食料品",
+    "stock_count": 1,
+    "avg_dividend_yield_pct": 3.62,
+    "avg_volatility_pct": 20.65,
+    "stocks": [
+      {
+        "code": "2914",
+        "name": "日本たばこ産業",
+        "sector": "食料品",
+        "current_price_yen": 7504.0,
+        "min_s_kabu_yen": 7504,
+        "dividend_yield_pct": 3.62,
+        "annual_volatility_pct": 20.65,
+        "geometric_growth_pct": 17.87,
+        "sharpe_ratio": 0.99,
+        "quant_score": 83.2,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "医薬品": {
+    "sector_name": "医薬品",
+    "stock_count": 1,
+    "avg_dividend_yield_pct": 3.18,
+    "avg_volatility_pct": 18.97,
+    "stocks": [
+      {
+        "code": "4502",
+        "name": "武田薬品工業",
+        "sector": "医薬品",
+        "current_price_yen": 6407.0,
+        "min_s_kabu_yen": 6407,
+        "dividend_yield_pct": 3.18,
+        "annual_volatility_pct": 18.97,
+        "geometric_growth_pct": 16.69,
+        "sharpe_ratio": 0.99,
+        "quant_score": 81.4,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "電気機器": {
+    "sector_name": "電気機器",
+    "stock_count": 3,
+    "avg_dividend_yield_pct": 1.37,
+    "avg_volatility_pct": 52.19,
+    "stocks": [
+      {
+        "code": "7751",
+        "name": "キヤノン",
+        "sector": "電気機器",
+        "current_price_yen": 4904.0,
+        "min_s_kabu_yen": 4904,
+        "dividend_yield_pct": 3.26,
+        "annual_volatility_pct": 24.02,
+        "geometric_growth_pct": 13.94,
+        "sharpe_ratio": 0.67,
+        "quant_score": 68.9,
+        "updated_at": "2026-10-28"
+      },
+      {
+        "code": "6758",
+        "name": "ソニーグループ",
+        "sector": "電気機器",
+        "current_price_yen": 4070.0,
+        "min_s_kabu_yen": 4070,
+        "dividend_yield_pct": 0.86,
+        "annual_volatility_pct": 32.86,
+        "geometric_growth_pct": 4.46,
+        "sharpe_ratio": 0.13,
+        "quant_score": 27.3,
+        "updated_at": "2026-10-28"
+      },
+      {
+        "code": "285A",
+        "name": "キオクシアホールディングス",
+        "sector": "電気機器",
+        "current_price_yen": 12605.0,
+        "min_s_kabu_yen": 12605,
+        "dividend_yield_pct": 0.0,
+        "annual_volatility_pct": 99.7,
+        "geometric_growth_pct": -29.7,
+        "sharpe_ratio": -0.31,
+        "quant_score": 0.0,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "保険業": {
+    "sector_name": "保険業",
+    "stock_count": 1,
+    "avg_dividend_yield_pct": 22.47,
+    "avg_volatility_pct": 35.52,
+    "stocks": [
+      {
+        "code": "8766",
+        "name": "東京海上ホールディングス",
+        "sector": "保険業",
+        "current_price_yen": 578.6,
+        "min_s_kabu_yen": 579,
+        "dividend_yield_pct": 22.47,
+        "annual_volatility_pct": 35.52,
+        "geometric_growth_pct": 13.69,
+        "sharpe_ratio": 0.99,
+        "quant_score": 79.2,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "建設業": {
+    "sector_name": "建設業",
+    "stock_count": 1,
+    "avg_dividend_yield_pct": 4.0,
+    "avg_volatility_pct": 20.37,
+    "stocks": [
+      {
+        "code": "1925",
+        "name": "大和ハウス工業",
+        "sector": "建設業",
+        "current_price_yen": 2299.5,
+        "min_s_kabu_yen": 2300,
+        "dividend_yield_pct": 4.0,
+        "annual_volatility_pct": 20.37,
+        "geometric_growth_pct": 5.87,
+        "sharpe_ratio": 0.44,
+        "quant_score": 72.5,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "その他金融業": {
+    "sector_name": "その他金融業",
+    "stock_count": 1,
+    "avg_dividend_yield_pct": 2.92,
+    "avg_volatility_pct": 28.5,
+    "stocks": [
+      {
+        "code": "8591",
+        "name": "オリックス",
+        "sector": "その他金融業",
+        "current_price_yen": 5806.0,
+        "min_s_kabu_yen": 5806,
+        "dividend_yield_pct": 2.92,
+        "annual_volatility_pct": 28.5,
+        "geometric_growth_pct": 15.94,
+        "sharpe_ratio": 0.63,
+        "quant_score": 60.5,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  },
+  "海運業": {
+    "sector_name": "海運業",
+    "stock_count": 1,
+    "avg_dividend_yield_pct": 3.27,
+    "avg_volatility_pct": 34.42,
+    "stocks": [
+      {
+        "code": "9101",
+        "name": "日本郵船",
+        "sector": "海運業",
+        "current_price_yen": 7334.0,
+        "min_s_kabu_yen": 7334,
+        "dividend_yield_pct": 3.27,
+        "annual_volatility_pct": 34.42,
+        "geometric_growth_pct": 14.08,
+        "sharpe_ratio": 0.47,
+        "quant_score": 53.6,
+        "updated_at": "2026-10-28"
+      }
+    ]
+  }
+}
