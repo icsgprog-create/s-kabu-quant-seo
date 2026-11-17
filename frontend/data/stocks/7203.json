@@ -3,149 +3,152 @@
     "code": "7203",
     "name": "トヨタ自動車",
     "sector": "輸送用機器",
-    "updated_at": "2026-10-28",
-    "current_price_yen": 3102.0,
-    "min_s_kabu_yen": 3102,
-    "unit_lot_yen": 310200,
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3414.0,
+    "min_s_kabu_yen": 3414,
+    "unit_lot_yen": 341400,
     "dps_yen": 100.0,
-    "dividend_yield_pct": 3.22,
-    "raw_annual_return_pct": 11.77,
-    "capped_annual_return_pct": 11.77,
-    "geometric_growth_pct": 6.95,
-    "annual_volatility_pct": 31.04,
+    "dividend_yield_pct": 2.93,
+    "raw_annual_return_pct": 12.44,
+    "capped_annual_return_pct": 12.44,
+    "geometric_growth_pct": 7.34,
+    "annual_volatility_pct": 31.92,
     "max_drawdown_pct": -41.67,
     "monthly_var_95_pct": -10.97,
-    "sharpe_ratio": 0.3,
-    "quant_score": 52.1,
+    "sharpe_ratio": 0.29,
+    "quant_score": 48.8,
     "dividend_roadmap": [
       {
         "target_monthly_yen": 1000,
         "nisa_required_shares": 120,
-        "nisa_required_capital_yen": 372240,
+        "nisa_required_capital_yen": 409680,
         "specific_required_shares": 151,
-        "specific_required_capital_yen": 468402
+        "specific_required_capital_yen": 515514
       },
       {
         "target_monthly_yen": 5000,
         "nisa_required_shares": 600,
-        "nisa_required_capital_yen": 1861200,
+        "nisa_required_capital_yen": 2048400,
         "specific_required_shares": 753,
-        "specific_required_capital_yen": 2335806
+        "specific_required_capital_yen": 2570742
       },
       {
         "target_monthly_yen": 10000,
         "nisa_required_shares": 1200,
-        "nisa_required_capital_yen": 3722400,
+        "nisa_required_capital_yen": 4096800,
         "specific_required_shares": 1506,
-        "specific_required_capital_yen": 4671612
+        "specific_required_capital_yen": 5141484
       },
       {
         "target_monthly_yen": 30000,
         "nisa_required_shares": 3600,
-        "nisa_required_capital_yen": 11167200,
+        "nisa_required_capital_yen": 12290400,
         "specific_required_shares": 4518,
-        "specific_required_capital_yen": 14014836
+        "specific_required_capital_yen": 15424452
       },
       {
         "target_monthly_yen": 50000,
         "nisa_required_shares": 6000,
-        "nisa_required_capital_yen": 18612000,
+        "nisa_required_capital_yen": 20484000,
         "specific_required_shares": 7530,
-        "specific_required_capital_yen": 23358060
+        "specific_required_capital_yen": 25707420
       }
     ],
     "default_10y_projection": [
       {
         "year": 1,
         "principal_yen": 120000,
-        "median_yen": 126854,
-        "upper_90_yen": 168854,
-        "lower_10_yen": 96000
+        "median_yen": 126923,
+        "upper_90_yen": 170337,
+        "lower_10_yen": 95307
       },
       {
         "year": 2,
         "principal_yen": 240000,
-        "median_yen": 267295,
-        "upper_90_yen": 399061,
-        "lower_10_yen": 181863
+        "median_yen": 267579,
+        "upper_90_yen": 404144,
+        "lower_10_yen": 180118
       },
       {
         "year": 3,
         "principal_yen": 360000,
-        "median_yen": 422779,
-        "upper_90_yen": 692434,
-        "lower_10_yen": 264374
+        "median_yen": 423455,
+        "upper_90_yen": 703582,
+        "lower_10_yen": 261372
       },
       {
         "year": 4,
         "principal_yen": 480000,
-        "median_yen": 594916,
-        "upper_90_yen": 1056631,
-        "lower_10_yen": 345809
+        "median_yen": 596197,
+        "upper_90_yen": 1076878,
+        "lower_10_yen": 341387
       },
       {
         "year": 5,
         "principal_yen": 600000,
-        "median_yen": 785491,
-        "upper_90_yen": 1501849,
-        "lower_10_yen": 427443
+        "median_yen": 787631,
+        "upper_90_yen": 1534948,
+        "lower_10_yen": 421450
       },
       {
         "year": 6,
         "principal_yen": 720000,
-        "median_yen": 996478,
-        "upper_90_yen": 2040455,
-        "lower_10_yen": 510142
+        "median_yen": 999778,
+        "upper_90_yen": 2091038,
+        "lower_10_yen": 502435
       },
       {
         "year": 7,
         "principal_yen": 840000,
-        "median_yen": 1230063,
-        "upper_90_yen": 2687036,
-        "lower_10_yen": 594570
+        "median_yen": 1234881,
+        "upper_90_yen": 2760793,
+        "lower_10_yen": 585006
       },
       {
         "year": 8,
         "principal_yen": 960000,
-        "median_yen": 1488668,
-        "upper_90_yen": 3458603,
-        "lower_10_yen": 681283
+        "median_yen": 1495422,
+        "upper_90_yen": 3562499,
+        "lower_10_yen": 669716
       },
       {
         "year": 9,
         "principal_yen": 1080000,
-        "median_yen": 1774972,
-        "upper_90_yen": 4374886,
-        "lower_10_yen": 770777
+        "median_yen": 1784155,
+        "upper_90_yen": 4517401,
+        "lower_10_yen": 757056
       },
       {
         "year": 10,
         "principal_yen": 1200000,
-        "median_yen": 2091941,
-        "upper_90_yen": 5458684,
-        "lower_10_yen": 863510
+        "median_yen": 2104130,
+        "upper_90_yen": 5650107,
+        "lower_10_yen": 847477
       }
     ]
   },
   "seo": {
     "seo_title": "トヨタ自動車(7203)の単元未満株・NISA積立と配当金シミュレーション",
-    "meta_description": "トヨタ自動車(7203)を1株(3,102円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "meta_description": "トヨタ自動車(7203)を1株(3,414円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
     "summary_points": [
-      "最小3,102円から購入可能",
-      "年率ボラティリティは31.04%",
-      "月1万円の配当には1,200株が必要"
+      "最小3,414円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.92%、幾何成長率は7.34%",
+      "新NISAで月1万円の配当金を得るには1,200株（約4,096,800円）が必要"
     ],
-    "accumulation_strategy_analysis": "トヨタ自動車は1株（約3,102円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は2,091,941円です。",
-    "dividend_and_risk_commentary": "年間予想配当金は100.0円（利回り3.22%）です。月次95%VaRは-10.97%であり、時間分散が有効です。",
+    "accumulation_strategy_analysis": "トヨタ自動車は単元未満株（S株・かぶミニ等）を利用することで1株（約3,414円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,104,130円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り2.93%）です。月次95%VaR（最大想定損失率）は-10.97%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
     "faqs": [
       {
-        "question": "トヨタ自動車はいくらから買えますか？",
-        "answer": "1株あたり約3,102円から購入可能です。"
+        "question": "トヨタ自動車は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,414円から購入可能です。"
       },
       {
-        "question": "配当で月1万円を得るにはいくら必要ですか？",
-        "answer": "新NISAで約3,722,400円必要です。"
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約4,096,800円）が必要です。"
       }
-    ]
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3414.0
   }
 }

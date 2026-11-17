@@ -3,149 +3,152 @@
     "code": "2914",
     "name": "日本たばこ産業",
     "sector": "食料品",
-    "updated_at": "2026-10-28",
-    "current_price_yen": 7504.0,
-    "min_s_kabu_yen": 7504,
-    "unit_lot_yen": 750400,
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5950.0,
+    "min_s_kabu_yen": 5950,
+    "unit_lot_yen": 595000,
     "dps_yen": 272.0,
-    "dividend_yield_pct": 3.62,
-    "raw_annual_return_pct": 29.83,
+    "dividend_yield_pct": 4.57,
+    "raw_annual_return_pct": 24.42,
     "capped_annual_return_pct": 20.0,
-    "geometric_growth_pct": 17.87,
-    "annual_volatility_pct": 20.65,
-    "max_drawdown_pct": -23.09,
-    "monthly_var_95_pct": -4.92,
-    "sharpe_ratio": 0.99,
-    "quant_score": 83.2,
+    "geometric_growth_pct": 17.03,
+    "annual_volatility_pct": 24.37,
+    "max_drawdown_pct": -32.18,
+    "monthly_var_95_pct": -5.34,
+    "sharpe_ratio": 0.85,
+    "quant_score": 83.3,
     "dividend_roadmap": [
       {
         "target_monthly_yen": 1000,
         "nisa_required_shares": 45,
-        "nisa_required_capital_yen": 337680,
+        "nisa_required_capital_yen": 267750,
         "specific_required_shares": 56,
-        "specific_required_capital_yen": 420224
+        "specific_required_capital_yen": 333200
       },
       {
         "target_monthly_yen": 5000,
         "nisa_required_shares": 221,
-        "nisa_required_capital_yen": 1658384,
+        "nisa_required_capital_yen": 1314950,
         "specific_required_shares": 277,
-        "specific_required_capital_yen": 2078608
+        "specific_required_capital_yen": 1648150
       },
       {
         "target_monthly_yen": 10000,
         "nisa_required_shares": 442,
-        "nisa_required_capital_yen": 3316768,
+        "nisa_required_capital_yen": 2629900,
         "specific_required_shares": 554,
-        "specific_required_capital_yen": 4157216
+        "specific_required_capital_yen": 3296300
       },
       {
         "target_monthly_yen": 30000,
         "nisa_required_shares": 1324,
-        "nisa_required_capital_yen": 9935296,
+        "nisa_required_capital_yen": 7877800,
         "specific_required_shares": 1661,
-        "specific_required_capital_yen": 12464144
+        "specific_required_capital_yen": 9882950
       },
       {
         "target_monthly_yen": 50000,
         "nisa_required_shares": 2206,
-        "nisa_required_capital_yen": 16553824,
+        "nisa_required_capital_yen": 13125700,
         "specific_required_shares": 2769,
-        "specific_required_capital_yen": 20778576
+        "specific_required_capital_yen": 16475550
       }
     ],
     "default_10y_projection": [
       {
         "year": 1,
         "principal_yen": 120000,
-        "median_yen": 135074,
-        "upper_90_yen": 163544,
-        "lower_10_yen": 111918
+        "median_yen": 135156,
+        "upper_90_yen": 169443,
+        "lower_10_yen": 108289
       },
       {
         "year": 2,
         "principal_yen": 240000,
-        "median_yen": 302535,
-        "upper_90_yen": 396359,
-        "lower_10_yen": 232484
+        "median_yen": 302902,
+        "upper_90_yen": 416951,
+        "lower_10_yen": 222127
       },
       {
         "year": 3,
         "principal_yen": 360000,
-        "median_yen": 510148,
-        "upper_90_yen": 713280,
-        "lower_10_yen": 368569
+        "median_yen": 511095,
+        "upper_90_yen": 759954,
+        "lower_10_yen": 348595
       },
       {
         "year": 4,
         "principal_yen": 480000,
-        "median_yen": 767541,
-        "upper_90_yen": 1137250,
-        "lower_10_yen": 524896
+        "median_yen": 769488,
+        "upper_90_yen": 1225653,
+        "lower_10_yen": 492046
       },
       {
         "year": 5,
         "principal_yen": 600000,
-        "median_yen": 1086650,
-        "upper_90_yen": 1698672,
-        "lower_10_yen": 706334
+        "median_yen": 1090186,
+        "upper_90_yen": 1850370,
+        "lower_10_yen": 656749
       },
       {
         "year": 6,
         "principal_yen": 720000,
-        "median_yen": 1482272,
-        "upper_90_yen": 2436964,
-        "lower_10_yen": 918388
+        "median_yen": 1488212,
+        "upper_90_yen": 2681573,
+        "lower_10_yen": 847415
       },
       {
         "year": 7,
         "principal_yen": 840000,
-        "median_yen": 1972754,
-        "upper_90_yen": 3402894,
-        "lower_10_yen": 1167500
+        "median_yen": 1982212,
+        "upper_90_yen": 3780853,
+        "lower_10_yen": 1069479
       },
       {
         "year": 8,
         "principal_yen": 960000,
-        "median_yen": 2580840,
-        "upper_90_yen": 4661635,
-        "lower_10_yen": 1461317
+        "median_yen": 2595326,
+        "upper_90_yen": 5227864,
+        "lower_10_yen": 1329332
       },
       {
         "year": 9,
         "principal_yen": 1080000,
-        "median_yen": 3334727,
-        "upper_90_yen": 6296696,
-        "lower_10_yen": 1808975
+        "median_yen": 3356277,
+        "upper_90_yen": 7125412,
+        "lower_10_yen": 1634559
       },
       {
         "year": 10,
         "principal_yen": 1200000,
-        "median_yen": 4269376,
-        "upper_90_yen": 8414953,
-        "lower_10_yen": 2221438
+        "median_yen": 4300711,
+        "upper_90_yen": 9605986,
+        "lower_10_yen": 1994211
       }
     ]
   },
   "seo": {
     "seo_title": "日本たばこ産業(2914)の単元未満株・NISA積立と配当金シミュレーション",
-    "meta_description": "日本たばこ産業(2914)を1株(7,504円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "meta_description": "日本たばこ産業(2914)を1株(5,950円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
     "summary_points": [
-      "最小7,504円から購入可能",
-      "年率ボラティリティは20.65%",
-      "月1万円の配当には442株が必要"
+      "最小5,950円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.37%、幾何成長率は17.03%",
+      "新NISAで月1万円の配当金を得るには442株（約2,629,900円）が必要"
     ],
-    "accumulation_strategy_analysis": "日本たばこ産業は1株（約7,504円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は4,269,376円です。",
-    "dividend_and_risk_commentary": "年間予想配当金は272.0円（利回り3.62%）です。月次95%VaRは-4.92%であり、時間分散が有効です。",
+    "accumulation_strategy_analysis": "日本たばこ産業は単元未満株（S株・かぶミニ等）を利用することで1株（約5,950円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,300,711円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり272.0円（利回り4.57%）です。月次95%VaR（最大想定損失率）は-5.34%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
     "faqs": [
       {
-        "question": "日本たばこ産業はいくらから買えますか？",
-        "answer": "1株あたり約7,504円から購入可能です。"
+        "question": "日本たばこ産業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,950円から購入可能です。"
       },
       {
-        "question": "配当で月1万円を得るにはいくら必要ですか？",
-        "answer": "新NISAで約3,316,768円必要です。"
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、442株（元本目安：約2,629,900円）が必要です。"
       }
-    ]
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5950.0
   }
 }

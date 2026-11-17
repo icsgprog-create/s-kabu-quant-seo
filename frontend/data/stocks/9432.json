@@ -3,149 +3,152 @@
     "code": "9432",
     "name": "日本電信電話",
     "sector": "情報・通信業",
-    "updated_at": "2026-10-28",
-    "current_price_yen": 174.0,
-    "min_s_kabu_yen": 174,
-    "unit_lot_yen": 17400,
+    "updated_at": "2026-11-17",
+    "current_price_yen": 169.9,
+    "min_s_kabu_yen": 170,
+    "unit_lot_yen": 16990,
     "dps_yen": 5.4,
-    "dividend_yield_pct": 3.1,
-    "raw_annual_return_pct": 9.33,
-    "capped_annual_return_pct": 9.33,
-    "geometric_growth_pct": 7.97,
-    "annual_volatility_pct": 16.47,
+    "dividend_yield_pct": 3.18,
+    "raw_annual_return_pct": 8.62,
+    "capped_annual_return_pct": 8.62,
+    "geometric_growth_pct": 7.2,
+    "annual_volatility_pct": 16.83,
     "max_drawdown_pct": -23.7,
-    "monthly_var_95_pct": -5.6,
-    "sharpe_ratio": 0.61,
-    "quant_score": 73.7,
+    "monthly_var_95_pct": -5.69,
+    "sharpe_ratio": 0.56,
+    "quant_score": 72.5,
     "dividend_roadmap": [
       {
         "target_monthly_yen": 1000,
         "nisa_required_shares": 2223,
-        "nisa_required_capital_yen": 386802,
+        "nisa_required_capital_yen": 377688,
         "specific_required_shares": 2789,
-        "specific_required_capital_yen": 485286
+        "specific_required_capital_yen": 473851
       },
       {
         "target_monthly_yen": 5000,
         "nisa_required_shares": 11112,
-        "nisa_required_capital_yen": 1933488,
+        "nisa_required_capital_yen": 1887929,
         "specific_required_shares": 13944,
-        "specific_required_capital_yen": 2426256
+        "specific_required_capital_yen": 2369086
       },
       {
         "target_monthly_yen": 10000,
         "nisa_required_shares": 22223,
-        "nisa_required_capital_yen": 3866802,
+        "nisa_required_capital_yen": 3775688,
         "specific_required_shares": 27888,
-        "specific_required_capital_yen": 4852512
+        "specific_required_capital_yen": 4738171
       },
       {
         "target_monthly_yen": 30000,
         "nisa_required_shares": 66667,
-        "nisa_required_capital_yen": 11600058,
+        "nisa_required_capital_yen": 11326723,
         "specific_required_shares": 83663,
-        "specific_required_capital_yen": 14557362
+        "specific_required_capital_yen": 14214343
       },
       {
         "target_monthly_yen": 50000,
         "nisa_required_shares": 111112,
-        "nisa_required_capital_yen": 19333488,
+        "nisa_required_capital_yen": 18877928,
         "specific_required_shares": 139438,
-        "specific_required_capital_yen": 24262212
+        "specific_required_capital_yen": 23690515
       }
     ],
     "default_10y_projection": [
       {
         "year": 1,
         "principal_yen": 120000,
-        "median_yen": 127486,
-        "upper_90_yen": 148262,
-        "lower_10_yen": 109847
+        "median_yen": 126998,
+        "upper_90_yen": 148176,
+        "lower_10_yen": 109081
       },
       {
         "year": 2,
         "principal_yen": 240000,
-        "median_yen": 269907,
-        "upper_90_yen": 333345,
-        "lower_10_yen": 219506
+        "median_yen": 267890,
+        "upper_90_yen": 332322,
+        "lower_10_yen": 216947
       },
       {
         "year": 3,
         "principal_yen": 360000,
-        "median_yen": 429012,
-        "upper_90_yen": 556159,
-        "lower_10_yen": 333159
+        "median_yen": 424195,
+        "upper_90_yen": 552834,
+        "lower_10_yen": 327782
       },
       {
         "year": 4,
         "principal_yen": 480000,
-        "median_yen": 606756,
-        "upper_90_yen": 820677,
-        "lower_10_yen": 452627
+        "median_yen": 597599,
+        "upper_90_yen": 813152,
+        "lower_10_yen": 443323
       },
       {
         "year": 5,
         "principal_yen": 600000,
-        "median_yen": 805322,
-        "upper_90_yen": 1132147,
-        "lower_10_yen": 579241
+        "median_yen": 789974,
+        "upper_90_yen": 1117904,
+        "lower_10_yen": 564785
       },
       {
         "year": 6,
         "principal_yen": 720000,
-        "median_yen": 1027151,
-        "upper_90_yen": 1496871,
-        "lower_10_yen": 714182
+        "median_yen": 1003394,
+        "upper_90_yen": 1472653,
+        "lower_10_yen": 693203
       },
       {
         "year": 7,
         "principal_yen": 840000,
-        "median_yen": 1274967,
-        "upper_90_yen": 1922211,
-        "lower_10_yen": 858587
+        "median_yen": 1240162,
+        "upper_90_yen": 1883880,
+        "lower_10_yen": 829545
       },
       {
         "year": 8,
         "principal_yen": 960000,
-        "median_yen": 1551814,
-        "upper_90_yen": 2416667,
-        "lower_10_yen": 1013613
+        "median_yen": 1502832,
+        "upper_90_yen": 2359028,
+        "lower_10_yen": 974772
       },
       {
         "year": 9,
         "principal_yen": 1080000,
-        "median_yen": 1861093,
-        "upper_90_yen": 2989998,
-        "lower_10_yen": 1180470
+        "median_yen": 1794238,
+        "upper_90_yen": 2906598,
+        "lower_10_yen": 1129870
       },
       {
         "year": 10,
         "principal_yen": 1200000,
-        "median_yen": 2206604,
-        "upper_90_yen": 3653377,
-        "lower_10_yen": 1360441
+        "median_yen": 2117523,
+        "upper_90_yen": 3536261,
+        "lower_10_yen": 1295869
       }
     ]
   },
   "seo": {
     "seo_title": "日本電信電話(9432)の単元未満株・NISA積立と配当金シミュレーション",
-    "meta_description": "日本電信電話(9432)を1株(174円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "meta_description": "日本電信電話(9432)を1株(170円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
     "summary_points": [
-      "最小174円から購入可能",
-      "年率ボラティリティは16.47%",
-      "月1万円の配当には22,223株が必要"
+      "最小170円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは16.83%、幾何成長率は7.2%",
+      "新NISAで月1万円の配当金を得るには22,223株（約3,775,688円）が必要"
     ],
-    "accumulation_strategy_analysis": "日本電信電話は1株（約174円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は2,206,604円です。",
-    "dividend_and_risk_commentary": "年間予想配当金は5.4円（利回り3.1%）です。月次95%VaRは-5.6%であり、時間分散が有効です。",
+    "accumulation_strategy_analysis": "日本電信電話は単元未満株（S株・かぶミニ等）を利用することで1株（約170円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,117,523円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.4円（利回り3.18%）です。月次95%VaR（最大想定損失率）は-5.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
     "faqs": [
       {
-        "question": "日本電信電話はいくらから買えますか？",
-        "answer": "1株あたり約174円から購入可能です。"
+        "question": "日本電信電話は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約170円から購入可能です。"
       },
       {
-        "question": "配当で月1万円を得るにはいくら必要ですか？",
-        "answer": "新NISAで約3,866,802円必要です。"
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、22,223株（元本目安：約3,775,688円）が必要です。"
       }
-    ]
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 169.9
   }
 }

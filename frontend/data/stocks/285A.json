@@ -3,149 +3,152 @@
     "code": "285A",
     "name": "キオクシアホールディングス",
     "sector": "電気機器",
-    "updated_at": "2026-10-28",
-    "current_price_yen": 12605.0,
-    "min_s_kabu_yen": 12605,
-    "unit_lot_yen": 1260500,
-    "dps_yen": 0.0,
-    "dividend_yield_pct": 0.0,
-    "raw_annual_return_pct": 172.54,
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7966.0,
+    "min_s_kabu_yen": 7966,
+    "unit_lot_yen": 796600,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 0.75,
+    "raw_annual_return_pct": 143.13,
     "capped_annual_return_pct": 20.0,
-    "geometric_growth_pct": -29.7,
-    "annual_volatility_pct": 99.7,
-    "max_drawdown_pct": -65.36,
-    "monthly_var_95_pct": -41.82,
+    "geometric_growth_pct": -31.14,
+    "annual_volatility_pct": 101.13,
+    "max_drawdown_pct": -77.98,
+    "monthly_var_95_pct": -47.15,
     "sharpe_ratio": -0.31,
-    "quant_score": 0.0,
+    "quant_score": 6.0,
     "dividend_roadmap": [
       {
         "target_monthly_yen": 1000,
-        "nisa_required_shares": 0,
-        "nisa_required_capital_yen": 0,
-        "specific_required_shares": 0,
-        "specific_required_capital_yen": 0
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 1593200,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 1999466
       },
       {
         "target_monthly_yen": 5000,
-        "nisa_required_shares": 0,
-        "nisa_required_capital_yen": 0,
-        "specific_required_shares": 0,
-        "specific_required_capital_yen": 0
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 7966000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 9997330
       },
       {
         "target_monthly_yen": 10000,
-        "nisa_required_shares": 0,
-        "nisa_required_capital_yen": 0,
-        "specific_required_shares": 0,
-        "specific_required_capital_yen": 0
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 15932000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 19994660
       },
       {
         "target_monthly_yen": 30000,
-        "nisa_required_shares": 0,
-        "nisa_required_capital_yen": 0,
-        "specific_required_shares": 0,
-        "specific_required_capital_yen": 0
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 47796000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 59983980
       },
       {
         "target_monthly_yen": 50000,
-        "nisa_required_shares": 0,
-        "nisa_required_capital_yen": 0,
-        "specific_required_shares": 0,
-        "specific_required_capital_yen": 0
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 79660000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 99973300
       }
     ],
     "default_10y_projection": [
       {
         "year": 1,
         "principal_yen": 120000,
-        "median_yen": 102543,
-        "upper_90_yen": 255509,
-        "lower_10_yen": 44446
+        "median_yen": 102178,
+        "upper_90_yen": 257970,
+        "lower_10_yen": 43807
       },
       {
         "year": 2,
         "principal_yen": 240000,
-        "median_yen": 178740,
-        "upper_90_yen": 624604,
-        "lower_10_yen": 60531
+        "median_yen": 177582,
+        "upper_90_yen": 631573,
+        "lower_10_yen": 59379
       },
       {
         "year": 3,
         "principal_yen": 360000,
-        "median_yen": 235360,
-        "upper_90_yen": 1055900,
-        "lower_10_yen": 68064
+        "median_yen": 233227,
+        "upper_90_yen": 1067976,
+        "lower_10_yen": 66572
       },
       {
         "year": 4,
         "principal_yen": 480000,
-        "median_yen": 277433,
-        "upper_90_yen": 1519161,
-        "lower_10_yen": 71921
+        "median_yen": 274291,
+        "upper_90_yen": 1535983,
+        "lower_10_yen": 70211
       },
       {
         "year": 5,
         "principal_yen": 600000,
-        "median_yen": 308696,
-        "upper_90_yen": 1992706,
-        "lower_10_yen": 74001
+        "median_yen": 304595,
+        "upper_90_yen": 2013283,
+        "lower_10_yen": 72150
       },
       {
         "year": 6,
         "principal_yen": 720000,
-        "median_yen": 331926,
-        "upper_90_yen": 2460733,
-        "lower_10_yen": 75161
+        "median_yen": 326958,
+        "upper_90_yen": 2483710,
+        "lower_10_yen": 73219
       },
       {
         "year": 7,
         "principal_yen": 840000,
-        "median_yen": 349189,
-        "upper_90_yen": 2911961,
-        "lower_10_yen": 75824
+        "median_yen": 343462,
+        "upper_90_yen": 2935832,
+        "lower_10_yen": 73825
       },
       {
         "year": 8,
         "principal_yen": 960000,
-        "median_yen": 362016,
-        "upper_90_yen": 3338683,
-        "lower_10_yen": 76212
+        "median_yen": 355640,
+        "upper_90_yen": 3361940,
+        "lower_10_yen": 74175
       },
       {
         "year": 9,
         "principal_yen": 1080000,
-        "median_yen": 371547,
-        "upper_90_yen": 3736005,
-        "lower_10_yen": 76441
+        "median_yen": 364628,
+        "upper_90_yen": 3757246,
+        "lower_10_yen": 74380
       },
       {
         "year": 10,
         "principal_yen": 1200000,
-        "median_yen": 378629,
-        "upper_90_yen": 4101217,
-        "lower_10_yen": 76579
+        "median_yen": 371260,
+        "upper_90_yen": 4119218,
+        "lower_10_yen": 74502
       }
     ]
   },
   "seo": {
     "seo_title": "キオクシアホールディングス(285A)の単元未満株・NISA積立と配当金シミュレーション",
-    "meta_description": "キオクシアホールディングス(285A)を1株(12,605円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "meta_description": "キオクシアホールディングス(285A)を1株(7,966円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
     "summary_points": [
-      "最小12,605円から購入可能",
-      "年率ボラティリティは99.7%",
-      "月1万円の配当には0株が必要"
+      "最小7,966円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは101.13%、幾何成長率は-31.14%",
+      "新NISAで月1万円の配当金を得るには2,000株（約15,932,000円）が必要"
     ],
-    "accumulation_strategy_analysis": "キオクシアホールディングスは1株（約12,605円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は378,629円です。",
-    "dividend_and_risk_commentary": "年間予想配当金は0.0円（利回り0.0%）です。月次95%VaRは-41.82%であり、時間分散が有効です。",
+    "accumulation_strategy_analysis": "キオクシアホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約7,966円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は371,260円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り0.75%）です。月次95%VaR（最大想定損失率）は-47.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
     "faqs": [
       {
-        "question": "キオクシアホールディングスはいくらから買えますか？",
-        "answer": "1株あたり約12,605円から購入可能です。"
+        "question": "キオクシアホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,966円から購入可能です。"
       },
       {
-        "question": "配当で月1万円を得るにはいくら必要ですか？",
-        "answer": "新NISAで約0円必要です。"
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約15,932,000円）が必要です。"
       }
-    ]
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7966.0
   }
 }

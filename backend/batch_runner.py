@@ -3,7 +3,11 @@ from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import pandas as pd
 import requests
-from config import DEFAULT_TARGET_TICKERS, DATA_OUTPUT_DIR, STOCKS_OUTPUT_DIR, JPX_LISTED_COMPANIES_URL, CACHE_DIR
+from config import (
+    DEFAULT_TARGET_TICKERS, DATA_OUTPUT_DIR, STOCKS_OUTPUT_DIR,
+    JPX_LISTED_COMPANIES_URL, CACHE_DIR,
+    AI_BATCH_SIZE, AI_REQUEST_INTERVAL_SEC, MAX_AI_CALLS_PER_RUN
+)
 from quant_engine import QuantEngine
 from ai_generator import AIGenerator
 
@@ -27,24 +31,18 @@ def fetch_all_jpx_tickers():
         tickers.append({"code": code, "name": name, "sector": sector})
     return tickers
 
-def process_single_ticker(item, ai_gen):
+def calc_single_quant(item, ai_gen):
     code, name, sector = item["code"], item["name"], item["sector"]
     try:
         metrics = QuantEngine.calculate_stock_metrics(code, name, sector)
         if not metrics:
             return None
-        seo_content = ai_gen.generate_or_load_seo_content(metrics)
+        existing_seo = ai_gen.load_valid_existing_seo(code, metrics)
+        seo_content = existing_seo if existing_seo else ai_gen.build_fallback_content(metrics)
         with open(STOCKS_OUTPUT_DIR / f"{code}.json", "w", encoding="utf-8") as f:
             json.dump({"metrics": metrics, "seo": seo_content}, f, ensure_ascii=False, indent=2)
-        summary_entry = {
-            k: metrics[k] for k in [
-                "code", "name", "sector", "current_price_yen", "min_s_kabu_yen",
-                "dividend_yield_pct", "annual_volatility_pct", "geometric_growth_pct",
-                "sharpe_ratio", "quant_score", "updated_at"
-            ]
-        }
-        time.sleep(0.2)
-        return summary_entry
+        time.sleep(0.15)
+        return {"metrics": metrics, "needs_ai": existing_seo is None}
     except Exception as e:
         print(f"[WARN] Skipped {code}: {e}")
         return None
@@ -52,23 +50,60 @@ def process_single_ticker(item, ai_gen):
 def run_batch(use_all=False):
     ai_gen = AIGenerator()
     tickers = fetch_all_jpx_tickers() if use_all else DEFAULT_TARGET_TICKERS
-    summary_index = []
-    sector_groups = defaultdict(list)
     total = len(tickers)
-    print(f"[INFO] Starting batch processing for {total} stocks (use_all={use_all})...")
+    print(f"[PHASE 1] Calculating quantitative metrics for {total} stocks...")
+
+    all_metrics = []
+    pending_ai_metrics = []
 
     with ThreadPoolExecutor(max_workers=4) as executor:
-        future_to_item = {executor.submit(process_single_ticker, item, ai_gen): item for item in tickers}
+        future_to_item = {executor.submit(calc_single_quant, item, ai_gen): item for item in tickers}
         for idx, future in enumerate(as_completed(future_to_item), start=1):
-            item = future_to_item[future]
             res = future.result()
             if res:
-                summary_index.append(res)
-                sector_groups[res["sector"]].append(res)
-                if idx % 25 == 0 or not use_all:
-                    print(f"[{idx}/{total}] Processed {item['code']} ({item['name']})...")
+                all_metrics.append(res["metrics"])
+                if res["needs_ai"]:
+                    pending_ai_metrics.append(res["metrics"])
+            if idx % 50 == 0 or idx == total:
+                print(f"  -> Quant progress: {idx}/{total} (valid: {len(all_metrics)})")
 
-    summary_index.sort(key=lambda x: x["quant_score"], reverse=True)
+    all_metrics.sort(key=lambda x: x["quant_score"], reverse=True)
+    pending_ai_metrics.sort(key=lambda x: x["quant_score"], reverse=True)
+
+    if ai_gen.client and pending_ai_metrics:
+        max_stocks = MAX_AI_CALLS_PER_RUN * AI_BATCH_SIZE
+        target_ai_list = pending_ai_metrics[:max_stocks]
+        total_batches = (len(target_ai_list) + AI_BATCH_SIZE - 1) // AI_BATCH_SIZE
+        print(f"[PHASE 2] Enriching {len(target_ai_list)} stocks via Gemini API in {total_batches} bulk requests...")
+
+        for b_idx in range(total_batches):
+            chunk = target_ai_list[b_idx * AI_BATCH_SIZE : (b_idx + 1) * AI_BATCH_SIZE]
+            codes_str = ",".join(m["code"] for m in chunk)
+            print(f"  -> AI Batch [{b_idx + 1}/{total_batches}] codes: {codes_str}")
+            batch_results = ai_gen.generate_batch_seo(chunk)
+            for m in chunk:
+                c = m["code"]
+                if c in batch_results:
+                    with open(STOCKS_OUTPUT_DIR / f"{c}.json", "w", encoding="utf-8") as f:
+                        json.dump({"metrics": m, "seo": batch_results[c]}, f, ensure_ascii=False, indent=2)
+            if b_idx + 1 < total_batches:
+                time.sleep(AI_REQUEST_INTERVAL_SEC)
+    else:
+        print("[PHASE 2] Skipping Gemini API calls (no API key set or all stocks already cached).")
+
+    summary_index = []
+    sector_groups = defaultdict(list)
+    for m in all_metrics:
+        summary_entry = {
+            k: m[k] for k in [
+                "code", "name", "sector", "current_price_yen", "min_s_kabu_yen",
+                "dividend_yield_pct", "annual_volatility_pct", "geometric_growth_pct",
+                "sharpe_ratio", "quant_score", "updated_at"
+            ]
+        }
+        summary_index.append(summary_entry)
+        sector_groups[m["sector"]].append(summary_entry)
+
     with open(DATA_OUTPUT_DIR / "index.json", "w", encoding="utf-8") as f:
         json.dump(summary_index, f, ensure_ascii=False, indent=2)
 
@@ -83,7 +118,8 @@ def run_batch(use_all=False):
         }
     with open(DATA_OUTPUT_DIR / "sectors.json", "w", encoding="utf-8") as f:
         json.dump(sectors_payload, f, ensure_ascii=False, indent=2)
-    print(f"[DONE] Successfully generated {len(summary_index)} stock pages.")
+
+    print(f"[DONE] Generated {len(summary_index)} total stock pages safely.")
 
 if __name__ == "__main__":
     use_all_flag = "--all" in sys.argv

@@ -3,149 +3,152 @@
     "code": "8001",
     "name": "伊藤忠商事",
     "sector": "卸売業",
-    "updated_at": "2026-10-28",
-    "current_price_yen": 2366.0,
-    "min_s_kabu_yen": 2366,
-    "unit_lot_yen": 236600,
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2334.0,
+    "min_s_kabu_yen": 2334,
+    "unit_lot_yen": 233400,
     "dps_yen": 44.0,
-    "dividend_yield_pct": 1.86,
-    "raw_annual_return_pct": 28.96,
+    "dividend_yield_pct": 1.89,
+    "raw_annual_return_pct": 27.81,
     "capped_annual_return_pct": 20.0,
-    "geometric_growth_pct": 16.35,
-    "annual_volatility_pct": 27.01,
+    "geometric_growth_pct": 16.3,
+    "annual_volatility_pct": 27.21,
     "max_drawdown_pct": -27.95,
     "monthly_var_95_pct": -7.73,
-    "sharpe_ratio": 0.64,
-    "quant_score": 53.8,
+    "sharpe_ratio": 0.63,
+    "quant_score": 53.7,
     "dividend_roadmap": [
       {
         "target_monthly_yen": 1000,
         "nisa_required_shares": 273,
-        "nisa_required_capital_yen": 645918,
+        "nisa_required_capital_yen": 637182,
         "specific_required_shares": 343,
-        "specific_required_capital_yen": 811538
+        "specific_required_capital_yen": 800562
       },
       {
         "target_monthly_yen": 5000,
         "nisa_required_shares": 1364,
-        "nisa_required_capital_yen": 3227224,
+        "nisa_required_capital_yen": 3183576,
         "specific_required_shares": 1712,
-        "specific_required_capital_yen": 4050592
+        "specific_required_capital_yen": 3995808
       },
       {
         "target_monthly_yen": 10000,
         "nisa_required_shares": 2728,
-        "nisa_required_capital_yen": 6454448,
+        "nisa_required_capital_yen": 6367152,
         "specific_required_shares": 3423,
-        "specific_required_capital_yen": 8098818
+        "specific_required_capital_yen": 7989282
       },
       {
         "target_monthly_yen": 30000,
         "nisa_required_shares": 8182,
-        "nisa_required_capital_yen": 19358612,
+        "nisa_required_capital_yen": 19096788,
         "specific_required_shares": 10268,
-        "specific_required_capital_yen": 24294088
+        "specific_required_capital_yen": 23965512
       },
       {
         "target_monthly_yen": 50000,
         "nisa_required_shares": 13637,
-        "nisa_required_capital_yen": 32265142,
+        "nisa_required_capital_yen": 31828758,
         "specific_required_shares": 17113,
-        "specific_required_capital_yen": 40489358
+        "specific_required_capital_yen": 39941742
       }
     ],
     "default_10y_projection": [
       {
         "year": 1,
         "principal_yen": 120000,
-        "median_yen": 132623,
-        "upper_90_yen": 170313,
-        "lower_10_yen": 103843
+        "median_yen": 132601,
+        "upper_90_yen": 170607,
+        "lower_10_yen": 103638
       },
       {
         "year": 2,
         "principal_yen": 240000,
-        "median_yen": 291739,
-        "upper_90_yen": 415113,
-        "lower_10_yen": 207433
+        "median_yen": 291644,
+        "upper_90_yen": 416088,
+        "lower_10_yen": 206849
       },
       {
         "year": 3,
         "principal_yen": 360000,
-        "median_yen": 482638,
-        "upper_90_yen": 747016,
-        "lower_10_yen": 317340
+        "median_yen": 482400,
+        "upper_90_yen": 749121,
+        "lower_10_yen": 316220
       },
       {
         "year": 4,
         "principal_yen": 480000,
-        "median_yen": 711672,
-        "upper_90_yen": 1186894,
-        "lower_10_yen": 436675
+        "median_yen": 711194,
+        "upper_90_yen": 1190696,
+        "lower_10_yen": 434849
       },
       {
         "year": 5,
         "principal_yen": 600000,
-        "median_yen": 986456,
-        "upper_90_yen": 1762143,
-        "lower_10_yen": 568006
+        "median_yen": 985609,
+        "upper_90_yen": 1768367,
+        "lower_10_yen": 565279
       },
       {
         "year": 6,
         "principal_yen": 720000,
-        "median_yen": 1316131,
-        "upper_90_yen": 2507622,
-        "lower_10_yen": 713863
+        "median_yen": 1314745,
+        "upper_90_yen": 2517198,
+        "lower_10_yen": 710010
       },
       {
         "year": 7,
         "principal_yen": 840000,
-        "median_yen": 1711660,
-        "upper_90_yen": 3467263,
-        "lower_10_yen": 876948
+        "median_yen": 1709510,
+        "upper_90_yen": 3481378,
+        "lower_10_yen": 871702
       },
       {
         "year": 8,
         "principal_yen": 960000,
-        "median_yen": 2186198,
-        "upper_90_yen": 4696178,
-        "lower_10_yen": 1060248
+        "median_yen": 2182994,
+        "upper_90_yen": 4716348,
+        "lower_10_yen": 1053294
       },
       {
         "year": 9,
         "principal_yen": 1080000,
-        "median_yen": 2755529,
-        "upper_90_yen": 6263340,
-        "lower_10_yen": 1267139
+        "median_yen": 2750891,
+        "upper_90_yen": 6291488,
+        "lower_10_yen": 1258103
       },
       {
         "year": 10,
         "principal_yen": 1200000,
-        "median_yen": 3438587,
-        "upper_90_yen": 8254913,
-        "lower_10_yen": 1501471
+        "median_yen": 3432030,
+        "upper_90_yen": 8293473,
+        "lower_10_yen": 1489909
       }
     ]
   },
   "seo": {
     "seo_title": "伊藤忠商事(8001)の単元未満株・NISA積立と配当金シミュレーション",
-    "meta_description": "伊藤忠商事(8001)を1株(2,366円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "meta_description": "伊藤忠商事(8001)を1株(2,334円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
     "summary_points": [
-      "最小2,366円から購入可能",
-      "年率ボラティリティは27.01%",
-      "月1万円の配当には2,728株が必要"
+      "最小2,334円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.21%、幾何成長率は16.3%",
+      "新NISAで月1万円の配当金を得るには2,728株（約6,367,152円）が必要"
     ],
-    "accumulation_strategy_analysis": "伊藤忠商事は1株（約2,366円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は3,438,587円です。",
-    "dividend_and_risk_commentary": "年間予想配当金は44.0円（利回り1.86%）です。月次95%VaRは-7.73%であり、時間分散が有効です。",
+    "accumulation_strategy_analysis": "伊藤忠商事は単元未満株（S株・かぶミニ等）を利用することで1株（約2,334円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,432,030円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり44.0円（利回り1.89%）です。月次95%VaR（最大想定損失率）は-7.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
     "faqs": [
       {
-        "question": "伊藤忠商事はいくらから買えますか？",
-        "answer": "1株あたり約2,366円から購入可能です。"
+        "question": "伊藤忠商事は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,334円から購入可能です。"
       },
       {
-        "question": "配当で月1万円を得るにはいくら必要ですか？",
-        "answer": "新NISAで約6,454,448円必要です。"
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,728株（元本目安：約6,367,152円）が必要です。"
       }
-    ]
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2334.0
   }
 }

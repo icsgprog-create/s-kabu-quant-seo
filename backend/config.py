@@ -2,6 +2,15 @@ import os
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+ENV_FILE = BASE_DIR / "backend" / ".env"
+
+if ENV_FILE.exists():
+    for line in ENV_FILE.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            k, v = line.split("=", 1)
+            os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
+
 DATA_OUTPUT_DIR = BASE_DIR / "frontend" / "data"
 STOCKS_OUTPUT_DIR = DATA_OUTPUT_DIR / "stocks"
 CACHE_DIR = BASE_DIR / "backend" / ".cache"
@@ -9,7 +18,10 @@ CACHE_DIR = BASE_DIR / "backend" / ".cache"
 STOCKS_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-3.5-flash-lite")
+GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-2.5-flash")
+AI_BATCH_SIZE = 10
+AI_REQUEST_INTERVAL_SEC = 5.0
+MAX_AI_CALLS_PER_RUN = 100
 AI_CACHE_EXPIRE_DAYS = 30
 AI_REGENERATE_CHANGE_THRESHOLD = 0.10
 JPX_LISTED_COMPANIES_URL = "https://www.jpx.co.jp/markets/statistics-equities/misc/tvdivq0000001vg2-att/data_j.xls"

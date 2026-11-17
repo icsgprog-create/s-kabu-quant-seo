@@ -3,149 +3,152 @@
     "code": "3687",
     "name": "フィックスターズ",
     "sector": "情報・通信業",
-    "updated_at": "2026-10-28",
-    "current_price_yen": 1848.0,
-    "min_s_kabu_yen": 1848,
-    "unit_lot_yen": 184800,
-    "dps_yen": 19.0,
-    "dividend_yield_pct": 1.03,
-    "raw_annual_return_pct": 18.52,
-    "capped_annual_return_pct": 18.52,
-    "geometric_growth_pct": 3.39,
-    "annual_volatility_pct": 55.02,
-    "max_drawdown_pct": -50.23,
-    "monthly_var_95_pct": -17.73,
-    "sharpe_ratio": 0.06,
-    "quant_score": 14.8,
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1517.0,
+    "min_s_kabu_yen": 1517,
+    "unit_lot_yen": 151700,
+    "dps_yen": 44.0,
+    "dividend_yield_pct": 2.9,
+    "raw_annual_return_pct": 13.73,
+    "capped_annual_return_pct": 13.73,
+    "geometric_growth_pct": -1.43,
+    "annual_volatility_pct": 55.06,
+    "max_drawdown_pct": -57.9,
+    "monthly_var_95_pct": -18.77,
+    "sharpe_ratio": 0.01,
+    "quant_score": 28.4,
     "dividend_roadmap": [
       {
         "target_monthly_yen": 1000,
-        "nisa_required_shares": 632,
-        "nisa_required_capital_yen": 1167936,
-        "specific_required_shares": 793,
-        "specific_required_capital_yen": 1465464
+        "nisa_required_shares": 273,
+        "nisa_required_capital_yen": 414141,
+        "specific_required_shares": 343,
+        "specific_required_capital_yen": 520331
       },
       {
         "target_monthly_yen": 5000,
-        "nisa_required_shares": 3158,
-        "nisa_required_capital_yen": 5835984,
-        "specific_required_shares": 3963,
-        "specific_required_capital_yen": 7323624
+        "nisa_required_shares": 1364,
+        "nisa_required_capital_yen": 2069188,
+        "specific_required_shares": 1712,
+        "specific_required_capital_yen": 2597104
       },
       {
         "target_monthly_yen": 10000,
-        "nisa_required_shares": 6316,
-        "nisa_required_capital_yen": 11671968,
-        "specific_required_shares": 7926,
-        "specific_required_capital_yen": 14647248
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 4138376,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 5192691
       },
       {
         "target_monthly_yen": 30000,
-        "nisa_required_shares": 18948,
-        "nisa_required_capital_yen": 35015904,
-        "specific_required_shares": 23778,
-        "specific_required_capital_yen": 43941744
+        "nisa_required_shares": 8182,
+        "nisa_required_capital_yen": 12412094,
+        "specific_required_shares": 10268,
+        "specific_required_capital_yen": 15576556
       },
       {
         "target_monthly_yen": 50000,
-        "nisa_required_shares": 31579,
-        "nisa_required_capital_yen": 58357992,
-        "specific_required_shares": 39630,
-        "specific_required_capital_yen": 73236240
+        "nisa_required_shares": 13637,
+        "nisa_required_capital_yen": 20687329,
+        "specific_required_shares": 17113,
+        "specific_required_capital_yen": 25960421
       }
     ],
     "default_10y_projection": [
       {
         "year": 1,
         "principal_yen": 120000,
-        "median_yen": 122917,
-        "upper_90_yen": 204544,
-        "lower_10_yen": 75586
+        "median_yen": 120962,
+        "upper_90_yen": 201130,
+        "lower_10_yen": 74450
       },
       {
         "year": 2,
         "principal_yen": 240000,
-        "median_yen": 251387,
-        "upper_90_yen": 513028,
-        "lower_10_yen": 129452
+        "median_yen": 243717,
+        "upper_90_yen": 495909,
+        "lower_10_yen": 125918
       },
       {
         "year": 3,
         "principal_yen": 360000,
-        "median_yen": 385662,
-        "upper_90_yen": 926659,
-        "lower_10_yen": 173219
+        "median_yen": 368293,
+        "upper_90_yen": 879825,
+        "lower_10_yen": 166506
       },
       {
         "year": 4,
         "principal_yen": 480000,
-        "median_yen": 526003,
-        "upper_90_yen": 1456195,
-        "lower_10_yen": 210521
+        "median_yen": 494716,
+        "upper_90_yen": 1357171,
+        "lower_10_yen": 200087
       },
       {
         "year": 5,
         "principal_yen": 600000,
-        "median_yen": 672686,
-        "upper_90_yen": 2115923,
-        "lower_10_yen": 243208
+        "median_yen": 623014,
+        "upper_90_yen": 1934724,
+        "lower_10_yen": 228652
       },
       {
         "year": 6,
         "principal_yen": 720000,
-        "median_yen": 825995,
-        "upper_90_yen": 2922780,
-        "lower_10_yen": 272393
+        "median_yen": 753214,
+        "upper_90_yen": 2620686,
+        "lower_10_yen": 253410
       },
       {
         "year": 7,
         "principal_yen": 840000,
-        "median_yen": 986231,
-        "upper_90_yen": 3896206,
-        "lower_10_yen": 298811
+        "median_yen": 885345,
+        "upper_90_yen": 3424349,
+        "lower_10_yen": 275169
       },
       {
         "year": 8,
         "principal_yen": 960000,
-        "median_yen": 1153706,
-        "upper_90_yen": 5058197,
-        "lower_10_yen": 322981
+        "median_yen": 1019436,
+        "upper_90_yen": 4355960,
+        "lower_10_yen": 294495
       },
       {
         "year": 9,
         "principal_yen": 1080000,
-        "median_yen": 1328748,
-        "upper_90_yen": 6433470,
-        "lower_10_yen": 345287
+        "median_yen": 1155515,
+        "upper_90_yen": 5426682,
+        "lower_10_yen": 311810
       },
       {
         "year": 10,
         "principal_yen": 1200000,
-        "median_yen": 1511699,
-        "upper_90_yen": 8049681,
-        "lower_10_yen": 366019
+        "median_yen": 1293612,
+        "upper_90_yen": 6648589,
+        "lower_10_yen": 327435
       }
     ]
   },
   "seo": {
     "seo_title": "フィックスターズ(3687)の単元未満株・NISA積立と配当金シミュレーション",
-    "meta_description": "フィックスターズ(3687)を1株(1,848円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "meta_description": "フィックスターズ(3687)を1株(1,517円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
     "summary_points": [
-      "最小1,848円から購入可能",
-      "年率ボラティリティは55.02%",
-      "月1万円の配当には6,316株が必要"
+      "最小1,517円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは55.06%、幾何成長率は-1.43%",
+      "新NISAで月1万円の配当金を得るには2,728株（約4,138,376円）が必要"
     ],
-    "accumulation_strategy_analysis": "フィックスターズは1株（約1,848円）から定額積立が可能です。対数正規分布モデルによる10年後中央値予測は1,511,699円です。",
-    "dividend_and_risk_commentary": "年間予想配当金は19.0円（利回り1.03%）です。月次95%VaRは-17.73%であり、時間分散が有効です。",
+    "accumulation_strategy_analysis": "フィックスターズは単元未満株（S株・かぶミニ等）を利用することで1株（約1,517円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,293,612円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり44.0円（利回り2.9%）です。月次95%VaR（最大想定損失率）は-18.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
     "faqs": [
       {
-        "question": "フィックスターズはいくらから買えますか？",
-        "answer": "1株あたり約1,848円から購入可能です。"
+        "question": "フィックスターズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,517円から購入可能です。"
       },
       {
-        "question": "配当で月1万円を得るにはいくら必要ですか？",
-        "answer": "新NISAで約11,671,968円必要です。"
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,728株（元本目安：約4,138,376円）が必要です。"
       }
-    ]
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1517.0
   }
 }
