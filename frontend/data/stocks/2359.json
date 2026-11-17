@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2359",
+    "name": "コア",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1939.0,
+    "min_s_kabu_yen": 1939,
+    "unit_lot_yen": 193900,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 3.09,
+    "raw_annual_return_pct": 5.46,
+    "capped_annual_return_pct": 5.46,
+    "geometric_growth_pct": 2.32,
+    "annual_volatility_pct": 25.05,
+    "max_drawdown_pct": -28.04,
+    "monthly_var_95_pct": -8.25,
+    "sharpe_ratio": 0.18,
+    "quant_score": 54.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 387800,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 486689
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1939000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2433445
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 3878000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 4866890
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 11634000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 14600670
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 19390000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 24334450
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123588,
+        "upper_90_yen": 155449,
+        "lower_10_yen": 98729
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 254056,
+        "upper_90_yen": 349732,
+        "lower_10_yen": 186465
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 391786,
+        "upper_90_yen": 579541,
+        "lower_10_yen": 269079
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 537182,
+        "upper_90_yen": 845654,
+        "lower_10_yen": 348568
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 690672,
+        "upper_90_yen": 1149995,
+        "lower_10_yen": 426014
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 852705,
+        "upper_90_yen": 1495125,
+        "lower_10_yen": 502116
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1023758,
+        "upper_90_yen": 1884080,
+        "lower_10_yen": 577365
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1204332,
+        "upper_90_yen": 2320311,
+        "lower_10_yen": 652134
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1394958,
+        "upper_90_yen": 2807658,
+        "lower_10_yen": 726715
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1596194,
+        "upper_90_yen": 3350356,
+        "lower_10_yen": 801352
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コア(2359)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コア(2359)を1株(1,939円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,939円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.05%、幾何成長率は2.32%",
+      "新NISAで月1万円の配当金を得るには2,000株（約3,878,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コアは単元未満株（S株・かぶミニ等）を利用することで1株（約1,939円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,596,194円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り3.09%）です。月次95%VaR（最大想定損失率）は-8.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,939円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約3,878,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1939.0
+  }
+}

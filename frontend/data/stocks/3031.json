@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3031",
+    "name": "ラクーンホールディングス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 642.0,
+    "min_s_kabu_yen": 642,
+    "unit_lot_yen": 64200,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 3.43,
+    "raw_annual_return_pct": -16.92,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -23.96,
+    "annual_volatility_pct": 42.34,
+    "max_drawdown_pct": -73.12,
+    "monthly_var_95_pct": -19.26,
+    "sharpe_ratio": -0.51,
+    "quant_score": 30.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 350532,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 439770
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 1751376,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 2197566
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 3502110,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 4395132
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 10505688,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 13184112
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 17509266,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 21973092
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107555,
+        "upper_90_yen": 157555,
+        "lower_10_yen": 74449
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 195142,
+        "upper_90_yen": 328548,
+        "lower_10_yen": 119494
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 266469,
+        "upper_90_yen": 497434,
+        "lower_10_yen": 149691
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 324554,
+        "upper_90_yen": 658306,
+        "lower_10_yen": 170700
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 371856,
+        "upper_90_yen": 808333,
+        "lower_10_yen": 185634
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 410376,
+        "upper_90_yen": 946251,
+        "lower_10_yen": 196404
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 441745,
+        "upper_90_yen": 1071705,
+        "lower_10_yen": 204255
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 467291,
+        "upper_90_yen": 1184888,
+        "lower_10_yen": 210025
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 488094,
+        "upper_90_yen": 1286327,
+        "lower_10_yen": 214295
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 505035,
+        "upper_90_yen": 1376744,
+        "lower_10_yen": 217471
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ラクーンホールディングス(3031)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ラクーンホールディングス(3031)を1株(642円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小642円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.34%、幾何成長率は-23.96%",
+      "新NISAで月1万円の配当金を得るには5,455株（約3,502,110円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ラクーンホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約642円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は505,035円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り3.43%）です。月次95%VaR（最大想定損失率）は-19.26%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ラクーンホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約642円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約3,502,110円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 642.0
+  }
+}

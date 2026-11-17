@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2722",
+    "name": "ＩＫホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 344.0,
+    "min_s_kabu_yen": 344,
+    "unit_lot_yen": 34400,
+    "dps_yen": 9.0,
+    "dividend_yield_pct": 2.62,
+    "raw_annual_return_pct": -4.94,
+    "capped_annual_return_pct": -4.94,
+    "geometric_growth_pct": -10.21,
+    "annual_volatility_pct": 32.45,
+    "max_drawdown_pct": -45.98,
+    "monthly_var_95_pct": -12.19,
+    "sharpe_ratio": -0.26,
+    "quant_score": 33.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 458896,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 575856
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 2293448,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 2878248
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 4586896,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 5756152
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 13760000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 17268112
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 66667,
+        "nisa_required_capital_yen": 22933448,
+        "specific_required_shares": 83663,
+        "specific_required_capital_yen": 28780072
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115191,
+        "upper_90_yen": 154669,
+        "lower_10_yen": 86487
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 221958,
+        "upper_90_yen": 333219,
+        "lower_10_yen": 150481
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 320917,
+        "upper_90_yen": 525042,
+        "lower_10_yen": 201605
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 412638,
+        "upper_90_yen": 725501,
+        "lower_10_yen": 243615
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 497651,
+        "upper_90_yen": 931624,
+        "lower_10_yen": 278706
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 576447,
+        "upper_90_yen": 1141257,
+        "lower_10_yen": 308343
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 649481,
+        "upper_90_yen": 1352741,
+        "lower_10_yen": 333578
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 717173,
+        "upper_90_yen": 1564759,
+        "lower_10_yen": 355200
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 779915,
+        "upper_90_yen": 1776238,
+        "lower_10_yen": 373822
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 838068,
+        "upper_90_yen": 1986298,
+        "lower_10_yen": 389928
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＩＫホールディングス(2722)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＩＫホールディングス(2722)を1株(344円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小344円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.45%、幾何成長率は-10.21%",
+      "新NISAで月1万円の配当金を得るには13,334株（約4,586,896円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＩＫホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約344円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は838,068円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり9.0円（利回り2.62%）です。月次95%VaR（最大想定損失率）は-12.19%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＩＫホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約344円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、13,334株（元本目安：約4,586,896円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 344.0
+  }
+}

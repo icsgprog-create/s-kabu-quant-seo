@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2489",
+    "name": "アドウェイズ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 316.0,
+    "min_s_kabu_yen": 316,
+    "unit_lot_yen": 31600,
+    "dps_yen": 6.42,
+    "dividend_yield_pct": 2.03,
+    "raw_annual_return_pct": -19.33,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -23.93,
+    "annual_volatility_pct": 42.27,
+    "max_drawdown_pct": -74.35,
+    "monthly_var_95_pct": -18.41,
+    "sharpe_ratio": -0.54,
+    "quant_score": 19.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1870,
+        "nisa_required_capital_yen": 590920,
+        "specific_required_shares": 2346,
+        "specific_required_capital_yen": 741336
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 9346,
+        "nisa_required_capital_yen": 2953336,
+        "specific_required_shares": 11729,
+        "specific_required_capital_yen": 3706364
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 18692,
+        "nisa_required_capital_yen": 5906672,
+        "specific_required_shares": 23457,
+        "specific_required_capital_yen": 7412412
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 56075,
+        "nisa_required_capital_yen": 17719700,
+        "specific_required_shares": 70371,
+        "specific_required_capital_yen": 22237236
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 93458,
+        "nisa_required_capital_yen": 29532728,
+        "specific_required_shares": 117285,
+        "specific_required_capital_yen": 37062060
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106788,
+        "upper_90_yen": 156258,
+        "lower_10_yen": 73997
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 192572,
+        "upper_90_yen": 323500,
+        "lower_10_yen": 118176
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 261484,
+        "upper_90_yen": 486397,
+        "lower_10_yen": 147399
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 316841,
+        "upper_90_yen": 639425,
+        "lower_10_yen": 167459
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 361311,
+        "upper_90_yen": 780173,
+        "lower_10_yen": 181528
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 397034,
+        "upper_90_yen": 907782,
+        "lower_10_yen": 191539
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 425731,
+        "upper_90_yen": 1022265,
+        "lower_10_yen": 198739
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 448783,
+        "upper_90_yen": 1124133,
+        "lower_10_yen": 203960
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 467302,
+        "upper_90_yen": 1214180,
+        "lower_10_yen": 207771
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 482178,
+        "upper_90_yen": 1293343,
+        "lower_10_yen": 210568
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アドウェイズ(2489)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アドウェイズ(2489)を1株(316円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小316円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.27%、幾何成長率は-23.93%",
+      "新NISAで月1万円の配当金を得るには18,692株（約5,906,672円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アドウェイズは単元未満株（S株・かぶミニ等）を利用することで1株（約316円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は482,178円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり6.42円（利回り2.03%）です。月次95%VaR（最大想定損失率）は-18.41%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アドウェイズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約316円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、18,692株（元本目安：約5,906,672円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 316.0
+  }
+}

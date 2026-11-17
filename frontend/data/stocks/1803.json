@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1803",
+    "name": "清水建設",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2183.5,
+    "min_s_kabu_yen": 2184,
+    "unit_lot_yen": 218350,
+    "dps_yen": 94.5,
+    "dividend_yield_pct": 4.33,
+    "raw_annual_return_pct": 24.26,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.49,
+    "annual_volatility_pct": 33.19,
+    "max_drawdown_pct": -43.12,
+    "monthly_var_95_pct": -11.6,
+    "sharpe_ratio": 0.54,
+    "quant_score": 64.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 127,
+        "nisa_required_capital_yen": 277304,
+        "specific_required_shares": 160,
+        "specific_required_capital_yen": 349360
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 635,
+        "nisa_required_capital_yen": 1386522,
+        "specific_required_shares": 797,
+        "specific_required_capital_yen": 1740250
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1270,
+        "nisa_required_capital_yen": 2773045,
+        "specific_required_shares": 1594,
+        "specific_required_capital_yen": 3480499
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3810,
+        "nisa_required_capital_yen": 8319135,
+        "specific_required_shares": 4781,
+        "specific_required_capital_yen": 10439314
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6350,
+        "nisa_required_capital_yen": 13865225,
+        "specific_required_shares": 7968,
+        "specific_required_capital_yen": 17398128
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133074,
+        "upper_90_yen": 181114,
+        "lower_10_yen": 98590
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 293707,
+        "upper_90_yen": 453916,
+        "lower_10_yen": 193407
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 487605,
+        "upper_90_yen": 836554,
+        "lower_10_yen": 291808
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 721658,
+        "upper_90_yen": 1358493,
+        "lower_10_yen": 396875
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1004180,
+        "upper_90_yen": 2058874,
+        "lower_10_yen": 510934
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1345211,
+        "upper_90_yen": 2988290,
+        "lower_10_yen": 636153
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1756867,
+        "upper_90_yen": 4211543,
+        "lower_10_yen": 774765
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2253773,
+        "upper_90_yen": 5811276,
+        "lower_10_yen": 929189
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2853583,
+        "upper_90_yen": 7892608,
+        "lower_10_yen": 1102122
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3577609,
+        "upper_90_yen": 10588990,
+        "lower_10_yen": 1296612
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "清水建設(1803)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "清水建設(1803)を1株(2,184円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,184円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.19%、幾何成長率は14.49%",
+      "新NISAで月1万円の配当金を得るには1,270株（約2,773,045円）が必要"
+    ],
+    "accumulation_strategy_analysis": "清水建設は単元未満株（S株・かぶミニ等）を利用することで1株（約2,184円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,577,609円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり94.5円（利回り4.33%）です。月次95%VaR（最大想定損失率）は-11.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "清水建設は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,184円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,270株（元本目安：約2,773,045円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2183.5
+  }
+}

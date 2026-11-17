@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1820",
+    "name": "西松建設",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5740.0,
+    "min_s_kabu_yen": 5740,
+    "unit_lot_yen": 574000,
+    "dps_yen": 240.0,
+    "dividend_yield_pct": 4.18,
+    "raw_annual_return_pct": 15.49,
+    "capped_annual_return_pct": 15.49,
+    "geometric_growth_pct": 12.65,
+    "annual_volatility_pct": 23.84,
+    "max_drawdown_pct": -22.65,
+    "monthly_var_95_pct": -7.48,
+    "sharpe_ratio": 0.66,
+    "quant_score": 76.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 50,
+        "nisa_required_capital_yen": 287000,
+        "specific_required_shares": 63,
+        "specific_required_capital_yen": 361620
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 250,
+        "nisa_required_capital_yen": 1435000,
+        "specific_required_shares": 314,
+        "specific_required_capital_yen": 1802360
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 2870000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 3604720
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 8610000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 10808420
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 14350000,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 18012120
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131608,
+        "upper_90_yen": 164038,
+        "lower_10_yen": 106043
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287339,
+        "upper_90_yen": 391780,
+        "lower_10_yen": 212667
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 471614,
+        "upper_90_yen": 692002,
+        "lower_10_yen": 325861
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 689665,
+        "upper_90_yen": 1079893,
+        "lower_10_yen": 448504
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 947684,
+        "upper_90_yen": 1575174,
+        "lower_10_yen": 582978
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1252996,
+        "upper_90_yen": 2202526,
+        "lower_10_yen": 731615
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1614269,
+        "upper_90_yen": 2992481,
+        "lower_10_yen": 896886
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2041762,
+        "upper_90_yen": 3982625,
+        "lower_10_yen": 1081502
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2547611,
+        "upper_90_yen": 5219100,
+        "lower_10_yen": 1288495
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3146179,
+        "upper_90_yen": 6758457,
+        "lower_10_yen": 1521291
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "西松建設(1820)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "西松建設(1820)を1株(5,740円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,740円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.84%、幾何成長率は12.65%",
+      "新NISAで月1万円の配当金を得るには500株（約2,870,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "西松建設は単元未満株（S株・かぶミニ等）を利用することで1株（約5,740円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,146,179円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり240.0円（利回り4.18%）です。月次95%VaR（最大想定損失率）は-7.48%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "西松建設は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,740円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、500株（元本目安：約2,870,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5740.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3067",
+    "name": "東京一番フーズ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 449.0,
+    "min_s_kabu_yen": 449,
+    "unit_lot_yen": 44900,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -5.59,
+    "capped_annual_return_pct": -5.59,
+    "geometric_growth_pct": -6.6,
+    "annual_volatility_pct": 14.21,
+    "max_drawdown_pct": -30.54,
+    "monthly_var_95_pct": -4.51,
+    "sharpe_ratio": -0.53,
+    "quant_score": 30.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115809,
+        "upper_90_yen": 131642,
+        "lower_10_yen": 102039
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 224227,
+        "upper_90_yen": 267401,
+        "lower_10_yen": 188662
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 325725,
+        "upper_90_yen": 402994,
+        "lower_10_yen": 264658
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 420745,
+        "upper_90_yen": 536785,
+        "lower_10_yen": 332155
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 509700,
+        "upper_90_yen": 667863,
+        "lower_10_yen": 392533
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 592977,
+        "upper_90_yen": 795666,
+        "lower_10_yen": 446803
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 670939,
+        "upper_90_yen": 919835,
+        "lower_10_yen": 495758
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 743925,
+        "upper_90_yen": 1040141,
+        "lower_10_yen": 540040
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 812252,
+        "upper_90_yen": 1156448,
+        "lower_10_yen": 580185
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 876218,
+        "upper_90_yen": 1268681,
+        "lower_10_yen": 616644
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東京一番フーズ(3067)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東京一番フーズ(3067)を1株(449円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小449円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは14.21%、幾何成長率は-6.6%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東京一番フーズは単元未満株（S株・かぶミニ等）を利用することで1株（約449円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は876,218円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-4.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東京一番フーズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約449円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 449.0
+  }
+}

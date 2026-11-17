@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "300A",
+    "name": "ＭＩＣ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2643.0,
+    "min_s_kabu_yen": 2643,
+    "unit_lot_yen": 264300,
+    "dps_yen": 77.0,
+    "dividend_yield_pct": 2.91,
+    "raw_annual_return_pct": 55.86,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 8.45,
+    "annual_volatility_pct": 48.06,
+    "max_drawdown_pct": -31.42,
+    "monthly_var_95_pct": -14.65,
+    "sharpe_ratio": 0.22,
+    "quant_score": 33.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 156,
+        "nisa_required_capital_yen": 412308,
+        "specific_required_shares": 196,
+        "specific_required_capital_yen": 518028
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 780,
+        "nisa_required_capital_yen": 2061540,
+        "specific_required_shares": 978,
+        "specific_required_capital_yen": 2584854
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1559,
+        "nisa_required_capital_yen": 4120437,
+        "specific_required_shares": 1956,
+        "specific_required_capital_yen": 5169708
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4676,
+        "nisa_required_capital_yen": 12358668,
+        "specific_required_shares": 5868,
+        "specific_required_capital_yen": 15509124
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7793,
+        "nisa_required_capital_yen": 20596899,
+        "specific_required_shares": 9779,
+        "specific_required_capital_yen": 25845897
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127688,
+        "upper_90_yen": 199494,
+        "lower_10_yen": 83169
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 270746,
+        "upper_90_yen": 507302,
+        "lower_10_yen": 150002
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 431024,
+        "upper_90_yen": 935918,
+        "lower_10_yen": 210122
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 610594,
+        "upper_90_yen": 1509154,
+        "lower_10_yen": 266499
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 811779,
+        "upper_90_yen": 2257823,
+        "lower_10_yen": 320655
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1037180,
+        "upper_90_yen": 3219959,
+        "lower_10_yen": 373535
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1289713,
+        "upper_90_yen": 4441788,
+        "lower_10_yen": 425793
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1572643,
+        "upper_90_yen": 5979109,
+        "lower_10_yen": 477917
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1889629,
+        "upper_90_yen": 7899005,
+        "lower_10_yen": 530302
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2244770,
+        "upper_90_yen": 10281900,
+        "lower_10_yen": 583275
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＭＩＣ(300A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＭＩＣ(300A)を1株(2,643円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,643円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは48.06%、幾何成長率は8.45%",
+      "新NISAで月1万円の配当金を得るには1,559株（約4,120,437円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＭＩＣは単元未満株（S株・かぶミニ等）を利用することで1株（約2,643円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,244,770円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり77.0円（利回り2.91%）です。月次95%VaR（最大想定損失率）は-14.65%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＭＩＣは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,643円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,559株（元本目安：約4,120,437円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2643.0
+  }
+}

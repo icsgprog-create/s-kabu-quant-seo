@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2429",
+    "name": "ワールドホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3005.0,
+    "min_s_kabu_yen": 3005,
+    "unit_lot_yen": 300500,
+    "dps_yen": 283.2,
+    "dividend_yield_pct": 9.42,
+    "raw_annual_return_pct": 6.25,
+    "capped_annual_return_pct": 6.25,
+    "geometric_growth_pct": 1.65,
+    "annual_volatility_pct": 30.34,
+    "max_drawdown_pct": -47.84,
+    "monthly_var_95_pct": -11.32,
+    "sharpe_ratio": 0.33,
+    "quant_score": 68.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 43,
+        "nisa_required_capital_yen": 129215,
+        "specific_required_shares": 54,
+        "specific_required_capital_yen": 162270
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 212,
+        "nisa_required_capital_yen": 637060,
+        "specific_required_shares": 266,
+        "specific_required_capital_yen": 799330
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 424,
+        "nisa_required_capital_yen": 1274120,
+        "specific_required_shares": 532,
+        "specific_required_capital_yen": 1598660
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1272,
+        "nisa_required_capital_yen": 3822360,
+        "specific_required_shares": 1596,
+        "specific_required_capital_yen": 4795980
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2119,
+        "nisa_required_capital_yen": 6367595,
+        "specific_required_shares": 2659,
+        "specific_required_capital_yen": 7990295
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127483,
+        "upper_90_yen": 168619,
+        "lower_10_yen": 97056
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 269893,
+        "upper_90_yen": 399481,
+        "lower_10_yen": 185085
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 428979,
+        "upper_90_yen": 695395,
+        "lower_10_yen": 270717
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 606693,
+        "upper_90_yen": 1065099,
+        "lower_10_yen": 356218
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 805217,
+        "upper_90_yen": 1520102,
+        "lower_10_yen": 442897
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1026987,
+        "upper_90_yen": 2074396,
+        "lower_10_yen": 531676
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1274726,
+        "upper_90_yen": 2744580,
+        "lower_10_yen": 623298
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1551474,
+        "upper_90_yen": 3550160,
+        "lower_10_yen": 718412
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1860628,
+        "upper_90_yen": 4513932,
+        "lower_10_yen": 817617
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2205983,
+        "upper_90_yen": 5662463,
+        "lower_10_yen": 921497
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ワールドホールディングス(2429)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ワールドホールディングス(2429)を1株(3,005円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,005円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.34%、幾何成長率は1.65%",
+      "新NISAで月1万円の配当金を得るには424株（約1,274,120円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ワールドホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,005円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,205,983円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり283.2円（利回り9.42%）です。月次95%VaR（最大想定損失率）は-11.32%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ワールドホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,005円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、424株（元本目安：約1,274,120円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3005.0
+  }
+}

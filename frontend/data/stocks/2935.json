@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2935",
+    "name": "ピックルスホールディングス",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1152.0,
+    "min_s_kabu_yen": 1152,
+    "unit_lot_yen": 115200,
+    "dps_yen": 29.0,
+    "dividend_yield_pct": 2.52,
+    "raw_annual_return_pct": 1.75,
+    "capped_annual_return_pct": 1.75,
+    "geometric_growth_pct": -1.08,
+    "annual_volatility_pct": 23.8,
+    "max_drawdown_pct": -35.7,
+    "monthly_var_95_pct": -8.71,
+    "sharpe_ratio": 0.02,
+    "quant_score": 46.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 476928,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 599040
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 2383488,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 2991744
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 4766976,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 5982336
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12414,
+        "nisa_required_capital_yen": 14300928,
+        "specific_required_shares": 15579,
+        "specific_required_capital_yen": 17947008
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 23834880,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 29911680
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120939,
+        "upper_90_yen": 150255,
+        "lower_10_yen": 97766
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 243630,
+        "upper_90_yen": 329277,
+        "lower_10_yen": 181958
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 368098,
+        "upper_90_yen": 531640,
+        "lower_10_yen": 258573
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 494369,
+        "upper_90_yen": 755803,
+        "lower_10_yen": 329739
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 622468,
+        "upper_90_yen": 1001191,
+        "lower_10_yen": 396639
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 752422,
+        "upper_90_yen": 1267662,
+        "lower_10_yen": 460038
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 884259,
+        "upper_90_yen": 1555319,
+        "lower_10_yen": 520478
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1018005,
+        "upper_90_yen": 1864421,
+        "lower_10_yen": 578364
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1153688,
+        "upper_90_yen": 2195338,
+        "lower_10_yen": 634009
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1291336,
+        "upper_90_yen": 2548523,
+        "lower_10_yen": 687666
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ピックルスホールディングス(2935)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ピックルスホールディングス(2935)を1株(1,152円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,152円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.8%、幾何成長率は-1.08%",
+      "新NISAで月1万円の配当金を得るには4,138株（約4,766,976円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ピックルスホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,152円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,291,336円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり29.0円（利回り2.52%）です。月次95%VaR（最大想定損失率）は-8.71%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ピックルスホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,152円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,138株（元本目安：約4,766,976円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1152.0
+  }
+}

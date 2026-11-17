@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3109",
+    "name": "シキボウ",
+    "sector": "繊維製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1005.0,
+    "min_s_kabu_yen": 1005,
+    "unit_lot_yen": 100500,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 4.98,
+    "raw_annual_return_pct": 6.89,
+    "capped_annual_return_pct": 6.89,
+    "geometric_growth_pct": 5.59,
+    "annual_volatility_pct": 16.13,
+    "max_drawdown_pct": -21.62,
+    "monthly_var_95_pct": -5.8,
+    "sharpe_ratio": 0.59,
+    "quant_score": 88.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 241200,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 303510
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1206000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1513530
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 2412000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 3027060
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 7236000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 9081180
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 12060000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 15135300
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127125,
+        "upper_90_yen": 147365,
+        "lower_10_yen": 109881
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 268412,
+        "upper_90_yen": 329966,
+        "lower_10_yen": 219265
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 425439,
+        "upper_90_yen": 548325,
+        "lower_10_yen": 332226
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 599960,
+        "upper_90_yen": 805896,
+        "lower_10_yen": 450505
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 793924,
+        "upper_90_yen": 1107297,
+        "lower_10_yen": 575353
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1009496,
+        "upper_90_yen": 1458074,
+        "lower_10_yen": 707856
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1249085,
+        "upper_90_yen": 1864681,
+        "lower_10_yen": 849050
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1515365,
+        "upper_90_yen": 2334541,
+        "lower_10_yen": 999975
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1811311,
+        "upper_90_yen": 2876131,
+        "lower_10_yen": 1161708
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2140227,
+        "upper_90_yen": 3499108,
+        "lower_10_yen": 1335383
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シキボウ(3109)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シキボウ(3109)を1株(1,005円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,005円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは16.13%、幾何成長率は5.59%",
+      "新NISAで月1万円の配当金を得るには2,400株（約2,412,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シキボウは単元未満株（S株・かぶミニ等）を利用することで1株（約1,005円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,140,227円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り4.98%）です。月次95%VaR（最大想定損失率）は-5.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シキボウは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,005円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約2,412,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1005.0
+  }
+}

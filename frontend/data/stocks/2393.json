@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2393",
+    "name": "日本ケアサプライ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3885.0,
+    "min_s_kabu_yen": 3885,
+    "unit_lot_yen": 388500,
+    "dps_yen": 74.0,
+    "dividend_yield_pct": 1.9,
+    "raw_annual_return_pct": 22.88,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.48,
+    "annual_volatility_pct": 22.44,
+    "max_drawdown_pct": -14.88,
+    "monthly_var_95_pct": -4.66,
+    "sharpe_ratio": 0.82,
+    "quant_score": 63.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 163,
+        "nisa_required_capital_yen": 633255,
+        "specific_required_shares": 204,
+        "specific_required_capital_yen": 792540
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 811,
+        "nisa_required_capital_yen": 3150735,
+        "specific_required_shares": 1018,
+        "specific_required_capital_yen": 3954930
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 6301470,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 7909860
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4865,
+        "nisa_required_capital_yen": 18900525,
+        "specific_required_shares": 6106,
+        "specific_required_capital_yen": 23721810
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8109,
+        "nisa_required_capital_yen": 31503465,
+        "specific_required_shares": 10176,
+        "specific_required_capital_yen": 39533760
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133495,
+        "upper_90_yen": 164294,
+        "lower_10_yen": 108881
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 295551,
+        "upper_90_yen": 396077,
+        "lower_10_yen": 222313
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 492278,
+        "upper_90_yen": 707538,
+        "lower_10_yen": 346655
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 731095,
+        "upper_90_yen": 1118228,
+        "lower_10_yen": 485595
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1021006,
+        "upper_90_yen": 1653786,
+        "lower_10_yen": 642590
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1372943,
+        "upper_90_yen": 2346930,
+        "lower_10_yen": 821337
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1800176,
+        "upper_90_yen": 3239053,
+        "lower_10_yen": 1025990
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2318815,
+        "upper_90_yen": 4382325,
+        "lower_10_yen": 1261321
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2948415,
+        "upper_90_yen": 5842352,
+        "lower_10_yen": 1532874
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3712716,
+        "upper_90_yen": 7701518,
+        "lower_10_yen": 1847134
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本ケアサプライ(2393)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本ケアサプライ(2393)を1株(3,885円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,885円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.44%、幾何成長率は17.48%",
+      "新NISAで月1万円の配当金を得るには1,622株（約6,301,470円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本ケアサプライは単元未満株（S株・かぶミニ等）を利用することで1株（約3,885円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,712,716円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり74.0円（利回り1.9%）です。月次95%VaR（最大想定損失率）は-4.66%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本ケアサプライは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,885円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,622株（元本目安：約6,301,470円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3885.0
+  }
+}

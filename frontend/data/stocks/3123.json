@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3123",
+    "name": "サイボー",
+    "sector": "繊維製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 618.0,
+    "min_s_kabu_yen": 618,
+    "unit_lot_yen": 61800,
+    "dps_yen": 18.0,
+    "dividend_yield_pct": 2.91,
+    "raw_annual_return_pct": 9.53,
+    "capped_annual_return_pct": 9.53,
+    "geometric_growth_pct": 7.93,
+    "annual_volatility_pct": 17.89,
+    "max_drawdown_pct": -20.72,
+    "monthly_var_95_pct": -4.56,
+    "sharpe_ratio": 0.55,
+    "quant_score": 69.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 412206,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 517266
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 2060412,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 2585712
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 4120206,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 5170806
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 12360000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 15511182
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 33334,
+        "nisa_required_capital_yen": 20600412,
+        "specific_required_shares": 41832,
+        "specific_required_capital_yen": 25852176
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127323,
+        "upper_90_yen": 150023,
+        "lower_10_yen": 108321
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 269233,
+        "upper_90_yen": 338658,
+        "lower_10_yen": 215155
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 427400,
+        "upper_90_yen": 566686,
+        "lower_10_yen": 324912
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 603687,
+        "upper_90_yen": 838187,
+        "lower_10_yen": 439411
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 800169,
+        "upper_90_yen": 1158589,
+        "lower_10_yen": 559931
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1019162,
+        "upper_90_yen": 1534425,
+        "lower_10_yen": 687558
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1263242,
+        "upper_90_yen": 1973332,
+        "lower_10_yen": 823316
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1535285,
+        "upper_90_yen": 2484127,
+        "lower_10_yen": 968223
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1838493,
+        "upper_90_yen": 3076933,
+        "lower_10_yen": 1123328
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2176438,
+        "upper_90_yen": 3763331,
+        "lower_10_yen": 1289732
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サイボー(3123)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サイボー(3123)を1株(618円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小618円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.89%、幾何成長率は7.93%",
+      "新NISAで月1万円の配当金を得るには6,667株（約4,120,206円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サイボーは単元未満株（S株・かぶミニ等）を利用することで1株（約618円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,176,438円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり18.0円（利回り2.91%）です。月次95%VaR（最大想定損失率）は-4.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サイボーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約618円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,667株（元本目安：約4,120,206円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 618.0
+  }
+}

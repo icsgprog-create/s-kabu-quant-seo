@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2503",
+    "name": "キリンホールディングス",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3179.0,
+    "min_s_kabu_yen": 3179,
+    "unit_lot_yen": 317900,
+    "dps_yen": 76.0,
+    "dividend_yield_pct": 2.39,
+    "raw_annual_return_pct": 14.08,
+    "capped_annual_return_pct": 14.08,
+    "geometric_growth_pct": 12.1,
+    "annual_volatility_pct": 19.89,
+    "max_drawdown_pct": -15.8,
+    "monthly_var_95_pct": -6.32,
+    "sharpe_ratio": 0.68,
+    "quant_score": 66.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 158,
+        "nisa_required_capital_yen": 502282,
+        "specific_required_shares": 199,
+        "specific_required_capital_yen": 632621
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 790,
+        "nisa_required_capital_yen": 2511410,
+        "specific_required_shares": 991,
+        "specific_required_capital_yen": 3150389
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1579,
+        "nisa_required_capital_yen": 5019641,
+        "specific_required_shares": 1982,
+        "specific_required_capital_yen": 6300778
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4737,
+        "nisa_required_capital_yen": 15058923,
+        "specific_required_shares": 5945,
+        "specific_required_capital_yen": 18899155
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7895,
+        "nisa_required_capital_yen": 25098205,
+        "specific_required_shares": 9908,
+        "specific_required_capital_yen": 31497532
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129911,
+        "upper_90_yen": 156014,
+        "lower_10_yen": 108499
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280080,
+        "upper_90_yen": 362150,
+        "lower_10_yen": 217994
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 453665,
+        "upper_90_yen": 622914,
+        "lower_10_yen": 333606
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 654317,
+        "upper_90_yen": 947286,
+        "lower_10_yen": 457775
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 886258,
+        "upper_90_yen": 1346821,
+        "lower_10_yen": 592462
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1154366,
+        "upper_90_yen": 1835652,
+        "lower_10_yen": 739546
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1464280,
+        "upper_90_yen": 2430791,
+        "lower_10_yen": 900965
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1822520,
+        "upper_90_yen": 3152584,
+        "lower_10_yen": 1078798
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2236621,
+        "upper_90_yen": 4025281,
+        "lower_10_yen": 1275323
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2715295,
+        "upper_90_yen": 5077733,
+        "lower_10_yen": 1493063
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "キリンホールディングス(2503)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "キリンホールディングス(2503)を1株(3,179円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,179円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.89%、幾何成長率は12.1%",
+      "新NISAで月1万円の配当金を得るには1,579株（約5,019,641円）が必要"
+    ],
+    "accumulation_strategy_analysis": "キリンホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,179円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,715,295円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり76.0円（利回り2.39%）です。月次95%VaR（最大想定損失率）は-6.32%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "キリンホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,179円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,579株（元本目安：約5,019,641円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3179.0
+  }
+}

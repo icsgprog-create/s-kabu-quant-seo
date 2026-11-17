@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3041",
+    "name": "ビューティカダンホールディングス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 352.0,
+    "min_s_kabu_yen": 352,
+    "unit_lot_yen": 35200,
+    "dps_yen": 5.25,
+    "dividend_yield_pct": 1.49,
+    "raw_annual_return_pct": 6.59,
+    "capped_annual_return_pct": 6.59,
+    "geometric_growth_pct": -15.48,
+    "annual_volatility_pct": 66.43,
+    "max_drawdown_pct": -86.28,
+    "monthly_var_95_pct": -26.91,
+    "sharpe_ratio": -0.23,
+    "quant_score": 11.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2286,
+        "nisa_required_capital_yen": 804672,
+        "specific_required_shares": 2869,
+        "specific_required_capital_yen": 1009888
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 11429,
+        "nisa_required_capital_yen": 4023008,
+        "specific_required_shares": 14343,
+        "specific_required_capital_yen": 5048736
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 22858,
+        "nisa_required_capital_yen": 8046016,
+        "specific_required_shares": 28685,
+        "specific_required_capital_yen": 10097120
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 68572,
+        "nisa_required_capital_yen": 24137344,
+        "specific_required_shares": 86054,
+        "specific_required_capital_yen": 30291008
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 114286,
+        "nisa_required_capital_yen": 40228672,
+        "specific_required_shares": 143422,
+        "specific_required_capital_yen": 50484544
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111335,
+        "upper_90_yen": 204562,
+        "lower_10_yen": 62691
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 208140,
+        "upper_90_yen": 482116,
+        "lower_10_yen": 96791
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 292310,
+        "upper_90_yen": 808409,
+        "lower_10_yen": 118633
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 365495,
+        "upper_90_yen": 1171026,
+        "lower_10_yen": 133466
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 429128,
+        "upper_90_yen": 1560927,
+        "lower_10_yen": 143886
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 484456,
+        "upper_90_yen": 1970866,
+        "lower_10_yen": 151373
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 532563,
+        "upper_90_yen": 2394807,
+        "lower_10_yen": 156845
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 574391,
+        "upper_90_yen": 2827634,
+        "lower_10_yen": 160895
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 610760,
+        "upper_90_yen": 3264982,
+        "lower_10_yen": 163925
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 642383,
+        "upper_90_yen": 3703126,
+        "lower_10_yen": 166211
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビューティカダンホールディングス(3041)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビューティカダンホールディングス(3041)を1株(352円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小352円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは66.43%、幾何成長率は-15.48%",
+      "新NISAで月1万円の配当金を得るには22,858株（約8,046,016円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビューティカダンホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約352円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は642,383円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.25円（利回り1.49%）です。月次95%VaR（最大想定損失率）は-26.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビューティカダンホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約352円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、22,858株（元本目安：約8,046,016円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 352.0
+  }
+}

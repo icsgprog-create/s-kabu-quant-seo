@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1848",
+    "name": "富士ピー・エス",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 677.0,
+    "min_s_kabu_yen": 677,
+    "unit_lot_yen": 67700,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 3.69,
+    "raw_annual_return_pct": 8.35,
+    "capped_annual_return_pct": 8.35,
+    "geometric_growth_pct": 5.18,
+    "annual_volatility_pct": 25.17,
+    "max_drawdown_pct": -32.48,
+    "monthly_var_95_pct": -7.64,
+    "sharpe_ratio": 0.31,
+    "quant_score": 62.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 324960,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 408231
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 1624800,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 2039124
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 3249600,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 4078248
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 9748800,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 12234744
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 16248000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 20390563
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125951,
+        "upper_90_yen": 158693,
+        "lower_10_yen": 100445
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 263590,
+        "upper_90_yen": 364105,
+        "lower_10_yen": 192804
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 414003,
+        "upper_90_yen": 615733,
+        "lower_10_yen": 282791
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 578375,
+        "upper_90_yen": 917477,
+        "lower_10_yen": 372386
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 758002,
+        "upper_90_yen": 1274828,
+        "lower_10_yen": 462721
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 954299,
+        "upper_90_yen": 1694458,
+        "lower_10_yen": 554582
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1168814,
+        "upper_90_yen": 2184150,
+        "lower_10_yen": 648583
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1403237,
+        "upper_90_yen": 2752833,
+        "lower_10_yen": 745244
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1659415,
+        "upper_90_yen": 3410668,
+        "lower_10_yen": 845032
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1939368,
+        "upper_90_yen": 4169168,
+        "lower_10_yen": 948383
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "富士ピー・エス(1848)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "富士ピー・エス(1848)を1株(677円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小677円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.17%、幾何成長率は5.18%",
+      "新NISAで月1万円の配当金を得るには4,800株（約3,249,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "富士ピー・エスは単元未満株（S株・かぶミニ等）を利用することで1株（約677円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,939,368円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り3.69%）です。月次95%VaR（最大想定損失率）は-7.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "富士ピー・エスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約677円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約3,249,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 677.0
+  }
+}

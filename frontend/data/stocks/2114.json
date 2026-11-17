@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2114",
+    "name": "フジ日本",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 625.0,
+    "min_s_kabu_yen": 625,
+    "unit_lot_yen": 62500,
+    "dps_yen": 18.5,
+    "dividend_yield_pct": 2.96,
+    "raw_annual_return_pct": 19.19,
+    "capped_annual_return_pct": 19.19,
+    "geometric_growth_pct": 17.12,
+    "annual_volatility_pct": 20.36,
+    "max_drawdown_pct": -25.65,
+    "monthly_var_95_pct": -6.93,
+    "sharpe_ratio": 0.94,
+    "quant_score": 76.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 649,
+        "nisa_required_capital_yen": 405625,
+        "specific_required_shares": 815,
+        "specific_required_capital_yen": 509375
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3244,
+        "nisa_required_capital_yen": 2027500,
+        "specific_required_shares": 4071,
+        "specific_required_capital_yen": 2544375
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6487,
+        "nisa_required_capital_yen": 4054375,
+        "specific_required_shares": 8141,
+        "specific_required_capital_yen": 5088125
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 19460,
+        "nisa_required_capital_yen": 12162500,
+        "specific_required_shares": 24421,
+        "specific_required_capital_yen": 15263125
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 32433,
+        "nisa_required_capital_yen": 20270625,
+        "specific_required_shares": 40701,
+        "specific_required_capital_yen": 25438125
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134009,
+        "upper_90_yen": 161784,
+        "lower_10_yen": 111349
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 297815,
+        "upper_90_yen": 388448,
+        "lower_10_yen": 229839
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 498043,
+        "upper_90_yen": 692270,
+        "lower_10_yen": 361868
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 742790,
+        "upper_90_yen": 1092587,
+        "lower_10_yen": 511562
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1041956,
+        "upper_90_yen": 1614762,
+        "lower_10_yen": 683014
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1407640,
+        "upper_90_yen": 2291241,
+        "lower_10_yen": 880742
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1854633,
+        "upper_90_yen": 3163210,
+        "lower_10_yen": 1109930
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2401012,
+        "upper_90_yen": 4282763,
+        "lower_10_yen": 1376631
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3068877,
+        "upper_90_yen": 5715658,
+        "lower_10_yen": 1687971
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3885238,
+        "upper_90_yen": 7544795,
+        "lower_10_yen": 2052374
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フジ日本(2114)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フジ日本(2114)を1株(625円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小625円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.36%、幾何成長率は17.12%",
+      "新NISAで月1万円の配当金を得るには6,487株（約4,054,375円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フジ日本は単元未満株（S株・かぶミニ等）を利用することで1株（約625円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,885,238円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり18.5円（利回り2.96%）です。月次95%VaR（最大想定損失率）は-6.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フジ日本は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約625円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,487株（元本目安：約4,054,375円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 625.0
+  }
+}

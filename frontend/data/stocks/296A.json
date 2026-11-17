@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "296A",
+    "name": "令和アカウンティング・ホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 898.0,
+    "min_s_kabu_yen": 898,
+    "unit_lot_yen": 89800,
+    "dps_yen": 36.5,
+    "dividend_yield_pct": 4.06,
+    "raw_annual_return_pct": 38.48,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 5.71,
+    "annual_volatility_pct": 53.46,
+    "max_drawdown_pct": -27.59,
+    "monthly_var_95_pct": -14.13,
+    "sharpe_ratio": 0.16,
+    "quant_score": 41.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 329,
+        "nisa_required_capital_yen": 295442,
+        "specific_required_shares": 413,
+        "specific_required_capital_yen": 370874
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 1476312,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 1852574
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3288,
+        "nisa_required_capital_yen": 2952624,
+        "specific_required_shares": 4126,
+        "specific_required_capital_yen": 3705148
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9864,
+        "nisa_required_capital_yen": 8857872,
+        "specific_required_shares": 12378,
+        "specific_required_capital_yen": 11115444
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16439,
+        "nisa_required_capital_yen": 14762222,
+        "specific_required_shares": 20630,
+        "specific_required_capital_yen": 18525740
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126574,
+        "upper_90_yen": 208013,
+        "lower_10_yen": 78705
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266143,
+        "upper_90_yen": 535328,
+        "lower_10_yen": 138600
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 420042,
+        "upper_90_yen": 994991,
+        "lower_10_yen": 190325
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 589741,
+        "upper_90_yen": 1612201,
+        "lower_10_yen": 237111
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 776863,
+        "upper_90_yen": 2419368,
+        "lower_10_yen": 280584
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 983197,
+        "upper_90_yen": 3456169,
+        "lower_10_yen": 321718
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1210716,
+        "upper_90_yen": 4770409,
+        "lower_10_yen": 361164
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1461593,
+        "upper_90_yen": 6419262,
+        "lower_10_yen": 399385
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1738228,
+        "upper_90_yen": 8470819,
+        "lower_10_yen": 436729
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2043265,
+        "upper_90_yen": 11005929,
+        "lower_10_yen": 473470
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "令和アカウンティング・ホールディングス(296A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "令和アカウンティング・ホールディングス(296A)を1株(898円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小898円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.46%、幾何成長率は5.71%",
+      "新NISAで月1万円の配当金を得るには3,288株（約2,952,624円）が必要"
+    ],
+    "accumulation_strategy_analysis": "令和アカウンティング・ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約898円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,043,265円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.5円（利回り4.06%）です。月次95%VaR（最大想定損失率）は-14.13%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "令和アカウンティング・ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約898円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,288株（元本目安：約2,952,624円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 898.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2117",
+    "name": "ウェルネオシュガー",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2821.0,
+    "min_s_kabu_yen": 2821,
+    "unit_lot_yen": 282100,
+    "dps_yen": 118.0,
+    "dividend_yield_pct": 4.18,
+    "raw_annual_return_pct": 14.8,
+    "capped_annual_return_pct": 14.8,
+    "geometric_growth_pct": 13.11,
+    "annual_volatility_pct": 18.37,
+    "max_drawdown_pct": -16.97,
+    "monthly_var_95_pct": -6.03,
+    "sharpe_ratio": 0.89,
+    "quant_score": 87.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 102,
+        "nisa_required_capital_yen": 287742,
+        "specific_required_shares": 128,
+        "specific_required_capital_yen": 361088
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 509,
+        "nisa_required_capital_yen": 1435889,
+        "specific_required_shares": 639,
+        "specific_required_capital_yen": 1802619
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1017,
+        "nisa_required_capital_yen": 2868957,
+        "specific_required_shares": 1277,
+        "specific_required_capital_yen": 3602417
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3051,
+        "nisa_required_capital_yen": 8606871,
+        "specific_required_shares": 3829,
+        "specific_required_capital_yen": 10801609
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5085,
+        "nisa_required_capital_yen": 14344785,
+        "specific_required_shares": 6382,
+        "specific_required_capital_yen": 18003622
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131949,
+        "upper_90_yen": 156298,
+        "lower_10_yen": 111676
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288811,
+        "upper_90_yen": 366494,
+        "lower_10_yen": 228825
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 475291,
+        "upper_90_yen": 638064,
+        "lower_10_yen": 356934
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 696980,
+        "upper_90_yen": 983529,
+        "lower_10_yen": 499240
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 960527,
+        "upper_90_yen": 1419018,
+        "lower_10_yen": 658773
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1273835,
+        "upper_90_yen": 1964607,
+        "lower_10_yen": 838729
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1646299,
+        "upper_90_yen": 2645023,
+        "lower_10_yen": 1042654
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2089089,
+        "upper_90_yen": 3490589,
+        "lower_10_yen": 1274561
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2615483,
+        "upper_90_yen": 4538393,
+        "lower_10_yen": 1539045
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3241266,
+        "upper_90_yen": 5833740,
+        "lower_10_yen": 1841398
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ウェルネオシュガー(2117)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ウェルネオシュガー(2117)を1株(2,821円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,821円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.37%、幾何成長率は13.11%",
+      "新NISAで月1万円の配当金を得るには1,017株（約2,868,957円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ウェルネオシュガーは単元未満株（S株・かぶミニ等）を利用することで1株（約2,821円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,241,266円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり118.0円（利回り4.18%）です。月次95%VaR（最大想定損失率）は-6.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ウェルネオシュガーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,821円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,017株（元本目安：約2,868,957円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2821.0
+  }
+}

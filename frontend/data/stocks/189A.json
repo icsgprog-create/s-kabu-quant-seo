@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "189A",
+    "name": "Ｄ＆Ｍカンパニー",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1075.0,
+    "min_s_kabu_yen": 1075,
+    "unit_lot_yen": 107500,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 1.86,
+    "raw_annual_return_pct": -2.25,
+    "capped_annual_return_pct": -2.25,
+    "geometric_growth_pct": -11.99,
+    "annual_volatility_pct": 44.13,
+    "max_drawdown_pct": -46.71,
+    "monthly_var_95_pct": -15.1,
+    "sharpe_ratio": -0.25,
+    "quant_score": 15.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 645000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 809475
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 3225000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 4047375
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 6450000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 8094750
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 19350000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 24283175
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 32250000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 40472675
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113643,
+        "upper_90_yen": 169832,
+        "lower_10_yen": 77193
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 216341,
+        "upper_90_yen": 376489,
+        "lower_10_yen": 128452
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 309148,
+        "upper_90_yen": 604735,
+        "lower_10_yen": 166287
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 393017,
+        "upper_90_yen": 847539,
+        "lower_10_yen": 195311
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 468808,
+        "upper_90_yen": 1100217,
+        "lower_10_yen": 218078
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 537300,
+        "upper_90_yen": 1359276,
+        "lower_10_yen": 236209
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 599196,
+        "upper_90_yen": 1621973,
+        "lower_10_yen": 250807
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 655130,
+        "upper_90_yen": 1886097,
+        "lower_10_yen": 262663
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 705677,
+        "upper_90_yen": 2149833,
+        "lower_10_yen": 272358
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 751356,
+        "upper_90_yen": 2411686,
+        "lower_10_yen": 280332
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｄ＆Ｍカンパニー(189A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｄ＆Ｍカンパニー(189A)を1株(1,075円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,075円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.13%、幾何成長率は-11.99%",
+      "新NISAで月1万円の配当金を得るには6,000株（約6,450,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｄ＆Ｍカンパニーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,075円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は751,356円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り1.86%）です。月次95%VaR（最大想定損失率）は-15.1%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｄ＆Ｍカンパニーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,075円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約6,450,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1075.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2981",
+    "name": "ランディックス",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1922.0,
+    "min_s_kabu_yen": 1922,
+    "unit_lot_yen": 192200,
+    "dps_yen": 53.0,
+    "dividend_yield_pct": 2.76,
+    "raw_annual_return_pct": 6.1,
+    "capped_annual_return_pct": 6.1,
+    "geometric_growth_pct": -3.28,
+    "annual_volatility_pct": 43.31,
+    "max_drawdown_pct": -54.65,
+    "monthly_var_95_pct": -20.6,
+    "sharpe_ratio": -0.04,
+    "quant_score": 27.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 227,
+        "nisa_required_capital_yen": 436294,
+        "specific_required_shares": 285,
+        "specific_required_capital_yen": 547770
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1133,
+        "nisa_required_capital_yen": 2177626,
+        "specific_required_shares": 1421,
+        "specific_required_capital_yen": 2731162
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2265,
+        "nisa_required_capital_yen": 4353330,
+        "specific_required_shares": 2842,
+        "specific_required_capital_yen": 5462324
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6793,
+        "nisa_required_capital_yen": 13056146,
+        "specific_required_shares": 8525,
+        "specific_required_capital_yen": 16385050
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11321,
+        "nisa_required_capital_yen": 21758962,
+        "specific_required_shares": 14207,
+        "specific_required_capital_yen": 27305854
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119660,
+        "upper_90_yen": 178053,
+        "lower_10_yen": 81579
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238694,
+        "upper_90_yen": 414928,
+        "lower_10_yen": 141648
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 357106,
+        "upper_90_yen": 701743,
+        "lower_10_yen": 190658
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 474899,
+        "upper_90_yen": 1036527,
+        "lower_10_yen": 232178
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 592077,
+        "upper_90_yen": 1418992,
+        "lower_10_yen": 268129
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 708641,
+        "upper_90_yen": 1849592,
+        "lower_10_yen": 299720
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 824597,
+        "upper_90_yen": 2329195,
+        "lower_10_yen": 327782
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 939946,
+        "upper_90_yen": 2858929,
+        "lower_10_yen": 352920
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1054692,
+        "upper_90_yen": 3440101,
+        "lower_10_yen": 375593
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1168838,
+        "upper_90_yen": 4074155,
+        "lower_10_yen": 396156
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ランディックス(2981)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ランディックス(2981)を1株(1,922円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,922円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.31%、幾何成長率は-3.28%",
+      "新NISAで月1万円の配当金を得るには2,265株（約4,353,330円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ランディックスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,922円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,168,838円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり53.0円（利回り2.76%）です。月次95%VaR（最大想定損失率）は-20.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ランディックスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,922円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,265株（元本目安：約4,353,330円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1922.0
+  }
+}

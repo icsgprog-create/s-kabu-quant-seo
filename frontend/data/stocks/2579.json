@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2579",
+    "name": "コカ・コーラ　ボトラーズジャパンホールディングス",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4604.0,
+    "min_s_kabu_yen": 4604,
+    "unit_lot_yen": 460400,
+    "dps_yen": 67.0,
+    "dividend_yield_pct": 1.46,
+    "raw_annual_return_pct": 25.57,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.18,
+    "annual_volatility_pct": 31.05,
+    "max_drawdown_pct": -22.47,
+    "monthly_var_95_pct": -9.31,
+    "sharpe_ratio": 0.5,
+    "quant_score": 43.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 180,
+        "nisa_required_capital_yen": 828720,
+        "specific_required_shares": 225,
+        "specific_required_capital_yen": 1035900
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 896,
+        "nisa_required_capital_yen": 4125184,
+        "specific_required_shares": 1124,
+        "specific_required_capital_yen": 5174896
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1792,
+        "nisa_required_capital_yen": 8250368,
+        "specific_required_shares": 2248,
+        "specific_required_capital_yen": 10349792
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5374,
+        "nisa_required_capital_yen": 24741896,
+        "specific_required_shares": 6743,
+        "specific_required_capital_yen": 31044772
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8956,
+        "nisa_required_capital_yen": 41233424,
+        "specific_required_shares": 11239,
+        "specific_required_capital_yen": 51744356
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131465,
+        "upper_90_yen": 175278,
+        "lower_10_yen": 99322
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 286721,
+        "upper_90_yen": 430029,
+        "lower_10_yen": 194147
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 470076,
+        "upper_90_yen": 776290,
+        "lower_10_yen": 291363
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 686613,
+        "upper_90_yen": 1234794,
+        "lower_10_yen": 393722
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 942338,
+        "upper_90_yen": 1832676,
+        "lower_10_yen": 503179
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1244343,
+        "upper_90_yen": 2604211,
+        "lower_10_yen": 621464
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1601004,
+        "upper_90_yen": 3592204,
+        "lower_10_yen": 750282
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2022213,
+        "upper_90_yen": 4849837,
+        "lower_10_yen": 891414
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2519650,
+        "upper_90_yen": 6442997,
+        "lower_10_yen": 1046790
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3107111,
+        "upper_90_yen": 8453154,
+        "lower_10_yen": 1218532
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コカ・コーラ　ボトラーズジャパンホールディングス(2579)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コカ・コーラ　ボトラーズジャパンホールディングス(2579)を1株(4,604円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,604円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.05%、幾何成長率は15.18%",
+      "新NISAで月1万円の配当金を得るには1,792株（約8,250,368円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コカ・コーラ　ボトラーズジャパンホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約4,604円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,107,111円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり67.0円（利回り1.46%）です。月次95%VaR（最大想定損失率）は-9.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コカ・コーラ　ボトラーズジャパンホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,604円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,792株（元本目安：約8,250,368円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4604.0
+  }
+}

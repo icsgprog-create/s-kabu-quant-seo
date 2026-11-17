@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2904",
+    "name": "一正蒲鉾",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 751.0,
+    "min_s_kabu_yen": 751,
+    "unit_lot_yen": 75100,
+    "dps_yen": 14.0,
+    "dividend_yield_pct": 1.86,
+    "raw_annual_return_pct": -2.28,
+    "capped_annual_return_pct": -2.28,
+    "geometric_growth_pct": -3.25,
+    "annual_volatility_pct": 13.94,
+    "max_drawdown_pct": -22.32,
+    "monthly_var_95_pct": -4.89,
+    "sharpe_ratio": -0.17,
+    "quant_score": 45.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 644358,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 808076
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 3218786,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 4039629
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 6437572,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 8078507
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 25715,
+        "nisa_required_capital_yen": 19311965,
+        "specific_required_shares": 32270,
+        "specific_required_capital_yen": 24234770
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 32186358,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 40391784
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119104,
+        "upper_90_yen": 135135,
+        "lower_10_yen": 105132
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 236571,
+        "upper_90_yen": 281645,
+        "lower_10_yen": 199354
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 352423,
+        "upper_90_yen": 435604,
+        "lower_10_yen": 286553
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 466682,
+        "upper_90_yen": 595478,
+        "lower_10_yen": 368227
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 579370,
+        "upper_90_yen": 760343,
+        "lower_10_yen": 445263
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 690509,
+        "upper_90_yen": 929554,
+        "lower_10_yen": 518268
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 800119,
+        "upper_90_yen": 1102624,
+        "lower_10_yen": 587694
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 908223,
+        "upper_90_yen": 1279164,
+        "lower_10_yen": 653897
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1014840,
+        "upper_90_yen": 1458852,
+        "lower_10_yen": 717163
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1119991,
+        "upper_90_yen": 1641416,
+        "lower_10_yen": 777731
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "一正蒲鉾(2904)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "一正蒲鉾(2904)を1株(751円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小751円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは13.94%、幾何成長率は-3.25%",
+      "新NISAで月1万円の配当金を得るには8,572株（約6,437,572円）が必要"
+    ],
+    "accumulation_strategy_analysis": "一正蒲鉾は単元未満株（S株・かぶミニ等）を利用することで1株（約751円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,119,991円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.0円（利回り1.86%）です。月次95%VaR（最大想定損失率）は-4.89%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "一正蒲鉾は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約751円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,572株（元本目安：約6,437,572円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 751.0
+  }
+}

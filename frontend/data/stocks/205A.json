@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "205A",
+    "name": "ロゴスホールディングス",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1382.0,
+    "min_s_kabu_yen": 1382,
+    "unit_lot_yen": 138200,
+    "dps_yen": 88.75,
+    "dividend_yield_pct": 6.42,
+    "raw_annual_return_pct": -10.82,
+    "capped_annual_return_pct": -10.82,
+    "geometric_growth_pct": -26.36,
+    "annual_volatility_pct": 55.75,
+    "max_drawdown_pct": -72.03,
+    "monthly_var_95_pct": -30.31,
+    "sharpe_ratio": -0.38,
+    "quant_score": 40.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 136,
+        "nisa_required_capital_yen": 187952,
+        "specific_required_shares": 170,
+        "specific_required_capital_yen": 234940
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 677,
+        "nisa_required_capital_yen": 935614,
+        "specific_required_shares": 849,
+        "specific_required_capital_yen": 1173318
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1353,
+        "nisa_required_capital_yen": 1869846,
+        "specific_required_shares": 1697,
+        "specific_required_capital_yen": 2345254
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4057,
+        "nisa_required_capital_yen": 5606774,
+        "specific_required_shares": 5091,
+        "specific_required_capital_yen": 7035762
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6761,
+        "nisa_required_capital_yen": 9343702,
+        "specific_required_shares": 8485,
+        "specific_required_capital_yen": 11726270
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107894,
+        "upper_90_yen": 178921,
+        "lower_10_yen": 66647
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 196285,
+        "upper_90_yen": 392438,
+        "lower_10_yen": 103495
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 268700,
+        "upper_90_yen": 617885,
+        "lower_10_yen": 126853
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 328025,
+        "upper_90_yen": 844889,
+        "lower_10_yen": 142403
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 376628,
+        "upper_90_yen": 1067191,
+        "lower_10_yen": 153054
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 416445,
+        "upper_90_yen": 1280816,
+        "lower_10_yen": 160490
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 449065,
+        "upper_90_yen": 1483269,
+        "lower_10_yen": 165754
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 475789,
+        "upper_90_yen": 1673072,
+        "lower_10_yen": 169522
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 497683,
+        "upper_90_yen": 1849476,
+        "lower_10_yen": 172243
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 515619,
+        "upper_90_yen": 2012248,
+        "lower_10_yen": 174221
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ロゴスホールディングス(205A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ロゴスホールディングス(205A)を1株(1,382円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,382円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは55.75%、幾何成長率は-26.36%",
+      "新NISAで月1万円の配当金を得るには1,353株（約1,869,846円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ロゴスホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,382円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は515,619円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり88.75円（利回り6.42%）です。月次95%VaR（最大想定損失率）は-30.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ロゴスホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,382円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,353株（元本目安：約1,869,846円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1382.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1938",
+    "name": "日本リーテック",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2629.0,
+    "min_s_kabu_yen": 2629,
+    "unit_lot_yen": 262900,
+    "dps_yen": 129.0,
+    "dividend_yield_pct": 4.91,
+    "raw_annual_return_pct": 14.8,
+    "capped_annual_return_pct": 14.8,
+    "geometric_growth_pct": 8.67,
+    "annual_volatility_pct": 35.02,
+    "max_drawdown_pct": -56.35,
+    "monthly_var_95_pct": -13.15,
+    "sharpe_ratio": 0.36,
+    "quant_score": 63.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 94,
+        "nisa_required_capital_yen": 247126,
+        "specific_required_shares": 117,
+        "specific_required_capital_yen": 307593
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 466,
+        "nisa_required_capital_yen": 1225114,
+        "specific_required_shares": 584,
+        "specific_required_capital_yen": 1535336
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 931,
+        "nisa_required_capital_yen": 2447599,
+        "specific_required_shares": 1168,
+        "specific_required_capital_yen": 3070672
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 7337539,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 9209387
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4652,
+        "nisa_required_capital_yen": 12230108,
+        "specific_required_shares": 5837,
+        "specific_required_capital_yen": 15345473
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129257,
+        "upper_90_yen": 178725,
+        "lower_10_yen": 94351
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 277311,
+        "upper_90_yen": 437436,
+        "lower_10_yen": 179311
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 446895,
+        "upper_90_yen": 784686,
+        "lower_10_yen": 262266
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 641142,
+        "upper_90_yen": 1237235,
+        "lower_10_yen": 345741
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 863638,
+        "upper_90_yen": 1816887,
+        "lower_10_yen": 431223
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1118489,
+        "upper_90_yen": 2550651,
+        "lower_10_yen": 519805
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1410403,
+        "upper_90_yen": 3471470,
+        "lower_10_yen": 612405
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1744769,
+        "upper_90_yen": 4619261,
+        "lower_10_yen": 709864
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2127761,
+        "upper_90_yen": 6042206,
+        "lower_10_yen": 812998
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2566449,
+        "upper_90_yen": 7798333,
+        "lower_10_yen": 922632
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本リーテック(1938)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本リーテック(1938)を1株(2,629円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,629円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.02%、幾何成長率は8.67%",
+      "新NISAで月1万円の配当金を得るには931株（約2,447,599円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本リーテックは単元未満株（S株・かぶミニ等）を利用することで1株（約2,629円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,566,449円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり129.0円（利回り4.91%）です。月次95%VaR（最大想定損失率）は-13.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本リーテックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,629円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、931株（元本目安：約2,447,599円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2629.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2221",
+    "name": "岩塚製菓",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2999.0,
+    "min_s_kabu_yen": 2999,
+    "unit_lot_yen": 299900,
+    "dps_yen": 32.0,
+    "dividend_yield_pct": 1.07,
+    "raw_annual_return_pct": 10.03,
+    "capped_annual_return_pct": 10.03,
+    "geometric_growth_pct": 8.86,
+    "annual_volatility_pct": 15.26,
+    "max_drawdown_pct": -15.71,
+    "monthly_var_95_pct": -4.23,
+    "sharpe_ratio": 0.58,
+    "quant_score": 57.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 1124625,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 1412529
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 5623125,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 7059646
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 11246250,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 14116293
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11250,
+        "nisa_required_capital_yen": 33738750,
+        "specific_required_shares": 14119,
+        "specific_required_capital_yen": 42342881
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18750,
+        "nisa_required_capital_yen": 56231250,
+        "specific_required_shares": 23531,
+        "specific_required_capital_yen": 70569469
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126682,
+        "upper_90_yen": 145676,
+        "lower_10_yen": 110359
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266586,
+        "upper_90_yen": 324014,
+        "lower_10_yen": 220169
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 421093,
+        "upper_90_yen": 535099,
+        "lower_10_yen": 333298
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 591726,
+        "upper_90_yen": 781730,
+        "lower_10_yen": 451379
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 780170,
+        "upper_90_yen": 1067715,
+        "lower_10_yen": 575571
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 988283,
+        "upper_90_yen": 1397631,
+        "lower_10_yen": 706869
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1218118,
+        "upper_90_yen": 1776785,
+        "lower_10_yen": 846207
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1471942,
+        "upper_90_yen": 2211242,
+        "lower_10_yen": 994515
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1752259,
+        "upper_90_yen": 2707889,
+        "lower_10_yen": 1152746
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2061835,
+        "upper_90_yen": 3274511,
+        "lower_10_yen": 1321898
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "岩塚製菓(2221)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "岩塚製菓(2221)を1株(2,999円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,999円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは15.26%、幾何成長率は8.86%",
+      "新NISAで月1万円の配当金を得るには3,750株（約11,246,250円）が必要"
+    ],
+    "accumulation_strategy_analysis": "岩塚製菓は単元未満株（S株・かぶミニ等）を利用することで1株（約2,999円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,061,835円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり32.0円（利回り1.07%）です。月次95%VaR（最大想定損失率）は-4.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "岩塚製菓は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,999円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,750株（元本目安：約11,246,250円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2999.0
+  }
+}

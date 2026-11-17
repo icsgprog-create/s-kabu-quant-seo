@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3001",
+    "name": "片倉工業",
+    "sector": "繊維製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3785.0,
+    "min_s_kabu_yen": 3785,
+    "unit_lot_yen": 378500,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 1.85,
+    "raw_annual_return_pct": 12.39,
+    "capped_annual_return_pct": 12.39,
+    "geometric_growth_pct": 8.75,
+    "annual_volatility_pct": 26.97,
+    "max_drawdown_pct": -36.95,
+    "monthly_var_95_pct": -9.19,
+    "sharpe_ratio": 0.36,
+    "quant_score": 46.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 651020,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 817560
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 3247530,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 4072660
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 6491275,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 8145320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 19466255,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 24428390
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 32445020,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 40715245
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127153,
+        "upper_90_yen": 162972,
+        "lower_10_yen": 99756
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 268531,
+        "upper_90_yen": 380159,
+        "lower_10_yen": 191935
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 425724,
+        "upper_90_yen": 653057,
+        "lower_10_yen": 282569
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 600501,
+        "upper_90_yen": 988228,
+        "lower_10_yen": 373771
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 794830,
+        "upper_90_yen": 1394413,
+        "lower_10_yen": 466794
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1010897,
+        "upper_90_yen": 1882208,
+        "lower_10_yen": 562543
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1251135,
+        "upper_90_yen": 2464099,
+        "lower_10_yen": 661764
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1518247,
+        "upper_90_yen": 3154636,
+        "lower_10_yen": 765122
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1815240,
+        "upper_90_yen": 3970674,
+        "lower_10_yen": 873242
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2145456,
+        "upper_90_yen": 4931677,
+        "lower_10_yen": 986739
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "片倉工業(3001)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "片倉工業(3001)を1株(3,785円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,785円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.97%、幾何成長率は8.75%",
+      "新NISAで月1万円の配当金を得るには1,715株（約6,491,275円）が必要"
+    ],
+    "accumulation_strategy_analysis": "片倉工業は単元未満株（S株・かぶミニ等）を利用することで1株（約3,785円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,145,456円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り1.85%）です。月次95%VaR（最大想定損失率）は-9.19%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "片倉工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,785円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約6,491,275円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3785.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3003",
+    "name": "ヒューリック",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1983.0,
+    "min_s_kabu_yen": 1983,
+    "unit_lot_yen": 198300,
+    "dps_yen": 73.0,
+    "dividend_yield_pct": 3.68,
+    "raw_annual_return_pct": 15.62,
+    "capped_annual_return_pct": 15.62,
+    "geometric_growth_pct": 13.2,
+    "annual_volatility_pct": 22.0,
+    "max_drawdown_pct": -21.2,
+    "monthly_var_95_pct": -6.73,
+    "sharpe_ratio": 0.72,
+    "quant_score": 75.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 165,
+        "nisa_required_capital_yen": 327195,
+        "specific_required_shares": 207,
+        "specific_required_capital_yen": 410481
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 822,
+        "nisa_required_capital_yen": 1630026,
+        "specific_required_shares": 1032,
+        "specific_required_capital_yen": 2046456
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 3260052,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 4090929
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4932,
+        "nisa_required_capital_yen": 9780156,
+        "specific_required_shares": 6189,
+        "specific_required_capital_yen": 12272787
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8220,
+        "nisa_required_capital_yen": 16300260,
+        "specific_required_shares": 10315,
+        "specific_required_capital_yen": 20454645
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131643,
+        "upper_90_yen": 161286,
+        "lower_10_yen": 107841
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287492,
+        "upper_90_yen": 382585,
+        "lower_10_yen": 217715
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 471996,
+        "upper_90_yen": 672032,
+        "lower_10_yen": 335401
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 690425,
+        "upper_90_yen": 1043649,
+        "lower_10_yen": 463849
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 949015,
+        "upper_90_yen": 1515596,
+        "lower_10_yen": 605588
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1255153,
+        "upper_90_yen": 2110541,
+        "lower_10_yen": 763162
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1617579,
+        "upper_90_yen": 2856458,
+        "lower_10_yen": 939302
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2046645,
+        "upper_90_yen": 3787701,
+        "lower_10_yen": 1137035
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2554602,
+        "upper_90_yen": 4946349,
+        "lower_10_yen": 1359769
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3155956,
+        "upper_90_yen": 6383855,
+        "lower_10_yen": 1611377
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヒューリック(3003)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヒューリック(3003)を1株(1,983円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,983円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.0%、幾何成長率は13.2%",
+      "新NISAで月1万円の配当金を得るには1,644株（約3,260,052円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヒューリックは単元未満株（S株・かぶミニ等）を利用することで1株（約1,983円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,155,956円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり73.0円（利回り3.68%）です。月次95%VaR（最大想定損失率）は-6.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヒューリックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,983円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,644株（元本目安：約3,260,052円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1983.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2911",
+    "name": "旭松食品",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2288.0,
+    "min_s_kabu_yen": 2288,
+    "unit_lot_yen": 228800,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 1.53,
+    "raw_annual_return_pct": 2.01,
+    "capped_annual_return_pct": 2.01,
+    "geometric_growth_pct": 1.71,
+    "annual_volatility_pct": 7.73,
+    "max_drawdown_pct": -5.14,
+    "monthly_var_95_pct": -1.67,
+    "sharpe_ratio": 0.29,
+    "quant_score": 54.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 784784,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 986128
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 3923920,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 4923776
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 7845552,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 9845264
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 23534368,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 29533504
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 39223184,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 49224032
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122132,
+        "upper_90_yen": 131007,
+        "lower_10_yen": 113909
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248288,
+        "upper_90_yen": 273629,
+        "lower_10_yen": 225517
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 378603,
+        "upper_90_yen": 426228,
+        "lower_10_yen": 336810
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 513212,
+        "upper_90_yen": 588426,
+        "lower_10_yen": 448530
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 652258,
+        "upper_90_yen": 760164,
+        "lower_10_yen": 561111
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 795886,
+        "upper_90_yen": 941529,
+        "lower_10_yen": 674859
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 944248,
+        "upper_90_yen": 1132691,
+        "lower_10_yen": 790007
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1097499,
+        "upper_90_yen": 1333878,
+        "lower_10_yen": 906747
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1255801,
+        "upper_90_yen": 1545362,
+        "lower_10_yen": 1025244
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1419321,
+        "upper_90_yen": 1767448,
+        "lower_10_yen": 1145644
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "旭松食品(2911)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "旭松食品(2911)を1株(2,288円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,288円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは7.73%、幾何成長率は1.71%",
+      "新NISAで月1万円の配当金を得るには3,429株（約7,845,552円）が必要"
+    ],
+    "accumulation_strategy_analysis": "旭松食品は単元未満株（S株・かぶミニ等）を利用することで1株（約2,288円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,419,321円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り1.53%）です。月次95%VaR（最大想定損失率）は-1.67%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "旭松食品は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,288円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約7,845,552円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2288.0
+  }
+}

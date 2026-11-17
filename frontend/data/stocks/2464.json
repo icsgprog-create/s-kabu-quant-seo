@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2464",
+    "name": "Ａｏｂａ‐ＢＢＴ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 364.0,
+    "min_s_kabu_yen": 364,
+    "unit_lot_yen": 36400,
+    "dps_yen": 11.0,
+    "dividend_yield_pct": 3.02,
+    "raw_annual_return_pct": -2.02,
+    "capped_annual_return_pct": -2.02,
+    "geometric_growth_pct": -4.81,
+    "annual_volatility_pct": 23.62,
+    "max_drawdown_pct": -38.05,
+    "monthly_var_95_pct": -7.67,
+    "sharpe_ratio": -0.12,
+    "quant_score": 47.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 397124,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 498680
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 1985620,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 2491944
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 3971240,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 4983524
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 32728,
+        "nisa_required_capital_yen": 11912992,
+        "specific_required_shares": 41071,
+        "specific_required_capital_yen": 14949844
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 54546,
+        "nisa_required_capital_yen": 19854744,
+        "specific_required_shares": 68452,
+        "specific_required_capital_yen": 24916528
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118845,
+        "upper_90_yen": 147318,
+        "lower_10_yen": 96286
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 235585,
+        "upper_90_yen": 317107,
+        "lower_10_yen": 176652
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 350256,
+        "upper_90_yen": 502801,
+        "lower_10_yen": 247517
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 462895,
+        "upper_90_yen": 701845,
+        "lower_10_yen": 311294
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 573539,
+        "upper_90_yen": 912701,
+        "lower_10_yen": 369377
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 682222,
+        "upper_90_yen": 1134295,
+        "lower_10_yen": 422701
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 788980,
+        "upper_90_yen": 1365806,
+        "lower_10_yen": 471945
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 893846,
+        "upper_90_yen": 1606577,
+        "lower_10_yen": 517630
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 996854,
+        "upper_90_yen": 1856058,
+        "lower_10_yen": 560170
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1098038,
+        "upper_90_yen": 2113777,
+        "lower_10_yen": 599904
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ａｏｂａ‐ＢＢＴ(2464)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ａｏｂａ‐ＢＢＴ(2464)を1株(364円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小364円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.62%、幾何成長率は-4.81%",
+      "新NISAで月1万円の配当金を得るには10,910株（約3,971,240円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ａｏｂａ‐ＢＢＴは単元未満株（S株・かぶミニ等）を利用することで1株（約364円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,098,038円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり11.0円（利回り3.02%）です。月次95%VaR（最大想定損失率）は-7.67%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ａｏｂａ‐ＢＢＴは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約364円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,910株（元本目安：約3,971,240円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 364.0
+  }
+}

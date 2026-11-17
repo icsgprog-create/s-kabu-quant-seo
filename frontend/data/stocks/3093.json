@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3093",
+    "name": "トレジャー・ファクトリー",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1883.0,
+    "min_s_kabu_yen": 1883,
+    "unit_lot_yen": 188300,
+    "dps_yen": 44.0,
+    "dividend_yield_pct": 2.34,
+    "raw_annual_return_pct": 28.76,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 9.65,
+    "annual_volatility_pct": 45.49,
+    "max_drawdown_pct": -41.17,
+    "monthly_var_95_pct": -16.36,
+    "sharpe_ratio": 0.24,
+    "quant_score": 29.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 273,
+        "nisa_required_capital_yen": 514059,
+        "specific_required_shares": 343,
+        "specific_required_capital_yen": 645869
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1364,
+        "nisa_required_capital_yen": 2568412,
+        "specific_required_shares": 1712,
+        "specific_required_capital_yen": 3223696
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 5136824,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 6445509
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8182,
+        "nisa_required_capital_yen": 15406706,
+        "specific_required_shares": 10268,
+        "specific_required_capital_yen": 19334644
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13637,
+        "nisa_required_capital_yen": 25678471,
+        "specific_required_shares": 17113,
+        "specific_required_capital_yen": 32223779
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128128,
+        "upper_90_yen": 195427,
+        "lower_10_yen": 85331
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 272578,
+        "upper_90_yen": 493762,
+        "lower_10_yen": 155595
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 435428,
+        "upper_90_yen": 906973,
+        "lower_10_yen": 219954
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 619022,
+        "upper_90_yen": 1457832,
+        "lower_10_yen": 281266
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 826003,
+        "upper_90_yen": 2175878,
+        "lower_10_yen": 341022
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1059350,
+        "upper_90_yen": 3097656,
+        "lower_10_yen": 400168
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1322421,
+        "upper_90_yen": 4267706,
+        "lower_10_yen": 459380
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1619003,
+        "upper_90_yen": 5739941,
+        "lower_10_yen": 519182
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1953365,
+        "upper_90_yen": 7579363,
+        "lower_10_yen": 580011
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2330318,
+        "upper_90_yen": 9864138,
+        "lower_10_yen": 642248
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "トレジャー・ファクトリー(3093)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "トレジャー・ファクトリー(3093)を1株(1,883円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,883円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.49%、幾何成長率は9.65%",
+      "新NISAで月1万円の配当金を得るには2,728株（約5,136,824円）が必要"
+    ],
+    "accumulation_strategy_analysis": "トレジャー・ファクトリーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,883円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,330,318円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり44.0円（利回り2.34%）です。月次95%VaR（最大想定損失率）は-16.36%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "トレジャー・ファクトリーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,883円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,728株（元本目安：約5,136,824円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1883.0
+  }
+}

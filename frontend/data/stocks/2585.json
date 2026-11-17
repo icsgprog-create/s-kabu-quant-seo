@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2585",
+    "name": "ライフドリンク　カンパニー",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1260.0,
+    "min_s_kabu_yen": 1260,
+    "unit_lot_yen": 126000,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 1.19,
+    "raw_annual_return_pct": 30.54,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 4.98,
+    "annual_volatility_pct": 54.81,
+    "max_drawdown_pct": -68.2,
+    "monthly_var_95_pct": -22.99,
+    "sharpe_ratio": 0.09,
+    "quant_score": 16.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 1008000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 1265040
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 5040000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 6325200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 10080000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 12650400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 30240000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 37949940
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 50400000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 63249480
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124097,
+        "upper_90_yen": 206259,
+        "lower_10_yen": 76389
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 256092,
+        "upper_90_yen": 522295,
+        "lower_10_yen": 131889
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 396485,
+        "upper_90_yen": 953095,
+        "lower_10_yen": 177827
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 545813,
+        "upper_90_yen": 1513899,
+        "lower_10_yen": 217704
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 704643,
+        "upper_90_yen": 2224429,
+        "lower_10_yen": 253289
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 873581,
+        "upper_90_yen": 3108226,
+        "lower_10_yen": 285640
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1053269,
+        "upper_90_yen": 4192701,
+        "lower_10_yen": 315460
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1244391,
+        "upper_90_yen": 5509439,
+        "lower_10_yen": 343238
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1447675,
+        "upper_90_yen": 7094626,
+        "lower_10_yen": 369339
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1663896,
+        "upper_90_yen": 8989571,
+        "lower_10_yen": 394037
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ライフドリンク　カンパニー(2585)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ライフドリンク　カンパニー(2585)を1株(1,260円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,260円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは54.81%、幾何成長率は4.98%",
+      "新NISAで月1万円の配当金を得るには8,000株（約10,080,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ライフドリンク　カンパニーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,260円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,663,896円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り1.19%）です。月次95%VaR（最大想定損失率）は-22.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ライフドリンク　カンパニーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,260円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約10,080,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1260.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2749",
+    "name": "ＪＰホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 604.0,
+    "min_s_kabu_yen": 604,
+    "unit_lot_yen": 60400,
+    "dps_yen": 13.5,
+    "dividend_yield_pct": 2.24,
+    "raw_annual_return_pct": 18.4,
+    "capped_annual_return_pct": 18.4,
+    "geometric_growth_pct": 13.21,
+    "annual_volatility_pct": 32.22,
+    "max_drawdown_pct": -32.33,
+    "monthly_var_95_pct": -10.54,
+    "sharpe_ratio": 0.45,
+    "quant_score": 46.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 889,
+        "nisa_required_capital_yen": 536956,
+        "specific_required_shares": 1116,
+        "specific_required_capital_yen": 674064
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 2684780,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 3369112
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8889,
+        "nisa_required_capital_yen": 5368956,
+        "specific_required_shares": 11156,
+        "specific_required_capital_yen": 6738224
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 26667,
+        "nisa_required_capital_yen": 16106868,
+        "specific_required_shares": 33466,
+        "specific_required_capital_yen": 20213464
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 44445,
+        "nisa_required_capital_yen": 26844780,
+        "specific_required_shares": 55776,
+        "specific_required_capital_yen": 33688704
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130601,
+        "upper_90_yen": 175986,
+        "lower_10_yen": 97682
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 283015,
+        "upper_90_yen": 430727,
+        "lower_10_yen": 189085
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 460887,
+        "upper_90_yen": 774700,
+        "lower_10_yen": 281192
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 668467,
+        "upper_90_yen": 1226734,
+        "lower_10_yen": 376611
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 910720,
+        "upper_90_yen": 1811389,
+        "lower_10_yen": 477066
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1193435,
+        "upper_90_yen": 2559430,
+        "lower_10_yen": 583984
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1523370,
+        "upper_90_yen": 3508903,
+        "lower_10_yen": 698696
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1908414,
+        "upper_90_yen": 4706593,
+        "lower_10_yen": 822541
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2357770,
+        "upper_90_yen": 6209850,
+        "lower_10_yen": 956919
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2882180,
+        "upper_90_yen": 8088826,
+        "lower_10_yen": 1103332
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＪＰホールディングス(2749)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＪＰホールディングス(2749)を1株(604円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小604円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.22%、幾何成長率は13.21%",
+      "新NISAで月1万円の配当金を得るには8,889株（約5,368,956円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＪＰホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約604円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,882,180円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり13.5円（利回り2.24%）です。月次95%VaR（最大想定損失率）は-10.54%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＪＰホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約604円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,889株（元本目安：約5,368,956円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 604.0
+  }
+}

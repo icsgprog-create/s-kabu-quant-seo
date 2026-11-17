@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2340",
+    "name": "極楽湯ホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 502.0,
+    "min_s_kabu_yen": 502,
+    "unit_lot_yen": 50200,
+    "dps_yen": 6.0,
+    "dividend_yield_pct": 1.2,
+    "raw_annual_return_pct": 10.65,
+    "capped_annual_return_pct": 10.65,
+    "geometric_growth_pct": 7.82,
+    "annual_volatility_pct": 23.82,
+    "max_drawdown_pct": -29.77,
+    "monthly_var_95_pct": -8.97,
+    "sharpe_ratio": 0.34,
+    "quant_score": 44.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 1004000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 1260020
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 5020000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 6300100
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 10040000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 12599698
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 30120000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 37799094
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 100000,
+        "nisa_required_capital_yen": 50200000,
+        "specific_required_shares": 125495,
+        "specific_required_capital_yen": 62998490
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126045,
+        "upper_90_yen": 156837,
+        "lower_10_yen": 101736
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 263976,
+        "upper_90_yen": 358295,
+        "lower_10_yen": 196292
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 414913,
+        "upper_90_yen": 603908,
+        "lower_10_yen": 289119
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 580084,
+        "upper_90_yen": 897374,
+        "lower_10_yen": 382132
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 760830,
+        "upper_90_yen": 1243895,
+        "lower_10_yen": 476450
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 958621,
+        "upper_90_yen": 1649793,
+        "lower_10_yen": 572865
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1175062,
+        "upper_90_yen": 2122436,
+        "lower_10_yen": 672011
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1411914,
+        "upper_90_yen": 2670277,
+        "lower_10_yen": 774436
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1671100,
+        "upper_90_yen": 3302932,
+        "lower_10_yen": 880644
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1954728,
+        "upper_90_yen": 4031291,
+        "lower_10_yen": 991113
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "極楽湯ホールディングス(2340)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "極楽湯ホールディングス(2340)を1株(502円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小502円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.82%、幾何成長率は7.82%",
+      "新NISAで月1万円の配当金を得るには20,000株（約10,040,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "極楽湯ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約502円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,954,728円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり6.0円（利回り1.2%）です。月次95%VaR（最大想定損失率）は-8.97%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "極楽湯ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約502円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、20,000株（元本目安：約10,040,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 502.0
+  }
+}

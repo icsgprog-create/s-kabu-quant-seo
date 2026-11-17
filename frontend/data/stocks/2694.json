@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2694",
+    "name": "焼肉坂井ホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 70.0,
+    "min_s_kabu_yen": 70,
+    "unit_lot_yen": 7000,
+    "dps_yen": 0.5,
+    "dividend_yield_pct": 0.71,
+    "raw_annual_return_pct": 0.1,
+    "capped_annual_return_pct": 0.1,
+    "geometric_growth_pct": -1.63,
+    "annual_volatility_pct": 18.55,
+    "max_drawdown_pct": -28.62,
+    "monthly_var_95_pct": -5.41,
+    "sharpe_ratio": -0.1,
+    "quant_score": 34.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 1680000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 2108330
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 8400000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 10541510
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 240000,
+        "nisa_required_capital_yen": 16800000,
+        "specific_required_shares": 301186,
+        "specific_required_capital_yen": 21083020
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 720000,
+        "nisa_required_capital_yen": 50400000,
+        "specific_required_shares": 903558,
+        "specific_required_capital_yen": 63249060
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1200000,
+        "nisa_required_capital_yen": 84000000,
+        "specific_required_shares": 1505930,
+        "specific_required_capital_yen": 105415100
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119409,
+        "upper_90_yen": 141322,
+        "lower_10_yen": 101161
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 237735,
+        "upper_90_yen": 300127,
+        "lower_10_yen": 189393
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 354987,
+        "upper_90_yen": 471351,
+        "lower_10_yen": 269723
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 471175,
+        "upper_90_yen": 653066,
+        "lower_10_yen": 344038
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 586309,
+        "upper_90_yen": 844140,
+        "lower_10_yen": 413431
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 700398,
+        "upper_90_yen": 1043797,
+        "lower_10_yen": 478638
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 813451,
+        "upper_90_yen": 1251463,
+        "lower_10_yen": 540195
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 925479,
+        "upper_90_yen": 1466683,
+        "lower_10_yen": 598518
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1036490,
+        "upper_90_yen": 1689089,
+        "lower_10_yen": 653935
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1146494,
+        "upper_90_yen": 1918371,
+        "lower_10_yen": 706719
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "焼肉坂井ホールディングス(2694)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "焼肉坂井ホールディングス(2694)を1株(70円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小70円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.55%、幾何成長率は-1.63%",
+      "新NISAで月1万円の配当金を得るには240,000株（約16,800,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "焼肉坂井ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約70円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,146,494円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.5円（利回り0.71%）です。月次95%VaR（最大想定損失率）は-5.41%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "焼肉坂井ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約70円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、240,000株（元本目安：約16,800,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 70.0
+  }
+}

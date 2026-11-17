@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2982",
+    "name": "ＡＤワークスグループ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 388.0,
+    "min_s_kabu_yen": 388,
+    "unit_lot_yen": 38800,
+    "dps_yen": 32.0,
+    "dividend_yield_pct": 8.25,
+    "raw_annual_return_pct": 21.94,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.27,
+    "annual_volatility_pct": 33.86,
+    "max_drawdown_pct": -39.59,
+    "monthly_var_95_pct": -9.57,
+    "sharpe_ratio": 0.64,
+    "quant_score": 72.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 145500,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 182748
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 727500,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 913352
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 1455000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 1826316
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11250,
+        "nisa_required_capital_yen": 4365000,
+        "specific_required_shares": 14119,
+        "specific_required_capital_yen": 5478172
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18750,
+        "nisa_required_capital_yen": 7275000,
+        "specific_required_shares": 23531,
+        "specific_required_capital_yen": 9130028
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135849,
+        "upper_90_yen": 186244,
+        "lower_10_yen": 99946
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 306003,
+        "upper_90_yen": 478498,
+        "lower_10_yen": 199264
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 519122,
+        "upper_90_yen": 905086,
+        "lower_10_yen": 305900
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 786058,
+        "upper_90_yen": 1510329,
+        "lower_10_yen": 423758
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1120398,
+        "upper_90_yen": 2354832,
+        "lower_10_yen": 556238
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1539164,
+        "upper_90_yen": 3519869,
+        "lower_10_yen": 706867
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2063675,
+        "upper_90_yen": 5113692,
+        "lower_10_yen": 879580
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2720633,
+        "upper_90_yen": 7279956,
+        "lower_10_yen": 1078917
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3543483,
+        "upper_90_yen": 10208835,
+        "lower_10_yen": 1310196
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4574114,
+        "upper_90_yen": 14151601,
+        "lower_10_yen": 1579711
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＡＤワークスグループ(2982)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＡＤワークスグループ(2982)を1株(388円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小388円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.86%、幾何成長率は14.27%",
+      "新NISAで月1万円の配当金を得るには3,750株（約1,455,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＡＤワークスグループは単元未満株（S株・かぶミニ等）を利用することで1株（約388円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,574,114円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり32.0円（利回り8.25%）です。月次95%VaR（最大想定損失率）は-9.57%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＡＤワークスグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約388円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,750株（元本目安：約1,455,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 388.0
+  }
+}

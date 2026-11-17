@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3024",
+    "name": "クリエイト",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1116.0,
+    "min_s_kabu_yen": 1116,
+    "unit_lot_yen": 111600,
+    "dps_yen": 49.0,
+    "dividend_yield_pct": 4.39,
+    "raw_annual_return_pct": 15.7,
+    "capped_annual_return_pct": 15.7,
+    "geometric_growth_pct": 12.38,
+    "annual_volatility_pct": 25.78,
+    "max_drawdown_pct": -30.83,
+    "monthly_var_95_pct": -8.44,
+    "sharpe_ratio": 0.61,
+    "quant_score": 74.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 245,
+        "nisa_required_capital_yen": 273420,
+        "specific_required_shares": 308,
+        "specific_required_capital_yen": 343728
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1225,
+        "nisa_required_capital_yen": 1367100,
+        "specific_required_shares": 1537,
+        "specific_required_capital_yen": 1715292
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2449,
+        "nisa_required_capital_yen": 2733084,
+        "specific_required_shares": 3074,
+        "specific_required_capital_yen": 3430584
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7347,
+        "nisa_required_capital_yen": 8199252,
+        "specific_required_shares": 9220,
+        "specific_required_capital_yen": 10289520
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12245,
+        "nisa_required_capital_yen": 13665420,
+        "specific_required_shares": 15367,
+        "specific_required_capital_yen": 17149572
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131561,
+        "upper_90_yen": 166973,
+        "lower_10_yen": 104180
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287137,
+        "upper_90_yen": 401644,
+        "lower_10_yen": 207472
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 471110,
+        "upper_90_yen": 713525,
+        "lower_10_yen": 316092
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 688666,
+        "upper_90_yen": 1119108,
+        "lower_10_yen": 432864
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 945933,
+        "upper_90_yen": 1639859,
+        "lower_10_yen": 560025
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1250160,
+        "upper_90_yen": 2302709,
+        "lower_10_yen": 699712
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1609920,
+        "upper_90_yen": 3141056,
+        "lower_10_yen": 854149
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2035348,
+        "upper_90_yen": 4196111,
+        "lower_10_yen": 1025745
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2538432,
+        "upper_90_yen": 5518584,
+        "lower_10_yen": 1217175
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3133347,
+        "upper_90_yen": 7170762,
+        "lower_10_yen": 1431442
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クリエイト(3024)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クリエイト(3024)を1株(1,116円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,116円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.78%、幾何成長率は12.38%",
+      "新NISAで月1万円の配当金を得るには2,449株（約2,733,084円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クリエイトは単元未満株（S株・かぶミニ等）を利用することで1株（約1,116円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,133,347円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり49.0円（利回り4.39%）です。月次95%VaR（最大想定損失率）は-8.44%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クリエイトは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,116円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,449株（元本目安：約2,733,084円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1116.0
+  }
+}

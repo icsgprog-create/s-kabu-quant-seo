@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2933",
+    "name": "紀文食品",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1050.0,
+    "min_s_kabu_yen": 1050,
+    "unit_lot_yen": 105000,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 2.19,
+    "raw_annual_return_pct": 1.54,
+    "capped_annual_return_pct": 1.54,
+    "geometric_growth_pct": -0.55,
+    "annual_volatility_pct": 20.46,
+    "max_drawdown_pct": -27.44,
+    "monthly_var_95_pct": -8.45,
+    "sharpe_ratio": 0.03,
+    "quant_score": 47.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 548100,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 687750
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 2739450,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 3437700
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 5478900,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 6875400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 16435650,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 20625150
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 27391350,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 34374900
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121072,
+        "upper_90_yen": 145876,
+        "lower_10_yen": 100807
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 244146,
+        "upper_90_yen": 316178,
+        "lower_10_yen": 189834
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 369255,
+        "upper_90_yen": 506173,
+        "lower_10_yen": 272263
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 496433,
+        "upper_90_yen": 714479,
+        "lower_10_yen": 349941
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 625713,
+        "upper_90_yen": 940545,
+        "lower_10_yen": 423895
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 757131,
+        "upper_90_yen": 1184195,
+        "lower_10_yen": 494797
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 890722,
+        "upper_90_yen": 1445462,
+        "lower_10_yen": 563119
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1026522,
+        "upper_90_yen": 1724515,
+        "lower_10_yen": 629218
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1164567,
+        "upper_90_yen": 2021615,
+        "lower_10_yen": 693371
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1304895,
+        "upper_90_yen": 2337096,
+        "lower_10_yen": 755799
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "紀文食品(2933)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "紀文食品(2933)を1株(1,050円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,050円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.46%、幾何成長率は-0.55%",
+      "新NISAで月1万円の配当金を得るには5,218株（約5,478,900円）が必要"
+    ],
+    "accumulation_strategy_analysis": "紀文食品は単元未満株（S株・かぶミニ等）を利用することで1株（約1,050円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,304,895円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り2.19%）です。月次95%VaR（最大想定損失率）は-8.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "紀文食品は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,050円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約5,478,900円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1050.0
+  }
+}

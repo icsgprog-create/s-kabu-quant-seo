@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2433",
+    "name": "博報堂ＤＹホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1455.5,
+    "min_s_kabu_yen": 1456,
+    "unit_lot_yen": 145550,
+    "dps_yen": 32.0,
+    "dividend_yield_pct": 2.2,
+    "raw_annual_return_pct": -1.32,
+    "capped_annual_return_pct": -1.32,
+    "geometric_growth_pct": -5.93,
+    "annual_volatility_pct": 30.39,
+    "max_drawdown_pct": -48.6,
+    "monthly_var_95_pct": -15.71,
+    "sharpe_ratio": -0.16,
+    "quant_score": 33.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 545812,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 685540
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 2729062,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 3426247
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 5458125,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 6851038
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11250,
+        "nisa_required_capital_yen": 16374375,
+        "specific_required_shares": 14119,
+        "specific_required_capital_yen": 20550204
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18750,
+        "nisa_required_capital_yen": 27290625,
+        "specific_required_shares": 23531,
+        "specific_required_capital_yen": 34249370
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117603,
+        "upper_90_yen": 155083,
+        "lower_10_yen": 89815
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 230894,
+        "upper_90_yen": 338533,
+        "lower_10_yen": 159924
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 340031,
+        "upper_90_yen": 541442,
+        "lower_10_yen": 218697
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 445166,
+        "upper_90_yen": 760146,
+        "lower_10_yen": 269283
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 546447,
+        "upper_90_yen": 992333,
+        "lower_10_yen": 313492
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 644013,
+        "upper_90_yen": 1236315,
+        "lower_10_yen": 352531
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 738003,
+        "upper_90_yen": 1490758,
+        "lower_10_yen": 387266
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 828546,
+        "upper_90_yen": 1754556,
+        "lower_10_yen": 418356
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 915769,
+        "upper_90_yen": 2026761,
+        "lower_10_yen": 446315
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 999794,
+        "upper_90_yen": 2306540,
+        "lower_10_yen": 471559
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "博報堂ＤＹホールディングス(2433)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "博報堂ＤＹホールディングス(2433)を1株(1,456円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,456円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.39%、幾何成長率は-5.93%",
+      "新NISAで月1万円の配当金を得るには3,750株（約5,458,125円）が必要"
+    ],
+    "accumulation_strategy_analysis": "博報堂ＤＹホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,456円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は999,794円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり32.0円（利回り2.2%）です。月次95%VaR（最大想定損失率）は-15.71%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "博報堂ＤＹホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,456円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,750株（元本目安：約5,458,125円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1455.5
+  }
+}

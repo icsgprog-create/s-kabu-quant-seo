@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "220A",
+    "name": "Ｆａｂｅｒ　Ｃｏｍｐａｎｙ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 956.0,
+    "min_s_kabu_yen": 956,
+    "unit_lot_yen": 95600,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 6.28,
+    "raw_annual_return_pct": -6.01,
+    "capped_annual_return_pct": -6.01,
+    "geometric_growth_pct": -13.66,
+    "annual_volatility_pct": 39.13,
+    "max_drawdown_pct": -39.5,
+    "monthly_var_95_pct": -8.83,
+    "sharpe_ratio": -0.21,
+    "quant_score": 45.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 191200,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 239956
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 956000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 1199780
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 1912000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 2399560
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 5736000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 7198680
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 9560000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 11997800
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115319,
+        "upper_90_yen": 164694,
+        "lower_10_yen": 81703
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 222426,
+        "upper_90_yen": 363873,
+        "lower_10_yen": 139497
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 321906,
+        "upper_90_yen": 584890,
+        "lower_10_yen": 184365
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 414302,
+        "upper_90_yen": 822111,
+        "lower_10_yen": 220406
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 500118,
+        "upper_90_yen": 1071811,
+        "lower_10_yen": 249933
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 579823,
+        "upper_90_yen": 1331193,
+        "lower_10_yen": 274449
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 653853,
+        "upper_90_yen": 1598019,
+        "lower_10_yen": 295004
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 722610,
+        "upper_90_yen": 1870433,
+        "lower_10_yen": 312370
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 786472,
+        "upper_90_yen": 2146861,
+        "lower_10_yen": 327133
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 845786,
+        "upper_90_yen": 2425948,
+        "lower_10_yen": 339746
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｆａｂｅｒ　Ｃｏｍｐａｎｙ(220A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｆａｂｅｒ　Ｃｏｍｐａｎｙ(220A)を1株(956円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小956円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.13%、幾何成長率は-13.66%",
+      "新NISAで月1万円の配当金を得るには2,000株（約1,912,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｆａｂｅｒ　Ｃｏｍｐａｎｙは単元未満株（S株・かぶミニ等）を利用することで1株（約956円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は845,786円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り6.28%）です。月次95%VaR（最大想定損失率）は-8.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｆａｂｅｒ　Ｃｏｍｐａｎｙは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約956円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約1,912,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 956.0
+  }
+}

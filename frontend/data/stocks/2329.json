@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2329",
+    "name": "東北新社",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 449.0,
+    "min_s_kabu_yen": 449,
+    "unit_lot_yen": 44900,
+    "dps_yen": 27.08,
+    "dividend_yield_pct": 6.03,
+    "raw_annual_return_pct": 19.97,
+    "capped_annual_return_pct": 19.97,
+    "geometric_growth_pct": 15.49,
+    "annual_volatility_pct": 29.94,
+    "max_drawdown_pct": -33.79,
+    "monthly_var_95_pct": -8.87,
+    "sharpe_ratio": 0.69,
+    "quant_score": 77.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 444,
+        "nisa_required_capital_yen": 199356,
+        "specific_required_shares": 557,
+        "specific_required_capital_yen": 250093
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2216,
+        "nisa_required_capital_yen": 994984,
+        "specific_required_shares": 2781,
+        "specific_required_capital_yen": 1248669
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4432,
+        "nisa_required_capital_yen": 1989968,
+        "specific_required_shares": 5562,
+        "specific_required_capital_yen": 2497338
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13294,
+        "nisa_required_capital_yen": 5969006,
+        "specific_required_shares": 16684,
+        "specific_required_capital_yen": 7491116
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 22157,
+        "nisa_required_capital_yen": 9948493,
+        "specific_required_shares": 27806,
+        "specific_required_capital_yen": 12484894
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135092,
+        "upper_90_yen": 178443,
+        "lower_10_yen": 102962
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 302614,
+        "upper_90_yen": 448639,
+        "lower_10_yen": 207034
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 510352,
+        "upper_90_yen": 832281,
+        "lower_10_yen": 319657
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 767961,
+        "upper_90_yen": 1363479,
+        "lower_10_yen": 444695
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1087413,
+        "upper_90_yen": 2088197,
+        "lower_10_yen": 585601
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1483554,
+        "upper_90_yen": 3067049,
+        "lower_10_yen": 746007
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1974794,
+        "upper_90_yen": 4379389,
+        "lower_10_yen": 929975
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2583963,
+        "upper_90_yen": 6128726,
+        "lower_10_yen": 1142191
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3339372,
+        "upper_90_yen": 8449764,
+        "lower_10_yen": 1388135
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4276127,
+        "upper_90_yen": 11517510,
+        "lower_10_yen": 1674270
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東北新社(2329)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東北新社(2329)を1株(449円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小449円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.94%、幾何成長率は15.49%",
+      "新NISAで月1万円の配当金を得るには4,432株（約1,989,968円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東北新社は単元未満株（S株・かぶミニ等）を利用することで1株（約449円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,276,127円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり27.08円（利回り6.03%）です。月次95%VaR（最大想定損失率）は-8.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東北新社は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約449円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,432株（元本目安：約1,989,968円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 449.0
+  }
+}

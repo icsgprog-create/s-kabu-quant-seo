@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2173",
+    "name": "博展",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 750.0,
+    "min_s_kabu_yen": 750,
+    "unit_lot_yen": 75000,
+    "dps_yen": 29.0,
+    "dividend_yield_pct": 3.87,
+    "raw_annual_return_pct": 24.26,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.22,
+    "annual_volatility_pct": 41.91,
+    "max_drawdown_pct": -48.33,
+    "monthly_var_95_pct": -15.69,
+    "sharpe_ratio": 0.34,
+    "quant_score": 47.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 310500,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 390000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 1551750,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 1947750
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 3103500,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 3894750
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12414,
+        "nisa_required_capital_yen": 9310500,
+        "specific_required_shares": 15579,
+        "specific_required_capital_yen": 11684250
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 15517500,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 19473750
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130340,
+        "upper_90_yen": 192386,
+        "lower_10_yen": 89482
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281902,
+        "upper_90_yen": 488149,
+        "lower_10_yen": 167455
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 458143,
+        "upper_90_yen": 903858,
+        "lower_10_yen": 242348
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 663079,
+        "upper_90_yen": 1467954,
+        "lower_10_yen": 316928
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 901385,
+        "upper_90_yen": 2217730,
+        "lower_10_yen": 392769
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1178493,
+        "upper_90_yen": 3200379,
+        "lower_10_yen": 470998
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1500720,
+        "upper_90_yen": 4474926,
+        "lower_10_yen": 552537
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1875415,
+        "upper_90_yen": 6114797,
+        "lower_10_yen": 638219
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2311119,
+        "upper_90_yen": 8211021,
+        "lower_10_yen": 728844
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2817766,
+        "upper_90_yen": 10876183,
+        "lower_10_yen": 825218
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "博展(2173)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "博展(2173)を1株(750円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小750円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.91%、幾何成長率は11.22%",
+      "新NISAで月1万円の配当金を得るには4,138株（約3,103,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "博展は単元未満株（S株・かぶミニ等）を利用することで1株（約750円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,817,766円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり29.0円（利回り3.87%）です。月次95%VaR（最大想定損失率）は-15.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "博展は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約750円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,138株（元本目安：約3,103,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 750.0
+  }
+}

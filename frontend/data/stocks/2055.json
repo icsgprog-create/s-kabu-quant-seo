@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2055",
+    "name": "日和産業",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 326.0,
+    "min_s_kabu_yen": 326,
+    "unit_lot_yen": 32600,
+    "dps_yen": 6.0,
+    "dividend_yield_pct": 1.84,
+    "raw_annual_return_pct": 3.34,
+    "capped_annual_return_pct": 3.34,
+    "geometric_growth_pct": 0.62,
+    "annual_volatility_pct": 23.32,
+    "max_drawdown_pct": -33.59,
+    "monthly_var_95_pct": -8.14,
+    "sharpe_ratio": 0.06,
+    "quant_score": 43.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 652000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 818260
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 3260000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 4091300
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 6520000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 8182274
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 19560000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 24546822
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 100000,
+        "nisa_required_capital_yen": 32600000,
+        "specific_required_shares": 125495,
+        "specific_required_capital_yen": 40911370
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121614,
+        "upper_90_yen": 150452,
+        "lower_10_yen": 98712
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 246258,
+        "upper_90_yen": 330955,
+        "lower_10_yen": 184889
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 374009,
+        "upper_90_yen": 536637,
+        "lower_10_yen": 264294
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 504943,
+        "upper_90_yen": 766410,
+        "lower_10_yen": 338945
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 639140,
+        "upper_90_yen": 1020133,
+        "lower_10_yen": 409952
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 776681,
+        "upper_90_yen": 1298107,
+        "lower_10_yen": 478030
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 917650,
+        "upper_90_yen": 1600886,
+        "lower_10_yen": 543682
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1062132,
+        "upper_90_yen": 1929201,
+        "lower_10_yen": 607280
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1210215,
+        "upper_90_yen": 2283916,
+        "lower_10_yen": 669113
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1361988,
+        "upper_90_yen": 2666002,
+        "lower_10_yen": 729412
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日和産業(2055)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日和産業(2055)を1株(326円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小326円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.32%、幾何成長率は0.62%",
+      "新NISAで月1万円の配当金を得るには20,000株（約6,520,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日和産業は単元未満株（S株・かぶミニ等）を利用することで1株（約326円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,361,988円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり6.0円（利回り1.84%）です。月次95%VaR（最大想定損失率）は-8.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日和産業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約326円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、20,000株（元本目安：約6,520,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 326.0
+  }
+}

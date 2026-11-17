@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3097",
+    "name": "物語コーポレーション",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6290.0,
+    "min_s_kabu_yen": 6290,
+    "unit_lot_yen": 629000,
+    "dps_yen": 43.0,
+    "dividend_yield_pct": 0.68,
+    "raw_annual_return_pct": 19.31,
+    "capped_annual_return_pct": 19.31,
+    "geometric_growth_pct": 13.73,
+    "annual_volatility_pct": 33.4,
+    "max_drawdown_pct": -43.73,
+    "monthly_var_95_pct": -14.32,
+    "sharpe_ratio": 0.4,
+    "quant_score": 32.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 280,
+        "nisa_required_capital_yen": 1761200,
+        "specific_required_shares": 351,
+        "specific_required_capital_yen": 2207790
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1396,
+        "nisa_required_capital_yen": 8780840,
+        "specific_required_shares": 1752,
+        "specific_required_capital_yen": 11020080
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 17555390,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 22033870
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8373,
+        "nisa_required_capital_yen": 52666170,
+        "specific_required_shares": 10507,
+        "specific_required_capital_yen": 66089030
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13954,
+        "nisa_required_capital_yen": 87770660,
+        "specific_required_shares": 17511,
+        "specific_required_capital_yen": 110144190
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129853,
+        "upper_90_yen": 176891,
+        "lower_10_yen": 96130
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 279834,
+        "upper_90_yen": 432328,
+        "lower_10_yen": 184411
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 453061,
+        "upper_90_yen": 775530,
+        "lower_10_yen": 271977
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 653138,
+        "upper_90_yen": 1223864,
+        "lower_10_yen": 361361
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 884227,
+        "upper_90_yen": 1799941,
+        "lower_10_yen": 454138
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1151135,
+        "upper_90_yen": 2531891,
+        "lower_10_yen": 551533
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1459414,
+        "upper_90_yen": 3454220,
+        "lower_10_yen": 654632
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1815475,
+        "upper_90_yen": 4608989,
+        "lower_10_yen": 764475
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2226726,
+        "upper_90_yen": 6047294,
+        "lower_10_yen": 882115
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2701720,
+        "upper_90_yen": 7831066,
+        "lower_10_yen": 1008649
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "物語コーポレーション(3097)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "物語コーポレーション(3097)を1株(6,290円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,290円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.4%、幾何成長率は13.73%",
+      "新NISAで月1万円の配当金を得るには2,791株（約17,555,390円）が必要"
+    ],
+    "accumulation_strategy_analysis": "物語コーポレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約6,290円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,701,720円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり43.0円（利回り0.68%）です。月次95%VaR（最大想定損失率）は-14.32%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "物語コーポレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,290円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,791株（元本目安：約17,555,390円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6290.0
+  }
+}

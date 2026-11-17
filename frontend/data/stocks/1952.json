@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1952",
+    "name": "新日本空調",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3035.0,
+    "min_s_kabu_yen": 3035,
+    "unit_lot_yen": 303500,
+    "dps_yen": 130.0,
+    "dividend_yield_pct": 4.28,
+    "raw_annual_return_pct": 23.87,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.86,
+    "annual_volatility_pct": 35.05,
+    "max_drawdown_pct": -35.27,
+    "monthly_var_95_pct": -11.85,
+    "sharpe_ratio": 0.49,
+    "quant_score": 61.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 93,
+        "nisa_required_capital_yen": 282255,
+        "specific_required_shares": 116,
+        "specific_required_capital_yen": 352060
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 1402170,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 1760300
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 2804340,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 3517565
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2770,
+        "nisa_required_capital_yen": 8406950,
+        "specific_required_shares": 3476,
+        "specific_required_capital_yen": 10549660
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 14009560,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 17581755
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132570,
+        "upper_90_yen": 183594,
+        "lower_10_yen": 96616
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291507,
+        "upper_90_yen": 461673,
+        "lower_10_yen": 187705
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 482054,
+        "upper_90_yen": 852347,
+        "lower_10_yen": 280797
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 710500,
+        "upper_90_yen": 1385279,
+        "lower_10_yen": 378837
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 984382,
+        "upper_90_yen": 2099799,
+        "lower_10_yen": 483915
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1312736,
+        "upper_90_yen": 3046570,
+        "lower_10_yen": 597879
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1706396,
+        "upper_90_yen": 4290237,
+        "lower_10_yen": 722564
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2178352,
+        "upper_90_yen": 5912918,
+        "lower_10_yen": 859908
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2744176,
+        "upper_90_yen": 8018630,
+        "lower_10_yen": 1012024
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3422536,
+        "upper_90_yen": 10738863,
+        "lower_10_yen": 1181265
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "新日本空調(1952)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "新日本空調(1952)を1株(3,035円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,035円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.05%、幾何成長率は13.86%",
+      "新NISAで月1万円の配当金を得るには924株（約2,804,340円）が必要"
+    ],
+    "accumulation_strategy_analysis": "新日本空調は単元未満株（S株・かぶミニ等）を利用することで1株（約3,035円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,422,536円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり130.0円（利回り4.28%）です。月次95%VaR（最大想定損失率）は-11.85%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "新日本空調は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,035円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、924株（元本目安：約2,804,340円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3035.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1847",
+    "name": "イチケン",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3170.0,
+    "min_s_kabu_yen": 3170,
+    "unit_lot_yen": 317000,
+    "dps_yen": 122.5,
+    "dividend_yield_pct": 3.86,
+    "raw_annual_return_pct": 29.8,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.11,
+    "annual_volatility_pct": 24.04,
+    "max_drawdown_pct": -24.55,
+    "monthly_var_95_pct": -5.34,
+    "sharpe_ratio": 0.83,
+    "quant_score": 77.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 98,
+        "nisa_required_capital_yen": 310660,
+        "specific_required_shares": 123,
+        "specific_required_capital_yen": 389910
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 490,
+        "nisa_required_capital_yen": 1553300,
+        "specific_required_shares": 615,
+        "specific_required_capital_yen": 1949550
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 980,
+        "nisa_required_capital_yen": 3106600,
+        "specific_required_shares": 1230,
+        "specific_required_capital_yen": 3899100
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2939,
+        "nisa_required_capital_yen": 9316630,
+        "specific_required_shares": 3688,
+        "specific_required_capital_yen": 11690960
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4898,
+        "nisa_required_capital_yen": 15526660,
+        "specific_required_shares": 6147,
+        "specific_required_capital_yen": 19485990
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134683,
+        "upper_90_yen": 168311,
+        "lower_10_yen": 108242
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 300795,
+        "upper_90_yen": 412111,
+        "lower_10_yen": 221568
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 505670,
+        "upper_90_yen": 747368,
+        "lower_10_yen": 346864
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 758355,
+        "upper_90_yen": 1199161,
+        "lower_10_yen": 488267
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1070006,
+        "upper_90_yen": 1800804,
+        "lower_10_yen": 649772
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1454384,
+        "upper_90_yen": 2595555,
+        "lower_10_yen": 835740
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1928459,
+        "upper_90_yen": 3639162,
+        "lower_10_yen": 1051161
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2513163,
+        "upper_90_yen": 5003218,
+        "lower_10_yen": 1301861
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3234314,
+        "upper_90_yen": 6779476,
+        "lower_10_yen": 1594711
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4123751,
+        "upper_90_yen": 9085355,
+        "lower_10_yen": 1937860
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "イチケン(1847)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "イチケン(1847)を1株(3,170円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,170円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.04%、幾何成長率は17.11%",
+      "新NISAで月1万円の配当金を得るには980株（約3,106,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "イチケンは単元未満株（S株・かぶミニ等）を利用することで1株（約3,170円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,123,751円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり122.5円（利回り3.86%）です。月次95%VaR（最大想定損失率）は-5.34%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "イチケンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,170円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、980株（元本目安：約3,106,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3170.0
+  }
+}

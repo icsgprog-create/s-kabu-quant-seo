@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2053",
+    "name": "中部飼料",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2030.0,
+    "min_s_kabu_yen": 2030,
+    "unit_lot_yen": 203000,
+    "dps_yen": 76.0,
+    "dividend_yield_pct": 3.74,
+    "raw_annual_return_pct": 17.11,
+    "capped_annual_return_pct": 17.11,
+    "geometric_growth_pct": 14.26,
+    "annual_volatility_pct": 23.89,
+    "max_drawdown_pct": -22.76,
+    "monthly_var_95_pct": -6.39,
+    "sharpe_ratio": 0.71,
+    "quant_score": 73.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 158,
+        "nisa_required_capital_yen": 320740,
+        "specific_required_shares": 199,
+        "specific_required_capital_yen": 403970
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 790,
+        "nisa_required_capital_yen": 1603700,
+        "specific_required_shares": 991,
+        "specific_required_capital_yen": 2011730
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1579,
+        "nisa_required_capital_yen": 3205370,
+        "specific_required_shares": 1982,
+        "specific_required_capital_yen": 4023460
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4737,
+        "nisa_required_capital_yen": 9616110,
+        "specific_required_shares": 5945,
+        "specific_required_capital_yen": 12068350
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7895,
+        "nisa_required_capital_yen": 16026850,
+        "specific_required_shares": 9908,
+        "specific_required_capital_yen": 20113240
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132468,
+        "upper_90_yen": 165217,
+        "lower_10_yen": 106667
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291062,
+        "upper_90_yen": 397346,
+        "lower_10_yen": 215160
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 480936,
+        "upper_90_yen": 707013,
+        "lower_10_yen": 331671
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 708259,
+        "upper_90_yen": 1111882,
+        "lower_10_yen": 459376
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 980416,
+        "upper_90_yen": 1635004,
+        "lower_10_yen": 601029
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1306252,
+        "upper_90_yen": 2305510,
+        "lower_10_yen": 759425
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1696353,
+        "upper_90_yen": 3159848,
+        "lower_10_yen": 937602
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2163393,
+        "upper_90_yen": 4243420,
+        "lower_10_yen": 1138957
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2722547,
+        "upper_90_yen": 5612643,
+        "lower_10_yen": 1367353
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3391985,
+        "upper_90_yen": 7337510,
+        "lower_10_yen": 1627221
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "中部飼料(2053)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "中部飼料(2053)を1株(2,030円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,030円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.89%、幾何成長率は14.26%",
+      "新NISAで月1万円の配当金を得るには1,579株（約3,205,370円）が必要"
+    ],
+    "accumulation_strategy_analysis": "中部飼料は単元未満株（S株・かぶミニ等）を利用することで1株（約2,030円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,391,985円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり76.0円（利回り3.74%）です。月次95%VaR（最大想定損失率）は-6.39%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "中部飼料は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,030円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,579株（元本目安：約3,205,370円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2030.0
+  }
+}

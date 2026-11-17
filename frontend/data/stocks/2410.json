@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2410",
+    "name": "キャリアデザインセンター",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2182.0,
+    "min_s_kabu_yen": 2182,
+    "unit_lot_yen": 218200,
+    "dps_yen": 160.0,
+    "dividend_yield_pct": 7.33,
+    "raw_annual_return_pct": 19.05,
+    "capped_annual_return_pct": 19.05,
+    "geometric_growth_pct": 12.77,
+    "annual_volatility_pct": 35.46,
+    "max_drawdown_pct": -36.07,
+    "monthly_var_95_pct": -13.67,
+    "sharpe_ratio": 0.54,
+    "quant_score": 68.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 75,
+        "nisa_required_capital_yen": 163650,
+        "specific_required_shares": 95,
+        "specific_required_capital_yen": 207290
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 818250,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 1027722
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 1636500,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 2055444
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2250,
+        "nisa_required_capital_yen": 4909500,
+        "specific_required_shares": 2824,
+        "specific_required_capital_yen": 6161968
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 8182500,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 10270674
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134025,
+        "upper_90_yen": 186426,
+        "lower_10_yen": 97268
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 297884,
+        "upper_90_yen": 475088,
+        "lower_10_yen": 190543
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 498218,
+        "upper_90_yen": 889386,
+        "lower_10_yen": 287578
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 743146,
+        "upper_90_yen": 1466571,
+        "lower_10_yen": 391638
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1042595,
+        "upper_90_yen": 2256738,
+        "lower_10_yen": 505227
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1408701,
+        "upper_90_yen": 3325679,
+        "lower_10_yen": 630712
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1856302,
+        "upper_90_yen": 4759109,
+        "lower_10_yen": 770571
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2403539,
+        "upper_90_yen": 6668237,
+        "lower_10_yen": 927521
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3072590,
+        "upper_90_yen": 9196974,
+        "lower_10_yen": 1104627
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3890572,
+        "upper_90_yen": 12531173,
+        "lower_10_yen": 1305393
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "キャリアデザインセンター(2410)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "キャリアデザインセンター(2410)を1株(2,182円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,182円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.46%、幾何成長率は12.77%",
+      "新NISAで月1万円の配当金を得るには750株（約1,636,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "キャリアデザインセンターは単元未満株（S株・かぶミニ等）を利用することで1株（約2,182円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,890,572円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり160.0円（利回り7.33%）です。月次95%VaR（最大想定損失率）は-13.67%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "キャリアデザインセンターは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,182円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、750株（元本目安：約1,636,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2182.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1959",
+    "name": "クラフティア",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7607.0,
+    "min_s_kabu_yen": 7607,
+    "unit_lot_yen": 760700,
+    "dps_yen": 240.0,
+    "dividend_yield_pct": 3.15,
+    "raw_annual_return_pct": 18.46,
+    "capped_annual_return_pct": 18.46,
+    "geometric_growth_pct": 13.96,
+    "annual_volatility_pct": 29.98,
+    "max_drawdown_pct": -38.12,
+    "monthly_var_95_pct": -10.38,
+    "sharpe_ratio": 0.54,
+    "quant_score": 58.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 50,
+        "nisa_required_capital_yen": 380350,
+        "specific_required_shares": 63,
+        "specific_required_capital_yen": 479241
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 250,
+        "nisa_required_capital_yen": 1901750,
+        "specific_required_shares": 314,
+        "specific_required_capital_yen": 2388598
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 3803500,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 4777196
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 11410500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 14323981
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 19017500,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 23870766
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131819,
+        "upper_90_yen": 174006,
+        "lower_10_yen": 100538
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288248,
+        "upper_90_yen": 426321,
+        "lower_10_yen": 197716
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 473884,
+        "upper_90_yen": 769262,
+        "lower_10_yen": 298323
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 694179,
+        "upper_90_yen": 1223765,
+        "lower_10_yen": 405191
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 955605,
+        "upper_90_yen": 1817263,
+        "lower_10_yen": 520421
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1265839,
+        "upper_90_yen": 2584494,
+        "lower_10_yen": 645935
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1633996,
+        "upper_90_yen": 3568975,
+        "lower_10_yen": 783676
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2070890,
+        "upper_90_yen": 4824948,
+        "lower_10_yen": 935712
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2589354,
+        "upper_90_yen": 6419842,
+        "lower_10_yen": 1104313
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3204618,
+        "upper_90_yen": 8437315,
+        "lower_10_yen": 1292008
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クラフティア(1959)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クラフティア(1959)を1株(7,607円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,607円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.98%、幾何成長率は13.96%",
+      "新NISAで月1万円の配当金を得るには500株（約3,803,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クラフティアは単元未満株（S株・かぶミニ等）を利用することで1株（約7,607円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,204,618円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり240.0円（利回り3.15%）です。月次95%VaR（最大想定損失率）は-10.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クラフティアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,607円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、500株（元本目安：約3,803,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7607.0
+  }
+}

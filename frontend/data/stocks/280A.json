@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "280A",
+    "name": "ＴＭＨ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 956.0,
+    "min_s_kabu_yen": 956,
+    "unit_lot_yen": 95600,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -38.29,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -43.1,
+    "annual_volatility_pct": 74.96,
+    "max_drawdown_pct": -70.64,
+    "monthly_var_95_pct": -40.27,
+    "sharpe_ratio": -0.59,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 95748,
+        "upper_90_yen": 187481,
+        "lower_10_yen": 51092
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 157972,
+        "upper_90_yen": 389972,
+        "lower_10_yen": 70455
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 198409,
+        "upper_90_yen": 575259,
+        "lower_10_yen": 79347
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 224688,
+        "upper_90_yen": 734251,
+        "lower_10_yen": 83714
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 241767,
+        "upper_90_yen": 865646,
+        "lower_10_yen": 85943
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 252865,
+        "upper_90_yen": 971501,
+        "lower_10_yen": 87111
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 260078,
+        "upper_90_yen": 1055195,
+        "lower_10_yen": 87734
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 264765,
+        "upper_90_yen": 1120411,
+        "lower_10_yen": 88072
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 267811,
+        "upper_90_yen": 1170635,
+        "lower_10_yen": 88257
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 269791,
+        "upper_90_yen": 1208941,
+        "lower_10_yen": 88360
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＴＭＨ(280A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＴＭＨ(280A)を1株(956円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小956円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは74.96%、幾何成長率は-43.1%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＴＭＨは単元未満株（S株・かぶミニ等）を利用することで1株（約956円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は269,791円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-40.27%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＴＭＨは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約956円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 956.0
+  }
+}

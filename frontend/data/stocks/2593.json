@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2593",
+    "name": "伊藤園",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3430.0,
+    "min_s_kabu_yen": 3430,
+    "unit_lot_yen": 343000,
+    "dps_yen": 52.0,
+    "dividend_yield_pct": 1.52,
+    "raw_annual_return_pct": -14.52,
+    "capped_annual_return_pct": -14.52,
+    "geometric_growth_pct": -18.16,
+    "annual_volatility_pct": 27.0,
+    "max_drawdown_pct": -62.64,
+    "monthly_var_95_pct": -12.53,
+    "sharpe_ratio": -0.65,
+    "quant_score": 30.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 231,
+        "nisa_required_capital_yen": 792330,
+        "specific_required_shares": 290,
+        "specific_required_capital_yen": 994700
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1154,
+        "nisa_required_capital_yen": 3958220,
+        "specific_required_shares": 1449,
+        "specific_required_capital_yen": 4970070
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 7916440,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 9936710
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6924,
+        "nisa_required_capital_yen": 23749320,
+        "specific_required_shares": 8689,
+        "specific_required_capital_yen": 29803270
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11539,
+        "nisa_required_capital_yen": 39578770,
+        "specific_required_shares": 14481,
+        "specific_required_capital_yen": 49669830
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109780,
+        "upper_90_yen": 139939,
+        "lower_10_yen": 86608
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 202726,
+        "upper_90_yen": 282340,
+        "lower_10_yen": 147374
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 281421,
+        "upper_90_yen": 418706,
+        "lower_10_yen": 192832
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 348048,
+        "upper_90_yen": 546302,
+        "lower_10_yen": 227647
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 404459,
+        "upper_90_yen": 664091,
+        "lower_10_yen": 254679
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 452221,
+        "upper_90_yen": 771833,
+        "lower_10_yen": 275860
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 492658,
+        "upper_90_yen": 869723,
+        "lower_10_yen": 292571
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 526895,
+        "upper_90_yen": 958198,
+        "lower_10_yen": 305824
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 555883,
+        "upper_90_yen": 1037826,
+        "lower_10_yen": 316380
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 580425,
+        "upper_90_yen": 1109242,
+        "lower_10_yen": 324816
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "伊藤園(2593)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "伊藤園(2593)を1株(3,430円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,430円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.0%、幾何成長率は-18.16%",
+      "新NISAで月1万円の配当金を得るには2,308株（約7,916,440円）が必要"
+    ],
+    "accumulation_strategy_analysis": "伊藤園は単元未満株（S株・かぶミニ等）を利用することで1株（約3,430円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は580,425円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり52.0円（利回り1.52%）です。月次95%VaR（最大想定損失率）は-12.53%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "伊藤園は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,430円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,308株（元本目安：約7,916,440円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3430.0
+  }
+}

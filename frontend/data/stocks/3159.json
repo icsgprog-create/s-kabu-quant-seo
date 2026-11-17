@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3159",
+    "name": "丸善ＣＨＩホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 357.0,
+    "min_s_kabu_yen": 357,
+    "unit_lot_yen": 35700,
+    "dps_yen": 6.0,
+    "dividend_yield_pct": 1.68,
+    "raw_annual_return_pct": -0.14,
+    "capped_annual_return_pct": -0.14,
+    "geometric_growth_pct": -1.48,
+    "annual_volatility_pct": 16.37,
+    "max_drawdown_pct": -22.68,
+    "monthly_var_95_pct": -5.8,
+    "sharpe_ratio": -0.05,
+    "quant_score": 45.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 714000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 896070
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 3570000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 4480350
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 7140000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 8960343
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 21420000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 26881029
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 100000,
+        "nisa_required_capital_yen": 35700000,
+        "specific_required_shares": 125495,
+        "specific_required_capital_yen": 44801715
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120133,
+        "upper_90_yen": 139391,
+        "lower_10_yen": 103749
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 240514,
+        "upper_90_yen": 295465,
+        "lower_10_yen": 196654
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 361141,
+        "upper_90_yen": 463953,
+        "lower_10_yen": 283047
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 482016,
+        "upper_90_yen": 643320,
+        "lower_10_yen": 364526
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 603139,
+        "upper_90_yen": 832716,
+        "lower_10_yen": 442002
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 724511,
+        "upper_90_yen": 1031598,
+        "lower_10_yen": 516084
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 846132,
+        "upper_90_yen": 1239591,
+        "lower_10_yen": 587211
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 968003,
+        "upper_90_yen": 1456424,
+        "lower_10_yen": 655716
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1090124,
+        "upper_90_yen": 1681899,
+        "lower_10_yen": 721866
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1212496,
+        "upper_90_yen": 1915862,
+        "lower_10_yen": 785878
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "丸善ＣＨＩホールディングス(3159)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "丸善ＣＨＩホールディングス(3159)を1株(357円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小357円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは16.37%、幾何成長率は-1.48%",
+      "新NISAで月1万円の配当金を得るには20,000株（約7,140,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "丸善ＣＨＩホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約357円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,212,496円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり6.0円（利回り1.68%）です。月次95%VaR（最大想定損失率）は-5.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "丸善ＣＨＩホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約357円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、20,000株（元本目安：約7,140,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 357.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "130A",
+    "name": "Ｖｅｒｉｔａｓ　Ｉｎ　Ｓｉｌｉｃｏ",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 225.0,
+    "min_s_kabu_yen": 225,
+    "unit_lot_yen": 22500,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -87.41,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -40.33,
+    "annual_volatility_pct": 71.18,
+    "max_drawdown_pct": -92.91,
+    "monthly_var_95_pct": -38.68,
+    "sharpe_ratio": -0.58,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 97102,
+        "upper_90_yen": 183880,
+        "lower_10_yen": 53344
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 161977,
+        "upper_90_yen": 382884,
+        "lower_10_yen": 74735
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 205321,
+        "upper_90_yen": 566871,
+        "lower_10_yen": 85016
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 234280,
+        "upper_90_yen": 726906,
+        "lower_10_yen": 90282
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 253628,
+        "upper_90_yen": 861230,
+        "lower_10_yen": 93079
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 266555,
+        "upper_90_yen": 971277,
+        "lower_10_yen": 94602
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 275191,
+        "upper_90_yen": 1059844,
+        "lower_10_yen": 95447
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 280961,
+        "upper_90_yen": 1130145,
+        "lower_10_yen": 95921
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 284817,
+        "upper_90_yen": 1185330,
+        "lower_10_yen": 96191
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 287392,
+        "upper_90_yen": 1228250,
+        "lower_10_yen": 96346
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｖｅｒｉｔａｓ　Ｉｎ　Ｓｉｌｉｃｏ(130A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｖｅｒｉｔａｓ　Ｉｎ　Ｓｉｌｉｃｏ(130A)を1株(225円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小225円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは71.18%、幾何成長率は-40.33%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｖｅｒｉｔａｓ　Ｉｎ　Ｓｉｌｉｃｏは単元未満株（S株・かぶミニ等）を利用することで1株（約225円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は287,392円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-38.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｖｅｒｉｔａｓ　Ｉｎ　Ｓｉｌｉｃｏは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約225円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 225.0
+  }
+}

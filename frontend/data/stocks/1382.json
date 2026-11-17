@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1382",
+    "name": "ホーブ",
+    "sector": "水産・農林業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1135.0,
+    "min_s_kabu_yen": 1135,
+    "unit_lot_yen": 113500,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 4.41,
+    "raw_annual_return_pct": 6.52,
+    "capped_annual_return_pct": 6.52,
+    "geometric_growth_pct": -14.64,
+    "annual_volatility_pct": 65.06,
+    "max_drawdown_pct": -82.65,
+    "monthly_var_95_pct": -23.47,
+    "sharpe_ratio": -0.17,
+    "quant_score": 35.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 272400,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 342770
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1362000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1709310
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 2724000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 3418620
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 8172000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 10255860
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 13620000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 17093100
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113577,
+        "upper_90_yen": 206400,
+        "lower_10_yen": 64566
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 216104,
+        "upper_90_yen": 494319,
+        "lower_10_yen": 101424
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 308655,
+        "upper_90_yen": 843484,
+        "lower_10_yen": 126096
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 392202,
+        "upper_90_yen": 1244269,
+        "lower_10_yen": 143584
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 467621,
+        "upper_90_yen": 1689688,
+        "lower_10_yen": 156394
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 535701,
+        "upper_90_yen": 2173967,
+        "lower_10_yen": 165990
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 597158,
+        "upper_90_yen": 2692045,
+        "lower_10_yen": 173296
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 652636,
+        "upper_90_yen": 3239359,
+        "lower_10_yen": 178930
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 702715,
+        "upper_90_yen": 3811731,
+        "lower_10_yen": 183319
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 747923,
+        "upper_90_yen": 4405303,
+        "lower_10_yen": 186768
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ホーブ(1382)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ホーブ(1382)を1株(1,135円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,135円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは65.06%、幾何成長率は-14.64%",
+      "新NISAで月1万円の配当金を得るには2,400株（約2,724,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ホーブは単元未満株（S株・かぶミニ等）を利用することで1株（約1,135円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は747,923円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り4.41%）です。月次95%VaR（最大想定損失率）は-23.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ホーブは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,135円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約2,724,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1135.0
+  }
+}

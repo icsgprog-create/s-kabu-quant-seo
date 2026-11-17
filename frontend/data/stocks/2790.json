@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2790",
+    "name": "ナフコ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1954.0,
+    "min_s_kabu_yen": 1954,
+    "unit_lot_yen": 195400,
+    "dps_yen": 58.0,
+    "dividend_yield_pct": 2.97,
+    "raw_annual_return_pct": 5.58,
+    "capped_annual_return_pct": 5.58,
+    "geometric_growth_pct": 3.41,
+    "annual_volatility_pct": 20.83,
+    "max_drawdown_pct": -47.45,
+    "monthly_var_95_pct": -7.65,
+    "sharpe_ratio": 0.26,
+    "quant_score": 59.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 207,
+        "nisa_required_capital_yen": 404478,
+        "specific_required_shares": 260,
+        "specific_required_capital_yen": 508040
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1035,
+        "nisa_required_capital_yen": 2022390,
+        "specific_required_shares": 1299,
+        "specific_required_capital_yen": 2538246
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 4042826,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 5074538
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6207,
+        "nisa_required_capital_yen": 12128478,
+        "specific_required_shares": 7790,
+        "specific_required_capital_yen": 15221660
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10345,
+        "nisa_required_capital_yen": 20214130,
+        "specific_required_shares": 12983,
+        "specific_required_capital_yen": 25368782
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124238,
+        "upper_90_yen": 150306,
+        "lower_10_yen": 103030
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 256655,
+        "upper_90_yen": 334676,
+        "lower_10_yen": 198227
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 397791,
+        "upper_90_yen": 550676,
+        "lower_10_yen": 290500
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 548219,
+        "upper_90_yen": 799300,
+        "lower_10_yen": 381553
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 708551,
+        "upper_90_yen": 1082528,
+        "lower_10_yen": 472344
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 879439,
+        "upper_90_yen": 1402917,
+        "lower_10_yen": 563516
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1061578,
+        "upper_90_yen": 1763471,
+        "lower_10_yen": 655547
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1255709,
+        "upper_90_yen": 2167594,
+        "lower_10_yen": 748821
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1462621,
+        "upper_90_yen": 2619088,
+        "lower_10_yen": 843662
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1683156,
+        "upper_90_yen": 3122152,
+        "lower_10_yen": 940356
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ナフコ(2790)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ナフコ(2790)を1株(1,954円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,954円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.83%、幾何成長率は3.41%",
+      "新NISAで月1万円の配当金を得るには2,069株（約4,042,826円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ナフコは単元未満株（S株・かぶミニ等）を利用することで1株（約1,954円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,683,156円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり58.0円（利回り2.97%）です。月次95%VaR（最大想定損失率）は-7.65%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ナフコは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,954円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,069株（元本目安：約4,042,826円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1954.0
+  }
+}

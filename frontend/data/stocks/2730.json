@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2730",
+    "name": "エディオン",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2672.0,
+    "min_s_kabu_yen": 2672,
+    "unit_lot_yen": 267200,
+    "dps_yen": 55.0,
+    "dividend_yield_pct": 2.06,
+    "raw_annual_return_pct": 21.97,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 18.2,
+    "annual_volatility_pct": 18.99,
+    "max_drawdown_pct": -17.81,
+    "monthly_var_95_pct": -5.64,
+    "sharpe_ratio": 1.01,
+    "quant_score": 72.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 219,
+        "nisa_required_capital_yen": 585168,
+        "specific_required_shares": 274,
+        "specific_required_capital_yen": 732128
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 2915152,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 3660640
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 5830304,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 7318608
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6546,
+        "nisa_required_capital_yen": 17490912,
+        "specific_required_shares": 8215,
+        "specific_required_capital_yen": 21950480
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 29151520,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 36582352
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134143,
+        "upper_90_yen": 159887,
+        "lower_10_yen": 112850
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298406,
+        "upper_90_yen": 382248,
+        "lower_10_yen": 234292
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 499551,
+        "upper_90_yen": 678985,
+        "lower_10_yen": 370705
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 745860,
+        "upper_90_yen": 1068687,
+        "lower_10_yen": 526437
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1047473,
+        "upper_90_yen": 1575696,
+        "lower_10_yen": 705911
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1416808,
+        "upper_90_yen": 2231125,
+        "lower_10_yen": 914077
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1869070,
+        "upper_90_yen": 3074444,
+        "lower_10_yen": 1156666
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2422880,
+        "upper_90_yen": 4155553,
+        "lower_10_yen": 1440407
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3101039,
+        "upper_90_yen": 5537421,
+        "lower_10_yen": 1773264
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3931466,
+        "upper_90_yen": 7299407,
+        "lower_10_yen": 2164696
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エディオン(2730)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エディオン(2730)を1株(2,672円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,672円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.99%、幾何成長率は18.2%",
+      "新NISAで月1万円の配当金を得るには2,182株（約5,830,304円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エディオンは単元未満株（S株・かぶミニ等）を利用することで1株（約2,672円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,931,466円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり55.0円（利回り2.06%）です。月次95%VaR（最大想定損失率）は-5.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エディオンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,672円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,182株（元本目安：約5,830,304円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2672.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2915",
+    "name": "ケンコーマヨネーズ",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2044.0,
+    "min_s_kabu_yen": 2044,
+    "unit_lot_yen": 204400,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 3.42,
+    "raw_annual_return_pct": 9.84,
+    "capped_annual_return_pct": 9.84,
+    "geometric_growth_pct": 6.16,
+    "annual_volatility_pct": 27.12,
+    "max_drawdown_pct": -30.84,
+    "monthly_var_95_pct": -11.12,
+    "sharpe_ratio": 0.32,
+    "quant_score": 58.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 351568,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 441504
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 1753752,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 2199344
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 3505460,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 4398688
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 10512292,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 13191976
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 17521168,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 21987308
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126443,
+        "upper_90_yen": 162258,
+        "lower_10_yen": 99085
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265606,
+        "upper_90_yen": 376538,
+        "lower_10_yen": 189612
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 418768,
+        "upper_90_yen": 643247,
+        "lower_10_yen": 277655
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 587337,
+        "upper_90_yen": 967683,
+        "lower_10_yen": 365302
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 772864,
+        "upper_90_yen": 1357068,
+        "lower_10_yen": 453747
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 977055,
+        "upper_90_yen": 1820153,
+        "lower_10_yen": 543823
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1201786,
+        "upper_90_yen": 2367189,
+        "lower_10_yen": 636181
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1449124,
+        "upper_90_yen": 3010022,
+        "lower_10_yen": 731379
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1721344,
+        "upper_90_yen": 3762250,
+        "lower_10_yen": 829920
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2020948,
+        "upper_90_yen": 4639418,
+        "lower_10_yen": 932279
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ケンコーマヨネーズ(2915)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ケンコーマヨネーズ(2915)を1株(2,044円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,044円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.12%、幾何成長率は6.16%",
+      "新NISAで月1万円の配当金を得るには1,715株（約3,505,460円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ケンコーマヨネーズは単元未満株（S株・かぶミニ等）を利用することで1株（約2,044円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,020,948円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り3.42%）です。月次95%VaR（最大想定損失率）は-11.12%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ケンコーマヨネーズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,044円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約3,505,460円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2044.0
+  }
+}

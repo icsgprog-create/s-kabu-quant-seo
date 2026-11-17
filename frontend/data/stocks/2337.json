@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2337",
+    "name": "いちご",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 456.0,
+    "min_s_kabu_yen": 456,
+    "unit_lot_yen": 45600,
+    "dps_yen": 15.5,
+    "dividend_yield_pct": 3.4,
+    "raw_annual_return_pct": 9.81,
+    "capped_annual_return_pct": 9.81,
+    "geometric_growth_pct": 4.75,
+    "annual_volatility_pct": 31.81,
+    "max_drawdown_pct": -32.97,
+    "monthly_var_95_pct": -10.95,
+    "sharpe_ratio": 0.22,
+    "quant_score": 51.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 775,
+        "nisa_required_capital_yen": 353400,
+        "specific_required_shares": 972,
+        "specific_required_capital_yen": 443232
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3871,
+        "nisa_required_capital_yen": 1765176,
+        "specific_required_shares": 4858,
+        "specific_required_capital_yen": 2215248
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7742,
+        "nisa_required_capital_yen": 3530352,
+        "specific_required_shares": 9716,
+        "specific_required_capital_yen": 4430496
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 23226,
+        "nisa_required_capital_yen": 10591056,
+        "specific_required_shares": 29148,
+        "specific_required_capital_yen": 13291488
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 38710,
+        "nisa_required_capital_yen": 17651760,
+        "specific_required_shares": 48579,
+        "specific_required_capital_yen": 22152024
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125450,
+        "upper_90_yen": 168097,
+        "lower_10_yen": 94345
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261551,
+        "upper_90_yen": 393865,
+        "lower_10_yen": 176577
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 409206,
+        "upper_90_yen": 676803,
+        "lower_10_yen": 253738
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 569398,
+        "upper_90_yen": 1021982,
+        "lower_10_yen": 328153
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 743190,
+        "upper_90_yen": 1436505,
+        "lower_10_yen": 401072
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 931737,
+        "upper_90_yen": 1928999,
+        "lower_10_yen": 473300
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1136293,
+        "upper_90_yen": 2509527,
+        "lower_10_yen": 545416
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1358215,
+        "upper_90_yen": 3189637,
+        "lower_10_yen": 617862
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1598978,
+        "upper_90_yen": 3982481,
+        "lower_10_yen": 691004
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1860182,
+        "upper_90_yen": 4902966,
+        "lower_10_yen": 765153
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "いちご(2337)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "いちご(2337)を1株(456円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小456円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.81%、幾何成長率は4.75%",
+      "新NISAで月1万円の配当金を得るには7,742株（約3,530,352円）が必要"
+    ],
+    "accumulation_strategy_analysis": "いちごは単元未満株（S株・かぶミニ等）を利用することで1株（約456円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,860,182円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.5円（利回り3.4%）です。月次95%VaR（最大想定損失率）は-10.95%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "いちごは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約456円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,742株（元本目安：約3,530,352円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 456.0
+  }
+}

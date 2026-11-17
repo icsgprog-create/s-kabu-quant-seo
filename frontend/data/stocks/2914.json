@@ -87,7 +87,7 @@
         "year": 5,
         "principal_yen": 600000,
         "median_yen": 1090186,
-        "upper_90_yen": 1850370,
+        "upper_90_yen": 1850371,
         "lower_10_yen": 656749
       },
       {
@@ -100,7 +100,7 @@
       {
         "year": 7,
         "principal_yen": 840000,
-        "median_yen": 1982212,
+        "median_yen": 1982211,
         "upper_90_yen": 3780853,
         "lower_10_yen": 1069479
       },
@@ -108,21 +108,21 @@
         "year": 8,
         "principal_yen": 960000,
         "median_yen": 2595326,
-        "upper_90_yen": 5227864,
+        "upper_90_yen": 5227865,
         "lower_10_yen": 1329332
       },
       {
         "year": 9,
         "principal_yen": 1080000,
         "median_yen": 3356277,
-        "upper_90_yen": 7125412,
+        "upper_90_yen": 7125413,
         "lower_10_yen": 1634559
       },
       {
         "year": 10,
         "principal_yen": 1200000,
         "median_yen": 4300711,
-        "upper_90_yen": 9605986,
+        "upper_90_yen": 9605987,
         "lower_10_yen": 1994211
       }
     ]

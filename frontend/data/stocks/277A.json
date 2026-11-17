@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "277A",
+    "name": "グロービング",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1861.0,
+    "min_s_kabu_yen": 1861,
+    "unit_lot_yen": 186100,
+    "dps_yen": 42.8,
+    "dividend_yield_pct": 2.3,
+    "raw_annual_return_pct": 25.02,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": -4.14,
+    "annual_volatility_pct": 69.48,
+    "max_drawdown_pct": -51.49,
+    "monthly_var_95_pct": -25.42,
+    "sharpe_ratio": -0.04,
+    "quant_score": 22.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 281,
+        "nisa_required_capital_yen": 522941,
+        "specific_required_shares": 352,
+        "specific_required_capital_yen": 655072
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1402,
+        "nisa_required_capital_yen": 2609122,
+        "specific_required_shares": 1760,
+        "specific_required_capital_yen": 3275360
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2804,
+        "nisa_required_capital_yen": 5218244,
+        "specific_required_shares": 3519,
+        "specific_required_capital_yen": 6548859
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8412,
+        "nisa_required_capital_yen": 15654732,
+        "specific_required_shares": 10556,
+        "specific_required_capital_yen": 19644716
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 14019,
+        "nisa_required_capital_yen": 26089359,
+        "specific_required_shares": 17593,
+        "specific_required_capital_yen": 32740573
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118812,
+        "upper_90_yen": 226115,
+        "lower_10_yen": 64775
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 235457,
+        "upper_90_yen": 578495,
+        "lower_10_yen": 103807
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 349976,
+        "upper_90_yen": 1052350,
+        "lower_10_yen": 131664
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 462406,
+        "upper_90_yen": 1653418,
+        "lower_10_yen": 152792
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 572787,
+        "upper_90_yen": 2390107,
+        "lower_10_yen": 169391
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 681155,
+        "upper_90_yen": 3272157,
+        "lower_10_yen": 182744
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 787548,
+        "upper_90_yen": 4310203,
+        "lower_10_yen": 193676
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 892001,
+        "upper_90_yen": 5515573,
+        "lower_10_yen": 202747
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 994549,
+        "upper_90_yen": 6900200,
+        "lower_10_yen": 210357
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1095227,
+        "upper_90_yen": 8476569,
+        "lower_10_yen": 216798
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "グロービング(277A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "グロービング(277A)を1株(1,861円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,861円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは69.48%、幾何成長率は-4.14%",
+      "新NISAで月1万円の配当金を得るには2,804株（約5,218,244円）が必要"
+    ],
+    "accumulation_strategy_analysis": "グロービングは単元未満株（S株・かぶミニ等）を利用することで1株（約1,861円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,095,227円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり42.8円（利回り2.3%）です。月次95%VaR（最大想定損失率）は-25.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "グロービングは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,861円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,804株（元本目安：約5,218,244円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1861.0
+  }
+}

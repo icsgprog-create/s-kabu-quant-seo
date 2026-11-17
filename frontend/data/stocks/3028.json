@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3028",
+    "name": "アルペン",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2654.0,
+    "min_s_kabu_yen": 2654,
+    "unit_lot_yen": 265400,
+    "dps_yen": 55.0,
+    "dividend_yield_pct": 2.07,
+    "raw_annual_return_pct": 4.37,
+    "capped_annual_return_pct": 4.37,
+    "geometric_growth_pct": 2.68,
+    "annual_volatility_pct": 18.35,
+    "max_drawdown_pct": -23.48,
+    "monthly_var_95_pct": -5.86,
+    "sharpe_ratio": 0.2,
+    "quant_score": 53.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 219,
+        "nisa_required_capital_yen": 581226,
+        "specific_required_shares": 274,
+        "specific_required_capital_yen": 727196
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 2895514,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 3635980
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 5791028,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 7269306
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6546,
+        "nisa_required_capital_yen": 17373084,
+        "specific_required_shares": 8215,
+        "specific_required_capital_yen": 21802610
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 28955140,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 36335914
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123142,
+        "upper_90_yen": 145588,
+        "lower_10_yen": 104424
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252281,
+        "upper_90_yen": 318428,
+        "lower_10_yen": 200984
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 387707,
+        "upper_90_yen": 515447,
+        "lower_10_yen": 294116
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 529729,
+        "upper_90_yen": 736550,
+        "lower_10_yen": 385370
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 678666,
+        "upper_90_yen": 982428,
+        "lower_10_yen": 475609
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 834855,
+        "upper_90_yen": 1254166,
+        "lower_10_yen": 565402
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 998650,
+        "upper_90_yen": 1553116,
+        "lower_10_yen": 655161
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1170420,
+        "upper_90_yen": 1880840,
+        "lower_10_yen": 745205
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1350555,
+        "upper_90_yen": 2239081,
+        "lower_10_yen": 835795
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1539462,
+        "upper_90_yen": 2629755,
+        "lower_10_yen": 927149
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アルペン(3028)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アルペン(3028)を1株(2,654円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,654円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.35%、幾何成長率は2.68%",
+      "新NISAで月1万円の配当金を得るには2,182株（約5,791,028円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アルペンは単元未満株（S株・かぶミニ等）を利用することで1株（約2,654円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,539,462円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり55.0円（利回り2.07%）です。月次95%VaR（最大想定損失率）は-5.86%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アルペンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,654円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,182株（元本目安：約5,791,028円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2654.0
+  }
+}

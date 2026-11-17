@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2930",
+    "name": "北の達人コーポレーション",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 147.0,
+    "min_s_kabu_yen": 147,
+    "unit_lot_yen": 14700,
+    "dps_yen": 3.5,
+    "dividend_yield_pct": 2.38,
+    "raw_annual_return_pct": -18.52,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -22.58,
+    "annual_volatility_pct": 38.94,
+    "max_drawdown_pct": -69.84,
+    "monthly_var_95_pct": -17.75,
+    "sharpe_ratio": -0.54,
+    "quant_score": 25.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 504063,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 632541
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 2520021,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 3162558
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 34286,
+        "nisa_required_capital_yen": 5040042,
+        "specific_required_shares": 43027,
+        "specific_required_capital_yen": 6324969
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 102858,
+        "nisa_required_capital_yen": 15120126,
+        "specific_required_shares": 129080,
+        "specific_required_capital_yen": 18974760
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 171429,
+        "nisa_required_capital_yen": 25200063,
+        "specific_required_shares": 215133,
+        "specific_required_capital_yen": 31624551
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107744,
+        "upper_90_yen": 153006,
+        "lower_10_yen": 76768
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 195781,
+        "upper_90_yen": 315873,
+        "lower_10_yen": 124519
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 267716,
+        "upper_90_yen": 474799,
+        "lower_10_yen": 157145
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 326493,
+        "upper_90_yen": 624796,
+        "lower_10_yen": 180211
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 374519,
+        "upper_90_yen": 763633,
+        "lower_10_yen": 196843
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 413761,
+        "upper_90_yen": 890455,
+        "lower_10_yen": 208997
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 445826,
+        "upper_90_yen": 1005179,
+        "lower_10_yen": 217965
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 472025,
+        "upper_90_yen": 1108180,
+        "lower_10_yen": 224634
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 493433,
+        "upper_90_yen": 1200094,
+        "lower_10_yen": 229623
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 510925,
+        "upper_90_yen": 1281704,
+        "lower_10_yen": 233374
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "北の達人コーポレーション(2930)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "北の達人コーポレーション(2930)を1株(147円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小147円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは38.94%、幾何成長率は-22.58%",
+      "新NISAで月1万円の配当金を得るには34,286株（約5,040,042円）が必要"
+    ],
+    "accumulation_strategy_analysis": "北の達人コーポレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約147円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は510,925円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり3.5円（利回り2.38%）です。月次95%VaR（最大想定損失率）は-17.75%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "北の達人コーポレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約147円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、34,286株（元本目安：約5,040,042円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 147.0
+  }
+}

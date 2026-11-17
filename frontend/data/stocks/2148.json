@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2148",
+    "name": "アイティメディア",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1215.0,
+    "min_s_kabu_yen": 1215,
+    "unit_lot_yen": 121500,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 4.12,
+    "raw_annual_return_pct": -8.2,
+    "capped_annual_return_pct": -8.2,
+    "geometric_growth_pct": -13.98,
+    "annual_volatility_pct": 34.0,
+    "max_drawdown_pct": -59.45,
+    "monthly_var_95_pct": -15.14,
+    "sharpe_ratio": -0.32,
+    "quant_score": 43.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 291600,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 366930
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1458000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1829790
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 2916000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 3659580
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 8748000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 10978740
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 14580000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 18297900
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113804,
+        "upper_90_yen": 154903,
+        "lower_10_yen": 84357
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 216921,
+        "upper_90_yen": 331573,
+        "lower_10_yen": 144700
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 310354,
+        "upper_90_yen": 518440,
+        "lower_10_yen": 191489
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 395013,
+        "upper_90_yen": 710443,
+        "lower_10_yen": 228859
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 471722,
+        "upper_90_yen": 904405,
+        "lower_10_yen": 259222
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 541228,
+        "upper_90_yen": 1098105,
+        "lower_10_yen": 284181
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 604206,
+        "upper_90_yen": 1289911,
+        "lower_10_yen": 304872
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 661270,
+        "upper_90_yen": 1478595,
+        "lower_10_yen": 322139
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 712975,
+        "upper_90_yen": 1663227,
+        "lower_10_yen": 336625
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 759825,
+        "upper_90_yen": 1843102,
+        "lower_10_yen": 348833
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイティメディア(2148)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイティメディア(2148)を1株(1,215円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,215円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.0%、幾何成長率は-13.98%",
+      "新NISAで月1万円の配当金を得るには2,400株（約2,916,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイティメディアは単元未満株（S株・かぶミニ等）を利用することで1株（約1,215円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は759,825円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り4.12%）です。月次95%VaR（最大想定損失率）は-15.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイティメディアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,215円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約2,916,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1215.0
+  }
+}

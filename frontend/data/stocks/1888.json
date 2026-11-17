@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1888",
+    "name": "若築建設",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3600.0,
+    "min_s_kabu_yen": 3600,
+    "unit_lot_yen": 360000,
+    "dps_yen": 145.0,
+    "dividend_yield_pct": 4.03,
+    "raw_annual_return_pct": 15.1,
+    "capped_annual_return_pct": 15.1,
+    "geometric_growth_pct": 10.08,
+    "annual_volatility_pct": 31.67,
+    "max_drawdown_pct": -45.84,
+    "monthly_var_95_pct": -12.58,
+    "sharpe_ratio": 0.41,
+    "quant_score": 60.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 83,
+        "nisa_required_capital_yen": 298800,
+        "specific_required_shares": 104,
+        "specific_required_capital_yen": 374400
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 1490400,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 1872000
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 828,
+        "nisa_required_capital_yen": 2980800,
+        "specific_required_shares": 1039,
+        "specific_required_capital_yen": 3740400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2483,
+        "nisa_required_capital_yen": 8938800,
+        "specific_required_shares": 3116,
+        "specific_required_capital_yen": 11217600
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 14896800,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 18694800
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129636,
+        "upper_90_yen": 173744,
+        "lower_10_yen": 97462
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 278913,
+        "upper_90_yen": 421045,
+        "lower_10_yen": 187771
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 450807,
+        "upper_90_yen": 749740,
+        "lower_10_yen": 277786
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 648745,
+        "upper_90_yen": 1175113,
+        "lower_10_yen": 369981
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 876673,
+        "upper_90_yen": 1717041,
+        "lower_10_yen": 465916
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1139134,
+        "upper_90_yen": 2400146,
+        "lower_10_yen": 566820
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1441360,
+        "upper_90_yen": 3254468,
+        "lower_10_yen": 673792
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1789377,
+        "upper_90_yen": 4316420,
+        "lower_10_yen": 787894
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2190122,
+        "upper_90_yen": 5629984,
+        "lower_10_yen": 910203
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2651584,
+        "upper_90_yen": 7248163,
+        "lower_10_yen": 1041846
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "若築建設(1888)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "若築建設(1888)を1株(3,600円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,600円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.67%、幾何成長率は10.08%",
+      "新NISAで月1万円の配当金を得るには828株（約2,980,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "若築建設は単元未満株（S株・かぶミニ等）を利用することで1株（約3,600円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,651,584円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり145.0円（利回り4.03%）です。月次95%VaR（最大想定損失率）は-12.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "若築建設は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,600円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、828株（元本目安：約2,980,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3600.0
+  }
+}

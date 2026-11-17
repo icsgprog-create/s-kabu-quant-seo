@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2804",
+    "name": "ブルドックソース",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1890.0,
+    "min_s_kabu_yen": 1890,
+    "unit_lot_yen": 189000,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 2.65,
+    "raw_annual_return_pct": -0.83,
+    "capped_annual_return_pct": -0.83,
+    "geometric_growth_pct": -2.77,
+    "annual_volatility_pct": 19.72,
+    "max_drawdown_pct": -29.67,
+    "monthly_var_95_pct": -7.24,
+    "sharpe_ratio": -0.06,
+    "quant_score": 50.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 453600,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 570780
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2268000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 2846340
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 4536000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 5692680
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 13608000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 17078040
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 22680000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 28463400
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119917,
+        "upper_90_yen": 143460,
+        "lower_10_yen": 100535
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239679,
+        "upper_90_yen": 307204,
+        "lower_10_yen": 188207
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 359288,
+        "upper_90_yen": 486081,
+        "lower_10_yen": 268227
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 478744,
+        "upper_90_yen": 678235,
+        "lower_10_yen": 342517
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 598047,
+        "upper_90_yen": 882631,
+        "lower_10_yen": 412171
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 717196,
+        "upper_90_yen": 1098606,
+        "lower_10_yen": 477920
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 836192,
+        "upper_90_yen": 1325698,
+        "lower_10_yen": 540287
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 955036,
+        "upper_90_yen": 1563569,
+        "lower_10_yen": 599673
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1073728,
+        "upper_90_yen": 1811968,
+        "lower_10_yen": 656396
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1192267,
+        "upper_90_yen": 2070701,
+        "lower_10_yen": 710712
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブルドックソース(2804)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブルドックソース(2804)を1株(1,890円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,890円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.72%、幾何成長率は-2.77%",
+      "新NISAで月1万円の配当金を得るには2,400株（約4,536,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブルドックソースは単元未満株（S株・かぶミニ等）を利用することで1株（約1,890円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,192,267円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り2.65%）です。月次95%VaR（最大想定損失率）は-7.24%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブルドックソースは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,890円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約4,536,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1890.0
+  }
+}

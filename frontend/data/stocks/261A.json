@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "261A",
+    "name": "日水コン",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1763.0,
+    "min_s_kabu_yen": 1763,
+    "unit_lot_yen": 176300,
+    "dps_yen": 74.0,
+    "dividend_yield_pct": 4.2,
+    "raw_annual_return_pct": 17.04,
+    "capped_annual_return_pct": 17.04,
+    "geometric_growth_pct": 10.46,
+    "annual_volatility_pct": 36.27,
+    "max_drawdown_pct": -47.97,
+    "monthly_var_95_pct": -12.51,
+    "sharpe_ratio": 0.38,
+    "quant_score": 56.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 163,
+        "nisa_required_capital_yen": 287369,
+        "specific_required_shares": 204,
+        "specific_required_capital_yen": 359652
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 811,
+        "nisa_required_capital_yen": 1429793,
+        "specific_required_shares": 1018,
+        "specific_required_capital_yen": 1794734
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 2859586,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 3589468
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4865,
+        "nisa_required_capital_yen": 8576995,
+        "specific_required_shares": 6106,
+        "specific_required_capital_yen": 10764878
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8109,
+        "nisa_required_capital_yen": 14296167,
+        "specific_required_shares": 10176,
+        "specific_required_capital_yen": 17940288
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130032,
+        "upper_90_yen": 181978,
+        "lower_10_yen": 93841
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280591,
+        "upper_90_yen": 450429,
+        "lower_10_yen": 178530
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 454919,
+        "upper_90_yen": 816718,
+        "lower_10_yen": 261645
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 656767,
+        "upper_90_yen": 1301481,
+        "lower_10_yen": 345798
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 890481,
+        "upper_90_yen": 1931643,
+        "lower_10_yen": 432563
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1161091,
+        "upper_90_yen": 2740889,
+        "lower_10_yen": 523127
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1474421,
+        "upper_90_yen": 3770812,
+        "lower_10_yen": 618515
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1837216,
+        "upper_90_yen": 5072463,
+        "lower_10_yen": 719693
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2257284,
+        "upper_90_yen": 6708292,
+        "lower_10_yen": 827619
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2743667,
+        "upper_90_yen": 8754523,
+        "lower_10_yen": 943285
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日水コン(261A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日水コン(261A)を1株(1,763円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,763円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.27%、幾何成長率は10.46%",
+      "新NISAで月1万円の配当金を得るには1,622株（約2,859,586円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日水コンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,763円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,743,667円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり74.0円（利回り4.2%）です。月次95%VaR（最大想定損失率）は-12.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日水コンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,763円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,622株（元本目安：約2,859,586円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1763.0
+  }
+}

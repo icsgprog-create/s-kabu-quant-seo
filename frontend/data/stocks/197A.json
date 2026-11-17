@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "197A",
+    "name": "タウンズ",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 490.0,
+    "min_s_kabu_yen": 490,
+    "unit_lot_yen": 49000,
+    "dps_yen": 29.0,
+    "dividend_yield_pct": 5.92,
+    "raw_annual_return_pct": 13.2,
+    "capped_annual_return_pct": 13.2,
+    "geometric_growth_pct": 7.1,
+    "annual_volatility_pct": 34.94,
+    "max_drawdown_pct": -39.17,
+    "monthly_var_95_pct": -12.8,
+    "sharpe_ratio": 0.34,
+    "quant_score": 63.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 202860,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 254800
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 1013810,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 1272530
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 2027620,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 2544570
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12414,
+        "nisa_required_capital_yen": 6082860,
+        "specific_required_shares": 15579,
+        "specific_required_capital_yen": 7633710
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 10138100,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 12722850
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128858,
+        "upper_90_yen": 178018,
+        "lower_10_yen": 94139
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275633,
+        "upper_90_yen": 434153,
+        "lower_10_yen": 178476
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 442816,
+        "upper_90_yen": 775918,
+        "lower_10_yen": 260392
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 633244,
+        "upper_90_yen": 1218713,
+        "lower_10_yen": 342384
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 850151,
+        "upper_90_yen": 1782576,
+        "lower_10_yen": 425899
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1097216,
+        "upper_90_yen": 2492221,
+        "lower_10_yen": 511980
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1378634,
+        "upper_90_yen": 3377633,
+        "lower_10_yen": 601483
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1699182,
+        "upper_90_yen": 4474937,
+        "lower_10_yen": 695173
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2064299,
+        "upper_90_yen": 5827476,
+        "lower_10_yen": 793784
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2480183,
+        "upper_90_yen": 7487138,
+        "lower_10_yen": 898043
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "タウンズ(197A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "タウンズ(197A)を1株(490円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小490円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.94%、幾何成長率は7.1%",
+      "新NISAで月1万円の配当金を得るには4,138株（約2,027,620円）が必要"
+    ],
+    "accumulation_strategy_analysis": "タウンズは単元未満株（S株・かぶミニ等）を利用することで1株（約490円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,480,183円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり29.0円（利回り5.92%）です。月次95%VaR（最大想定損失率）は-12.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "タウンズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約490円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,138株（元本目安：約2,027,620円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 490.0
+  }
+}

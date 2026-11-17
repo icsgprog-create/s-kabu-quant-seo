@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3063",
+    "name": "ジェイグループホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1108.0,
+    "min_s_kabu_yen": 1108,
+    "unit_lot_yen": 110800,
+    "dps_yen": 4.0,
+    "dividend_yield_pct": 0.36,
+    "raw_annual_return_pct": 14.31,
+    "capped_annual_return_pct": 14.31,
+    "geometric_growth_pct": 12.49,
+    "annual_volatility_pct": 19.06,
+    "max_drawdown_pct": -25.53,
+    "monthly_var_95_pct": -7.03,
+    "sharpe_ratio": 0.62,
+    "quant_score": 49.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 3324000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 4171620
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 16620000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 20858100
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 33240000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 41715092
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 90000,
+        "nisa_required_capital_yen": 99720000,
+        "specific_required_shares": 112945,
+        "specific_required_capital_yen": 125143060
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 150000,
+        "nisa_required_capital_yen": 166200000,
+        "specific_required_shares": 188242,
+        "specific_required_capital_yen": 208572136
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128742,
+        "upper_90_yen": 153383,
+        "lower_10_yen": 108357
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275145,
+        "upper_90_yen": 351670,
+        "lower_10_yen": 216539
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 441632,
+        "upper_90_yen": 597517,
+        "lower_10_yen": 329339
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 630958,
+        "upper_90_yen": 897455,
+        "lower_10_yen": 448887
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 846256,
+        "upper_90_yen": 1259941,
+        "lower_10_yen": 576798
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1091090,
+        "upper_90_yen": 1695215,
+        "lower_10_yen": 714543
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1369510,
+        "upper_90_yen": 2215427,
+        "lower_10_yen": 863583
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1686125,
+        "upper_90_yen": 2834868,
+        "lower_10_yen": 1025441
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2046175,
+        "upper_90_yen": 3570285,
+        "lower_10_yen": 1201741
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2455617,
+        "upper_90_yen": 4441250,
+        "lower_10_yen": 1394246
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ジェイグループホールディングス(3063)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ジェイグループホールディングス(3063)を1株(1,108円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,108円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.06%、幾何成長率は12.49%",
+      "新NISAで月1万円の配当金を得るには30,000株（約33,240,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ジェイグループホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,108円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,455,617円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり4.0円（利回り0.36%）です。月次95%VaR（最大想定損失率）は-7.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ジェイグループホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,108円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、30,000株（元本目安：約33,240,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1108.0
+  }
+}

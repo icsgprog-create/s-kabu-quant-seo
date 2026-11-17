@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2993",
+    "name": "長栄",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2120.0,
+    "min_s_kabu_yen": 2120,
+    "unit_lot_yen": 212000,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 4.72,
+    "raw_annual_return_pct": 10.59,
+    "capped_annual_return_pct": 10.59,
+    "geometric_growth_pct": 8.87,
+    "annual_volatility_pct": 18.53,
+    "max_drawdown_pct": -19.28,
+    "monthly_var_95_pct": -4.83,
+    "sharpe_ratio": 0.68,
+    "quant_score": 86.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 254400,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 320120
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 1272000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 1596360
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2544000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 3192720
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 7632000,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 9578160
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 12720000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 15963600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129266,
+        "upper_90_yen": 153279,
+        "lower_10_yen": 109299
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 277352,
+        "upper_90_yen": 352191,
+        "lower_10_yen": 219630
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 446996,
+        "upper_90_yen": 600042,
+        "lower_10_yen": 335798
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 641337,
+        "upper_90_yen": 904068,
+        "lower_10_yen": 460067
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 863972,
+        "upper_90_yen": 1273590,
+        "lower_10_yen": 594237
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1119018,
+        "upper_90_yen": 1719922,
+        "lower_10_yen": 740008
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1411194,
+        "upper_90_yen": 2256555,
+        "lower_10_yen": 899115
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1745906,
+        "upper_90_yen": 2899455,
+        "lower_10_yen": 1073403
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2129346,
+        "upper_90_yen": 3667452,
+        "lower_10_yen": 1264871
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2568609,
+        "upper_90_yen": 4582696,
+        "lower_10_yen": 1475716
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "長栄(2993)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "長栄(2993)を1株(2,120円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,120円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.53%、幾何成長率は8.87%",
+      "新NISAで月1万円の配当金を得るには1,200株（約2,544,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "長栄は単元未満株（S株・かぶミニ等）を利用することで1株（約2,120円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,568,609円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り4.72%）です。月次95%VaR（最大想定損失率）は-4.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "長栄は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,120円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約2,544,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2120.0
+  }
+}

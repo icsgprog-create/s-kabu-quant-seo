@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2700",
+    "name": "木徳神糧",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1748.0,
+    "min_s_kabu_yen": 1748,
+    "unit_lot_yen": 174800,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 1.43,
+    "raw_annual_return_pct": 19.52,
+    "capped_annual_return_pct": 19.52,
+    "geometric_growth_pct": 8.53,
+    "annual_volatility_pct": 46.87,
+    "max_drawdown_pct": -72.74,
+    "monthly_var_95_pct": -17.56,
+    "sharpe_ratio": 0.19,
+    "quant_score": 21.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 839040,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 1054044
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 4195200,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 5264976
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 8390400,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 10529952
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 25171200,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 31589856
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 41952000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 52648012
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126705,
+        "upper_90_yen": 195647,
+        "lower_10_yen": 83434
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266683,
+        "upper_90_yen": 491071,
+        "lower_10_yen": 150086
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 421324,
+        "upper_90_yen": 894567,
+        "lower_10_yen": 209527
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 592163,
+        "upper_90_yen": 1424381,
+        "lower_10_yen": 264731
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 780898,
+        "upper_90_yen": 2104130,
+        "lower_10_yen": 317220
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 989404,
+        "upper_90_yen": 2962614,
+        "lower_10_yen": 367929
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1219750,
+        "upper_90_yen": 4034305,
+        "lower_10_yen": 417496
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1474226,
+        "upper_90_yen": 5360129,
+        "lower_10_yen": 466388
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1755358,
+        "upper_90_yen": 6988448,
+        "lower_10_yen": 514968
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2065940,
+        "upper_90_yen": 8976249,
+        "lower_10_yen": 563533
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "木徳神糧(2700)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "木徳神糧(2700)を1株(1,748円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,748円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは46.87%、幾何成長率は8.53%",
+      "新NISAで月1万円の配当金を得るには4,800株（約8,390,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "木徳神糧は単元未満株（S株・かぶミニ等）を利用することで1株（約1,748円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,065,940円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り1.43%）です。月次95%VaR（最大想定損失率）は-17.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "木徳神糧は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,748円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約8,390,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1748.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1491",
+    "name": "中外鉱業",
+    "sector": "非鉄金属",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 484.0,
+    "min_s_kabu_yen": 484,
+    "unit_lot_yen": 48400,
+    "dps_yen": 34.0,
+    "dividend_yield_pct": 7.02,
+    "raw_annual_return_pct": -4.25,
+    "capped_annual_return_pct": -4.25,
+    "geometric_growth_pct": -17.82,
+    "annual_volatility_pct": 52.09,
+    "max_drawdown_pct": -70.82,
+    "monthly_var_95_pct": -20.23,
+    "sharpe_ratio": -0.23,
+    "quant_score": 40.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 353,
+        "nisa_required_capital_yen": 170852,
+        "specific_required_shares": 443,
+        "specific_required_capital_yen": 214412
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1765,
+        "nisa_required_capital_yen": 854260,
+        "specific_required_shares": 2215,
+        "specific_required_capital_yen": 1072060
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 1708520,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 2144120
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10589,
+        "nisa_required_capital_yen": 5125076,
+        "specific_required_shares": 13288,
+        "specific_required_capital_yen": 6431392
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17648,
+        "nisa_required_capital_yen": 8541632,
+        "specific_required_shares": 22147,
+        "specific_required_capital_yen": 10719148
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113240,
+        "upper_90_yen": 182191,
+        "lower_10_yen": 71870
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 214895,
+        "upper_90_yen": 414348,
+        "lower_10_yen": 116654
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 306150,
+        "upper_90_yen": 678409,
+        "lower_10_yen": 148305
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 388069,
+        "upper_90_yen": 965770,
+        "lower_10_yen": 171719
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 461607,
+        "upper_90_yen": 1270488,
+        "lower_10_yen": 189502
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 527621,
+        "upper_90_yen": 1587973,
+        "lower_10_yen": 203251
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 586882,
+        "upper_90_yen": 1914499,
+        "lower_10_yen": 214022
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 640079,
+        "upper_90_yen": 2246956,
+        "lower_10_yen": 222544
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 687835,
+        "upper_90_yen": 2582717,
+        "lower_10_yen": 229344
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 730704,
+        "upper_90_yen": 2919540,
+        "lower_10_yen": 234805
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "中外鉱業(1491)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "中外鉱業(1491)を1株(484円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小484円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは52.09%、幾何成長率は-17.82%",
+      "新NISAで月1万円の配当金を得るには3,530株（約1,708,520円）が必要"
+    ],
+    "accumulation_strategy_analysis": "中外鉱業は単元未満株（S株・かぶミニ等）を利用することで1株（約484円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は730,704円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり34.0円（利回り7.02%）です。月次95%VaR（最大想定損失率）は-20.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "中外鉱業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約484円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,530株（元本目安：約1,708,520円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 484.0
+  }
+}

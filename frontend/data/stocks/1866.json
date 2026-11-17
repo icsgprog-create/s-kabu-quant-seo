@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1866",
+    "name": "北野建設",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1178.0,
+    "min_s_kabu_yen": 1178,
+    "unit_lot_yen": 117800,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 2.55,
+    "raw_annual_return_pct": 19.25,
+    "capped_annual_return_pct": 19.25,
+    "geometric_growth_pct": 14.99,
+    "annual_volatility_pct": 29.19,
+    "max_drawdown_pct": -42.7,
+    "monthly_var_95_pct": -9.63,
+    "sharpe_ratio": 0.57,
+    "quant_score": 55.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 471200,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 591356
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 2356000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 2956780
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 4712000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 5913560
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 14136000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 17740680
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 23560000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 29566622
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132127,
+        "upper_90_yen": 173153,
+        "lower_10_yen": 101470
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289581,
+        "upper_90_yen": 423973,
+        "lower_10_yen": 200502
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 477219,
+        "upper_90_yen": 765103,
+        "lower_10_yen": 303830
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 700827,
+        "upper_90_yen": 1217797,
+        "lower_10_yen": 414371
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 967300,
+        "upper_90_yen": 1809936,
+        "lower_10_yen": 534365
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1284854,
+        "upper_90_yen": 2576911,
+        "lower_10_yen": 665912
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1663282,
+        "upper_90_yen": 3563184,
+        "lower_10_yen": 811177
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2114253,
+        "upper_90_yen": 4824346,
+        "lower_10_yen": 972499
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2651674,
+        "upper_90_yen": 6429718,
+        "lower_10_yen": 1152469
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3292116,
+        "upper_90_yen": 8465583,
+        "lower_10_yen": 1354000
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "北野建設(1866)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "北野建設(1866)を1株(1,178円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,178円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.19%、幾何成長率は14.99%",
+      "新NISAで月1万円の配当金を得るには4,000株（約4,712,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "北野建設は単元未満株（S株・かぶミニ等）を利用することで1株（約1,178円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,292,116円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り2.55%）です。月次95%VaR（最大想定損失率）は-9.63%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "北野建設は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,178円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約4,712,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1178.0
+  }
+}

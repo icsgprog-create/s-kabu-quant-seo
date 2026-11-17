@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2152",
+    "name": "幼児活動研究会",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1469.0,
+    "min_s_kabu_yen": 1469,
+    "unit_lot_yen": 146900,
+    "dps_yen": 26.0,
+    "dividend_yield_pct": 1.77,
+    "raw_annual_return_pct": 5.55,
+    "capped_annual_return_pct": 5.55,
+    "geometric_growth_pct": 1.44,
+    "annual_volatility_pct": 28.64,
+    "max_drawdown_pct": -21.23,
+    "monthly_var_95_pct": -6.64,
+    "sharpe_ratio": 0.08,
+    "quant_score": 37.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 678678,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 852020
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 3390452,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 4255693
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 6780904,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 8509917
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13847,
+        "nisa_required_capital_yen": 20341243,
+        "specific_required_shares": 17377,
+        "specific_required_capital_yen": 25526813
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 23077,
+        "nisa_required_capital_yen": 33900113,
+        "specific_required_shares": 28961,
+        "specific_required_capital_yen": 42543709
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122113,
+        "upper_90_yen": 158701,
+        "lower_10_yen": 94549
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248213,
+        "upper_90_yen": 357465,
+        "lower_10_yen": 174698
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 378433,
+        "upper_90_yen": 591228,
+        "lower_10_yen": 247318
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 512906,
+        "upper_90_yen": 859555,
+        "lower_10_yen": 314762
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 651770,
+        "upper_90_yen": 1163203,
+        "lower_10_yen": 378307
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 795170,
+        "upper_90_yen": 1503517,
+        "lower_10_yen": 438763
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 943254,
+        "upper_90_yen": 1882218,
+        "lower_10_yen": 496693
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1096174,
+        "upper_90_yen": 2301310,
+        "lower_10_yen": 552512
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1254089,
+        "upper_90_yen": 2763040,
+        "lower_10_yen": 606537
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1417162,
+        "upper_90_yen": 3269868,
+        "lower_10_yen": 659022
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "幼児活動研究会(2152)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "幼児活動研究会(2152)を1株(1,469円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,469円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.64%、幾何成長率は1.44%",
+      "新NISAで月1万円の配当金を得るには4,616株（約6,780,904円）が必要"
+    ],
+    "accumulation_strategy_analysis": "幼児活動研究会は単元未満株（S株・かぶミニ等）を利用することで1株（約1,469円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,417,162円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり26.0円（利回り1.77%）です。月次95%VaR（最大想定損失率）は-6.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "幼児活動研究会は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,469円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,616株（元本目安：約6,780,904円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1469.0
+  }
+}

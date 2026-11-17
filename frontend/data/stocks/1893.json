@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1893",
+    "name": "五洋建設",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1356.5,
+    "min_s_kabu_yen": 1357,
+    "unit_lot_yen": 135650,
+    "dps_yen": 52.0,
+    "dividend_yield_pct": 3.83,
+    "raw_annual_return_pct": 16.16,
+    "capped_annual_return_pct": 16.16,
+    "geometric_growth_pct": 10.85,
+    "annual_volatility_pct": 32.58,
+    "max_drawdown_pct": -41.91,
+    "monthly_var_95_pct": -13.14,
+    "sharpe_ratio": 0.42,
+    "quant_score": 58.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 231,
+        "nisa_required_capital_yen": 313352,
+        "specific_required_shares": 290,
+        "specific_required_capital_yen": 393385
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1154,
+        "nisa_required_capital_yen": 1565401,
+        "specific_required_shares": 1449,
+        "specific_required_capital_yen": 1965568
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 3130802,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 3929780
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6924,
+        "nisa_required_capital_yen": 9392406,
+        "specific_required_shares": 8689,
+        "specific_required_capital_yen": 11786628
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11539,
+        "nisa_required_capital_yen": 15652654,
+        "specific_required_shares": 14481,
+        "specific_required_capital_yen": 19643476
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130049,
+        "upper_90_yen": 175814,
+        "lower_10_yen": 96972
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280667,
+        "upper_90_yen": 429006,
+        "lower_10_yen": 186783
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 455104,
+        "upper_90_yen": 768858,
+        "lower_10_yen": 276445
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 657130,
+        "upper_90_yen": 1212686,
+        "lower_10_yen": 368499
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 891106,
+        "upper_90_yen": 1783034,
+        "lower_10_yen": 464560
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1162087,
+        "upper_90_yen": 2507985,
+        "lower_10_yen": 565916
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1475924,
+        "upper_90_yen": 3422032,
+        "lower_10_yen": 673731
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1839396,
+        "upper_90_yen": 4567287,
+        "lower_10_yen": 789142
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2260351,
+        "upper_90_yen": 5994989,
+        "lower_10_yen": 913312
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2747882,
+        "upper_90_yen": 7767348,
+        "lower_10_yen": 1047470
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "五洋建設(1893)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "五洋建設(1893)を1株(1,357円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,357円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.58%、幾何成長率は10.85%",
+      "新NISAで月1万円の配当金を得るには2,308株（約3,130,802円）が必要"
+    ],
+    "accumulation_strategy_analysis": "五洋建設は単元未満株（S株・かぶミニ等）を利用することで1株（約1,357円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,747,882円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり52.0円（利回り3.83%）です。月次95%VaR（最大想定損失率）は-13.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "五洋建設は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,357円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,308株（元本目安：約3,130,802円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1356.5
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1979",
+    "name": "大氣社",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3350.0,
+    "min_s_kabu_yen": 3350,
+    "unit_lot_yen": 335000,
+    "dps_yen": 138.0,
+    "dividend_yield_pct": 4.12,
+    "raw_annual_return_pct": 19.61,
+    "capped_annual_return_pct": 19.61,
+    "geometric_growth_pct": 16.16,
+    "annual_volatility_pct": 26.27,
+    "max_drawdown_pct": -32.24,
+    "monthly_var_95_pct": -8.9,
+    "sharpe_ratio": 0.73,
+    "quant_score": 75.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 87,
+        "nisa_required_capital_yen": 291450,
+        "specific_required_shares": 110,
+        "specific_required_capital_yen": 368500
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 435,
+        "nisa_required_capital_yen": 1457250,
+        "specific_required_shares": 546,
+        "specific_required_capital_yen": 1829100
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 870,
+        "nisa_required_capital_yen": 2914500,
+        "specific_required_shares": 1092,
+        "specific_required_capital_yen": 3658200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 8740150,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 10967900
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4348,
+        "nisa_required_capital_yen": 14565800,
+        "specific_required_shares": 5457,
+        "specific_required_capital_yen": 18280950
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134161,
+        "upper_90_yen": 171177,
+        "lower_10_yen": 105697
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298487,
+        "upper_90_yen": 421094,
+        "lower_10_yen": 213910
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 499757,
+        "upper_90_yen": 765848,
+        "lower_10_yen": 331522
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 746279,
+        "upper_90_yen": 1231033,
+        "lower_10_yen": 462251
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1048226,
+        "upper_90_yen": 1850623,
+        "lower_10_yen": 609477
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1418060,
+        "upper_90_yen": 2668616,
+        "lower_10_yen": 776758
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1871045,
+        "upper_90_yen": 3741537,
+        "lower_10_yen": 968075
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2425874,
+        "upper_90_yen": 5141734,
+        "lower_10_yen": 1187995
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3105445,
+        "upper_90_yen": 6961597,
+        "lower_10_yen": 1441829
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3937804,
+        "upper_90_yen": 9318927,
+        "lower_10_yen": 1735802
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大氣社(1979)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大氣社(1979)を1株(3,350円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,350円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.27%、幾何成長率は16.16%",
+      "新NISAで月1万円の配当金を得るには870株（約2,914,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大氣社は単元未満株（S株・かぶミニ等）を利用することで1株（約3,350円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,937,804円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり138.0円（利回り4.12%）です。月次95%VaR（最大想定損失率）は-8.9%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大氣社は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,350円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、870株（元本目安：約2,914,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3350.0
+  }
+}

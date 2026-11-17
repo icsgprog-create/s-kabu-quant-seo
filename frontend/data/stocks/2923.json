@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2923",
+    "name": "サトウ食品",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7020.0,
+    "min_s_kabu_yen": 7020,
+    "unit_lot_yen": 702000,
+    "dps_yen": 75.0,
+    "dividend_yield_pct": 1.07,
+    "raw_annual_return_pct": 8.3,
+    "capped_annual_return_pct": 8.3,
+    "geometric_growth_pct": 4.92,
+    "annual_volatility_pct": 26.03,
+    "max_drawdown_pct": -29.95,
+    "monthly_var_95_pct": -8.59,
+    "sharpe_ratio": 0.19,
+    "quant_score": 37.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 160,
+        "nisa_required_capital_yen": 1123200,
+        "specific_required_shares": 201,
+        "specific_required_capital_yen": 1411020
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 5616000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 7048080
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 11232000,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 14096160
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 33696000,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 42288480
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 56160000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 70480800
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123973,
+        "upper_90_yen": 157357,
+        "lower_10_yen": 98176
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 255592,
+        "upper_90_yen": 356422,
+        "lower_10_yen": 185333
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 395329,
+        "upper_90_yen": 594268,
+        "lower_10_yen": 267505
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 543685,
+        "upper_90_yen": 872249,
+        "lower_10_yen": 346733
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 701192,
+        "upper_90_yen": 1192965,
+        "lower_10_yen": 424125
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 868414,
+        "upper_90_yen": 1559753,
+        "lower_10_yen": 500395
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1045950,
+        "upper_90_yen": 1976525,
+        "lower_10_yen": 576048
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1234436,
+        "upper_90_yen": 2447719,
+        "lower_10_yen": 651469
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1434548,
+        "upper_90_yen": 2978289,
+        "lower_10_yen": 726964
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1647003,
+        "upper_90_yen": 3573716,
+        "lower_10_yen": 802789
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サトウ食品(2923)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サトウ食品(2923)を1株(7,020円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,020円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.03%、幾何成長率は4.92%",
+      "新NISAで月1万円の配当金を得るには1,600株（約11,232,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サトウ食品は単元未満株（S株・かぶミニ等）を利用することで1株（約7,020円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,647,003円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり75.0円（利回り1.07%）です。月次95%VaR（最大想定損失率）は-8.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サトウ食品は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,020円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,600株（元本目安：約11,232,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7020.0
+  }
+}

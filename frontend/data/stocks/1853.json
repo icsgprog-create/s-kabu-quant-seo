@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1853",
+    "name": "森組",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 561.0,
+    "min_s_kabu_yen": 561,
+    "unit_lot_yen": 56100,
+    "dps_yen": 14.0,
+    "dividend_yield_pct": 2.5,
+    "raw_annual_return_pct": 16.56,
+    "capped_annual_return_pct": 16.56,
+    "geometric_growth_pct": 14.65,
+    "annual_volatility_pct": 19.55,
+    "max_drawdown_pct": -17.4,
+    "monthly_var_95_pct": -4.07,
+    "sharpe_ratio": 0.83,
+    "quant_score": 71.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 481338,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 603636
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 2404446,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 3017619
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 4808892,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 6034677
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 25715,
+        "nisa_required_capital_yen": 14426115,
+        "specific_required_shares": 32270,
+        "specific_required_capital_yen": 18103470
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 24043338,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 30172824
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131838,
+        "upper_90_yen": 157887,
+        "lower_10_yen": 110404
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288330,
+        "upper_90_yen": 371576,
+        "lower_10_yen": 225107
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 474089,
+        "upper_90_yen": 648719,
+        "lower_10_yen": 349678
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 694587,
+        "upper_90_yen": 1002275,
+        "lower_10_yen": 487244
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 956321,
+        "upper_90_yen": 1448970,
+        "lower_10_yen": 640647
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1267003,
+        "upper_90_yen": 2009637,
+        "lower_10_yen": 812845
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1635785,
+        "upper_90_yen": 2709953,
+        "lower_10_yen": 1007082
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2073535,
+        "upper_90_yen": 3581413,
+        "lower_10_yen": 1227009
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2593149,
+        "upper_90_yen": 4662551,
+        "lower_10_yen": 1476782
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3209937,
+        "upper_90_yen": 6000447,
+        "lower_10_yen": 1761169
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "森組(1853)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "森組(1853)を1株(561円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小561円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.55%、幾何成長率は14.65%",
+      "新NISAで月1万円の配当金を得るには8,572株（約4,808,892円）が必要"
+    ],
+    "accumulation_strategy_analysis": "森組は単元未満株（S株・かぶミニ等）を利用することで1株（約561円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,209,937円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.0円（利回り2.5%）です。月次95%VaR（最大想定損失率）は-4.07%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "森組は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約561円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,572株（元本目安：約4,808,892円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 561.0
+  }
+}

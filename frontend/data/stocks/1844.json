@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1844",
+    "name": "大盛工業",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 338.0,
+    "min_s_kabu_yen": 338,
+    "unit_lot_yen": 33800,
+    "dps_yen": 12.0,
+    "dividend_yield_pct": 3.55,
+    "raw_annual_return_pct": 14.59,
+    "capped_annual_return_pct": 14.59,
+    "geometric_growth_pct": 4.94,
+    "annual_volatility_pct": 43.94,
+    "max_drawdown_pct": -74.91,
+    "monthly_var_95_pct": -14.82,
+    "sharpe_ratio": 0.17,
+    "quant_score": 38.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 338000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 424190
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 1690000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 2120950
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 3380000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 4241900
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 10140000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 12725362
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 50000,
+        "nisa_required_capital_yen": 16900000,
+        "specific_required_shares": 62748,
+        "specific_required_capital_yen": 21208824
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125687,
+        "upper_90_yen": 188688,
+        "lower_10_yen": 84957
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262516,
+        "upper_90_yen": 464161,
+        "lower_10_yen": 153215
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 411474,
+        "upper_90_yen": 830077,
+        "lower_10_yen": 214010
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 573636,
+        "upper_90_yen": 1298477,
+        "lower_10_yen": 270256
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 750173,
+        "upper_90_yen": 1885172,
+        "lower_10_yen": 323453
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 942359,
+        "upper_90_yen": 2609260,
+        "lower_10_yen": 374523
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1151581,
+        "upper_90_yen": 3493229,
+        "lower_10_yen": 424092
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1379350,
+        "upper_90_yen": 4563279,
+        "lower_10_yen": 472617
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1627309,
+        "upper_90_yen": 5849767,
+        "lower_10_yen": 520446
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1897249,
+        "upper_90_yen": 7387748,
+        "lower_10_yen": 567857
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大盛工業(1844)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大盛工業(1844)を1株(338円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小338円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.94%、幾何成長率は4.94%",
+      "新NISAで月1万円の配当金を得るには10,000株（約3,380,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大盛工業は単元未満株（S株・かぶミニ等）を利用することで1株（約338円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,897,249円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり12.0円（利回り3.55%）です。月次95%VaR（最大想定損失率）は-14.82%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大盛工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約338円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,000株（元本目安：約3,380,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 338.0
+  }
+}

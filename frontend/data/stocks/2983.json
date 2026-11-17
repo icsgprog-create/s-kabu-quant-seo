@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2983",
+    "name": "アールプランナー",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1423.0,
+    "min_s_kabu_yen": 1423,
+    "unit_lot_yen": 142300,
+    "dps_yen": 75.0,
+    "dividend_yield_pct": 5.27,
+    "raw_annual_return_pct": 11.14,
+    "capped_annual_return_pct": 11.14,
+    "geometric_growth_pct": -2.38,
+    "annual_volatility_pct": 52.0,
+    "max_drawdown_pct": -77.73,
+    "monthly_var_95_pct": -25.88,
+    "sharpe_ratio": 0.04,
+    "quant_score": 45.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 160,
+        "nisa_required_capital_yen": 227680,
+        "specific_required_shares": 201,
+        "specific_required_capital_yen": 286023
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 1138400,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 1428692
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 2276800,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 2857384
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 6830400,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 8572152
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 11384000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 14286920
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121900,
+        "upper_90_yen": 197031,
+        "lower_10_yen": 76988
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 247379,
+        "upper_90_yen": 484049,
+        "lower_10_yen": 132179
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 376543,
+        "upper_90_yen": 857981,
+        "lower_10_yen": 176957
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 509499,
+        "upper_90_yen": 1324265,
+        "lower_10_yen": 214967
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 646359,
+        "upper_90_yen": 1890935,
+        "lower_10_yen": 248087
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 787237,
+        "upper_90_yen": 2567654,
+        "lower_10_yen": 277464
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 932251,
+        "upper_90_yen": 3365431,
+        "lower_10_yen": 303861
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1081524,
+        "upper_90_yen": 4296538,
+        "lower_10_yen": 327821
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1235179,
+        "upper_90_yen": 5374507,
+        "lower_10_yen": 349747
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1393346,
+        "upper_90_yen": 6614170,
+        "lower_10_yen": 369947
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アールプランナー(2983)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アールプランナー(2983)を1株(1,423円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,423円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは52.0%、幾何成長率は-2.38%",
+      "新NISAで月1万円の配当金を得るには1,600株（約2,276,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アールプランナーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,423円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,393,346円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり75.0円（利回り5.27%）です。月次95%VaR（最大想定損失率）は-25.88%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アールプランナーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,423円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,600株（元本目安：約2,276,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1423.0
+  }
+}

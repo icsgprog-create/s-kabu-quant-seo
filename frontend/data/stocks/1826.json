@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1826",
+    "name": "佐田建設",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1082.0,
+    "min_s_kabu_yen": 1082,
+    "unit_lot_yen": 108200,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 5.55,
+    "raw_annual_return_pct": 20.7,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.51,
+    "annual_volatility_pct": 26.42,
+    "max_drawdown_pct": -20.03,
+    "monthly_var_95_pct": -7.4,
+    "sharpe_ratio": 0.8,
+    "quant_score": 83.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 216400,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 271582
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1082000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 1357910
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 2164000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 2715820
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 6492000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 8147460
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 10820000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 13579100
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135500,
+        "upper_90_yen": 173184,
+        "lower_10_yen": 106572
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 304436,
+        "upper_90_yen": 430765,
+        "lower_10_yen": 217542
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 515060,
+        "upper_90_yen": 792678,
+        "lower_10_yen": 340234
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 777658,
+        "upper_90_yen": 1290016,
+        "lower_10_yen": 478981
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1105056,
+        "upper_90_yen": 1964596,
+        "lower_10_yen": 637962
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1513244,
+        "upper_90_yen": 2871505,
+        "lower_10_yen": 821761
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2022159,
+        "upper_90_yen": 4082806,
+        "lower_10_yen": 1035653
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2656656,
+        "upper_90_yen": 5692458,
+        "lower_10_yen": 1285839
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3447725,
+        "upper_90_yen": 7822709,
+        "lower_10_yen": 1579684
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4434001,
+        "upper_90_yen": 10632372,
+        "lower_10_yen": 1925982
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "佐田建設(1826)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "佐田建設(1826)を1株(1,082円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,082円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.42%、幾何成長率は16.51%",
+      "新NISAで月1万円の配当金を得るには2,000株（約2,164,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "佐田建設は単元未満株（S株・かぶミニ等）を利用することで1株（約1,082円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,434,001円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り5.55%）です。月次95%VaR（最大想定損失率）は-7.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "佐田建設は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,082円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約2,164,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1082.0
+  }
+}

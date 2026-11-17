@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "177A",
+    "name": "コージンバイオ",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 615.0,
+    "min_s_kabu_yen": 615,
+    "unit_lot_yen": 61500,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.63,
+    "raw_annual_return_pct": -52.19,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -28.39,
+    "annual_volatility_pct": 51.74,
+    "max_drawdown_pct": -77.64,
+    "monthly_var_95_pct": -20.87,
+    "sharpe_ratio": -0.54,
+    "quant_score": 13.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 738000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 926190
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3690000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 4630950
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 7380000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 9261900
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 22140000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 27784470
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 36900000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 46307655
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 104116,
+        "upper_90_yen": 165900,
+        "lower_10_yen": 66714
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 183786,
+        "upper_90_yen": 346200,
+        "lower_10_yen": 102131
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 244751,
+        "upper_90_yen": 520876,
+        "lower_10_yen": 123485
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 291401,
+        "upper_90_yen": 682772,
+        "lower_10_yen": 136963
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 327099,
+        "upper_90_yen": 828989,
+        "lower_10_yen": 145696
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 354415,
+        "upper_90_yen": 958745,
+        "lower_10_yen": 151456
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 375318,
+        "upper_90_yen": 1072415,
+        "lower_10_yen": 155305
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 391313,
+        "upper_90_yen": 1170998,
+        "lower_10_yen": 157903
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 403553,
+        "upper_90_yen": 1255808,
+        "lower_10_yen": 159671
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 412919,
+        "upper_90_yen": 1328283,
+        "lower_10_yen": 160883
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コージンバイオ(177A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コージンバイオ(177A)を1株(615円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小615円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.74%、幾何成長率は-28.39%",
+      "新NISAで月1万円の配当金を得るには12,000株（約7,380,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コージンバイオは単元未満株（S株・かぶミニ等）を利用することで1株（約615円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は412,919円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.63%）です。月次95%VaR（最大想定損失率）は-20.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コージンバイオは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約615円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約7,380,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 615.0
+  }
+}

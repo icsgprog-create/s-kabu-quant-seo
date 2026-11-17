@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2282",
+    "name": "日本ハム",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2063.0,
+    "min_s_kabu_yen": 2063,
+    "unit_lot_yen": 206300,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 2.91,
+    "raw_annual_return_pct": 11.26,
+    "capped_annual_return_pct": 11.26,
+    "geometric_growth_pct": 8.67,
+    "annual_volatility_pct": 22.78,
+    "max_drawdown_pct": -22.95,
+    "monthly_var_95_pct": -7.71,
+    "sharpe_ratio": 0.46,
+    "quant_score": 62.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 412600,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 517813
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 2063000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2589065
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 4126000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 5178130
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 12378000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 15534390
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 20630000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 25890650
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127837,
+        "upper_90_yen": 157621,
+        "lower_10_yen": 104090
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271365,
+        "upper_90_yen": 363879,
+        "lower_10_yen": 204082
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 432511,
+        "upper_90_yen": 620659,
+        "lower_10_yen": 305281
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 613435,
+        "upper_90_yen": 934235,
+        "lower_10_yen": 409722
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 816567,
+        "upper_90_yen": 1312867,
+        "lower_10_yen": 518742
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1044632,
+        "upper_90_yen": 1766557,
+        "lower_10_yen": 633424
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1300690,
+        "upper_90_yen": 2307117,
+        "lower_10_yen": 754749
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1588177,
+        "upper_90_yen": 2948357,
+        "lower_10_yen": 883668
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1910951,
+        "upper_90_yen": 3706338,
+        "lower_10_yen": 1021145
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2273343,
+        "upper_90_yen": 4599688,
+        "lower_10_yen": 1168178
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本ハム(2282)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本ハム(2282)を1株(2,063円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,063円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.78%、幾何成長率は8.67%",
+      "新NISAで月1万円の配当金を得るには2,000株（約4,126,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本ハムは単元未満株（S株・かぶミニ等）を利用することで1株（約2,063円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,273,343円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り2.91%）です。月次95%VaR（最大想定損失率）は-7.71%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本ハムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,063円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約4,126,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2063.0
+  }
+}

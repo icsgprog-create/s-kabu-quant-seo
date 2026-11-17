@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "141A",
+    "name": "トライアルホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4005.0,
+    "min_s_kabu_yen": 4005,
+    "unit_lot_yen": 400500,
+    "dps_yen": 17.0,
+    "dividend_yield_pct": 0.42,
+    "raw_annual_return_pct": 23.37,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 4.35,
+    "annual_volatility_pct": 55.94,
+    "max_drawdown_pct": -49.41,
+    "monthly_var_95_pct": -24.68,
+    "sharpe_ratio": 0.07,
+    "quant_score": 10.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 706,
+        "nisa_required_capital_yen": 2827530,
+        "specific_required_shares": 886,
+        "specific_required_capital_yen": 3548430
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 14137650,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 17742150
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7059,
+        "nisa_required_capital_yen": 28271295,
+        "specific_required_shares": 8859,
+        "specific_required_capital_yen": 35480295
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 21177,
+        "nisa_required_capital_yen": 84813885,
+        "specific_required_shares": 26576,
+        "specific_required_capital_yen": 106436880
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 35295,
+        "nisa_required_capital_yen": 141356475,
+        "specific_required_shares": 44293,
+        "specific_required_capital_yen": 177393465
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123156,
+        "upper_90_yen": 206780,
+        "lower_10_yen": 75118
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252337,
+        "upper_90_yen": 521630,
+        "lower_10_yen": 128493
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 387837,
+        "upper_90_yen": 947069,
+        "lower_10_yen": 171831
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 529966,
+        "upper_90_yen": 1495533,
+        "lower_10_yen": 208773
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 679047,
+        "upper_90_yen": 2183308,
+        "lower_10_yen": 241164
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 835420,
+        "upper_90_yen": 3029709,
+        "lower_10_yen": 270109
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 999443,
+        "upper_90_yen": 4056967,
+        "lower_10_yen": 296342
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1171490,
+        "upper_90_yen": 5290356,
+        "lower_10_yen": 320375
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1351953,
+        "upper_90_yen": 6758419,
+        "lower_10_yen": 342586
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1541243,
+        "upper_90_yen": 8493264,
+        "lower_10_yen": 363262
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "トライアルホールディングス(141A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "トライアルホールディングス(141A)を1株(4,005円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,005円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは55.94%、幾何成長率は4.35%",
+      "新NISAで月1万円の配当金を得るには7,059株（約28,271,295円）が必要"
+    ],
+    "accumulation_strategy_analysis": "トライアルホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約4,005円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,541,243円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり17.0円（利回り0.42%）です。月次95%VaR（最大想定損失率）は-24.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "トライアルホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,005円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,059株（元本目安：約28,271,295円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4005.0
+  }
+}

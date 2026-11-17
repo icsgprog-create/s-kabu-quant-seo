@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2408",
+    "name": "ＫＧ情報",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 817.0,
+    "min_s_kabu_yen": 817,
+    "unit_lot_yen": 81700,
+    "dps_yen": 36.0,
+    "dividend_yield_pct": 4.41,
+    "raw_annual_return_pct": 21.48,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.11,
+    "annual_volatility_pct": 27.88,
+    "max_drawdown_pct": -28.63,
+    "monthly_var_95_pct": -6.28,
+    "sharpe_ratio": 0.7,
+    "quant_score": 74.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 334,
+        "nisa_required_capital_yen": 272878,
+        "specific_required_shares": 419,
+        "specific_required_capital_yen": 342323
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1667,
+        "nisa_required_capital_yen": 1361939,
+        "specific_required_shares": 2092,
+        "specific_required_capital_yen": 1709164
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 2723878,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 3418328
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 8170000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 10253350
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16667,
+        "nisa_required_capital_yen": 13616939,
+        "specific_required_shares": 20916,
+        "specific_required_capital_yen": 17088372
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134342,
+        "upper_90_yen": 174010,
+        "lower_10_yen": 104324
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 299285,
+        "upper_90_yen": 431381,
+        "lower_10_yen": 210215
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 501799,
+        "upper_90_yen": 789855,
+        "lower_10_yen": 324742
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 750443,
+        "upper_90_yen": 1277582,
+        "lower_10_yen": 451595
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1055723,
+        "upper_90_yen": 1932094,
+        "lower_10_yen": 594068
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1430541,
+        "upper_90_yen": 2802239,
+        "lower_10_yen": 755599
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1890737,
+        "upper_90_yen": 3951101,
+        "lower_10_yen": 940012
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2455758,
+        "upper_90_yen": 5459837,
+        "lower_10_yen": 1151686
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3149481,
+        "upper_90_yen": 7432618,
+        "lower_10_yen": 1395707
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4001222,
+        "upper_90_yen": 10002941,
+        "lower_10_yen": 1678031
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＫＧ情報(2408)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＫＧ情報(2408)を1株(817円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小817円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.88%、幾何成長率は16.11%",
+      "新NISAで月1万円の配当金を得るには3,334株（約2,723,878円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＫＧ情報は単元未満株（S株・かぶミニ等）を利用することで1株（約817円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,001,222円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.0円（利回り4.41%）です。月次95%VaR（最大想定損失率）は-6.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＫＧ情報は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約817円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,334株（元本目安：約2,723,878円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 817.0
+  }
+}

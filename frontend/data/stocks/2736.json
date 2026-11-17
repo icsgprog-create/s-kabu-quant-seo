@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2736",
+    "name": "フェスタリアホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 600.0,
+    "min_s_kabu_yen": 600,
+    "unit_lot_yen": 60000,
+    "dps_yen": 14.0,
+    "dividend_yield_pct": 2.33,
+    "raw_annual_return_pct": 5.12,
+    "capped_annual_return_pct": 5.12,
+    "geometric_growth_pct": 2.48,
+    "annual_volatility_pct": 22.99,
+    "max_drawdown_pct": -22.14,
+    "monthly_var_95_pct": -8.96,
+    "sharpe_ratio": 0.17,
+    "quant_score": 49.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 514800,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 645600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 2571600,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 3227400
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 5143200,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 6454200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 25715,
+        "nisa_required_capital_yen": 15429000,
+        "specific_required_shares": 32270,
+        "specific_required_capital_yen": 19362000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 25714800,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 32270400
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123182,
+        "upper_90_yen": 151987,
+        "lower_10_yen": 100238
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252438,
+        "upper_90_yen": 338220,
+        "lower_10_yen": 190055
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 388067,
+        "upper_90_yen": 555141,
+        "lower_10_yen": 274918
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 530385,
+        "upper_90_yen": 802922,
+        "lower_10_yen": 356703
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 679721,
+        "upper_90_yen": 1082740,
+        "lower_10_yen": 436433
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 836421,
+        "upper_90_yen": 1396294,
+        "lower_10_yen": 514770
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1000848,
+        "upper_90_yen": 1745648,
+        "lower_10_yen": 592180
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1173383,
+        "upper_90_yen": 2133166,
+        "lower_10_yen": 669017
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1354426,
+        "upper_90_yen": 2561481,
+        "lower_10_yen": 745557
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1544397,
+        "upper_90_yen": 3033487,
+        "lower_10_yen": 822030
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フェスタリアホールディングス(2736)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フェスタリアホールディングス(2736)を1株(600円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小600円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.99%、幾何成長率は2.48%",
+      "新NISAで月1万円の配当金を得るには8,572株（約5,143,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フェスタリアホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約600円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,544,397円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.0円（利回り2.33%）です。月次95%VaR（最大想定損失率）は-8.96%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フェスタリアホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約600円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,572株（元本目安：約5,143,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 600.0
+  }
+}

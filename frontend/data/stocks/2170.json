@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2170",
+    "name": "リンクアンドモチベーション",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 543.0,
+    "min_s_kabu_yen": 543,
+    "unit_lot_yen": 54300,
+    "dps_yen": 16.4,
+    "dividend_yield_pct": 3.02,
+    "raw_annual_return_pct": -7.97,
+    "capped_annual_return_pct": -7.97,
+    "geometric_growth_pct": -16.79,
+    "annual_volatility_pct": 42.01,
+    "max_drawdown_pct": -58.37,
+    "monthly_var_95_pct": -18.21,
+    "sharpe_ratio": -0.35,
+    "quant_score": 27.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 732,
+        "nisa_required_capital_yen": 397476,
+        "specific_required_shares": 919,
+        "specific_required_capital_yen": 499017
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3659,
+        "nisa_required_capital_yen": 1986837,
+        "specific_required_shares": 4592,
+        "specific_required_capital_yen": 2493456
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7318,
+        "nisa_required_capital_yen": 3973674,
+        "specific_required_shares": 9183,
+        "specific_required_capital_yen": 4986369
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 21952,
+        "nisa_required_capital_yen": 11919936,
+        "specific_required_shares": 27548,
+        "specific_required_capital_yen": 14958564
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 36586,
+        "nisa_required_capital_yen": 19866198,
+        "specific_required_shares": 45913,
+        "specific_required_capital_yen": 24930759
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111463,
+        "upper_90_yen": 163142,
+        "lower_10_yen": 77198
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 208587,
+        "upper_90_yen": 351985,
+        "lower_10_yen": 127348
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 293217,
+        "upper_90_yen": 551202,
+        "lower_10_yen": 163386
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 366960,
+        "upper_90_yen": 753970,
+        "lower_10_yen": 190251
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 431217,
+        "upper_90_yen": 956072,
+        "lower_10_yen": 210708
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 487208,
+        "upper_90_yen": 1154666,
+        "lower_10_yen": 226511
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 535996,
+        "upper_90_yen": 1347779,
+        "lower_10_yen": 238848
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 578508,
+        "upper_90_yen": 1534042,
+        "lower_10_yen": 248559
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 615552,
+        "upper_90_yen": 1712524,
+        "lower_10_yen": 256252
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 647830,
+        "upper_90_yen": 1882625,
+        "lower_10_yen": 262381
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "リンクアンドモチベーション(2170)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "リンクアンドモチベーション(2170)を1株(543円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小543円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.01%、幾何成長率は-16.79%",
+      "新NISAで月1万円の配当金を得るには7,318株（約3,973,674円）が必要"
+    ],
+    "accumulation_strategy_analysis": "リンクアンドモチベーションは単元未満株（S株・かぶミニ等）を利用することで1株（約543円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は647,830円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.4円（利回り3.02%）です。月次95%VaR（最大想定損失率）は-18.21%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "リンクアンドモチベーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約543円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,318株（元本目安：約3,973,674円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 543.0
+  }
+}

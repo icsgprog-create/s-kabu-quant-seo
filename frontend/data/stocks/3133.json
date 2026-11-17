@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3133",
+    "name": "海帆",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 24.0,
+    "min_s_kabu_yen": 24,
+    "unit_lot_yen": 2400,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -44.31,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -51.43,
+    "annual_volatility_pct": 85.35,
+    "max_drawdown_pct": -98.33,
+    "monthly_var_95_pct": -41.69,
+    "sharpe_ratio": -0.61,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 91822,
+        "upper_90_yen": 196910,
+        "lower_10_yen": 45327
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 146725,
+        "upper_90_yen": 406893,
+        "lower_10_yen": 59919
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 179554,
+        "upper_90_yen": 592322,
+        "lower_10_yen": 65787
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 199184,
+        "upper_90_yen": 744499,
+        "lower_10_yen": 68337
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 210921,
+        "upper_90_yen": 864149,
+        "lower_10_yen": 69495
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 217939,
+        "upper_90_yen": 955528,
+        "lower_10_yen": 70036
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 222136,
+        "upper_90_yen": 1023841,
+        "lower_10_yen": 70295
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 224645,
+        "upper_90_yen": 1074069,
+        "lower_10_yen": 70421
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 226145,
+        "upper_90_yen": 1110509,
+        "lower_10_yen": 70483
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 227042,
+        "upper_90_yen": 1136655,
+        "lower_10_yen": 70514
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "海帆(3133)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "海帆(3133)を1株(24円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小24円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは85.35%、幾何成長率は-51.43%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "海帆は単元未満株（S株・かぶミニ等）を利用することで1株（約24円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は227,042円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-41.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "海帆は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約24円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 24.0
+  }
+}

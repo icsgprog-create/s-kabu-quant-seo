@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2349",
+    "name": "エヌアイデイ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2500.0,
+    "min_s_kabu_yen": 2500,
+    "unit_lot_yen": 250000,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 1.2,
+    "raw_annual_return_pct": 11.41,
+    "capped_annual_return_pct": 11.41,
+    "geometric_growth_pct": 8.12,
+    "annual_volatility_pct": 25.65,
+    "max_drawdown_pct": -19.72,
+    "monthly_var_95_pct": -6.03,
+    "sharpe_ratio": 0.32,
+    "quant_score": 42.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 1000000,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 1255000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 5000000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 6275000
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 10000000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 12550000
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 30000000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 37650000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 50000000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 62747500
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126259,
+        "upper_90_yen": 159810,
+        "lower_10_yen": 100251
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 264851,
+        "upper_90_yen": 368252,
+        "lower_10_yen": 192536
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 416981,
+        "upper_90_yen": 625290,
+        "lower_10_yen": 282656
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 583972,
+        "upper_90_yen": 935446,
+        "lower_10_yen": 372621
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 767275,
+        "upper_90_yen": 1304967,
+        "lower_10_yen": 463595
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 968483,
+        "upper_90_yen": 1741424,
+        "lower_10_yen": 556390
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1189346,
+        "upper_90_yen": 2253670,
+        "lower_10_yen": 651651
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1431783,
+        "upper_90_yen": 2851895,
+        "lower_10_yen": 749930
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1697901,
+        "upper_90_yen": 3547751,
+        "lower_10_yen": 851729
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1990015,
+        "upper_90_yen": 4354499,
+        "lower_10_yen": 957525
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エヌアイデイ(2349)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エヌアイデイ(2349)を1株(2,500円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,500円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.65%、幾何成長率は8.12%",
+      "新NISAで月1万円の配当金を得るには4,000株（約10,000,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エヌアイデイは単元未満株（S株・かぶミニ等）を利用することで1株（約2,500円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,990,015円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り1.2%）です。月次95%VaR（最大想定損失率）は-6.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エヌアイデイは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,500円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約10,000,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2500.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3002",
+    "name": "グンゼ",
+    "sector": "繊維製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4380.0,
+    "min_s_kabu_yen": 4380,
+    "unit_lot_yen": 438000,
+    "dps_yen": 147.0,
+    "dividend_yield_pct": 3.36,
+    "raw_annual_return_pct": 19.43,
+    "capped_annual_return_pct": 19.43,
+    "geometric_growth_pct": 17.07,
+    "annual_volatility_pct": 21.75,
+    "max_drawdown_pct": -20.37,
+    "monthly_var_95_pct": -5.71,
+    "sharpe_ratio": 0.89,
+    "quant_score": 77.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 82,
+        "nisa_required_capital_yen": 359160,
+        "specific_required_shares": 103,
+        "specific_required_capital_yen": 451140
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 409,
+        "nisa_required_capital_yen": 1791420,
+        "specific_required_shares": 513,
+        "specific_required_capital_yen": 2246940
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 817,
+        "nisa_required_capital_yen": 3578460,
+        "specific_required_shares": 1025,
+        "specific_required_capital_yen": 4489500
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2449,
+        "nisa_required_capital_yen": 10726620,
+        "specific_required_shares": 3074,
+        "specific_required_capital_yen": 13464120
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4082,
+        "nisa_required_capital_yen": 17879160,
+        "specific_required_shares": 5123,
+        "specific_required_capital_yen": 22438740
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134270,
+        "upper_90_yen": 164215,
+        "lower_10_yen": 110176
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298965,
+        "upper_90_yen": 397210,
+        "lower_10_yen": 226715
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 500980,
+        "upper_90_yen": 712571,
+        "lower_10_yen": 356204
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 748771,
+        "upper_90_yen": 1131666,
+        "lower_10_yen": 502779
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1052712,
+        "upper_90_yen": 1682662,
+        "lower_10_yen": 670498
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1425526,
+        "upper_90_yen": 2401795,
+        "lower_10_yen": 863828
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1882819,
+        "upper_90_yen": 3335330,
+        "lower_10_yen": 1087889
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2443735,
+        "upper_90_yen": 4542123,
+        "lower_10_yen": 1348657
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3131753,
+        "upper_90_yen": 6096900,
+        "lower_10_yen": 1653176
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3975677,
+        "upper_90_yen": 8094409,
+        "lower_10_yen": 2009783
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "グンゼ(3002)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "グンゼ(3002)を1株(4,380円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,380円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.75%、幾何成長率は17.07%",
+      "新NISAで月1万円の配当金を得るには817株（約3,578,460円）が必要"
+    ],
+    "accumulation_strategy_analysis": "グンゼは単元未満株（S株・かぶミニ等）を利用することで1株（約4,380円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,975,677円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり147.0円（利回り3.36%）です。月次95%VaR（最大想定損失率）は-5.71%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "グンゼは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,380円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、817株（元本目安：約3,578,460円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4380.0
+  }
+}

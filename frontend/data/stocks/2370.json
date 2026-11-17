@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2370",
+    "name": "メディネット",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 16.0,
+    "min_s_kabu_yen": 16,
+    "unit_lot_yen": 1600,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -27.52,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -31.91,
+    "annual_volatility_pct": 58.16,
+    "max_drawdown_pct": -85.19,
+    "monthly_var_95_pct": -19.49,
+    "sharpe_ratio": -0.57,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 101377,
+        "upper_90_yen": 170982,
+        "lower_10_yen": 61712
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 175058,
+        "upper_90_yen": 355333,
+        "lower_10_yen": 91384
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 228608,
+        "upper_90_yen": 530024,
+        "lower_10_yen": 107875
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 267528,
+        "upper_90_yen": 687515,
+        "lower_10_yen": 117524
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 295815,
+        "upper_90_yen": 825425,
+        "lower_10_yen": 123341
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 316374,
+        "upper_90_yen": 943826,
+        "lower_10_yen": 126918
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 331316,
+        "upper_90_yen": 1044010,
+        "lower_10_yen": 129150
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 342176,
+        "upper_90_yen": 1127828,
+        "lower_10_yen": 130560
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 350069,
+        "upper_90_yen": 1197320,
+        "lower_10_yen": 131457
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 355805,
+        "upper_90_yen": 1254502,
+        "lower_10_yen": 132033
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "メディネット(2370)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "メディネット(2370)を1株(16円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小16円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは58.16%、幾何成長率は-31.91%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "メディネットは単元未満株（S株・かぶミニ等）を利用することで1株（約16円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は355,805円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-19.49%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "メディネットは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約16円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 16.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2883",
+    "name": "大冷",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1969.0,
+    "min_s_kabu_yen": 1969,
+    "unit_lot_yen": 196900,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 3.05,
+    "raw_annual_return_pct": 3.58,
+    "capped_annual_return_pct": 3.58,
+    "geometric_growth_pct": 3.29,
+    "annual_volatility_pct": 7.65,
+    "max_drawdown_pct": -8.76,
+    "monthly_var_95_pct": -3.0,
+    "sharpe_ratio": 0.7,
+    "quant_score": 76.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 393800,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 494219
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1969000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2471095
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 3938000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 4942190
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 11814000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 14826570
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 19690000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 24710950
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124212,
+        "upper_90_yen": 133169,
+        "lower_10_yen": 115909
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 256551,
+        "upper_90_yen": 282610,
+        "lower_10_yen": 233119
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 397550,
+        "upper_90_yen": 447470,
+        "lower_10_yen": 353720
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 547775,
+        "upper_90_yen": 628155,
+        "lower_10_yen": 478627
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 707829,
+        "upper_90_yen": 825432,
+        "lower_10_yen": 608487
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 878356,
+        "upper_90_yen": 1040267,
+        "lower_10_yen": 743849
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1060042,
+        "upper_90_yen": 1273779,
+        "lower_10_yen": 885215
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1253615,
+        "upper_90_yen": 1527214,
+        "lower_10_yen": 1033070
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1459854,
+        "upper_90_yen": 1801947,
+        "lower_10_yen": 1187896
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1679589,
+        "upper_90_yen": 2099471,
+        "lower_10_yen": 1350182
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大冷(2883)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大冷(2883)を1株(1,969円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,969円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは7.65%、幾何成長率は3.29%",
+      "新NISAで月1万円の配当金を得るには2,000株（約3,938,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大冷は単元未満株（S株・かぶミニ等）を利用することで1株（約1,969円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,679,589円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り3.05%）です。月次95%VaR（最大想定損失率）は-3.0%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大冷は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,969円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約3,938,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1969.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1446",
+    "name": "キャンディル",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 538.0,
+    "min_s_kabu_yen": 538,
+    "unit_lot_yen": 53800,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.86,
+    "raw_annual_return_pct": 2.35,
+    "capped_annual_return_pct": 2.35,
+    "geometric_growth_pct": 0.83,
+    "annual_volatility_pct": 17.43,
+    "max_drawdown_pct": -22.0,
+    "monthly_var_95_pct": -9.87,
+    "sharpe_ratio": 0.1,
+    "quant_score": 49.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 645600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 810228
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3228000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 4051140
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 6456000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 8102280
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 19368000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 24305764
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 32280000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 40509786
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121763,
+        "upper_90_yen": 142707,
+        "lower_10_yen": 104134
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 246843,
+        "upper_90_yen": 307659,
+        "lower_10_yen": 199044
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 375329,
+        "upper_90_yen": 491079,
+        "lower_10_yen": 289086
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 507315,
+        "upper_90_yen": 692031,
+        "lower_10_yen": 375799
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 642895,
+        "upper_90_yen": 910287,
+        "lower_10_yen": 460041
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 782168,
+        "upper_90_yen": 1145946,
+        "lower_10_yen": 542367
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 925235,
+        "upper_90_yen": 1399292,
+        "lower_10_yen": 623170
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1072198,
+        "upper_90_yen": 1670737,
+        "lower_10_yen": 702749
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1223164,
+        "upper_90_yen": 1960785,
+        "lower_10_yen": 781334
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1378242,
+        "upper_90_yen": 2270015,
+        "lower_10_yen": 859113
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "キャンディル(1446)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "キャンディル(1446)を1株(538円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小538円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.43%、幾何成長率は0.83%",
+      "新NISAで月1万円の配当金を得るには12,000株（約6,456,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "キャンディルは単元未満株（S株・かぶミニ等）を利用することで1株（約538円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,378,242円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.86%）です。月次95%VaR（最大想定損失率）は-9.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "キャンディルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約538円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約6,456,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 538.0
+  }
+}

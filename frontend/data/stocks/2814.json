@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2814",
+    "name": "佐藤食品工業",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1852.0,
+    "min_s_kabu_yen": 1852,
+    "unit_lot_yen": 185200,
+    "dps_yen": 28.0,
+    "dividend_yield_pct": 1.51,
+    "raw_annual_return_pct": 18.43,
+    "capped_annual_return_pct": 18.43,
+    "geometric_growth_pct": 15.9,
+    "annual_volatility_pct": 22.5,
+    "max_drawdown_pct": -17.18,
+    "monthly_var_95_pct": -6.02,
+    "sharpe_ratio": 0.73,
+    "quant_score": 57.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 794508,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 996376
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2143,
+        "nisa_required_capital_yen": 3968836,
+        "specific_required_shares": 2690,
+        "specific_required_capital_yen": 4981880
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 7937672,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 9961908
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12858,
+        "nisa_required_capital_yen": 23813016,
+        "specific_required_shares": 16135,
+        "specific_required_capital_yen": 29882020
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21429,
+        "nisa_required_capital_yen": 39686508,
+        "specific_required_shares": 26892,
+        "specific_required_capital_yen": 49803984
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132034,
+        "upper_90_yen": 162539,
+        "lower_10_yen": 107665
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289182,
+        "upper_90_yen": 387490,
+        "lower_10_yen": 217570
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 476219,
+        "upper_90_yen": 683955,
+        "lower_10_yen": 335650
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 698831,
+        "upper_90_yen": 1067326,
+        "lower_10_yen": 464977
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 963783,
+        "upper_90_yen": 1557586,
+        "lower_10_yen": 608220
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1279130,
+        "upper_90_yen": 2179812,
+        "lower_10_yen": 768089
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1654457,
+        "upper_90_yen": 2965132,
+        "lower_10_yen": 947515
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2101171,
+        "upper_90_yen": 3952006,
+        "lower_10_yen": 1149769
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2632850,
+        "upper_90_yen": 5187835,
+        "lower_10_yen": 1378554
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3265656,
+        "upper_90_yen": 6730948,
+        "lower_10_yen": 1638104
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "佐藤食品工業(2814)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "佐藤食品工業(2814)を1株(1,852円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,852円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.5%、幾何成長率は15.9%",
+      "新NISAで月1万円の配当金を得るには4,286株（約7,937,672円）が必要"
+    ],
+    "accumulation_strategy_analysis": "佐藤食品工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,852円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,265,656円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり28.0円（利回り1.51%）です。月次95%VaR（最大想定損失率）は-6.02%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "佐藤食品工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,852円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,286株（元本目安：約7,937,672円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1852.0
+  }
+}

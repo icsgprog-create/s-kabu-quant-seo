@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2801",
+    "name": "キッコーマン",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1812.0,
+    "min_s_kabu_yen": 1812,
+    "unit_lot_yen": 181200,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 1.38,
+    "raw_annual_return_pct": 0.45,
+    "capped_annual_return_pct": 0.45,
+    "geometric_growth_pct": -4.65,
+    "annual_volatility_pct": 31.95,
+    "max_drawdown_pct": -38.18,
+    "monthly_var_95_pct": -11.76,
+    "sharpe_ratio": -0.13,
+    "quant_score": 25.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 869760,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 1092636
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 4348800,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 5457744
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 8697600,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 10915488
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 26092800,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 32746464
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 43488000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 54575628
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117900,
+        "upper_90_yen": 157739,
+        "lower_10_yen": 88815
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 232009,
+        "upper_90_yen": 347149,
+        "lower_10_yen": 157717
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 342449,
+        "upper_90_yen": 559120,
+        "lower_10_yen": 215337
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 449339,
+        "upper_90_yen": 789980,
+        "lower_10_yen": 264876
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 552792,
+        "upper_90_yen": 1037447,
+        "lower_10_yen": 308158
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 652919,
+        "upper_90_yen": 1299866,
+        "lower_10_yen": 346385
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 749827,
+        "upper_90_yen": 1575937,
+        "lower_10_yen": 380420
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 843619,
+        "upper_90_yen": 1864582,
+        "lower_10_yen": 410911
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 934395,
+        "upper_90_yen": 2164874,
+        "lower_10_yen": 438364
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1022253,
+        "upper_90_yen": 2475998,
+        "lower_10_yen": 463183
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "キッコーマン(2801)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "キッコーマン(2801)を1株(1,812円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,812円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.95%、幾何成長率は-4.65%",
+      "新NISAで月1万円の配当金を得るには4,800株（約8,697,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "キッコーマンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,812円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,022,253円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り1.38%）です。月次95%VaR（最大想定損失率）は-11.76%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "キッコーマンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,812円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約8,697,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1812.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3087",
+    "name": "ドトール・日レスホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3995.0,
+    "min_s_kabu_yen": 3995,
+    "unit_lot_yen": 399500,
+    "dps_yen": 62.0,
+    "dividend_yield_pct": 1.55,
+    "raw_annual_return_pct": 20.16,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.9,
+    "annual_volatility_pct": 20.5,
+    "max_drawdown_pct": -16.14,
+    "monthly_var_95_pct": -7.07,
+    "sharpe_ratio": 0.9,
+    "quant_score": 64.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 194,
+        "nisa_required_capital_yen": 775030,
+        "specific_required_shares": 243,
+        "specific_required_capital_yen": 970785
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 968,
+        "nisa_required_capital_yen": 3867160,
+        "specific_required_shares": 1215,
+        "specific_required_capital_yen": 4853925
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1936,
+        "nisa_required_capital_yen": 7734320,
+        "specific_required_shares": 2429,
+        "specific_required_capital_yen": 9703855
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5807,
+        "nisa_required_capital_yen": 23198965,
+        "specific_required_shares": 7287,
+        "specific_required_capital_yen": 29111565
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9678,
+        "nisa_required_capital_yen": 38663610,
+        "specific_required_shares": 12145,
+        "specific_required_capital_yen": 48519275
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133543,
+        "upper_90_yen": 161405,
+        "lower_10_yen": 110840
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 295760,
+        "upper_90_yen": 386336,
+        "lower_10_yen": 227938
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 492809,
+        "upper_90_yen": 686139,
+        "lower_10_yen": 357524
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 732170,
+        "upper_90_yen": 1078894,
+        "lower_10_yen": 503459
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1022927,
+        "upper_90_yen": 1588228,
+        "lower_10_yen": 669492
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1376116,
+        "upper_90_yen": 2244209,
+        "lower_10_yen": 859703
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1805144,
+        "upper_90_yen": 3084777,
+        "lower_10_yen": 1078728
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2326295,
+        "upper_90_yen": 4157630,
+        "lower_10_yen": 1331930
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2959349,
+        "upper_90_yen": 5522606,
+        "lower_10_yen": 1625580
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3728335,
+        "upper_90_yen": 7254670,
+        "lower_10_yen": 1967038
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ドトール・日レスホールディングス(3087)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ドトール・日レスホールディングス(3087)を1株(3,995円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,995円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.5%、幾何成長率は17.9%",
+      "新NISAで月1万円の配当金を得るには1,936株（約7,734,320円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ドトール・日レスホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,995円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,728,335円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり62.0円（利回り1.55%）です。月次95%VaR（最大想定損失率）は-7.07%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ドトール・日レスホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,995円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,936株（元本目安：約7,734,320円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3995.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "166A",
+    "name": "タスキホールディングス",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1092.0,
+    "min_s_kabu_yen": 1092,
+    "unit_lot_yen": 109200,
+    "dps_yen": 68.0,
+    "dividend_yield_pct": 6.23,
+    "raw_annual_return_pct": 21.6,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 12.51,
+    "annual_volatility_pct": 38.69,
+    "max_drawdown_pct": -32.54,
+    "monthly_var_95_pct": -14.03,
+    "sharpe_ratio": 0.46,
+    "quant_score": 62.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 177,
+        "nisa_required_capital_yen": 193284,
+        "specific_required_shares": 222,
+        "specific_required_capital_yen": 242424
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 883,
+        "nisa_required_capital_yen": 964236,
+        "specific_required_shares": 1108,
+        "specific_required_capital_yen": 1209936
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1765,
+        "nisa_required_capital_yen": 1927380,
+        "specific_required_shares": 2215,
+        "specific_required_capital_yen": 2418780
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5295,
+        "nisa_required_capital_yen": 5782140,
+        "specific_required_shares": 6644,
+        "specific_required_capital_yen": 7255248
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8824,
+        "nisa_required_capital_yen": 9635808,
+        "specific_required_shares": 11074,
+        "specific_required_capital_yen": 12092808
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133015,
+        "upper_90_yen": 190675,
+        "lower_10_yen": 93842
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 293449,
+        "upper_90_yen": 488232,
+        "lower_10_yen": 180632
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 486952,
+        "upper_90_yen": 915737,
+        "lower_10_yen": 268394
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 720343,
+        "upper_90_yen": 1510328,
+        "lower_10_yen": 360137
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1001842,
+        "upper_90_yen": 2321676,
+        "lower_10_yen": 457914
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1341367,
+        "upper_90_yen": 3414514,
+        "lower_10_yen": 563494
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1750878,
+        "upper_90_yen": 4872470,
+        "lower_10_yen": 678607
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2244802,
+        "upper_90_yen": 6803101,
+        "lower_10_yen": 805056
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2840539,
+        "upper_90_yen": 9344344,
+        "lower_10_yen": 944796
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3559074,
+        "upper_90_yen": 12672719,
+        "lower_10_yen": 1099997
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "タスキホールディングス(166A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "タスキホールディングス(166A)を1株(1,092円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,092円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは38.69%、幾何成長率は12.51%",
+      "新NISAで月1万円の配当金を得るには1,765株（約1,927,380円）が必要"
+    ],
+    "accumulation_strategy_analysis": "タスキホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,092円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,559,074円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり68.0円（利回り6.23%）です。月次95%VaR（最大想定損失率）は-14.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "タスキホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,092円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,765株（元本目安：約1,927,380円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1092.0
+  }
+}

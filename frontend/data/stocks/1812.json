@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1812",
+    "name": "鹿島建設",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4793.0,
+    "min_s_kabu_yen": 4793,
+    "unit_lot_yen": 479300,
+    "dps_yen": 163.0,
+    "dividend_yield_pct": 3.4,
+    "raw_annual_return_pct": 28.65,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.3,
+    "annual_volatility_pct": 30.66,
+    "max_drawdown_pct": -40.23,
+    "monthly_var_95_pct": -10.72,
+    "sharpe_ratio": 0.58,
+    "quant_score": 61.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 74,
+        "nisa_required_capital_yen": 354682,
+        "specific_required_shares": 93,
+        "specific_required_capital_yen": 445749
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 369,
+        "nisa_required_capital_yen": 1768617,
+        "specific_required_shares": 462,
+        "specific_required_capital_yen": 2214366
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 737,
+        "nisa_required_capital_yen": 3532441,
+        "specific_required_shares": 924,
+        "specific_required_capital_yen": 4428732
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2209,
+        "nisa_required_capital_yen": 10587737,
+        "specific_required_shares": 2772,
+        "specific_required_capital_yen": 13286196
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3681,
+        "nisa_required_capital_yen": 17643033,
+        "specific_required_shares": 4620,
+        "specific_required_capital_yen": 22143660
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132984,
+        "upper_90_yen": 176746,
+        "lower_10_yen": 100767
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 293311,
+        "upper_90_yen": 438264,
+        "lower_10_yen": 199264
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 486604,
+        "upper_90_yen": 800485,
+        "lower_10_yen": 302542
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 719643,
+        "upper_90_yen": 1289416,
+        "lower_10_yen": 413715
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1000598,
+        "upper_90_yen": 1939461,
+        "lower_10_yen": 535232
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1339322,
+        "upper_90_yen": 2794854,
+        "lower_10_yen": 669439
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1747694,
+        "upper_90_yen": 3911946,
+        "lower_10_yen": 818799
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2240035,
+        "upper_90_yen": 5362212,
+        "lower_10_yen": 986011
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2833609,
+        "upper_90_yen": 7236079,
+        "lower_10_yen": 1174105
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3549234,
+        "upper_90_yen": 9647742,
+        "lower_10_yen": 1386527
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "鹿島建設(1812)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "鹿島建設(1812)を1株(4,793円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,793円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.66%、幾何成長率は15.3%",
+      "新NISAで月1万円の配当金を得るには737株（約3,532,441円）が必要"
+    ],
+    "accumulation_strategy_analysis": "鹿島建設は単元未満株（S株・かぶミニ等）を利用することで1株（約4,793円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,549,234円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり163.0円（利回り3.4%）です。月次95%VaR（最大想定損失率）は-10.72%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "鹿島建設は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,793円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、737株（元本目安：約3,532,441円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4793.0
+  }
+}

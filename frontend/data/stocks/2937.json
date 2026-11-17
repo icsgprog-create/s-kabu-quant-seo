@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2937",
+    "name": "サンクゼール",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1695.0,
+    "min_s_kabu_yen": 1695,
+    "unit_lot_yen": 169500,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 2.06,
+    "raw_annual_return_pct": -9.31,
+    "capped_annual_return_pct": -9.31,
+    "geometric_growth_pct": -17.19,
+    "annual_volatility_pct": 39.68,
+    "max_drawdown_pct": -70.15,
+    "monthly_var_95_pct": -20.53,
+    "sharpe_ratio": -0.41,
+    "quant_score": 21.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 581385,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 730545
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 2906925,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 3647640
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 5812155,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 7293585
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 17434770,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 21879060
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 29057385,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 36466230
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 110668,
+        "upper_90_yen": 158471,
+        "lower_10_yen": 78230
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 205805,
+        "upper_90_yen": 336695,
+        "lower_10_yen": 129195
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 287592,
+        "upper_90_yen": 520248,
+        "lower_10_yen": 165714
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 357901,
+        "upper_90_yen": 702991,
+        "lower_10_yen": 192806
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 418344,
+        "upper_90_yen": 881361,
+        "lower_10_yen": 213312
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 470304,
+        "upper_90_yen": 1053138,
+        "lower_10_yen": 229045
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 514973,
+        "upper_90_yen": 1216934,
+        "lower_10_yen": 241237
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 553373,
+        "upper_90_yen": 1371927,
+        "lower_10_yen": 250757
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 586385,
+        "upper_90_yen": 1517683,
+        "lower_10_yen": 258238
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 614764,
+        "upper_90_yen": 1654053,
+        "lower_10_yen": 264147
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サンクゼール(2937)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サンクゼール(2937)を1株(1,695円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,695円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.68%、幾何成長率は-17.19%",
+      "新NISAで月1万円の配当金を得るには3,429株（約5,812,155円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サンクゼールは単元未満株（S株・かぶミニ等）を利用することで1株（約1,695円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は614,764円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り2.06%）です。月次95%VaR（最大想定損失率）は-20.53%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サンクゼールは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,695円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約5,812,155円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1695.0
+  }
+}

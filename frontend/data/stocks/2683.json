@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2683",
+    "name": "ＵＯＧｒｏｕｐ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 989.0,
+    "min_s_kabu_yen": 989,
+    "unit_lot_yen": 98900,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.01,
+    "raw_annual_return_pct": -1.8,
+    "capped_annual_return_pct": -1.8,
+    "geometric_growth_pct": -2.23,
+    "annual_volatility_pct": 9.28,
+    "max_drawdown_pct": -18.41,
+    "monthly_var_95_pct": -5.01,
+    "sharpe_ratio": -0.24,
+    "quant_score": 38.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1186800,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1489434
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 5934000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 7447170
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 11868000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 14894340
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 35604000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 44681042
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 59340000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 74468733
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119212,
+        "upper_90_yen": 129647,
+        "lower_10_yen": 109689
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 236981,
+        "upper_90_yen": 266072,
+        "lower_10_yen": 211374
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 353325,
+        "upper_90_yen": 406662,
+        "lower_10_yen": 307664
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 468262,
+        "upper_90_yen": 550401,
+        "lower_10_yen": 399577
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 581807,
+        "upper_90_yen": 696678,
+        "lower_10_yen": 487720
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 693978,
+        "upper_90_yen": 845073,
+        "lower_10_yen": 572515
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 804792,
+        "upper_90_yen": 995267,
+        "lower_10_yen": 654277
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 914265,
+        "upper_90_yen": 1147010,
+        "lower_10_yen": 733258
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1022413,
+        "upper_90_yen": 1300095,
+        "lower_10_yen": 809663
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1129252,
+        "upper_90_yen": 1454351,
+        "lower_10_yen": 883663
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＵＯＧｒｏｕｐ(2683)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＵＯＧｒｏｕｐ(2683)を1株(989円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小989円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは9.28%、幾何成長率は-2.23%",
+      "新NISAで月1万円の配当金を得るには12,000株（約11,868,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＵＯＧｒｏｕｐは単元未満株（S株・かぶミニ等）を利用することで1株（約989円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,129,252円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.01%）です。月次95%VaR（最大想定損失率）は-5.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＵＯＧｒｏｕｐは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約989円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約11,868,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 989.0
+  }
+}

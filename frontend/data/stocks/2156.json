@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2156",
+    "name": "セーラー広告",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 274.0,
+    "min_s_kabu_yen": 274,
+    "unit_lot_yen": 27400,
+    "dps_yen": 6.0,
+    "dividend_yield_pct": 2.19,
+    "raw_annual_return_pct": 2.36,
+    "capped_annual_return_pct": 2.36,
+    "geometric_growth_pct": -8.25,
+    "annual_volatility_pct": 46.08,
+    "max_drawdown_pct": -71.1,
+    "monthly_var_95_pct": -12.23,
+    "sharpe_ratio": -0.15,
+    "quant_score": 18.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 548000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 687740
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 2740000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 3438700
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 5480000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 6877126
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 16440000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 20631378
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 100000,
+        "nisa_required_capital_yen": 27400000,
+        "specific_required_shares": 125495,
+        "specific_required_capital_yen": 34385630
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116140,
+        "upper_90_yen": 176994,
+        "lower_10_yen": 77460
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 225445,
+        "upper_90_yen": 404072,
+        "lower_10_yen": 130327
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 328318,
+        "upper_90_yen": 667541,
+        "lower_10_yen": 170609
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 425138,
+        "upper_90_yen": 961518,
+        "lower_10_yen": 202561
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 516260,
+        "upper_90_yen": 1282108,
+        "lower_10_yen": 228502
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 602020,
+        "upper_90_yen": 1626321,
+        "lower_10_yen": 249897
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 682733,
+        "upper_90_yen": 1991687,
+        "lower_10_yen": 267747
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 758697,
+        "upper_90_yen": 2376064,
+        "lower_10_yen": 282774
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 830190,
+        "upper_90_yen": 2777552,
+        "lower_10_yen": 295516
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 897477,
+        "upper_90_yen": 3194424,
+        "lower_10_yen": 306385
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セーラー広告(2156)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セーラー広告(2156)を1株(274円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小274円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは46.08%、幾何成長率は-8.25%",
+      "新NISAで月1万円の配当金を得るには20,000株（約5,480,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セーラー広告は単元未満株（S株・かぶミニ等）を利用することで1株（約274円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は897,477円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり6.0円（利回り2.19%）です。月次95%VaR（最大想定損失率）は-12.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セーラー広告は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約274円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、20,000株（元本目安：約5,480,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 274.0
+  }
+}

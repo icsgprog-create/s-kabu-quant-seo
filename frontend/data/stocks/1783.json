@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1783",
+    "name": "ｆａｎｔａｓｉｓｔａ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 60.0,
+    "min_s_kabu_yen": 60,
+    "unit_lot_yen": 6000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -7.46,
+    "capped_annual_return_pct": -7.46,
+    "geometric_growth_pct": -21.66,
+    "annual_volatility_pct": 53.29,
+    "max_drawdown_pct": -68.27,
+    "monthly_var_95_pct": -18.54,
+    "sharpe_ratio": -0.43,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106922,
+        "upper_90_yen": 173184,
+        "lower_10_yen": 67481
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 193019,
+        "upper_90_yen": 373105,
+        "lower_10_yen": 104797
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 262348,
+        "upper_90_yen": 578305,
+        "lower_10_yen": 128310
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 318174,
+        "upper_90_yen": 779560,
+        "lower_10_yen": 143838
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 363127,
+        "upper_90_yen": 971764,
+        "lower_10_yen": 154374
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 399325,
+        "upper_90_yen": 1152038,
+        "lower_10_yen": 161655
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 428473,
+        "upper_90_yen": 1318889,
+        "lower_10_yen": 166754
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 451944,
+        "upper_90_yen": 1471729,
+        "lower_10_yen": 170363
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 470844,
+        "upper_90_yen": 1610576,
+        "lower_10_yen": 172939
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 486063,
+        "upper_90_yen": 1735844,
+        "lower_10_yen": 174790
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ｆａｎｔａｓｉｓｔａ(1783)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ｆａｎｔａｓｉｓｔａ(1783)を1株(60円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小60円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.29%、幾何成長率は-21.66%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ｆａｎｔａｓｉｓｔａは単元未満株（S株・かぶミニ等）を利用することで1株（約60円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は486,063円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-18.54%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ｆａｎｔａｓｉｓｔａは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約60円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 60.0
+  }
+}

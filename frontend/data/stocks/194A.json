@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "194A",
+    "name": "ＷＯＬＶＥＳ　ＨＡＮＤ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1293.0,
+    "min_s_kabu_yen": 1293,
+    "unit_lot_yen": 129300,
+    "dps_yen": 52.0,
+    "dividend_yield_pct": 4.02,
+    "raw_annual_return_pct": 19.19,
+    "capped_annual_return_pct": 19.19,
+    "geometric_growth_pct": -4.65,
+    "annual_volatility_pct": 69.05,
+    "max_drawdown_pct": -58.0,
+    "monthly_var_95_pct": -22.37,
+    "sharpe_ratio": -0.02,
+    "quant_score": 36.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 231,
+        "nisa_required_capital_yen": 298683,
+        "specific_required_shares": 290,
+        "specific_required_capital_yen": 374970
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1154,
+        "nisa_required_capital_yen": 1492122,
+        "specific_required_shares": 1449,
+        "specific_required_capital_yen": 1873557
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 2984244,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 3745821
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6924,
+        "nisa_required_capital_yen": 8952732,
+        "specific_required_shares": 8689,
+        "specific_required_capital_yen": 11234877
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11539,
+        "nisa_required_capital_yen": 14919927,
+        "specific_required_shares": 14481,
+        "specific_required_capital_yen": 18723933
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119595,
+        "upper_90_yen": 226816,
+        "lower_10_yen": 65397
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238445,
+        "upper_90_yen": 583508,
+        "lower_10_yen": 105423
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 356554,
+        "upper_90_yen": 1068043,
+        "lower_10_yen": 134398
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 473928,
+        "upper_90_yen": 1689159,
+        "lower_10_yen": 156681
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 590570,
+        "upper_90_yen": 2458643,
+        "lower_10_yen": 174425
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 706486,
+        "upper_90_yen": 3390056,
+        "lower_10_yen": 188894
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 821681,
+        "upper_90_yen": 4498328,
+        "lower_10_yen": 200897
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 936157,
+        "upper_90_yen": 5799605,
+        "lower_10_yen": 210989
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1049921,
+        "upper_90_yen": 7311184,
+        "lower_10_yen": 219567
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1162975,
+        "upper_90_yen": 9051508,
+        "lower_10_yen": 226924
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＷＯＬＶＥＳ　ＨＡＮＤ(194A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＷＯＬＶＥＳ　ＨＡＮＤ(194A)を1株(1,293円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,293円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは69.05%、幾何成長率は-4.65%",
+      "新NISAで月1万円の配当金を得るには2,308株（約2,984,244円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＷＯＬＶＥＳ　ＨＡＮＤは単元未満株（S株・かぶミニ等）を利用することで1株（約1,293円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,162,975円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり52.0円（利回り4.02%）です。月次95%VaR（最大想定損失率）は-22.37%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＷＯＬＶＥＳ　ＨＡＮＤは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,293円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,308株（元本目安：約2,984,244円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1293.0
+  }
+}

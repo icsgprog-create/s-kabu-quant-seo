@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2760",
+    "name": "東京エレクトロン　デバイス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3825.0,
+    "min_s_kabu_yen": 3825,
+    "unit_lot_yen": 382500,
+    "dps_yen": 141.0,
+    "dividend_yield_pct": 3.69,
+    "raw_annual_return_pct": 13.38,
+    "capped_annual_return_pct": 13.38,
+    "geometric_growth_pct": 4.6,
+    "annual_volatility_pct": 41.89,
+    "max_drawdown_pct": -67.67,
+    "monthly_var_95_pct": -15.84,
+    "sharpe_ratio": 0.17,
+    "quant_score": 41.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 86,
+        "nisa_required_capital_yen": 328950,
+        "specific_required_shares": 107,
+        "specific_required_capital_yen": 409275
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 426,
+        "nisa_required_capital_yen": 1629450,
+        "specific_required_shares": 535,
+        "specific_required_capital_yen": 2046375
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 852,
+        "nisa_required_capital_yen": 3258900,
+        "specific_required_shares": 1069,
+        "specific_required_capital_yen": 4088925
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2554,
+        "nisa_required_capital_yen": 9769050,
+        "specific_required_shares": 3205,
+        "specific_required_capital_yen": 12259125
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4256,
+        "nisa_required_capital_yen": 16279200,
+        "specific_required_shares": 5341,
+        "specific_required_capital_yen": 20429325
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125545,
+        "upper_90_yen": 184877,
+        "lower_10_yen": 86397
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261935,
+        "upper_90_yen": 450644,
+        "lower_10_yen": 156668
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 410109,
+        "upper_90_yen": 799710,
+        "lower_10_yen": 219714
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 571085,
+        "upper_90_yen": 1242280,
+        "lower_10_yen": 278365
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 745968,
+        "upper_90_yen": 1791888,
+        "lower_10_yen": 334085
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 935959,
+        "upper_90_yen": 2464869,
+        "lower_10_yen": 387780
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1142365,
+        "upper_90_yen": 3280396,
+        "lower_10_yen": 440067
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1366603,
+        "upper_90_yen": 4260712,
+        "lower_10_yen": 491400
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1610213,
+        "upper_90_yen": 5431467,
+        "lower_10_yen": 542126
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1874870,
+        "upper_90_yen": 6822135,
+        "lower_10_yen": 592524
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東京エレクトロン　デバイス(2760)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東京エレクトロン　デバイス(2760)を1株(3,825円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,825円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.89%、幾何成長率は4.6%",
+      "新NISAで月1万円の配当金を得るには852株（約3,258,900円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東京エレクトロン　デバイスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,825円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,874,870円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり141.0円（利回り3.69%）です。月次95%VaR（最大想定損失率）は-15.84%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東京エレクトロン　デバイスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,825円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、852株（元本目安：約3,258,900円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3825.0
+  }
+}

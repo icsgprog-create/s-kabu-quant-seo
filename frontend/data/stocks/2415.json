@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2415",
+    "name": "ヒューマンホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1535.0,
+    "min_s_kabu_yen": 1535,
+    "unit_lot_yen": 153500,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 4.23,
+    "raw_annual_return_pct": 12.32,
+    "capped_annual_return_pct": 12.32,
+    "geometric_growth_pct": 8.61,
+    "annual_volatility_pct": 27.25,
+    "max_drawdown_pct": -28.94,
+    "monthly_var_95_pct": -8.09,
+    "sharpe_ratio": 0.43,
+    "quant_score": 67.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 283975,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 356120
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 1418340,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 1779065
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 2835145,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 3556595
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 8502365,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 10669785
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 14169585,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 17782975
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128733,
+        "upper_90_yen": 165496,
+        "lower_10_yen": 100700
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275107,
+        "upper_90_yen": 391405,
+        "lower_10_yen": 195699
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 441541,
+        "upper_90_yen": 682033,
+        "lower_10_yen": 291105
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 630782,
+        "upper_90_yen": 1047419,
+        "lower_10_yen": 389187
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 845958,
+        "upper_90_yen": 1500635,
+        "lower_10_yen": 491404
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1090620,
+        "upper_90_yen": 2057662,
+        "lower_10_yen": 598916
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1368812,
+        "upper_90_yen": 2737663,
+        "lower_10_yen": 712769
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1685126,
+        "upper_90_yen": 3563440,
+        "lower_10_yen": 833974
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2044789,
+        "upper_90_yen": 4562004,
+        "lower_10_yen": 963555
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2453739,
+        "upper_90_yen": 5765281,
+        "lower_10_yen": 1102580
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヒューマンホールディングス(2415)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヒューマンホールディングス(2415)を1株(1,535円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,535円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.25%、幾何成長率は8.61%",
+      "新NISAで月1万円の配当金を得るには1,847株（約2,835,145円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヒューマンホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,535円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,453,739円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり65.0円（利回り4.23%）です。月次95%VaR（最大想定損失率）は-8.09%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヒューマンホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,535円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,847株（元本目安：約2,835,145円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1535.0
+  }
+}

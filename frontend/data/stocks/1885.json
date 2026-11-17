@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1885",
+    "name": "東亜建設工業",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2143.0,
+    "min_s_kabu_yen": 2143,
+    "unit_lot_yen": 214300,
+    "dps_yen": 81.5,
+    "dividend_yield_pct": 3.8,
+    "raw_annual_return_pct": 28.95,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.23,
+    "annual_volatility_pct": 36.8,
+    "max_drawdown_pct": -56.21,
+    "monthly_var_95_pct": -14.77,
+    "sharpe_ratio": 0.44,
+    "quant_score": 54.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 148,
+        "nisa_required_capital_yen": 317164,
+        "specific_required_shares": 185,
+        "specific_required_capital_yen": 396455
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 737,
+        "nisa_required_capital_yen": 1579391,
+        "specific_required_shares": 924,
+        "specific_required_capital_yen": 1980132
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1473,
+        "nisa_required_capital_yen": 3156639,
+        "specific_required_shares": 1848,
+        "specific_required_capital_yen": 3960264
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4418,
+        "nisa_required_capital_yen": 9467774,
+        "specific_required_shares": 5544,
+        "specific_required_capital_yen": 11880792
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7362,
+        "nisa_required_capital_yen": 15776766,
+        "specific_required_shares": 9239,
+        "specific_required_capital_yen": 19799177
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131755,
+        "upper_90_yen": 185439,
+        "lower_10_yen": 94573
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287974,
+        "upper_90_yen": 466467,
+        "lower_10_yen": 181675
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 473198,
+        "upper_90_yen": 860035,
+        "lower_10_yen": 269005
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 692815,
+        "upper_90_yen": 1394434,
+        "lower_10_yen": 359376
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 953209,
+        "upper_90_yen": 2106990,
+        "lower_10_yen": 454630
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1261951,
+        "upper_90_yen": 3045427,
+        "lower_10_yen": 556290
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1628020,
+        "upper_90_yen": 4270133,
+        "lower_10_yen": 665785
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2062058,
+        "upper_90_yen": 5857149,
+        "lower_10_yen": 784564
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2576687,
+        "upper_90_yen": 7901944,
+        "lower_10_yen": 914155
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3186870,
+        "upper_90_yen": 10524120,
+        "lower_10_yen": 1056213
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東亜建設工業(1885)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東亜建設工業(1885)を1株(2,143円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,143円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.8%、幾何成長率は13.23%",
+      "新NISAで月1万円の配当金を得るには1,473株（約3,156,639円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東亜建設工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,143円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,186,870円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり81.5円（利回り3.8%）です。月次95%VaR（最大想定損失率）は-14.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東亜建設工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,143円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,473株（元本目安：約3,156,639円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2143.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1788",
+    "name": "三東工業社",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3970.0,
+    "min_s_kabu_yen": 3970,
+    "unit_lot_yen": 397000,
+    "dps_yen": 160.0,
+    "dividend_yield_pct": 4.03,
+    "raw_annual_return_pct": 11.2,
+    "capped_annual_return_pct": 11.2,
+    "geometric_growth_pct": 7.44,
+    "annual_volatility_pct": 27.43,
+    "max_drawdown_pct": -35.73,
+    "monthly_var_95_pct": -9.37,
+    "sharpe_ratio": 0.38,
+    "quant_score": 64.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 75,
+        "nisa_required_capital_yen": 297750,
+        "specific_required_shares": 95,
+        "specific_required_capital_yen": 377150
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 1488750,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 1869870
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 2977500,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 3739740
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2250,
+        "nisa_required_capital_yen": 8932500,
+        "specific_required_shares": 2824,
+        "specific_required_capital_yen": 11211280
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 14887500,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 18686790
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127761,
+        "upper_90_yen": 164477,
+        "lower_10_yen": 99808
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271047,
+        "upper_90_yen": 386225,
+        "lower_10_yen": 192551
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 431747,
+        "upper_90_yen": 667849,
+        "lower_10_yen": 284342
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 611975,
+        "upper_90_yen": 1017324,
+        "lower_10_yen": 377355
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 814105,
+        "upper_90_yen": 1445141,
+        "lower_10_yen": 472909
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1040799,
+        "upper_90_yen": 1964050,
+        "lower_10_yen": 571990
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1295042,
+        "upper_90_yen": 2589173,
+        "lower_10_yen": 675433
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1580182,
+        "upper_90_yen": 3338280,
+        "lower_10_yen": 784005
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1899972,
+        "upper_90_yen": 4232141,
+        "lower_10_yen": 898448
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2258625,
+        "upper_90_yen": 5294966,
+        "lower_10_yen": 1019509
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三東工業社(1788)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三東工業社(1788)を1株(3,970円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,970円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.43%、幾何成長率は7.44%",
+      "新NISAで月1万円の配当金を得るには750株（約2,977,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三東工業社は単元未満株（S株・かぶミニ等）を利用することで1株（約3,970円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,258,625円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり160.0円（利回り4.03%）です。月次95%VaR（最大想定損失率）は-9.37%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三東工業社は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,970円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、750株（元本目安：約2,977,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3970.0
+  }
+}

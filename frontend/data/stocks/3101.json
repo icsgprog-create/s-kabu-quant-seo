@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3101",
+    "name": "東洋紡",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1443.0,
+    "min_s_kabu_yen": 1443,
+    "unit_lot_yen": 144300,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 2.77,
+    "raw_annual_return_pct": 5.7,
+    "capped_annual_return_pct": 5.7,
+    "geometric_growth_pct": 2.06,
+    "annual_volatility_pct": 26.98,
+    "max_drawdown_pct": -30.28,
+    "monthly_var_95_pct": -9.38,
+    "sharpe_ratio": 0.14,
+    "quant_score": 48.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 432900,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 544011
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 2164500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 2717169
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 4329000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 5432895
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 12987000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 16298685
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 21645000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 27164475
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123193,
+        "upper_90_yen": 157710,
+        "lower_10_yen": 96765
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252481,
+        "upper_90_yen": 356202,
+        "lower_10_yen": 181115
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 388167,
+        "upper_90_yen": 591656,
+        "lower_10_yen": 259384
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 530567,
+        "upper_90_yen": 864638,
+        "lower_10_yen": 333718
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 680014,
+        "upper_90_yen": 1176916,
+        "lower_10_yen": 405277
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 836855,
+        "upper_90_yen": 1530912,
+        "lower_10_yen": 474799
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1001457,
+        "upper_90_yen": 1929515,
+        "lower_10_yen": 542797
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1174205,
+        "upper_90_yen": 2376015,
+        "lower_10_yen": 609653
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1355500,
+        "upper_90_yen": 2874073,
+        "lower_10_yen": 675665
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1545766,
+        "upper_90_yen": 3427711,
+        "lower_10_yen": 741069
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東洋紡(3101)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東洋紡(3101)を1株(1,443円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,443円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.98%、幾何成長率は2.06%",
+      "新NISAで月1万円の配当金を得るには3,000株（約4,329,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東洋紡は単元未満株（S株・かぶミニ等）を利用することで1株（約1,443円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,545,766円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り2.77%）です。月次95%VaR（最大想定損失率）は-9.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東洋紡は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,443円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約4,329,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1443.0
+  }
+}

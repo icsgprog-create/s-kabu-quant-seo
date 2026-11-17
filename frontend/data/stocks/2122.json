@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2122",
+    "name": "インタースペース",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1270.0,
+    "min_s_kabu_yen": 1270,
+    "unit_lot_yen": 127000,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 2.36,
+    "raw_annual_return_pct": 6.46,
+    "capped_annual_return_pct": 6.46,
+    "geometric_growth_pct": 0.68,
+    "annual_volatility_pct": 33.98,
+    "max_drawdown_pct": -43.01,
+    "monthly_var_95_pct": -12.12,
+    "sharpe_ratio": 0.06,
+    "quant_score": 36.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 508000,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 637540
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 2540000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 3187700
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 5080000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 6375400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 15240000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 19126200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 25400000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 31875730
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122001,
+        "upper_90_yen": 166607,
+        "lower_10_yen": 90128
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 247777,
+        "upper_90_yen": 382462,
+        "lower_10_yen": 163606
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 377443,
+        "upper_90_yen": 642106,
+        "lower_10_yen": 228462
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 511121,
+        "upper_90_yen": 945561,
+        "lower_10_yen": 287415
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 648934,
+        "upper_90_yen": 1294286,
+        "lower_10_yen": 341925
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 791010,
+        "upper_90_yen": 1690468,
+        "lower_10_yen": 392911
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 937482,
+        "upper_90_yen": 2136777,
+        "lower_10_yen": 441010
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1088484,
+        "upper_90_yen": 2636268,
+        "lower_10_yen": 486683
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1244158,
+        "upper_90_yen": 3192331,
+        "lower_10_yen": 530285
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1404647,
+        "upper_90_yen": 3808664,
+        "lower_10_yen": 572093
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "インタースペース(2122)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "インタースペース(2122)を1株(1,270円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,270円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.98%、幾何成長率は0.68%",
+      "新NISAで月1万円の配当金を得るには4,000株（約5,080,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "インタースペースは単元未満株（S株・かぶミニ等）を利用することで1株（約1,270円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,404,647円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り2.36%）です。月次95%VaR（最大想定損失率）は-12.12%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "インタースペースは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,270円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約5,080,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1270.0
+  }
+}

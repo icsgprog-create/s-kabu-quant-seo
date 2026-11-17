@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2146",
+    "name": "ＵＴグループ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 233.0,
+    "min_s_kabu_yen": 233,
+    "unit_lot_yen": 23300,
+    "dps_yen": 10.64,
+    "dividend_yield_pct": 4.57,
+    "raw_annual_return_pct": -0.88,
+    "capped_annual_return_pct": -0.88,
+    "geometric_growth_pct": -9.58,
+    "annual_volatility_pct": 41.72,
+    "max_drawdown_pct": -61.7,
+    "monthly_var_95_pct": -20.63,
+    "sharpe_ratio": -0.14,
+    "quant_score": 41.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1128,
+        "nisa_required_capital_yen": 262824,
+        "specific_required_shares": 1416,
+        "specific_required_capital_yen": 329928
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5640,
+        "nisa_required_capital_yen": 1314120,
+        "specific_required_shares": 7077,
+        "specific_required_capital_yen": 1648941
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 11279,
+        "nisa_required_capital_yen": 2628007,
+        "specific_required_shares": 14154,
+        "specific_required_capital_yen": 3297882
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 33835,
+        "nisa_required_capital_yen": 7883555,
+        "specific_required_shares": 42461,
+        "specific_required_capital_yen": 9893413
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 56391,
+        "nisa_required_capital_yen": 13139103,
+        "specific_required_shares": 70768,
+        "specific_required_capital_yen": 16488944
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116796,
+        "upper_90_yen": 170986,
+        "lower_10_yen": 80853
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 227878,
+        "upper_90_yen": 386338,
+        "lower_10_yen": 138375
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 333526,
+        "upper_90_yen": 633901,
+        "lower_10_yen": 183567
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 434006,
+        "upper_90_yen": 908590,
+        "lower_10_yen": 220383
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 529571,
+        "upper_90_yen": 1207120,
+        "lower_10_yen": 251015
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 620461,
+        "upper_90_yen": 1527019,
+        "lower_10_yen": 276866
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 706904,
+        "upper_90_yen": 1866277,
+        "lower_10_yen": 298912
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 789119,
+        "upper_90_yen": 2223176,
+        "lower_10_yen": 317866
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 867311,
+        "upper_90_yen": 2596200,
+        "lower_10_yen": 334268
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 941679,
+        "upper_90_yen": 2983984,
+        "lower_10_yen": 348539
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＵＴグループ(2146)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＵＴグループ(2146)を1株(233円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小233円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.72%、幾何成長率は-9.58%",
+      "新NISAで月1万円の配当金を得るには11,279株（約2,628,007円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＵＴグループは単元未満株（S株・かぶミニ等）を利用することで1株（約233円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は941,679円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.64円（利回り4.57%）です。月次95%VaR（最大想定損失率）は-20.63%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＵＴグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約233円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、11,279株（元本目安：約2,628,007円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 233.0
+  }
+}

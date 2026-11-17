@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3045",
+    "name": "カワサキ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1480.0,
+    "min_s_kabu_yen": 1480,
+    "unit_lot_yen": 148000,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 3.38,
+    "raw_annual_return_pct": 8.51,
+    "capped_annual_return_pct": 8.51,
+    "geometric_growth_pct": 7.32,
+    "annual_volatility_pct": 15.47,
+    "max_drawdown_pct": -18.09,
+    "monthly_var_95_pct": -4.68,
+    "sharpe_ratio": 0.63,
+    "quant_score": 77.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 355200,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 446960
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1776000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 2228880
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 3552000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 4457760
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 10656000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 13373280
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 17760000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 22288800
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127216,
+        "upper_90_yen": 146580,
+        "lower_10_yen": 110612
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 268791,
+        "upper_90_yen": 327642,
+        "lower_10_yen": 221369
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 426345,
+        "upper_90_yen": 543798,
+        "lower_10_yen": 336245
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 601680,
+        "upper_90_yen": 798484,
+        "lower_10_yen": 456981
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 796805,
+        "upper_90_yen": 1096273,
+        "lower_10_yen": 584859
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1013953,
+        "upper_90_yen": 1442646,
+        "lower_10_yen": 721013
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1255610,
+        "upper_90_yen": 1843985,
+        "lower_10_yen": 866539
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1524541,
+        "upper_90_yen": 2307627,
+        "lower_10_yen": 1022546
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1823824,
+        "upper_90_yen": 2841954,
+        "lower_10_yen": 1190195
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2156887,
+        "upper_90_yen": 3456518,
+        "lower_10_yen": 1370713
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "カワサキ(3045)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "カワサキ(3045)を1株(1,480円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,480円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは15.47%、幾何成長率は7.32%",
+      "新NISAで月1万円の配当金を得るには2,400株（約3,552,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "カワサキは単元未満株（S株・かぶミニ等）を利用することで1株（約1,480円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,156,887円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り3.38%）です。月次95%VaR（最大想定損失率）は-4.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "カワサキは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,480円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約3,552,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1480.0
+  }
+}

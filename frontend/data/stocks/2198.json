@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2198",
+    "name": "アイ・ケイ・ケイホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 739.0,
+    "min_s_kabu_yen": 739,
+    "unit_lot_yen": 73900,
+    "dps_yen": 24.0,
+    "dividend_yield_pct": 3.25,
+    "raw_annual_return_pct": 4.93,
+    "capped_annual_return_pct": 4.93,
+    "geometric_growth_pct": 2.73,
+    "annual_volatility_pct": 21.01,
+    "max_drawdown_pct": -26.34,
+    "monthly_var_95_pct": -7.77,
+    "sharpe_ratio": 0.24,
+    "quant_score": 60.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 369500,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 464092
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 1847500,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 2318982
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 3695000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 4637225
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 11085000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 13911675
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 25000,
+        "nisa_required_capital_yen": 18475000,
+        "specific_required_shares": 31374,
+        "specific_required_capital_yen": 23185386
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123965,
+        "upper_90_yen": 150215,
+        "lower_10_yen": 102647
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 255562,
+        "upper_90_yen": 333959,
+        "lower_10_yen": 196989
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 395261,
+        "upper_90_yen": 548540,
+        "lower_10_yen": 287991
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 543560,
+        "upper_90_yen": 794704,
+        "lower_10_yen": 377370
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 700989,
+        "upper_90_yen": 1074166,
+        "lower_10_yen": 466084
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 868110,
+        "upper_90_yen": 1389188,
+        "lower_10_yen": 554766
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1045519,
+        "upper_90_yen": 1742446,
+        "lower_10_yen": 643884
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1233851,
+        "upper_90_yen": 2136977,
+        "lower_10_yen": 733803
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1433777,
+        "upper_90_yen": 2576164,
+        "lower_10_yen": 824829
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1646011,
+        "upper_90_yen": 3063739,
+        "lower_10_yen": 917226
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイ・ケイ・ケイホールディングス(2198)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイ・ケイ・ケイホールディングス(2198)を1株(739円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小739円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.01%、幾何成長率は2.73%",
+      "新NISAで月1万円の配当金を得るには5,000株（約3,695,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイ・ケイ・ケイホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約739円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,646,011円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり24.0円（利回り3.25%）です。月次95%VaR（最大想定損失率）は-7.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイ・ケイ・ケイホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約739円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,000株（元本目安：約3,695,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 739.0
+  }
+}

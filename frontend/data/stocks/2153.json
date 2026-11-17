@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2153",
+    "name": "Ｅ・Ｊホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1899.0,
+    "min_s_kabu_yen": 1899,
+    "unit_lot_yen": 189900,
+    "dps_yen": 69.0,
+    "dividend_yield_pct": 3.63,
+    "raw_annual_return_pct": 11.59,
+    "capped_annual_return_pct": 11.59,
+    "geometric_growth_pct": 9.06,
+    "annual_volatility_pct": 22.52,
+    "max_drawdown_pct": -22.98,
+    "monthly_var_95_pct": -7.17,
+    "sharpe_ratio": 0.52,
+    "quant_score": 69.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 174,
+        "nisa_required_capital_yen": 330426,
+        "specific_required_shares": 219,
+        "specific_required_capital_yen": 415881
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 870,
+        "nisa_required_capital_yen": 1652130,
+        "specific_required_shares": 1092,
+        "specific_required_capital_yen": 2073708
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1740,
+        "nisa_required_capital_yen": 3304260,
+        "specific_required_shares": 2183,
+        "specific_required_capital_yen": 4145517
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 9908982,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 12434652
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8696,
+        "nisa_required_capital_yen": 16513704,
+        "specific_required_shares": 10913,
+        "specific_required_capital_yen": 20723787
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128623,
+        "upper_90_yen": 158235,
+        "lower_10_yen": 104955
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274648,
+        "upper_90_yen": 367228,
+        "lower_10_yen": 207099
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 440429,
+        "upper_90_yen": 630002,
+        "lower_10_yen": 311759
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 628638,
+        "upper_90_yen": 954165,
+        "lower_10_yen": 421086
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 842309,
+        "upper_90_yen": 1349621,
+        "lower_10_yen": 536581
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1084888,
+        "upper_90_yen": 1828403,
+        "lower_10_yen": 659524
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1360286,
+        "upper_90_yen": 2404839,
+        "lower_10_yen": 791132
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1672942,
+        "upper_90_yen": 3095838,
+        "lower_10_yen": 932632
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2027897,
+        "upper_90_yen": 3921273,
+        "lower_10_yen": 1085301
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2430874,
+        "upper_90_yen": 4904444,
+        "lower_10_yen": 1250501
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｅ・Ｊホールディングス(2153)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｅ・Ｊホールディングス(2153)を1株(1,899円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,899円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.52%、幾何成長率は9.06%",
+      "新NISAで月1万円の配当金を得るには1,740株（約3,304,260円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｅ・Ｊホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,899円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,430,874円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり69.0円（利回り3.63%）です。月次95%VaR（最大想定損失率）は-7.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｅ・Ｊホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,899円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,740株（元本目安：約3,304,260円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1899.0
+  }
+}

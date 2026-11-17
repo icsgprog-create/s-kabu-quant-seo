@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "198A",
+    "name": "ＰｏｓｔＰｒｉｍｅ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 106.0,
+    "min_s_kabu_yen": 106,
+    "unit_lot_yen": 10600,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -67.29,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -57.77,
+    "annual_volatility_pct": 92.48,
+    "max_drawdown_pct": -92.26,
+    "monthly_var_95_pct": -42.96,
+    "sharpe_ratio": -0.64,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 88975,
+        "upper_90_yen": 202938,
+        "lower_10_yen": 41709
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 138908,
+        "upper_90_yen": 416178,
+        "lower_10_yen": 53627
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 166931,
+        "upper_90_yen": 598817,
+        "lower_10_yen": 57976
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 182657,
+        "upper_90_yen": 743292,
+        "lower_10_yen": 59702
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 191483,
+        "upper_90_yen": 852386,
+        "lower_10_yen": 60420
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 196436,
+        "upper_90_yen": 932209,
+        "lower_10_yen": 60729
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 199215,
+        "upper_90_yen": 989275,
+        "lower_10_yen": 60865
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 200775,
+        "upper_90_yen": 1029345,
+        "lower_10_yen": 60926
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 201651,
+        "upper_90_yen": 1057075,
+        "lower_10_yen": 60954
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 202142,
+        "upper_90_yen": 1076037,
+        "lower_10_yen": 60967
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＰｏｓｔＰｒｉｍｅ(198A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＰｏｓｔＰｒｉｍｅ(198A)を1株(106円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小106円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは92.48%、幾何成長率は-57.77%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＰｏｓｔＰｒｉｍｅは単元未満株（S株・かぶミニ等）を利用することで1株（約106円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は202,142円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-42.96%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＰｏｓｔＰｒｉｍｅは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約106円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 106.0
+  }
+}

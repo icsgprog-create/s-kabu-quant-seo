@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1965",
+    "name": "テクノ菱和",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1696.0,
+    "min_s_kabu_yen": 1696,
+    "unit_lot_yen": 169600,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 3.54,
+    "raw_annual_return_pct": 39.4,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.08,
+    "annual_volatility_pct": 42.23,
+    "max_drawdown_pct": -44.81,
+    "monthly_var_95_pct": -15.19,
+    "sharpe_ratio": 0.32,
+    "quant_score": 44.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 339200,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 425696
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1696000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2128480
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 3392000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 4256960
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 10176000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 12770880
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 16960000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 21284800
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130006,
+        "upper_90_yen": 192444,
+        "lower_10_yen": 89016
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280481,
+        "upper_90_yen": 487565,
+        "lower_10_yen": 166046
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 454649,
+        "upper_90_yen": 901056,
+        "lower_10_yen": 239583
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 656239,
+        "upper_90_yen": 1460211,
+        "lower_10_yen": 312386
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 889570,
+        "upper_90_yen": 2200742,
+        "lower_10_yen": 386004
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1159639,
+        "upper_90_yen": 3167673,
+        "lower_10_yen": 461518
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1472230,
+        "upper_90_yen": 4417081,
+        "lower_10_yen": 539798
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1834039,
+        "upper_90_yen": 6018415,
+        "lower_10_yen": 621611
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2252815,
+        "upper_90_yen": 8057390,
+        "lower_10_yen": 707683
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2737528,
+        "upper_90_yen": 10639544,
+        "lower_10_yen": 798729
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "テクノ菱和(1965)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "テクノ菱和(1965)を1株(1,696円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,696円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.23%、幾何成長率は11.08%",
+      "新NISAで月1万円の配当金を得るには2,000株（約3,392,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "テクノ菱和は単元未満株（S株・かぶミニ等）を利用することで1株（約1,696円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,737,528円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り3.54%）です。月次95%VaR（最大想定損失率）は-15.19%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "テクノ菱和は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,696円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約3,392,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1696.0
+  }
+}

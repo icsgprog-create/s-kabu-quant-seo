@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2734",
+    "name": "サーラコーポレーション",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1144.0,
+    "min_s_kabu_yen": 1144,
+    "unit_lot_yen": 114400,
+    "dps_yen": 36.0,
+    "dividend_yield_pct": 3.15,
+    "raw_annual_return_pct": 15.73,
+    "capped_annual_return_pct": 15.73,
+    "geometric_growth_pct": 13.05,
+    "annual_volatility_pct": 23.13,
+    "max_drawdown_pct": -20.66,
+    "monthly_var_95_pct": -7.82,
+    "sharpe_ratio": 0.66,
+    "quant_score": 68.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 334,
+        "nisa_required_capital_yen": 382096,
+        "specific_required_shares": 419,
+        "specific_required_capital_yen": 479336
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1667,
+        "nisa_required_capital_yen": 1907048,
+        "specific_required_shares": 2092,
+        "specific_required_capital_yen": 2393248
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 3814096,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 4786496
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 11440000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 14357200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16667,
+        "nisa_required_capital_yen": 19067048,
+        "specific_required_shares": 20916,
+        "specific_required_capital_yen": 23927904
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131146,
+        "upper_90_yen": 162358,
+        "lower_10_yen": 106363
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285353,
+        "upper_90_yen": 385295,
+        "lower_10_yen": 213156
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 466673,
+        "upper_90_yen": 676391,
+        "lower_10_yen": 326180
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 679876,
+        "upper_90_yen": 1049140,
+        "lower_10_yen": 448189
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 930567,
+        "upper_90_yen": 1521011,
+        "lower_10_yen": 581427
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1225338,
+        "upper_90_yen": 2113731,
+        "lower_10_yen": 728070
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1571939,
+        "upper_90_yen": 2853994,
+        "lower_10_yen": 890398
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1979484,
+        "upper_90_yen": 3774414,
+        "lower_10_yen": 1070895
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2458688,
+        "upper_90_yen": 4914729,
+        "lower_10_yen": 1272318
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3022153,
+        "upper_90_yen": 6323275,
+        "lower_10_yen": 1497765
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サーラコーポレーション(2734)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サーラコーポレーション(2734)を1株(1,144円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,144円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.13%、幾何成長率は13.05%",
+      "新NISAで月1万円の配当金を得るには3,334株（約3,814,096円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サーラコーポレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約1,144円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,022,153円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.0円（利回り3.15%）です。月次95%VaR（最大想定損失率）は-7.82%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サーラコーポレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,144円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,334株（元本目安：約3,814,096円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1144.0
+  }
+}

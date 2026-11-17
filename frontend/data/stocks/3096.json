@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3096",
+    "name": "オーシャンシステム",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1502.0,
+    "min_s_kabu_yen": 1502,
+    "unit_lot_yen": 150200,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 1.33,
+    "raw_annual_return_pct": 9.36,
+    "capped_annual_return_pct": 9.36,
+    "geometric_growth_pct": 8.41,
+    "annual_volatility_pct": 13.79,
+    "max_drawdown_pct": -17.77,
+    "monthly_var_95_pct": -5.7,
+    "sharpe_ratio": 0.63,
+    "quant_score": 61.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 901200,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 1131006
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 4506000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 5655030
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 9012000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 11310060
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 27036000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 33928678
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 45060000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 56548798
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126554,
+        "upper_90_yen": 143566,
+        "lower_10_yen": 111720
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266062,
+        "upper_90_yen": 317272,
+        "lower_10_yen": 223810
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 419850,
+        "upper_90_yen": 521134,
+        "lower_10_yen": 339852
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 589379,
+        "upper_90_yen": 757601,
+        "lower_10_yen": 461415
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 776261,
+        "upper_90_yen": 1030014,
+        "lower_10_yen": 589638
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 982272,
+        "upper_90_yen": 1342380,
+        "lower_10_yen": 725522
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1209369,
+        "upper_90_yen": 1699334,
+        "lower_10_yen": 870017
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1459712,
+        "upper_90_yen": 2106155,
+        "lower_10_yen": 1024082
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1735679,
+        "upper_90_yen": 2568816,
+        "lower_10_yen": 1188703
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2039894,
+        "upper_90_yen": 3094047,
+        "lower_10_yen": 1364917
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オーシャンシステム(3096)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オーシャンシステム(3096)を1株(1,502円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,502円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは13.79%、幾何成長率は8.41%",
+      "新NISAで月1万円の配当金を得るには6,000株（約9,012,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オーシャンシステムは単元未満株（S株・かぶミニ等）を利用することで1株（約1,502円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,039,894円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り1.33%）です。月次95%VaR（最大想定損失率）は-5.7%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オーシャンシステムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,502円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約9,012,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1502.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "135A",
+    "name": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3270.0,
+    "min_s_kabu_yen": 3270,
+    "unit_lot_yen": 327000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -21.14,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -42.85,
+    "annual_volatility_pct": 74.63,
+    "max_drawdown_pct": -79.39,
+    "monthly_var_95_pct": -31.24,
+    "sharpe_ratio": -0.59,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 95870,
+        "upper_90_yen": 187166,
+        "lower_10_yen": 51288
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 158329,
+        "upper_90_yen": 389363,
+        "lower_10_yen": 70825
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 199022,
+        "upper_90_yen": 574562,
+        "lower_10_yen": 79833
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 225533,
+        "upper_90_yen": 733678,
+        "lower_10_yen": 84273
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 242805,
+        "upper_90_yen": 865364,
+        "lower_10_yen": 86548
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 254058,
+        "upper_90_yen": 971618,
+        "lower_10_yen": 87744
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 261390,
+        "upper_90_yen": 1055764,
+        "lower_10_yen": 88385
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 266166,
+        "upper_90_yen": 1121443,
+        "lower_10_yen": 88733
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 269278,
+        "upper_90_yen": 1172113,
+        "lower_10_yen": 88925
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 271305,
+        "upper_90_yen": 1210828,
+        "lower_10_yen": 89031
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ(135A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ(135A)を1株(3,270円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,270円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは74.63%、幾何成長率は-42.85%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎは単元未満株（S株・かぶミニ等）を利用することで1株（約3,270円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は271,305円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-31.24%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,270円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3270.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2108",
+    "name": "ニッテン",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1817.0,
+    "min_s_kabu_yen": 1817,
+    "unit_lot_yen": 181700,
+    "dps_yen": 90.0,
+    "dividend_yield_pct": 4.95,
+    "raw_annual_return_pct": 27.3,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.06,
+    "annual_volatility_pct": 24.27,
+    "max_drawdown_pct": -27.74,
+    "monthly_var_95_pct": -5.68,
+    "sharpe_ratio": 0.87,
+    "quant_score": 87.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 134,
+        "nisa_required_capital_yen": 243478,
+        "specific_required_shares": 168,
+        "specific_required_capital_yen": 305256
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1211939,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 1520829
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 2423878,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 3041658
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 7268000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 9121340
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 12113939,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 15202839
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135464,
+        "upper_90_yen": 169678,
+        "lower_10_yen": 108628
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 304278,
+        "upper_90_yen": 418362,
+        "lower_10_yen": 223374
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 514650,
+        "upper_90_yen": 764237,
+        "lower_10_yen": 351430
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 776813,
+        "upper_90_yen": 1235567,
+        "lower_10_yen": 497332
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1103515,
+        "upper_90_yen": 1870205,
+        "lower_10_yen": 665588
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1510647,
+        "upper_90_yen": 2717800,
+        "lower_10_yen": 861219
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2018007,
+        "upper_90_yen": 3843024,
+        "lower_10_yen": 1090056
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2650271,
+        "upper_90_yen": 5329853,
+        "lower_10_yen": 1358993
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3438189,
+        "upper_90_yen": 7287107,
+        "lower_10_yen": 1676253
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4420078,
+        "upper_90_yen": 9855597,
+        "lower_10_yen": 2051691
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ニッテン(2108)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ニッテン(2108)を1株(1,817円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,817円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.27%、幾何成長率は17.06%",
+      "新NISAで月1万円の配当金を得るには1,334株（約2,423,878円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ニッテンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,817円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,420,078円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり90.0円（利回り4.95%）です。月次95%VaR（最大想定損失率）は-5.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ニッテンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,817円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,334株（元本目安：約2,423,878円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1817.0
+  }
+}

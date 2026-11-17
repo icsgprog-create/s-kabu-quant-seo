@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2492",
+    "name": "インフォマート",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 723.0,
+    "min_s_kabu_yen": 723,
+    "unit_lot_yen": 72300,
+    "dps_yen": 6.58,
+    "dividend_yield_pct": 0.91,
+    "raw_annual_return_pct": -8.01,
+    "capped_annual_return_pct": -8.01,
+    "geometric_growth_pct": -22.43,
+    "annual_volatility_pct": 53.72,
+    "max_drawdown_pct": -81.36,
+    "monthly_var_95_pct": -27.23,
+    "sharpe_ratio": -0.42,
+    "quant_score": 7.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1824,
+        "nisa_required_capital_yen": 1318752,
+        "specific_required_shares": 2289,
+        "specific_required_capital_yen": 1654947
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 9119,
+        "nisa_required_capital_yen": 6593037,
+        "specific_required_shares": 11444,
+        "specific_required_capital_yen": 8274012
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 18238,
+        "nisa_required_capital_yen": 13186074,
+        "specific_required_shares": 22887,
+        "specific_required_capital_yen": 16547301
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 54712,
+        "nisa_required_capital_yen": 39556776,
+        "specific_required_shares": 68660,
+        "specific_required_capital_yen": 49641180
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 91186,
+        "nisa_required_capital_yen": 65927478,
+        "specific_required_shares": 114433,
+        "specific_required_capital_yen": 82735059
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106999,
+        "upper_90_yen": 174004,
+        "lower_10_yen": 67284
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 193278,
+        "upper_90_yen": 375712,
+        "lower_10_yen": 104429
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 262849,
+        "upper_90_yen": 583432,
+        "lower_10_yen": 127821
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 318948,
+        "upper_90_yen": 787762,
+        "lower_10_yen": 143266
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 364183,
+        "upper_90_yen": 983437,
+        "lower_10_yen": 153745
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 400659,
+        "upper_90_yen": 1167445,
+        "lower_10_yen": 160989
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 430071,
+        "upper_90_yen": 1338176,
+        "lower_10_yen": 166063
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 453787,
+        "upper_90_yen": 1494949,
+        "lower_10_yen": 169656
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 472911,
+        "upper_90_yen": 1637703,
+        "lower_10_yen": 172220
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 488331,
+        "upper_90_yen": 1766791,
+        "lower_10_yen": 174064
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "インフォマート(2492)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "インフォマート(2492)を1株(723円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小723円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.72%、幾何成長率は-22.43%",
+      "新NISAで月1万円の配当金を得るには18,238株（約13,186,074円）が必要"
+    ],
+    "accumulation_strategy_analysis": "インフォマートは単元未満株（S株・かぶミニ等）を利用することで1株（約723円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は488,331円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり6.58円（利回り0.91%）です。月次95%VaR（最大想定損失率）は-27.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "インフォマートは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約723円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、18,238株（元本目安：約13,186,074円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 723.0
+  }
+}

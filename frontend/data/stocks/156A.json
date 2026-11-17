@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "156A",
+    "name": "マテリアルグループ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 712.0,
+    "min_s_kabu_yen": 712,
+    "unit_lot_yen": 71200,
+    "dps_yen": 26.4,
+    "dividend_yield_pct": 3.71,
+    "raw_annual_return_pct": -11.54,
+    "capped_annual_return_pct": -11.54,
+    "geometric_growth_pct": -21.55,
+    "annual_volatility_pct": 44.74,
+    "max_drawdown_pct": -45.87,
+    "monthly_var_95_pct": -17.76,
+    "sharpe_ratio": -0.42,
+    "quant_score": 29.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 455,
+        "nisa_required_capital_yen": 323960,
+        "specific_required_shares": 571,
+        "specific_required_capital_yen": 406552
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2273,
+        "nisa_required_capital_yen": 1618376,
+        "specific_required_shares": 2853,
+        "specific_required_capital_yen": 2031336
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4546,
+        "nisa_required_capital_yen": 3236752,
+        "specific_required_shares": 5705,
+        "specific_required_capital_yen": 4061960
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13637,
+        "nisa_required_capital_yen": 9709544,
+        "specific_required_shares": 17113,
+        "specific_required_capital_yen": 12184456
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 22728,
+        "nisa_required_capital_yen": 16182336,
+        "specific_required_shares": 28522,
+        "specific_required_capital_yen": 20307664
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109088,
+        "upper_90_yen": 163523,
+        "lower_10_yen": 73910
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 200350,
+        "upper_90_yen": 348704,
+        "lower_10_yen": 119088
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 276697,
+        "upper_90_yen": 538635,
+        "lower_10_yen": 149861
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 340568,
+        "upper_90_yen": 726137,
+        "lower_10_yen": 171660
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 394001,
+        "upper_90_yen": 907151,
+        "lower_10_yen": 187456
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 438702,
+        "upper_90_yen": 1079272,
+        "lower_10_yen": 199080
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 476098,
+        "upper_90_yen": 1241120,
+        "lower_10_yen": 207729
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 507383,
+        "upper_90_yen": 1391995,
+        "lower_10_yen": 214222
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 533555,
+        "upper_90_yen": 1531662,
+        "lower_10_yen": 219131
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 555451,
+        "upper_90_yen": 1660207,
+        "lower_10_yen": 222863
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "マテリアルグループ(156A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "マテリアルグループ(156A)を1株(712円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小712円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.74%、幾何成長率は-21.55%",
+      "新NISAで月1万円の配当金を得るには4,546株（約3,236,752円）が必要"
+    ],
+    "accumulation_strategy_analysis": "マテリアルグループは単元未満株（S株・かぶミニ等）を利用することで1株（約712円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は555,451円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり26.4円（利回り3.71%）です。月次95%VaR（最大想定損失率）は-17.76%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "マテリアルグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約712円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,546株（元本目安：約3,236,752円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 712.0
+  }
+}

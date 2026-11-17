@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2612",
+    "name": "かどや製油",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3100.0,
+    "min_s_kabu_yen": 3100,
+    "unit_lot_yen": 310000,
+    "dps_yen": 45.67,
+    "dividend_yield_pct": 1.47,
+    "raw_annual_return_pct": 19.4,
+    "capped_annual_return_pct": 19.4,
+    "geometric_growth_pct": 17.55,
+    "annual_volatility_pct": 19.26,
+    "max_drawdown_pct": -16.04,
+    "monthly_var_95_pct": -4.58,
+    "sharpe_ratio": 0.94,
+    "quant_score": 65.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 263,
+        "nisa_required_capital_yen": 815300,
+        "specific_required_shares": 330,
+        "specific_required_capital_yen": 1023000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1314,
+        "nisa_required_capital_yen": 4073400,
+        "specific_required_shares": 1649,
+        "specific_required_capital_yen": 5111900
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2628,
+        "nisa_required_capital_yen": 8146800,
+        "specific_required_shares": 3298,
+        "specific_required_capital_yen": 10223800
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7883,
+        "nisa_required_capital_yen": 24437300,
+        "specific_required_shares": 9893,
+        "specific_required_capital_yen": 30668300
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13138,
+        "nisa_required_capital_yen": 40727800,
+        "specific_required_shares": 16488,
+        "specific_required_capital_yen": 51112800
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133221,
+        "upper_90_yen": 159159,
+        "lower_10_yen": 111822
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294351,
+        "upper_90_yen": 378197,
+        "lower_10_yen": 230451
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 489235,
+        "upper_90_yen": 667269,
+        "lower_10_yen": 361902
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 724945,
+        "upper_90_yen": 1042616,
+        "lower_10_yen": 509975
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1010033,
+        "upper_90_yen": 1525369,
+        "lower_10_yen": 678380
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1354844,
+        "upper_90_yen": 2142253,
+        "lower_10_yen": 871158
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1771889,
+        "upper_90_yen": 2926779,
+        "lower_10_yen": 1092896
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2276299,
+        "upper_90_yen": 3920811,
+        "lower_10_yen": 1348896
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2886378,
+        "upper_90_yen": 5176536,
+        "lower_10_yen": 1645339
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3624260,
+        "upper_90_yen": 6758921,
+        "lower_10_yen": 1989466
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "かどや製油(2612)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "かどや製油(2612)を1株(3,100円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,100円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.26%、幾何成長率は17.55%",
+      "新NISAで月1万円の配当金を得るには2,628株（約8,146,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "かどや製油は単元未満株（S株・かぶミニ等）を利用することで1株（約3,100円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,624,260円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり45.67円（利回り1.47%）です。月次95%VaR（最大想定損失率）は-4.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "かどや製油は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,100円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,628株（元本目安：約8,146,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3100.0
+  }
+}

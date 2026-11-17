@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2224",
+    "name": "コモ",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3865.0,
+    "min_s_kabu_yen": 3865,
+    "unit_lot_yen": 386500,
+    "dps_yen": 7.0,
+    "dividend_yield_pct": 0.18,
+    "raw_annual_return_pct": 7.67,
+    "capped_annual_return_pct": 7.67,
+    "geometric_growth_pct": 7.25,
+    "annual_volatility_pct": 9.16,
+    "max_drawdown_pct": -12.7,
+    "monthly_var_95_pct": -4.13,
+    "sharpe_ratio": 0.7,
+    "quant_score": 54.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 6628475,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 8317480
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 33130780,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 41575805
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 66257695,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 83151610
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 51429,
+        "nisa_required_capital_yen": 198773085,
+        "specific_required_shares": 64540,
+        "specific_required_capital_yen": 249447100
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 85715,
+        "nisa_required_capital_yen": 331288475,
+        "specific_required_shares": 107567,
+        "specific_required_capital_yen": 415746455
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124957,
+        "upper_90_yen": 135830,
+        "lower_10_yen": 115028
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 259553,
+        "upper_90_yen": 291499,
+        "lower_10_yen": 231425
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 404531,
+        "upper_90_yen": 466305,
+        "lower_10_yen": 351679
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 560692,
+        "upper_90_yen": 661072,
+        "lower_10_yen": 476897
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 728900,
+        "upper_90_yen": 877095,
+        "lower_10_yen": 607880
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 910082,
+        "upper_90_yen": 1115954,
+        "lower_10_yen": 745320
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1105240,
+        "upper_90_yen": 1379459,
+        "lower_10_yen": 889865
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1315453,
+        "upper_90_yen": 1669642,
+        "lower_10_yen": 1042151
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1541880,
+        "upper_90_yen": 1988748,
+        "lower_10_yen": 1202823
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1785773,
+        "upper_90_yen": 2339244,
+        "lower_10_yen": 1372541
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コモ(2224)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コモ(2224)を1株(3,865円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,865円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは9.16%、幾何成長率は7.25%",
+      "新NISAで月1万円の配当金を得るには17,143株（約66,257,695円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コモは単元未満株（S株・かぶミニ等）を利用することで1株（約3,865円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,785,773円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.0円（利回り0.18%）です。月次95%VaR（最大想定損失率）は-4.13%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コモは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,865円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、17,143株（元本目安：約66,257,695円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3865.0
+  }
+}

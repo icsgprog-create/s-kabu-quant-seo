@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2432",
+    "name": "ディー・エヌ・エー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2659.0,
+    "min_s_kabu_yen": 2659,
+    "unit_lot_yen": 265900,
+    "dps_yen": 66.0,
+    "dividend_yield_pct": 2.48,
+    "raw_annual_return_pct": 9.37,
+    "capped_annual_return_pct": 9.37,
+    "geometric_growth_pct": 2.44,
+    "annual_volatility_pct": 37.24,
+    "max_drawdown_pct": -43.97,
+    "monthly_var_95_pct": -12.61,
+    "sharpe_ratio": 0.11,
+    "quant_score": 35.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 182,
+        "nisa_required_capital_yen": 483938,
+        "specific_required_shares": 229,
+        "specific_required_capital_yen": 608911
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 910,
+        "nisa_required_capital_yen": 2419690,
+        "specific_required_shares": 1141,
+        "specific_required_capital_yen": 3033919
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1819,
+        "nisa_required_capital_yen": 4836721,
+        "specific_required_shares": 2282,
+        "specific_required_capital_yen": 6067838
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 14504845,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 18203514
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9091,
+        "nisa_required_capital_yen": 24172969,
+        "specific_required_shares": 11409,
+        "specific_required_capital_yen": 30336531
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123255,
+        "upper_90_yen": 173583,
+        "lower_10_yen": 88447
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252728,
+        "upper_90_yen": 407667,
+        "lower_10_yen": 160283
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 388734,
+        "upper_90_yen": 698800,
+        "lower_10_yen": 223937
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 531601,
+        "upper_90_yen": 1049664,
+        "lower_10_yen": 282189
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 681676,
+        "upper_90_yen": 1464778,
+        "lower_10_yen": 336502
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 839323,
+        "upper_90_yen": 1949784,
+        "lower_10_yen": 387787
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1004924,
+        "upper_90_yen": 2511234,
+        "lower_10_yen": 436666
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1178879,
+        "upper_90_yen": 3156522,
+        "lower_10_yen": 483590
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1361612,
+        "upper_90_yen": 3893884,
+        "lower_10_yen": 528900
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1553563,
+        "upper_90_yen": 4732423,
+        "lower_10_yen": 572861
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ディー・エヌ・エー(2432)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ディー・エヌ・エー(2432)を1株(2,659円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,659円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.24%、幾何成長率は2.44%",
+      "新NISAで月1万円の配当金を得るには1,819株（約4,836,721円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ディー・エヌ・エーは単元未満株（S株・かぶミニ等）を利用することで1株（約2,659円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,553,563円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり66.0円（利回り2.48%）です。月次95%VaR（最大想定損失率）は-12.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ディー・エヌ・エーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,659円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,819株（元本目安：約4,836,721円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2659.0
+  }
+}

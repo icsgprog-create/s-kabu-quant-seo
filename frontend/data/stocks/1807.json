@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1807",
+    "name": "佐藤渡辺",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1798.0,
+    "min_s_kabu_yen": 1798,
+    "unit_lot_yen": 179800,
+    "dps_yen": 80.0,
+    "dividend_yield_pct": 4.45,
+    "raw_annual_return_pct": 7.81,
+    "capped_annual_return_pct": 7.81,
+    "geometric_growth_pct": 4.87,
+    "annual_volatility_pct": 24.25,
+    "max_drawdown_pct": -31.19,
+    "monthly_var_95_pct": -7.55,
+    "sharpe_ratio": 0.34,
+    "quant_score": 69.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 150,
+        "nisa_required_capital_yen": 269700,
+        "specific_required_shares": 189,
+        "specific_required_capital_yen": 339822
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 1348500,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 1693716
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 2697000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 3385634
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4500,
+        "nisa_required_capital_yen": 8091000,
+        "specific_required_shares": 5648,
+        "specific_required_capital_yen": 10155104
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 13485000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 16924574
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126259,
+        "upper_90_yen": 157745,
+        "lower_10_yen": 101510
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 264853,
+        "upper_90_yen": 361581,
+        "lower_10_yen": 195868
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 416985,
+        "upper_90_yen": 611350,
+        "lower_10_yen": 288604
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 583980,
+        "upper_90_yen": 911183,
+        "lower_10_yen": 381665
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 767287,
+        "upper_90_yen": 1266811,
+        "lower_10_yen": 476193
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 968502,
+        "upper_90_yen": 1685183,
+        "lower_10_yen": 573001
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1189374,
+        "upper_90_yen": 2174413,
+        "lower_10_yen": 672748
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1431822,
+        "upper_90_yen": 2743832,
+        "lower_10_yen": 776005
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1697954,
+        "upper_90_yen": 3404088,
+        "lower_10_yen": 883301
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1990085,
+        "upper_90_yen": 4167283,
+        "lower_10_yen": 995145
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "佐藤渡辺(1807)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "佐藤渡辺(1807)を1株(1,798円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,798円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.25%、幾何成長率は4.87%",
+      "新NISAで月1万円の配当金を得るには1,500株（約2,697,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "佐藤渡辺は単元未満株（S株・かぶミニ等）を利用することで1株（約1,798円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,990,085円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり80.0円（利回り4.45%）です。月次95%VaR（最大想定損失率）は-7.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "佐藤渡辺は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,798円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,500株（元本目安：約2,697,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1798.0
+  }
+}

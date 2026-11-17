@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3121",
+    "name": "マーチャント・バンカーズ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 244.0,
+    "min_s_kabu_yen": 244,
+    "unit_lot_yen": 24400,
+    "dps_yen": 6.0,
+    "dividend_yield_pct": 2.46,
+    "raw_annual_return_pct": -23.67,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -22.91,
+    "annual_volatility_pct": 39.79,
+    "max_drawdown_pct": -77.19,
+    "monthly_var_95_pct": -19.7,
+    "sharpe_ratio": -0.54,
+    "quant_score": 24.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 488000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 612440
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 2440000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 3062200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 4880000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 6124156
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 14640000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 18372468
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 100000,
+        "nisa_required_capital_yen": 24400000,
+        "specific_required_shares": 125495,
+        "specific_required_capital_yen": 30620780
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107600,
+        "upper_90_yen": 153979,
+        "lower_10_yen": 76118
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 195295,
+        "upper_90_yen": 318397,
+        "lower_10_yen": 123059
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 266767,
+        "upper_90_yen": 479047,
+        "lower_10_yen": 154924
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 325018,
+        "upper_90_yen": 630758,
+        "lower_10_yen": 177324
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 372492,
+        "upper_90_yen": 771205,
+        "lower_10_yen": 193390
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 411185,
+        "upper_90_yen": 899480,
+        "lower_10_yen": 205073
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 442719,
+        "upper_90_yen": 1015480,
+        "lower_10_yen": 213652
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 468420,
+        "upper_90_yen": 1119574,
+        "lower_10_yen": 220003
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 489366,
+        "upper_90_yen": 1212404,
+        "lower_10_yen": 224732
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 506438,
+        "upper_90_yen": 1294765,
+        "lower_10_yen": 228272
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "マーチャント・バンカーズ(3121)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "マーチャント・バンカーズ(3121)を1株(244円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小244円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.79%、幾何成長率は-22.91%",
+      "新NISAで月1万円の配当金を得るには20,000株（約4,880,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "マーチャント・バンカーズは単元未満株（S株・かぶミニ等）を利用することで1株（約244円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は506,438円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり6.0円（利回り2.46%）です。月次95%VaR（最大想定損失率）は-19.7%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "マーチャント・バンカーズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約244円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、20,000株（元本目安：約4,880,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 244.0
+  }
+}

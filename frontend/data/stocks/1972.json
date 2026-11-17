@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1972",
+    "name": "三晃金属工業",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1219.0,
+    "min_s_kabu_yen": 1219,
+    "unit_lot_yen": 121900,
+    "dps_yen": 66.0,
+    "dividend_yield_pct": 5.41,
+    "raw_annual_return_pct": 24.06,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.35,
+    "annual_volatility_pct": 27.01,
+    "max_drawdown_pct": -28.33,
+    "monthly_var_95_pct": -7.69,
+    "sharpe_ratio": 0.77,
+    "quant_score": 82.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 182,
+        "nisa_required_capital_yen": 221858,
+        "specific_required_shares": 229,
+        "specific_required_capital_yen": 279151
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 910,
+        "nisa_required_capital_yen": 1109290,
+        "specific_required_shares": 1141,
+        "specific_required_capital_yen": 1390879
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1819,
+        "nisa_required_capital_yen": 2217361,
+        "specific_required_shares": 2282,
+        "specific_required_capital_yen": 2781758
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 6649645,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 8345274
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9091,
+        "nisa_required_capital_yen": 11081929,
+        "specific_required_shares": 11409,
+        "specific_required_capital_yen": 13907571
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135281,
+        "upper_90_yen": 173853,
+        "lower_10_yen": 105845
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 303459,
+        "upper_90_yen": 432698,
+        "lower_10_yen": 215291
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 512533,
+        "upper_90_yen": 796309,
+        "lower_10_yen": 335625
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 772448,
+        "upper_90_yen": 1295623,
+        "lower_10_yen": 471017
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1095567,
+        "upper_90_yen": 1972204,
+        "lower_10_yen": 625415
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1497261,
+        "upper_90_yen": 2880711,
+        "lower_10_yen": 803102
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1996635,
+        "upper_90_yen": 4092511,
+        "lower_10_yen": 1008969
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2617444,
+        "upper_90_yen": 5700474,
+        "lower_10_yen": 1248732
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3389217,
+        "upper_90_yen": 7825188,
+        "lower_10_yen": 1529149
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4348664,
+        "upper_90_yen": 10622986,
+        "lower_10_yen": 1858257
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三晃金属工業(1972)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三晃金属工業(1972)を1株(1,219円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,219円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.01%、幾何成長率は16.35%",
+      "新NISAで月1万円の配当金を得るには1,819株（約2,217,361円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三晃金属工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,219円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,348,664円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり66.0円（利回り5.41%）です。月次95%VaR（最大想定損失率）は-7.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三晃金属工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,219円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,819株（元本目安：約2,217,361円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1219.0
+  }
+}

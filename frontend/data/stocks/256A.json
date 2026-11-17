@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "256A",
+    "name": "飛島ホールディングス",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2285.0,
+    "min_s_kabu_yen": 2285,
+    "unit_lot_yen": 228500,
+    "dps_yen": 110.0,
+    "dividend_yield_pct": 4.81,
+    "raw_annual_return_pct": 21.24,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.04,
+    "annual_volatility_pct": 24.32,
+    "max_drawdown_pct": -25.76,
+    "monthly_var_95_pct": -7.61,
+    "sharpe_ratio": 0.86,
+    "quant_score": 85.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 110,
+        "nisa_required_capital_yen": 251350,
+        "specific_required_shares": 137,
+        "specific_required_capital_yen": 313045
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 1247610,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 1565225
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 2492935,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 3130450
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3273,
+        "nisa_required_capital_yen": 7478805,
+        "specific_required_shares": 4108,
+        "specific_required_capital_yen": 9386780
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 12464675,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 15643110
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135349,
+        "upper_90_yen": 169617,
+        "lower_10_yen": 108484
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 303760,
+        "upper_90_yen": 417927,
+        "lower_10_yen": 222857
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 513311,
+        "upper_90_yen": 762841,
+        "lower_10_yen": 350270
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 774052,
+        "upper_90_yen": 1232243,
+        "lower_10_yen": 495187
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1098487,
+        "upper_90_yen": 1863433,
+        "lower_10_yen": 662022
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1502175,
+        "upper_90_yen": 2705269,
+        "lower_10_yen": 855673
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2004477,
+        "upper_90_yen": 3821306,
+        "lower_10_yen": 1081817
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2629481,
+        "upper_90_yen": 5293944,
+        "lower_10_yen": 1347146
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3407162,
+        "upper_90_yen": 7229803,
+        "lower_10_yen": 1659633
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4374816,
+        "upper_90_yen": 9766639,
+        "lower_10_yen": 2028813
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "飛島ホールディングス(256A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "飛島ホールディングス(256A)を1株(2,285円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,285円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.32%、幾何成長率は17.04%",
+      "新NISAで月1万円の配当金を得るには1,091株（約2,492,935円）が必要"
+    ],
+    "accumulation_strategy_analysis": "飛島ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,285円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,374,816円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり110.0円（利回り4.81%）です。月次95%VaR（最大想定損失率）は-7.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "飛島ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,285円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,091株（元本目安：約2,492,935円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2285.0
+  }
+}

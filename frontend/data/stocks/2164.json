@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2164",
+    "name": "地域新聞社",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 95.0,
+    "min_s_kabu_yen": 95,
+    "unit_lot_yen": 9500,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -4.41,
+    "capped_annual_return_pct": -4.41,
+    "geometric_growth_pct": -23.26,
+    "annual_volatility_pct": 61.4,
+    "max_drawdown_pct": -67.42,
+    "monthly_var_95_pct": -21.68,
+    "sharpe_ratio": -0.4,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106031,
+        "upper_90_yen": 185019,
+        "lower_10_yen": 62566
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 190057,
+        "upper_90_yen": 406845,
+        "lower_10_yen": 94665
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 256644,
+        "upper_90_yen": 639315,
+        "lower_10_yen": 113834
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 309411,
+        "upper_90_yen": 870525,
+        "lower_10_yen": 125921
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 351228,
+        "upper_90_yen": 1093543,
+        "lower_10_yen": 133784
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 384366,
+        "upper_90_yen": 1304232,
+        "lower_10_yen": 139008
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 410626,
+        "upper_90_yen": 1500247,
+        "lower_10_yen": 142533
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 431437,
+        "upper_90_yen": 1680455,
+        "lower_10_yen": 144940
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 447928,
+        "upper_90_yen": 1844549,
+        "lower_10_yen": 146600
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 460997,
+        "upper_90_yen": 1992790,
+        "lower_10_yen": 147754
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "地域新聞社(2164)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "地域新聞社(2164)を1株(95円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小95円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは61.4%、幾何成長率は-23.26%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "地域新聞社は単元未満株（S株・かぶミニ等）を利用することで1株（約95円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は460,997円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-21.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "地域新聞社は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約95円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 95.0
+  }
+}

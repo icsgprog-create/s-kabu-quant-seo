@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2226",
+    "name": "湖池屋",
+    "sector": "食料品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4760.0,
+    "min_s_kabu_yen": 4760,
+    "unit_lot_yen": 476000,
+    "dps_yen": 55.0,
+    "dividend_yield_pct": 1.16,
+    "raw_annual_return_pct": 13.07,
+    "capped_annual_return_pct": 13.07,
+    "geometric_growth_pct": 11.57,
+    "annual_volatility_pct": 17.29,
+    "max_drawdown_pct": -20.22,
+    "monthly_var_95_pct": -6.56,
+    "sharpe_ratio": 0.68,
+    "quant_score": 58.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 219,
+        "nisa_required_capital_yen": 1042440,
+        "specific_required_shares": 274,
+        "specific_required_capital_yen": 1304240
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 5193160,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 6521200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 10386320,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 13037640
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6546,
+        "nisa_required_capital_yen": 31158960,
+        "specific_required_shares": 8215,
+        "specific_required_capital_yen": 39103400
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 51931600,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 65169160
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128650,
+        "upper_90_yen": 150785,
+        "lower_10_yen": 110013
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274759,
+        "upper_90_yen": 343179,
+        "lower_10_yen": 221046
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 440698,
+        "upper_90_yen": 579514,
+        "lower_10_yen": 337604
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 629156,
+        "upper_90_yen": 865604,
+        "lower_10_yen": 461784
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 843190,
+        "upper_90_yen": 1208968,
+        "lower_10_yen": 595231
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1086272,
+        "upper_90_yen": 1618675,
+        "lower_10_yen": 739480
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1362343,
+        "upper_90_yen": 2105450,
+        "lower_10_yen": 896076
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1675881,
+        "upper_90_yen": 2681864,
+        "lower_10_yen": 1066646
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2031969,
+        "upper_90_yen": 3362591,
+        "lower_10_yen": 1252938
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2436384,
+        "upper_90_yen": 4164719,
+        "lower_10_yen": 1456857
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "湖池屋(2226)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "湖池屋(2226)を1株(4,760円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,760円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.29%、幾何成長率は11.57%",
+      "新NISAで月1万円の配当金を得るには2,182株（約10,386,320円）が必要"
+    ],
+    "accumulation_strategy_analysis": "湖池屋は単元未満株（S株・かぶミニ等）を利用することで1株（約4,760円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,436,384円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり55.0円（利回り1.16%）です。月次95%VaR（最大想定損失率）は-6.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "湖池屋は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,760円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,182株（元本目安：約10,386,320円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4760.0
+  }
+}

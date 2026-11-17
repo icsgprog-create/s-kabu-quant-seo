@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2874",
+    "name": "横浜冷凍",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1792.0,
+    "min_s_kabu_yen": 1792,
+    "unit_lot_yen": 179200,
+    "dps_yen": 28.0,
+    "dividend_yield_pct": 1.56,
+    "raw_annual_return_pct": 17.15,
+    "capped_annual_return_pct": 17.15,
+    "geometric_growth_pct": 13.47,
+    "annual_volatility_pct": 27.14,
+    "max_drawdown_pct": -42.33,
+    "monthly_var_95_pct": -11.67,
+    "sharpe_ratio": 0.52,
+    "quant_score": 48.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 768768,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 964096
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2143,
+        "nisa_required_capital_yen": 3840256,
+        "specific_required_shares": 2690,
+        "specific_required_capital_yen": 4820480
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 7680512,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 9639168
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12858,
+        "nisa_required_capital_yen": 23041536,
+        "specific_required_shares": 16135,
+        "specific_required_capital_yen": 28913920
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21429,
+        "nisa_required_capital_yen": 38400768,
+        "specific_required_shares": 26892,
+        "specific_required_capital_yen": 48190464
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130304,
+        "upper_90_yen": 167420,
+        "lower_10_yen": 101981
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281748,
+        "upper_90_yen": 400802,
+        "lower_10_yen": 200417
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 457763,
+        "upper_90_yen": 707529,
+        "lower_10_yen": 301523
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 662335,
+        "upper_90_yen": 1101529,
+        "lower_10_yen": 407815
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 900097,
+        "upper_90_yen": 1600885,
+        "lower_10_yen": 521085
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1176434,
+        "upper_90_yen": 2228017,
+        "lower_10_yen": 642904
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1497604,
+        "upper_90_yen": 3010336,
+        "lower_10_yen": 774806
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1870882,
+        "upper_90_yen": 3981155,
+        "lower_10_yen": 918378
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2304721,
+        "upper_90_yen": 5180824,
+        "lower_10_yen": 1075315
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2808947,
+        "upper_90_yen": 6658119,
+        "lower_10_yen": 1247461
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "横浜冷凍(2874)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "横浜冷凍(2874)を1株(1,792円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,792円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.14%、幾何成長率は13.47%",
+      "新NISAで月1万円の配当金を得るには4,286株（約7,680,512円）が必要"
+    ],
+    "accumulation_strategy_analysis": "横浜冷凍は単元未満株（S株・かぶミニ等）を利用することで1株（約1,792円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,808,947円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり28.0円（利回り1.56%）です。月次95%VaR（最大想定損失率）は-11.67%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "横浜冷凍は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,792円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,286株（元本目安：約7,680,512円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1792.0
+  }
+}

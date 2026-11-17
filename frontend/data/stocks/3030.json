@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3030",
+    "name": "ハブ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 870.0,
+    "min_s_kabu_yen": 870,
+    "unit_lot_yen": 87000,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.15,
+    "raw_annual_return_pct": 4.6,
+    "capped_annual_return_pct": 4.6,
+    "geometric_growth_pct": -1.22,
+    "annual_volatility_pct": 34.09,
+    "max_drawdown_pct": -36.31,
+    "monthly_var_95_pct": -14.66,
+    "sharpe_ratio": -0.03,
+    "quant_score": 24.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1044000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1310220
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 5220000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 6551100
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 10440000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 13102200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 31320000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 39304860
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 52200000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 65508390
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119957,
+        "upper_90_yen": 163845,
+        "lower_10_yen": 88609
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239836,
+        "upper_90_yen": 369840,
+        "lower_10_yen": 158555
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 359636,
+        "upper_90_yen": 610172,
+        "lower_10_yen": 218366
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 479358,
+        "upper_90_yen": 882573,
+        "lower_10_yen": 271043
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 599001,
+        "upper_90_yen": 1186134,
+        "lower_10_yen": 318240
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 718566,
+        "upper_90_yen": 1520549,
+        "lower_10_yen": 361019
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 838052,
+        "upper_90_yen": 1885841,
+        "lower_10_yen": 400126
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 957460,
+        "upper_90_yen": 2282244,
+        "lower_10_yen": 436114
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1076790,
+        "upper_90_yen": 2710130,
+        "lower_10_yen": 469408
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1196041,
+        "upper_90_yen": 3169971,
+        "lower_10_yen": 500347
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ハブ(3030)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ハブ(3030)を1株(870円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小870円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.09%、幾何成長率は-1.22%",
+      "新NISAで月1万円の配当金を得るには12,000株（約10,440,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ハブは単元未満株（S株・かぶミニ等）を利用することで1株（約870円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,196,041円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.15%）です。月次95%VaR（最大想定損失率）は-14.66%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ハブは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約870円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約10,440,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 870.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1429",
+    "name": "日本アクア",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 763.0,
+    "min_s_kabu_yen": 763,
+    "unit_lot_yen": 76300,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 4.59,
+    "raw_annual_return_pct": 5.82,
+    "capped_annual_return_pct": 5.82,
+    "geometric_growth_pct": 0.53,
+    "annual_volatility_pct": 32.52,
+    "max_drawdown_pct": -37.88,
+    "monthly_var_95_pct": -10.84,
+    "sharpe_ratio": 0.13,
+    "quant_score": 57.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 261709,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 328853
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 1308545,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 1641976
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 2616327,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 3283189
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 7848218,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 9848804
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 13080109,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 16415182
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123389,
+        "upper_90_yen": 166311,
+        "lower_10_yen": 92285
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253263,
+        "upper_90_yen": 384119,
+        "lower_10_yen": 169909
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 389961,
+        "upper_90_yen": 649822,
+        "lower_10_yen": 240337
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 533844,
+        "upper_90_yen": 965151,
+        "lower_10_yen": 306057
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 685287,
+        "upper_90_yen": 1333386,
+        "lower_10_yen": 368390
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 844690,
+        "upper_90_yen": 1758713,
+        "lower_10_yen": 428169
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1012469,
+        "upper_90_yen": 2246031,
+        "lower_10_yen": 485966
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1189065,
+        "upper_90_yen": 2800882,
+        "lower_10_yen": 542199
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1374942,
+        "upper_90_yen": 3429435,
+        "lower_10_yen": 597190
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1570587,
+        "upper_90_yen": 4138502,
+        "lower_10_yen": 651193
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本アクア(1429)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本アクア(1429)を1株(763円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小763円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.52%、幾何成長率は0.53%",
+      "新NISAで月1万円の配当金を得るには3,429株（約2,616,327円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本アクアは単元未満株（S株・かぶミニ等）を利用することで1株（約763円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,570,587円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り4.59%）です。月次95%VaR（最大想定損失率）は-10.84%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本アクアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約763円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約2,616,327円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 763.0
+  }
+}

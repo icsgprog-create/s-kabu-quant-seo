@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "1934",
+    "name": "ユアテック",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2491.0,
+    "min_s_kabu_yen": 2491,
+    "unit_lot_yen": 249100,
+    "dps_yen": 78.0,
+    "dividend_yield_pct": 3.13,
+    "raw_annual_return_pct": 30.98,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.22,
+    "annual_volatility_pct": 30.93,
+    "max_drawdown_pct": -28.96,
+    "monthly_var_95_pct": -7.29,
+    "sharpe_ratio": 0.56,
+    "quant_score": 58.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 154,
+        "nisa_required_capital_yen": 383614,
+        "specific_required_shares": 194,
+        "specific_required_capital_yen": 483254
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 770,
+        "nisa_required_capital_yen": 1918070,
+        "specific_required_shares": 966,
+        "specific_required_capital_yen": 2406306
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1539,
+        "nisa_required_capital_yen": 3833649,
+        "specific_required_shares": 1931,
+        "specific_required_capital_yen": 4810121
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 11498456,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 14430363
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7693,
+        "nisa_required_capital_yen": 19163263,
+        "specific_required_shares": 9654,
+        "specific_required_capital_yen": 24048114
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132725,
+        "upper_90_yen": 176820,
+        "lower_10_yen": 100345
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 292181,
+        "upper_90_yen": 437993,
+        "lower_10_yen": 197908
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 483753,
+        "upper_90_yen": 798899,
+        "lower_10_yen": 299726
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 713909,
+        "upper_90_yen": 1284824,
+        "lower_10_yen": 408839
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 990421,
+        "upper_90_yen": 1929154,
+        "lower_10_yen": 527587
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1322624,
+        "upper_90_yen": 2774697,
+        "lower_10_yen": 658182
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1721734,
+        "upper_90_yen": 3875818,
+        "lower_10_yen": 802915
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2201229,
+        "upper_90_yen": 5301256,
+        "lower_10_yen": 964279
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2777298,
+        "upper_90_yen": 7137696,
+        "lower_10_yen": 1145053
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3469391,
+        "upper_90_yen": 9494248,
+        "lower_10_yen": 1348382
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ユアテック(1934)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ユアテック(1934)を1株(2,491円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,491円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.93%、幾何成長率は15.22%",
+      "新NISAで月1万円の配当金を得るには1,539株（約3,833,649円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ユアテックは単元未満株（S株・かぶミニ等）を利用することで1株（約2,491円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,469,391円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり78.0円（利回り3.13%）です。月次95%VaR（最大想定損失率）は-7.29%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ユアテックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,491円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,539株（元本目安：約3,833,649円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2491.0
+  }
+}

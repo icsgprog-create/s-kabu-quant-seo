@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "2481",
+    "name": "タウンニュース社",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 680.0,
+    "min_s_kabu_yen": 680,
+    "unit_lot_yen": 68000,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 3.24,
+    "raw_annual_return_pct": 12.95,
+    "capped_annual_return_pct": 12.95,
+    "geometric_growth_pct": 10.03,
+    "annual_volatility_pct": 24.18,
+    "max_drawdown_pct": -18.28,
+    "monthly_var_95_pct": -6.92,
+    "sharpe_ratio": 0.51,
+    "quant_score": 64.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 371280,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 465800
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 1855040,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 2327640
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 3709400,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 4655280
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 11127520,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 13964480
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 18545640,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 23273680
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129033,
+        "upper_90_yen": 161231,
+        "lower_10_yen": 103723
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 276368,
+        "upper_90_yen": 377785,
+        "lower_10_yen": 204095
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 444602,
+        "upper_90_yen": 653704,
+        "lower_10_yen": 306751
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 636698,
+        "upper_90_yen": 998153,
+        "lower_10_yen": 413942
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 856042,
+        "upper_90_yen": 1423028,
+        "lower_10_yen": 527229
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1106498,
+        "upper_90_yen": 1942862,
+        "lower_10_yen": 647942
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1392479,
+        "upper_90_yen": 2575070,
+        "lower_10_yen": 777345
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1719024,
+        "upper_90_yen": 3340368,
+        "lower_10_yen": 916716
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2091887,
+        "upper_90_yen": 4263296,
+        "lower_10_yen": 1067388
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2517639,
+        "upper_90_yen": 5372863,
+        "lower_10_yen": 1230786
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "タウンニュース社(2481)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "タウンニュース社(2481)を1株(680円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小680円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.18%、幾何成長率は10.03%",
+      "新NISAで月1万円の配当金を得るには5,455株（約3,709,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "タウンニュース社は単元未満株（S株・かぶミニ等）を利用することで1株（約680円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,517,639円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り3.24%）です。月次95%VaR（最大想定損失率）は-6.92%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "タウンニュース社は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約680円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約3,709,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 680.0
+  }
+}

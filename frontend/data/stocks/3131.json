@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3131",
+    "name": "シンデン・ハイテックス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6350.0,
+    "min_s_kabu_yen": 6350,
+    "unit_lot_yen": 635000,
+    "dps_yen": 135.0,
+    "dividend_yield_pct": 2.13,
+    "raw_annual_return_pct": 25.25,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 9.46,
+    "annual_volatility_pct": 45.92,
+    "max_drawdown_pct": -51.01,
+    "monthly_var_95_pct": -19.69,
+    "sharpe_ratio": 0.23,
+    "quant_score": 27.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 89,
+        "nisa_required_capital_yen": 565150,
+        "specific_required_shares": 112,
+        "specific_required_capital_yen": 711200
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 445,
+        "nisa_required_capital_yen": 2825750,
+        "specific_required_shares": 558,
+        "specific_required_capital_yen": 3543300
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 889,
+        "nisa_required_capital_yen": 5645150,
+        "specific_required_shares": 1116,
+        "specific_required_capital_yen": 7086600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 16935450,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 21253450
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 28225750,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 35420300
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127840,
+        "upper_90_yen": 195758,
+        "lower_10_yen": 84830
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271377,
+        "upper_90_yen": 494243,
+        "lower_10_yen": 154181
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 432539,
+        "upper_90_yen": 906786,
+        "lower_10_yen": 217317
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 613489,
+        "upper_90_yen": 1455392,
+        "lower_10_yen": 277123
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 816658,
+        "upper_90_yen": 2168573,
+        "lower_10_yen": 335092
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1044773,
+        "upper_90_yen": 3081502,
+        "lower_10_yen": 392165
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1300898,
+        "upper_90_yen": 4236902,
+        "lower_10_yen": 449005
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1588472,
+        "upper_90_yen": 5686293,
+        "lower_10_yen": 506116
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1911357,
+        "upper_90_yen": 7491559,
+        "lower_10_yen": 563915
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2273887,
+        "upper_90_yen": 9726831,
+        "lower_10_yen": 622757
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シンデン・ハイテックス(3131)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シンデン・ハイテックス(3131)を1株(6,350円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,350円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.92%、幾何成長率は9.46%",
+      "新NISAで月1万円の配当金を得るには889株（約5,645,150円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シンデン・ハイテックスは単元未満株（S株・かぶミニ等）を利用することで1株（約6,350円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,273,887円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり135.0円（利回り2.13%）です。月次95%VaR（最大想定損失率）は-19.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シンデン・ハイテックスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,350円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、889株（元本目安：約5,645,150円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6350.0
+  }
+}
