@@ -12,7 +12,7 @@ from config import (
     CACHE_DIR, AI_BATCH_SIZE, AI_REQUEST_INTERVAL_SEC, MAX_AI_CALLS_PER_RUN
 )
 from quant_engine import QuantEngine
-from ai_generator import AIGenerator
+from ai_generator import AIGenerator, QuotaExceededError
 
 BROWSER_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -239,7 +239,11 @@ def run_batch(use_all=False, force_quant=False):
             chunk = target_ai_list[b_idx * AI_BATCH_SIZE : (b_idx + 1) * AI_BATCH_SIZE]
             codes_str = ",".join(m["code"] for m in chunk)
             print(f"  -> AI Batch [{b_idx + 1}/{total_batches}] codes: {codes_str}")
-            batch_results = ai_gen.generate_batch_seo(chunk)
+            try:
+                batch_results = ai_gen.generate_batch_seo(chunk)
+            except QuotaExceededError:
+                print("[INFO] Daily Gemini free quota reached (18-20 reqs). Stopping AI enrichment cleanly for today.")
+                break
             for m in chunk:
                 c = m["code"]
                 if c in batch_results:

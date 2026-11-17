@@ -21,7 +21,7 @@ CACHE_DIR.mkdir(parents=True, exist_ok=True)
 GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-3.8-flash")
 AI_BATCH_SIZE = 10
 AI_REQUEST_INTERVAL_SEC = 5.0
-MAX_AI_CALLS_PER_RUN = 100
+MAX_AI_CALLS_PER_RUN = 18
 AI_CACHE_EXPIRE_DAYS = 30
 AI_REGENERATE_CHANGE_THRESHOLD = 0.10
 JPX_LISTED_COMPANIES_URL = "https://www.jpx.co.jp/markets/statistics-equities/misc/01.html"

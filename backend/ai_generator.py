@@ -1,4 +1,4 @@
-import os, json, time
+import os, json
 from datetime import datetime, timezone
 from pydantic import BaseModel
 from google import genai
@@ -7,6 +7,9 @@ from config import (
     STOCKS_OUTPUT_DIR, GEMINI_MODEL_NAME,
     AI_CACHE_EXPIRE_DAYS, AI_REGENERATE_CHANGE_THRESHOLD
 )
+
+class QuotaExceededError(Exception):
+    pass
 
 class FAQItemSchema(BaseModel):
     question: str
@@ -101,6 +104,9 @@ class AIGenerator:
                 results[c] = item
             return results
         except Exception as e:
+            err_str = str(e)
+            if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str:
+                raise QuotaExceededError("Daily free tier quota reached.")
             print(f"[WARN] Gemini batch API error (fallback maintained): {e}")
             return {}
 
