@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4884",
+    "name": "クリングルファーマ",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 574.0,
+    "min_s_kabu_yen": 574,
+    "unit_lot_yen": 57400,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -1.52,
+    "capped_annual_return_pct": -1.52,
+    "geometric_growth_pct": -22.79,
+    "annual_volatility_pct": 65.23,
+    "max_drawdown_pct": -77.66,
+    "monthly_var_95_pct": -36.58,
+    "sharpe_ratio": -0.36,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106291,
+        "upper_90_yen": 192253,
+        "lower_10_yen": 60735
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 190919,
+        "upper_90_yen": 429717,
+        "lower_10_yen": 91184
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 258299,
+        "upper_90_yen": 684109,
+        "lower_10_yen": 109133
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 311946,
+        "upper_90_yen": 941924,
+        "lower_10_yen": 120342
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 354659,
+        "upper_90_yen": 1194847,
+        "lower_10_yen": 127578
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 388667,
+        "upper_90_yen": 1437552,
+        "lower_10_yen": 132356
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 415743,
+        "upper_90_yen": 1666694,
+        "lower_10_yen": 135562
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 437301,
+        "upper_90_yen": 1880316,
+        "lower_10_yen": 137742
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 454465,
+        "upper_90_yen": 2077450,
+        "lower_10_yen": 139239
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 468131,
+        "upper_90_yen": 2257844,
+        "lower_10_yen": 140276
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クリングルファーマ(4884)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クリングルファーマ(4884)を1株(574円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小574円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは65.23%、幾何成長率は-22.79%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クリングルファーマは単元未満株（S株・かぶミニ等）を利用することで1株（約574円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は468,131円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-36.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クリングルファーマは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約574円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 574.0
+  }
+}

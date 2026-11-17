@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4933",
+    "name": "Ｉ－ｎｅ",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2489.0,
+    "min_s_kabu_yen": 2489,
+    "unit_lot_yen": 248900,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 0.88,
+    "raw_annual_return_pct": 4.28,
+    "capped_annual_return_pct": 4.28,
+    "geometric_growth_pct": -9.08,
+    "annual_volatility_pct": 51.69,
+    "max_drawdown_pct": -73.19,
+    "monthly_var_95_pct": -18.61,
+    "sharpe_ratio": -0.18,
+    "quant_score": 7.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 1358994,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 1704965
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 6789992,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 8519847
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 13577495,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 17039694
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 40729996,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 51114104
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 67882497,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 85188514
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114821,
+        "upper_90_yen": 184236,
+        "lower_10_yen": 73044
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 220608,
+        "upper_90_yen": 424430,
+        "lower_10_yen": 119915
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 318071,
+        "upper_90_yen": 704277,
+        "lower_10_yen": 153981
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 407864,
+        "upper_90_yen": 1016347,
+        "lower_10_yen": 179884
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 490592,
+        "upper_90_yen": 1355525,
+        "lower_10_yen": 200103
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 566811,
+        "upper_90_yen": 1717786,
+        "lower_10_yen": 216165
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 637032,
+        "upper_90_yen": 2099757,
+        "lower_10_yen": 229093
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 701728,
+        "upper_90_yen": 2498507,
+        "lower_10_yen": 239602
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 761333,
+        "upper_90_yen": 2911434,
+        "lower_10_yen": 248215
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 816248,
+        "upper_90_yen": 3336199,
+        "lower_10_yen": 255322
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｉ－ｎｅ(4933)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｉ－ｎｅ(4933)を1株(2,489円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,489円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.69%、幾何成長率は-9.08%",
+      "新NISAで月1万円の配当金を得るには5,455株（約13,577,495円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｉ－ｎｅは単元未満株（S株・かぶミニ等）を利用することで1株（約2,489円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は816,248円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り0.88%）です。月次95%VaR（最大想定損失率）は-18.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｉ－ｎｅは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,489円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約13,577,495円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2489.0
+  }
+}

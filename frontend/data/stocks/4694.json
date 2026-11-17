@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4694",
+    "name": "ビー・エム・エル",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3970.0,
+    "min_s_kabu_yen": 3970,
+    "unit_lot_yen": 397000,
+    "dps_yen": 127.5,
+    "dividend_yield_pct": 3.21,
+    "raw_annual_return_pct": 4.74,
+    "capped_annual_return_pct": 4.74,
+    "geometric_growth_pct": 2.1,
+    "annual_volatility_pct": 22.97,
+    "max_drawdown_pct": -31.51,
+    "monthly_var_95_pct": -9.28,
+    "sharpe_ratio": 0.19,
+    "quant_score": 57.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 95,
+        "nisa_required_capital_yen": 377150,
+        "specific_required_shares": 119,
+        "specific_required_capital_yen": 472430
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 471,
+        "nisa_required_capital_yen": 1869870,
+        "specific_required_shares": 591,
+        "specific_required_capital_yen": 2346270
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 942,
+        "nisa_required_capital_yen": 3739740,
+        "specific_required_shares": 1182,
+        "specific_required_capital_yen": 4692540
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2824,
+        "nisa_required_capital_yen": 11211280,
+        "specific_required_shares": 3544,
+        "specific_required_capital_yen": 14069680
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4706,
+        "nisa_required_capital_yen": 18682820,
+        "specific_required_shares": 5906,
+        "specific_required_capital_yen": 23446820
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123518,
+        "upper_90_yen": 152392,
+        "lower_10_yen": 100518
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253776,
+        "upper_90_yen": 340027,
+        "lower_10_yen": 191052
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 391142,
+        "upper_90_yen": 559655,
+        "lower_10_yen": 277027
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 536003,
+        "upper_90_yen": 811770,
+        "lower_10_yen": 360305
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 688770,
+        "upper_90_yen": 1097889,
+        "lower_10_yen": 441903
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 849872,
+        "upper_90_yen": 1420094,
+        "lower_10_yen": 522480
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1019765,
+        "upper_90_yen": 1780867,
+        "lower_10_yen": 602507
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1198928,
+        "upper_90_yen": 2183039,
+        "lower_10_yen": 682341
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1387868,
+        "upper_90_yen": 2629760,
+        "lower_10_yen": 762270
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1587118,
+        "upper_90_yen": 3124496,
+        "lower_10_yen": 842531
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビー・エム・エル(4694)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビー・エム・エル(4694)を1株(3,970円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,970円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.97%、幾何成長率は2.1%",
+      "新NISAで月1万円の配当金を得るには942株（約3,739,740円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビー・エム・エルは単元未満株（S株・かぶミニ等）を利用することで1株（約3,970円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,587,118円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり127.5円（利回り3.21%）です。月次95%VaR（最大想定損失率）は-9.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビー・エム・エルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,970円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、942株（元本目安：約3,739,740円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3970.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8714",
+    "name": "池田泉州ホールディングス",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 811.0,
+    "min_s_kabu_yen": 811,
+    "unit_lot_yen": 81100,
+    "dps_yen": 28.25,
+    "dividend_yield_pct": 3.48,
+    "raw_annual_return_pct": 37.24,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.66,
+    "annual_volatility_pct": 32.69,
+    "max_drawdown_pct": -33.08,
+    "monthly_var_95_pct": -11.03,
+    "sharpe_ratio": 0.52,
+    "quant_score": 58.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 425,
+        "nisa_required_capital_yen": 344675,
+        "specific_required_shares": 534,
+        "specific_required_capital_yen": 433074
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2124,
+        "nisa_required_capital_yen": 1722564,
+        "specific_required_shares": 2666,
+        "specific_required_capital_yen": 2162126
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4248,
+        "nisa_required_capital_yen": 3445128,
+        "specific_required_shares": 5331,
+        "specific_required_capital_yen": 4323441
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12744,
+        "nisa_required_capital_yen": 10335384,
+        "specific_required_shares": 15993,
+        "specific_required_capital_yen": 12970323
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21239,
+        "nisa_required_capital_yen": 17224829,
+        "specific_required_shares": 26654,
+        "specific_required_capital_yen": 21616394
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132570,
+        "upper_90_yen": 179560,
+        "lower_10_yen": 98667
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291506,
+        "upper_90_yen": 447331,
+        "lower_10_yen": 193230
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 482054,
+        "upper_90_yen": 819537,
+        "lower_10_yen": 290919
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 710499,
+        "upper_90_yen": 1322887,
+        "lower_10_yen": 394705
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 984380,
+        "upper_90_yen": 1992684,
+        "lower_10_yen": 506784
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1312732,
+        "upper_90_yen": 2874237,
+        "lower_10_yen": 629166
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1706391,
+        "upper_90_yen": 4025133,
+        "lower_10_yen": 763890
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2178344,
+        "upper_90_yen": 5518236,
+        "lower_10_yen": 913141
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2744164,
+        "upper_90_yen": 7445492,
+        "lower_10_yen": 1079330
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3422520,
+        "upper_90_yen": 9922700,
+        "lower_10_yen": 1265160
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "池田泉州ホールディングス(8714)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "池田泉州ホールディングス(8714)を1株(811円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小811円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.69%、幾何成長率は14.66%",
+      "新NISAで月1万円の配当金を得るには4,248株（約3,445,128円）が必要"
+    ],
+    "accumulation_strategy_analysis": "池田泉州ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約811円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,422,520円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり28.25円（利回り3.48%）です。月次95%VaR（最大想定損失率）は-11.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "池田泉州ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約811円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,248株（元本目安：約3,445,128円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 811.0
+  }
+}

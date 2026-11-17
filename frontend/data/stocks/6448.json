@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6448",
+    "name": "ブラザー工業",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4404.0,
+    "min_s_kabu_yen": 4404,
+    "unit_lot_yen": 440400,
+    "dps_yen": 110.0,
+    "dividend_yield_pct": 2.5,
+    "raw_annual_return_pct": 18.33,
+    "capped_annual_return_pct": 18.33,
+    "geometric_growth_pct": 13.95,
+    "annual_volatility_pct": 29.59,
+    "max_drawdown_pct": -28.18,
+    "monthly_var_95_pct": -11.09,
+    "sharpe_ratio": 0.52,
+    "quant_score": 53.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 110,
+        "nisa_required_capital_yen": 484440,
+        "specific_required_shares": 137,
+        "specific_required_capital_yen": 603348
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 2404584,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 3016740
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 4804764,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 6033480
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3273,
+        "nisa_required_capital_yen": 14414292,
+        "specific_required_shares": 4108,
+        "specific_required_capital_yen": 18091632
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 24023820,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 30149784
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131328,
+        "upper_90_yen": 172710,
+        "lower_10_yen": 100522
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 286132,
+        "upper_90_yen": 420858,
+        "lower_10_yen": 197284
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 468610,
+        "upper_90_yen": 755305,
+        "lower_10_yen": 296963
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 683708,
+        "upper_90_yen": 1194970,
+        "lower_10_yen": 402285
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 937258,
+        "upper_90_yen": 1764556,
+        "lower_10_yen": 515225
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1236133,
+        "upper_90_yen": 2495154,
+        "lower_10_yen": 637556
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1588436,
+        "upper_90_yen": 3425429,
+        "lower_10_yen": 771037
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2003718,
+        "upper_90_yen": 4603218,
+        "lower_10_yen": 917521
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2493238,
+        "upper_90_yen": 6087541,
+        "lower_10_yen": 1079017
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3070265,
+        "upper_90_yen": 7951063,
+        "lower_10_yen": 1257745
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブラザー工業(6448)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブラザー工業(6448)を1株(4,404円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,404円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.59%、幾何成長率は13.95%",
+      "新NISAで月1万円の配当金を得るには1,091株（約4,804,764円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブラザー工業は単元未満株（S株・かぶミニ等）を利用することで1株（約4,404円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,070,265円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり110.0円（利回り2.5%）です。月次95%VaR（最大想定損失率）は-11.09%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブラザー工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,404円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,091株（元本目安：約4,804,764円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4404.0
+  }
+}

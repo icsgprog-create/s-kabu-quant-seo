@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3981",
+    "name": "ビーグリー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1147.0,
+    "min_s_kabu_yen": 1147,
+    "unit_lot_yen": 114700,
+    "dps_yen": 42.0,
+    "dividend_yield_pct": 3.66,
+    "raw_annual_return_pct": -7.67,
+    "capped_annual_return_pct": -7.67,
+    "geometric_growth_pct": -12.85,
+    "annual_volatility_pct": 32.2,
+    "max_drawdown_pct": -44.54,
+    "monthly_var_95_pct": -13.46,
+    "sharpe_ratio": -0.32,
+    "quant_score": 42.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 286,
+        "nisa_required_capital_yen": 328042,
+        "specific_required_shares": 359,
+        "specific_required_capital_yen": 411773
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1429,
+        "nisa_required_capital_yen": 1639063,
+        "specific_required_shares": 1793,
+        "specific_required_capital_yen": 2056571
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 3278126,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 4113142
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 9832084,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 12338279
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 14286,
+        "nisa_required_capital_yen": 16386042,
+        "specific_required_shares": 17928,
+        "specific_required_capital_yen": 20563416
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114212,
+        "upper_90_yen": 152942,
+        "lower_10_yen": 85974
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 218396,
+        "upper_90_yen": 326444,
+        "lower_10_yen": 148679
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 313431,
+        "upper_90_yen": 509692,
+        "lower_10_yen": 198034
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 400121,
+        "upper_90_yen": 697992,
+        "lower_10_yen": 237985
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 479199,
+        "upper_90_yen": 888397,
+        "lower_10_yen": 270853
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 551333,
+        "upper_90_yen": 1078844,
+        "lower_10_yen": 298192
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 617133,
+        "upper_90_yen": 1267810,
+        "lower_10_yen": 321117
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 677156,
+        "upper_90_yen": 1454142,
+        "lower_10_yen": 340461
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 731907,
+        "upper_90_yen": 1636956,
+        "lower_10_yen": 356865
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 781852,
+        "upper_90_yen": 1815573,
+        "lower_10_yen": 370835
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビーグリー(3981)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビーグリー(3981)を1株(1,147円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,147円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.2%、幾何成長率は-12.85%",
+      "新NISAで月1万円の配当金を得るには2,858株（約3,278,126円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビーグリーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,147円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は781,852円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり42.0円（利回り3.66%）です。月次95%VaR（最大想定損失率）は-13.46%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビーグリーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,147円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,858株（元本目安：約3,278,126円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1147.0
+  }
+}

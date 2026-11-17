@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9699",
+    "name": "ニシオホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4540.0,
+    "min_s_kabu_yen": 4540,
+    "unit_lot_yen": 454000,
+    "dps_yen": 136.0,
+    "dividend_yield_pct": 3.0,
+    "raw_annual_return_pct": 13.02,
+    "capped_annual_return_pct": 13.02,
+    "geometric_growth_pct": 9.81,
+    "annual_volatility_pct": 25.35,
+    "max_drawdown_pct": -25.08,
+    "monthly_var_95_pct": -7.58,
+    "sharpe_ratio": 0.47,
+    "quant_score": 60.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 89,
+        "nisa_required_capital_yen": 404060,
+        "specific_required_shares": 111,
+        "specific_required_capital_yen": 503940
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 442,
+        "nisa_required_capital_yen": 2006680,
+        "specific_required_shares": 554,
+        "specific_required_capital_yen": 2515160
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 883,
+        "nisa_required_capital_yen": 4008820,
+        "specific_required_shares": 1108,
+        "specific_required_capital_yen": 5030320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2648,
+        "nisa_required_capital_yen": 12021920,
+        "specific_required_shares": 3322,
+        "specific_required_capital_yen": 15081880
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4412,
+        "nisa_required_capital_yen": 20030480,
+        "specific_required_shares": 5537,
+        "specific_required_capital_yen": 25137980
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128704,
+        "upper_90_yen": 162560,
+        "lower_10_yen": 102396
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274987,
+        "upper_90_yen": 381593,
+        "lower_10_yen": 200233
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 441249,
+        "upper_90_yen": 660857,
+        "lower_10_yen": 299304
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 630220,
+        "upper_90_yen": 1009369,
+        "lower_10_yen": 401830
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 845000,
+        "upper_90_yen": 1438874,
+        "lower_10_yen": 509286
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1089115,
+        "upper_90_yen": 1963695,
+        "lower_10_yen": 622879
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1366572,
+        "upper_90_yen": 2600963,
+        "lower_10_yen": 743719
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1681924,
+        "upper_90_yen": 3370998,
+        "lower_10_yen": 872903
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2040347,
+        "upper_90_yen": 4297800,
+        "lower_10_yen": 1011552
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2447725,
+        "upper_90_yen": 5409648,
+        "lower_10_yen": 1160847
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ニシオホールディングス(9699)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ニシオホールディングス(9699)を1株(4,540円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,540円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.35%、幾何成長率は9.81%",
+      "新NISAで月1万円の配当金を得るには883株（約4,008,820円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ニシオホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約4,540円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,447,725円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり136.0円（利回り3.0%）です。月次95%VaR（最大想定損失率）は-7.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ニシオホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,540円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、883株（元本目安：約4,008,820円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4540.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5834",
+    "name": "ＳＢＩリーシングサービス",
+    "sector": "証券、商品先物取引業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2425.0,
+    "min_s_kabu_yen": 2425,
+    "unit_lot_yen": 242500,
+    "dps_yen": 120.0,
+    "dividend_yield_pct": 4.95,
+    "raw_annual_return_pct": 13.41,
+    "capped_annual_return_pct": 13.41,
+    "geometric_growth_pct": 3.12,
+    "annual_volatility_pct": 45.37,
+    "max_drawdown_pct": -46.58,
+    "monthly_var_95_pct": -17.29,
+    "sharpe_ratio": 0.16,
+    "quant_score": 48.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 100,
+        "nisa_required_capital_yen": 242500,
+        "specific_required_shares": 126,
+        "specific_required_capital_yen": 305550
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 1212500,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 1522900
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 2425000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3043375
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 7275000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 9130125
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 12125000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 15216875
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125395,
+        "upper_90_yen": 190788,
+        "lower_10_yen": 83713
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261327,
+        "upper_90_yen": 470799,
+        "lower_10_yen": 150007
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 408681,
+        "upper_90_yen": 843585,
+        "lower_10_yen": 208414
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 568418,
+        "upper_90_yen": 1321284,
+        "lower_10_yen": 261934
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 741579,
+        "upper_90_yen": 1919836,
+        "lower_10_yen": 312107
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 929290,
+        "upper_90_yen": 2658457,
+        "lower_10_yen": 359871
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1132775,
+        "upper_90_yen": 3559722,
+        "lower_10_yen": 405863
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1353359,
+        "upper_90_yen": 4649872,
+        "lower_10_yen": 450538
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1592480,
+        "upper_90_yen": 5959224,
+        "lower_10_yen": 494243
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1851694,
+        "upper_90_yen": 7522694,
+        "lower_10_yen": 537251
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＳＢＩリーシングサービス(5834)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＳＢＩリーシングサービス(5834)を1株(2,425円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,425円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.37%、幾何成長率は3.12%",
+      "新NISAで月1万円の配当金を得るには1,000株（約2,425,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＳＢＩリーシングサービスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,425円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,851,694円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり120.0円（利回り4.95%）です。月次95%VaR（最大想定損失率）は-17.29%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＳＢＩリーシングサービスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,425円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,000株（元本目安：約2,425,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2425.0
+  }
+}

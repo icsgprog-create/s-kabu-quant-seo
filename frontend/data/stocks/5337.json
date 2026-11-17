@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5337",
+    "name": "ダントーホールディングス",
+    "sector": "ガラス・土石製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 623.0,
+    "min_s_kabu_yen": 623,
+    "unit_lot_yen": 62300,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 18.66,
+    "capped_annual_return_pct": 18.66,
+    "geometric_growth_pct": 2.71,
+    "annual_volatility_pct": 56.49,
+    "max_drawdown_pct": -78.41,
+    "monthly_var_95_pct": -30.39,
+    "sharpe_ratio": 0.03,
+    "quant_score": 5.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121777,
+        "upper_90_yen": 205330,
+        "lower_10_yen": 74000
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 246896,
+        "upper_90_yen": 512776,
+        "lower_10_yen": 125284
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 375448,
+        "upper_90_yen": 920745,
+        "lower_10_yen": 165966
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 507530,
+        "upper_90_yen": 1436977,
+        "lower_10_yen": 199864
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 643236,
+        "upper_90_yen": 2072201,
+        "lower_10_yen": 228925
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 782667,
+        "upper_90_yen": 2839132,
+        "lower_10_yen": 254324
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 925924,
+        "upper_90_yen": 3752192,
+        "lower_10_yen": 276838
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1073114,
+        "upper_90_yen": 4827448,
+        "lower_10_yen": 297015
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1224343,
+        "upper_90_yen": 6082642,
+        "lower_10_yen": 315259
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1379723,
+        "upper_90_yen": 7537265,
+        "lower_10_yen": 331875
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ダントーホールディングス(5337)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ダントーホールディングス(5337)を1株(623円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小623円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは56.49%、幾何成長率は2.71%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ダントーホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約623円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,379,723円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-30.39%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ダントーホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約623円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 623.0
+  }
+}

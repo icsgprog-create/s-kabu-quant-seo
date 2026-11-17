@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5955",
+    "name": "ワイズホールディングス",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 85.0,
+    "min_s_kabu_yen": 85,
+    "unit_lot_yen": 8500,
+    "dps_yen": 1.0,
+    "dividend_yield_pct": 1.18,
+    "raw_annual_return_pct": 2.95,
+    "capped_annual_return_pct": 2.95,
+    "geometric_growth_pct": -9.26,
+    "annual_volatility_pct": 49.41,
+    "max_drawdown_pct": -60.86,
+    "monthly_var_95_pct": -14.45,
+    "sharpe_ratio": -0.18,
+    "quant_score": 9.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 1020000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 1280100
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 5100000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 6400245
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 10200000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 12800405
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 360000,
+        "nisa_required_capital_yen": 30600000,
+        "specific_required_shares": 451779,
+        "specific_required_capital_yen": 38401215
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 600000,
+        "nisa_required_capital_yen": 51000000,
+        "specific_required_shares": 752965,
+        "specific_required_capital_yen": 64002025
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114892,
+        "upper_90_yen": 180477,
+        "lower_10_yen": 74526
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 220867,
+        "upper_90_yen": 412523,
+        "lower_10_yen": 123190
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 318615,
+        "upper_90_yen": 680413,
+        "lower_10_yen": 158974
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 408776,
+        "upper_90_yen": 976991,
+        "lower_10_yen": 186448
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 491939,
+        "upper_90_yen": 1297363,
+        "lower_10_yen": 208075
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 568647,
+        "upper_90_yen": 1637709,
+        "lower_10_yen": 225390
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 639401,
+        "upper_90_yen": 1994857,
+        "lower_10_yen": 239424
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 704662,
+        "upper_90_yen": 2366073,
+        "lower_10_yen": 250910
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 764858,
+        "upper_90_yen": 2748953,
+        "lower_10_yen": 260383
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 820382,
+        "upper_90_yen": 3141353,
+        "lower_10_yen": 268247
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ワイズホールディングス(5955)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ワイズホールディングス(5955)を1株(85円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小85円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは49.41%、幾何成長率は-9.26%",
+      "新NISAで月1万円の配当金を得るには120,000株（約10,200,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ワイズホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約85円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は820,382円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり1.0円（利回り1.18%）です。月次95%VaR（最大想定損失率）は-14.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ワイズホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約85円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、120,000株（元本目安：約10,200,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 85.0
+  }
+}

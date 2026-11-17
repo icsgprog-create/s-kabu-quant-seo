@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3861",
+    "name": "王子ホールディングス",
+    "sector": "パルプ・紙",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 839.3,
+    "min_s_kabu_yen": 840,
+    "unit_lot_yen": 83930,
+    "dps_yen": 36.0,
+    "dividend_yield_pct": 4.29,
+    "raw_annual_return_pct": 11.03,
+    "capped_annual_return_pct": 11.03,
+    "geometric_growth_pct": 8.69,
+    "annual_volatility_pct": 21.65,
+    "max_drawdown_pct": -22.76,
+    "monthly_var_95_pct": -7.9,
+    "sharpe_ratio": 0.55,
+    "quant_score": 76.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 334,
+        "nisa_required_capital_yen": 280326,
+        "specific_required_shares": 419,
+        "specific_required_capital_yen": 351667
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1667,
+        "nisa_required_capital_yen": 1399113,
+        "specific_required_shares": 2092,
+        "specific_required_capital_yen": 1755816
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 2798226,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 3511631
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 8393000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 10533215
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16667,
+        "nisa_required_capital_yen": 13988613,
+        "specific_required_shares": 20916,
+        "specific_required_capital_yen": 17554799
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128829,
+        "upper_90_yen": 157225,
+        "lower_10_yen": 105936
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275511,
+        "upper_90_yen": 364279,
+        "lower_10_yen": 209958
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 442519,
+        "upper_90_yen": 624346,
+        "lower_10_yen": 317274
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 632671,
+        "upper_90_yen": 945070,
+        "lower_10_yen": 430062
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 849173,
+        "upper_90_yen": 1336378,
+        "lower_10_yen": 549890
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1095678,
+        "upper_90_yen": 1810335,
+        "lower_10_yen": 678134
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1376342,
+        "upper_90_yen": 2381320,
+        "lower_10_yen": 816127
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1695900,
+        "upper_90_yen": 3066329,
+        "lower_10_yen": 965233
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2059741,
+        "upper_90_yen": 3885371,
+        "lower_10_yen": 1126891
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2474002,
+        "upper_90_yen": 4861945,
+        "lower_10_yen": 1302649
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "王子ホールディングス(3861)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "王子ホールディングス(3861)を1株(840円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小840円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.65%、幾何成長率は8.69%",
+      "新NISAで月1万円の配当金を得るには3,334株（約2,798,226円）が必要"
+    ],
+    "accumulation_strategy_analysis": "王子ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約840円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,474,002円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.0円（利回り4.29%）です。月次95%VaR（最大想定損失率）は-7.9%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "王子ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約840円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,334株（元本目安：約2,798,226円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 839.3
+  }
+}

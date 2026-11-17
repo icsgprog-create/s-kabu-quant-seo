@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9166",
+    "name": "ＧＥＮＤＡ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 669.0,
+    "min_s_kabu_yen": 669,
+    "unit_lot_yen": 66900,
+    "dps_yen": 4.0,
+    "dividend_yield_pct": 0.6,
+    "raw_annual_return_pct": 8.51,
+    "capped_annual_return_pct": 8.51,
+    "geometric_growth_pct": -12.63,
+    "annual_volatility_pct": 65.03,
+    "max_drawdown_pct": -70.27,
+    "monthly_var_95_pct": -24.83,
+    "sharpe_ratio": -0.2,
+    "quant_score": 4.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2007000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 2518785
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 10035000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 12593925
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 20070000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 25187181
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 90000,
+        "nisa_required_capital_yen": 60210000,
+        "specific_required_shares": 112945,
+        "specific_required_capital_yen": 75560205
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 150000,
+        "nisa_required_capital_yen": 100350000,
+        "specific_required_shares": 188242,
+        "specific_required_capital_yen": 125933898
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112494,
+        "upper_90_yen": 204188,
+        "lower_10_yen": 64027
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 212232,
+        "upper_90_yen": 483997,
+        "lower_10_yen": 99918
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 300661,
+        "upper_90_yen": 817267,
+        "lower_10_yen": 123516
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 379063,
+        "upper_90_yen": 1192964,
+        "lower_10_yen": 139943
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 448575,
+        "upper_90_yen": 1603032,
+        "lower_10_yen": 151764
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 510205,
+        "upper_90_yen": 2040897,
+        "lower_10_yen": 160461
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 564846,
+        "upper_90_yen": 2500942,
+        "lower_10_yen": 166965
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 613292,
+        "upper_90_yen": 2978254,
+        "lower_10_yen": 171892
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 656244,
+        "upper_90_yen": 3468488,
+        "lower_10_yen": 175661
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 694326,
+        "upper_90_yen": 3967788,
+        "lower_10_yen": 178570
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＧＥＮＤＡ(9166)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＧＥＮＤＡ(9166)を1株(669円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小669円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは65.03%、幾何成長率は-12.63%",
+      "新NISAで月1万円の配当金を得るには30,000株（約20,070,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＧＥＮＤＡは単元未満株（S株・かぶミニ等）を利用することで1株（約669円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は694,326円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり4.0円（利回り0.6%）です。月次95%VaR（最大想定損失率）は-24.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＧＥＮＤＡは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約669円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、30,000株（元本目安：約20,070,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 669.0
+  }
+}

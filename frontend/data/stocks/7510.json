@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7510",
+    "name": "たけびし",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2527.0,
+    "min_s_kabu_yen": 2527,
+    "unit_lot_yen": 252700,
+    "dps_yen": 89.0,
+    "dividend_yield_pct": 3.52,
+    "raw_annual_return_pct": 14.18,
+    "capped_annual_return_pct": 14.18,
+    "geometric_growth_pct": 11.34,
+    "annual_volatility_pct": 23.83,
+    "max_drawdown_pct": -37.81,
+    "monthly_var_95_pct": -7.23,
+    "sharpe_ratio": 0.58,
+    "quant_score": 68.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 135,
+        "nisa_required_capital_yen": 341145,
+        "specific_required_shares": 170,
+        "specific_required_capital_yen": 429590
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 675,
+        "nisa_required_capital_yen": 1705725,
+        "specific_required_shares": 847,
+        "specific_required_capital_yen": 2140369
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1349,
+        "nisa_required_capital_yen": 3408923,
+        "specific_required_shares": 1693,
+        "specific_required_capital_yen": 4278211
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4045,
+        "nisa_required_capital_yen": 10221715,
+        "specific_required_shares": 5077,
+        "specific_required_capital_yen": 12829579
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6742,
+        "nisa_required_capital_yen": 17037034,
+        "specific_required_shares": 8461,
+        "specific_required_capital_yen": 21380947
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130176,
+        "upper_90_yen": 162176,
+        "lower_10_yen": 104939
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281204,
+        "upper_90_yen": 382955,
+        "lower_10_yen": 208385
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 456426,
+        "upper_90_yen": 668313,
+        "lower_10_yen": 316060
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 659716,
+        "upper_90_yen": 1029792,
+        "lower_10_yen": 430449
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 895570,
+        "upper_90_yen": 1482327,
+        "lower_10_yen": 553425
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1169205,
+        "upper_90_yen": 2044328,
+        "lower_10_yen": 686703
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1486673,
+        "upper_90_yen": 2738160,
+        "lower_10_yen": 832005
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1854996,
+        "upper_90_yen": 3590822,
+        "lower_10_yen": 991150
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2282320,
+        "upper_90_yen": 4634797,
+        "lower_10_yen": 1166103
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2778095,
+        "upper_90_yen": 5909095,
+        "lower_10_yen": 1359027
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "たけびし(7510)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "たけびし(7510)を1株(2,527円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,527円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.83%、幾何成長率は11.34%",
+      "新NISAで月1万円の配当金を得るには1,349株（約3,408,923円）が必要"
+    ],
+    "accumulation_strategy_analysis": "たけびしは単元未満株（S株・かぶミニ等）を利用することで1株（約2,527円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,778,095円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり89.0円（利回り3.52%）です。月次95%VaR（最大想定損失率）は-7.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "たけびしは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,527円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,349株（元本目安：約3,408,923円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2527.0
+  }
+}

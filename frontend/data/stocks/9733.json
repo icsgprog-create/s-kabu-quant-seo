@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "code": "9733",
+    "name": "ナガセ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2201.0,
+    "min_s_kabu_yen": 2201,
+    "unit_lot_yen": 220100,
+    "dps_yen": 210.0,
+    "dividend_yield_pct": 9.54,
+    "raw_annual_return_pct": 8.71,
+    "capped_annual_return_pct": 8.71,
+    "geometric_growth_pct": 6.72,
+    "annual_volatility_pct": 19.93,
+    "max_drawdown_pct": -26.38,
+    "monthly_var_95_pct": -5.34,
+    "sharpe_ratio": 0.77,
+    "quant_score": 89.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 58,
+        "nisa_required_capital_yen": 127658,
+        "specific_required_shares": 72,
+        "specific_required_capital_yen": 158472
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 286,
+        "nisa_required_capital_yen": 629486,
+        "specific_required_shares": 359,
+        "specific_required_capital_yen": 790159
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 572,
+        "nisa_required_capital_yen": 1258972,
+        "specific_required_shares": 718,
+        "specific_required_capital_yen": 1580318
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 3774715,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 4736552
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 6290458,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 7892786
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131195,
+        "upper_90_yen": 157658,
+        "lower_10_yen": 109501
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285560,
+        "upper_90_yen": 369722,
+        "lower_10_yen": 221965
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 467187,
+        "upper_90_yen": 642826,
+        "lower_10_yen": 342821
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 680892,
+        "upper_90_yen": 988670,
+        "lower_10_yen": 474924
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 932339,
+        "upper_90_yen": 1422324,
+        "lower_10_yen": 620765
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1228195,
+        "upper_90_yen": 1962449,
+        "lower_10_yen": 782860
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1576302,
+        "upper_90_yen": 2631867,
+        "lower_10_yen": 963918
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1985888,
+        "upper_90_yen": 3458346,
+        "lower_10_yen": 1166937
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2467811,
+        "upper_90_yen": 4475581,
+        "lower_10_yen": 1395289
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3034848,
+        "upper_90_yen": 5724390,
+        "lower_10_yen": 1652794
+      }
+    ]
+  },
+  "seo": {
+    "code": "9733",
+    "seo_title": "ナガセ(9733)の驚異的配当利回り9.54%と新NISA積立リスク分析",
+    "meta_description": "ナガセ(9733)の定量分析データ。配当利回り9.54%、年間配当210円、1株2201円。高いインカムと事業リスク、10年積立シミュレーションを解説。",
+    "summary_points": [
+      "配当利回り9.54%と極めて突出したインカムゲイン水準",
+      "1株あたり約2,201円、年間配当は210円",
+      "月次VaR(95%)は-5.34%、幾何平均成長率は6.72%"
+    ],
+    "accumulation_strategy_analysis": "1株あたり約2,201円で購入でき、月1万円の枠で10年間積み立てると572株(元本約125万円)に達します。幾何平均成長率は6.72%、10年時の中央値評価額は303万4,848円と算出されます。極めて高い利回りを活かした配当再投資がトータルリターンに寄与しやすい構造です。",
+    "dividend_and_risk_commentary": "利回り9.54%は非常に高い水準ですが、特殊要因や一時的な株主還元方針が含まれる場合があるため、持続性の見極めが必要です。年率ボラティリティは19.93%、月次VaR(95%)は-5.34%と教育サービス関連として株価自体のブレは中程度となっています。",
+    "faqs": [
+      {
+        "question": "ナガセの配当利回りが9%を超えている理由は？",
+        "answer": "大幅な特別増配や利益還元の積極化などが背景にある場合があります。継続的な利回り水準かどうかIR開示の確認が重要です。"
+      },
+      {
+        "question": "新NISAでの積立に向いていますか？",
+        "answer": "配当利回りが高いため、新NISAの成長投資枠で非課税メリットを最大限に享受しやすい銘柄の一つです。"
+      }
+    ],
+    "is_ai_generated": true,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2201.0
+  }
+}

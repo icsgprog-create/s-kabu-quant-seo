@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3179",
+    "name": "シュッピン",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1046.0,
+    "min_s_kabu_yen": 1046,
+    "unit_lot_yen": 104600,
+    "dps_yen": 47.0,
+    "dividend_yield_pct": 4.49,
+    "raw_annual_return_pct": 2.4,
+    "capped_annual_return_pct": 2.4,
+    "geometric_growth_pct": -6.85,
+    "annual_volatility_pct": 42.99,
+    "max_drawdown_pct": -46.02,
+    "monthly_var_95_pct": -15.21,
+    "sharpe_ratio": -0.08,
+    "quant_score": 41.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 256,
+        "nisa_required_capital_yen": 267776,
+        "specific_required_shares": 321,
+        "specific_required_capital_yen": 335766
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1277,
+        "nisa_required_capital_yen": 1335742,
+        "specific_required_shares": 1603,
+        "specific_required_capital_yen": 1676738
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2554,
+        "nisa_required_capital_yen": 2671484,
+        "specific_required_shares": 3205,
+        "specific_required_capital_yen": 3352430
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7660,
+        "nisa_required_capital_yen": 8012360,
+        "specific_required_shares": 9613,
+        "specific_required_capital_yen": 10055198
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12766,
+        "nisa_required_capital_yen": 13353236,
+        "specific_required_shares": 16021,
+        "specific_required_capital_yen": 16757966
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118482,
+        "upper_90_yen": 175673,
+        "lower_10_yen": 81049
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 234208,
+        "upper_90_yen": 404727,
+        "lower_10_yen": 139760
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 347241,
+        "upper_90_yen": 676672,
+        "lower_10_yen": 186859
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 457644,
+        "upper_90_yen": 987994,
+        "lower_10_yen": 226081
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 565478,
+        "upper_90_yen": 1336860,
+        "lower_10_yen": 259459
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 670804,
+        "upper_90_yen": 1722170,
+        "lower_10_yen": 288282
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 773679,
+        "upper_90_yen": 2143204,
+        "lower_10_yen": 313443
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 874160,
+        "upper_90_yen": 2599470,
+        "lower_10_yen": 335590
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 972304,
+        "upper_90_yen": 3090616,
+        "lower_10_yen": 355216
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1068164,
+        "upper_90_yen": 3616385,
+        "lower_10_yen": 372705
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シュッピン(3179)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シュッピン(3179)を1株(1,046円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,046円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.99%、幾何成長率は-6.85%",
+      "新NISAで月1万円の配当金を得るには2,554株（約2,671,484円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シュッピンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,046円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,068,164円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり47.0円（利回り4.49%）です。月次95%VaR（最大想定損失率）は-15.21%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シュッピンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,046円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,554株（元本目安：約2,671,484円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1046.0
+  }
+}

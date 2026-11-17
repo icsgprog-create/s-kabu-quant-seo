@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8801",
+    "name": "三井不動産",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1589.0,
+    "min_s_kabu_yen": 1589,
+    "unit_lot_yen": 158900,
+    "dps_yen": 36.5,
+    "dividend_yield_pct": 2.3,
+    "raw_annual_return_pct": 14.58,
+    "capped_annual_return_pct": 14.58,
+    "geometric_growth_pct": 10.19,
+    "annual_volatility_pct": 29.62,
+    "max_drawdown_pct": -32.57,
+    "monthly_var_95_pct": -10.83,
+    "sharpe_ratio": 0.39,
+    "quant_score": 48.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 329,
+        "nisa_required_capital_yen": 522781,
+        "specific_required_shares": 413,
+        "specific_required_capital_yen": 656257
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 2612316,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 3278107
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3288,
+        "nisa_required_capital_yen": 5224632,
+        "specific_required_shares": 4126,
+        "specific_required_capital_yen": 6556214
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9864,
+        "nisa_required_capital_yen": 15673896,
+        "specific_required_shares": 12378,
+        "specific_required_capital_yen": 19668642
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16439,
+        "nisa_required_capital_yen": 26121571,
+        "specific_required_shares": 20630,
+        "specific_required_capital_yen": 32781070
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128482,
+        "upper_90_yen": 168858,
+        "lower_10_yen": 98412
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274057,
+        "upper_90_yen": 402193,
+        "lower_10_yen": 189413
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 438998,
+        "upper_90_yen": 704545,
+        "lower_10_yen": 279498
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 625881,
+        "upper_90_yen": 1086658,
+        "lower_10_yen": 370976
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 837627,
+        "upper_90_yen": 1562541,
+        "lower_10_yen": 465255
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1077541,
+        "upper_90_yen": 2149326,
+        "lower_10_yen": 563399
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1349372,
+        "upper_90_yen": 2867563,
+        "lower_10_yen": 666326
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1657366,
+        "upper_90_yen": 3741691,
+        "lower_10_yen": 774889
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2006334,
+        "upper_90_yen": 4800661,
+        "lower_10_yen": 889926
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2401725,
+        "upper_90_yen": 6078676,
+        "lower_10_yen": 1012290
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三井不動産(8801)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三井不動産(8801)を1株(1,589円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,589円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.62%、幾何成長率は10.19%",
+      "新NISAで月1万円の配当金を得るには3,288株（約5,224,632円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三井不動産は単元未満株（S株・かぶミニ等）を利用することで1株（約1,589円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,401,725円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.5円（利回り2.3%）です。月次95%VaR（最大想定損失率）は-10.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三井不動産は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,589円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,288株（元本目安：約5,224,632円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1589.0
+  }
+}

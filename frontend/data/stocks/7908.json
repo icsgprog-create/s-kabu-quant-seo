@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7908",
+    "name": "きもと",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 222.0,
+    "min_s_kabu_yen": 222,
+    "unit_lot_yen": 22200,
+    "dps_yen": 7.0,
+    "dividend_yield_pct": 3.15,
+    "raw_annual_return_pct": 2.62,
+    "capped_annual_return_pct": 2.62,
+    "geometric_growth_pct": -3.85,
+    "annual_volatility_pct": 35.96,
+    "max_drawdown_pct": -34.44,
+    "monthly_var_95_pct": -11.5,
+    "sharpe_ratio": -0.05,
+    "quant_score": 38.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 380730,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 477744
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 1902984,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 2388054
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 3805746,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 4776108
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 51429,
+        "nisa_required_capital_yen": 11417238,
+        "specific_required_shares": 64540,
+        "specific_required_capital_yen": 14327880
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 85715,
+        "nisa_required_capital_yen": 19028730,
+        "specific_required_shares": 107567,
+        "specific_required_capital_yen": 23879874
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119551,
+        "upper_90_yen": 166117,
+        "lower_10_yen": 86894
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238277,
+        "upper_90_yen": 376269,
+        "lower_10_yen": 154163
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 356183,
+        "upper_90_yen": 621995,
+        "lower_10_yen": 210836
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 473275,
+        "upper_90_yen": 900684,
+        "lower_10_yen": 260094
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 589560,
+        "upper_90_yen": 1211160,
+        "lower_10_yen": 303689
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 705042,
+        "upper_90_yen": 1552875,
+        "lower_10_yen": 342747
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 819726,
+        "upper_90_yen": 1925623,
+        "lower_10_yen": 378056
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 933619,
+        "upper_90_yen": 2329407,
+        "lower_10_yen": 410200
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1046726,
+        "upper_90_yen": 2764370,
+        "lower_10_yen": 439627
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1159053,
+        "upper_90_yen": 3230749,
+        "lower_10_yen": 466693
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "きもと(7908)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "きもと(7908)を1株(222円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小222円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.96%、幾何成長率は-3.85%",
+      "新NISAで月1万円の配当金を得るには17,143株（約3,805,746円）が必要"
+    ],
+    "accumulation_strategy_analysis": "きもとは単元未満株（S株・かぶミニ等）を利用することで1株（約222円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,159,053円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.0円（利回り3.15%）です。月次95%VaR（最大想定損失率）は-11.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "きもとは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約222円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、17,143株（元本目安：約3,805,746円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 222.0
+  }
+}

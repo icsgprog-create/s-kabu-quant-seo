@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3178",
+    "name": "チムニー",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1134.0,
+    "min_s_kabu_yen": 1134,
+    "unit_lot_yen": 113400,
+    "dps_yen": 7.0,
+    "dividend_yield_pct": 0.62,
+    "raw_annual_return_pct": -3.8,
+    "capped_annual_return_pct": -3.8,
+    "geometric_growth_pct": -5.48,
+    "annual_volatility_pct": 18.33,
+    "max_drawdown_pct": -32.03,
+    "monthly_var_95_pct": -9.64,
+    "sharpe_ratio": -0.32,
+    "quant_score": 31.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 1944810,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 2440368
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 9720648,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 12198438
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 19440162,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 24396876
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 51429,
+        "nisa_required_capital_yen": 58320486,
+        "specific_required_shares": 64540,
+        "specific_required_capital_yen": 73188360
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 85715,
+        "nisa_required_capital_yen": 97200810,
+        "specific_required_shares": 107567,
+        "specific_required_capital_yen": 121980978
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116891,
+        "upper_90_yen": 137985,
+        "lower_10_yen": 99278
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 228234,
+        "upper_90_yen": 286850,
+        "lower_10_yen": 182618
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 334290,
+        "upper_90_yen": 440994,
+        "lower_10_yen": 255622
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 435312,
+        "upper_90_yen": 598121,
+        "lower_10_yen": 320593
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 531538,
+        "upper_90_yen": 756831,
+        "lower_10_yen": 378950
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 623196,
+        "upper_90_yen": 916147,
+        "lower_10_yen": 431694
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 710503,
+        "upper_90_yen": 1075342,
+        "lower_10_yen": 479584
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 793665,
+        "upper_90_yen": 1233853,
+        "lower_10_yen": 523221
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 872879,
+        "upper_90_yen": 1391232,
+        "lower_10_yen": 563097
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 948333,
+        "upper_90_yen": 1547117,
+        "lower_10_yen": 599624
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "チムニー(3178)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "チムニー(3178)を1株(1,134円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,134円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.33%、幾何成長率は-5.48%",
+      "新NISAで月1万円の配当金を得るには17,143株（約19,440,162円）が必要"
+    ],
+    "accumulation_strategy_analysis": "チムニーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,134円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は948,333円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.0円（利回り0.62%）です。月次95%VaR（最大想定損失率）は-9.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "チムニーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,134円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、17,143株（元本目安：約19,440,162円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1134.0
+  }
+}

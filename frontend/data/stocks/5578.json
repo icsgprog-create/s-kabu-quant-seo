@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5578",
+    "name": "ＡＲアドバンストテクノロジ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 650.0,
+    "min_s_kabu_yen": 650,
+    "unit_lot_yen": 65000,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.54,
+    "raw_annual_return_pct": -17.28,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -33.92,
+    "annual_volatility_pct": 61.51,
+    "max_drawdown_pct": -73.8,
+    "monthly_var_95_pct": -26.99,
+    "sharpe_ratio": -0.54,
+    "quant_score": 12.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 780000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 978900
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3900000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 4894500
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 7800000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 9789000
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 23400000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 29365700
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 39000000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 48943050
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 101132,
+        "upper_90_yen": 175888,
+        "lower_10_yen": 59888
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 174291,
+        "upper_90_yen": 368901,
+        "lower_10_yen": 87853
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 227212,
+        "upper_90_yen": 553739,
+        "lower_10_yen": 103083
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 265496,
+        "upper_90_yen": 721669,
+        "lower_10_yen": 111842
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 293189,
+        "upper_90_yen": 869611,
+        "lower_10_yen": 117041
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 313222,
+        "upper_90_yen": 997249,
+        "lower_10_yen": 120192
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 327714,
+        "upper_90_yen": 1105691,
+        "lower_10_yen": 122133
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 338198,
+        "upper_90_yen": 1196730,
+        "lower_10_yen": 123342
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 345781,
+        "upper_90_yen": 1272427,
+        "lower_10_yen": 124103
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 351267,
+        "upper_90_yen": 1334868,
+        "lower_10_yen": 124586
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＡＲアドバンストテクノロジ(5578)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＡＲアドバンストテクノロジ(5578)を1株(650円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小650円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは61.51%、幾何成長率は-33.92%",
+      "新NISAで月1万円の配当金を得るには12,000株（約7,800,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＡＲアドバンストテクノロジは単元未満株（S株・かぶミニ等）を利用することで1株（約650円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は351,267円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.54%）です。月次95%VaR（最大想定損失率）は-26.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＡＲアドバンストテクノロジは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約650円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約7,800,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 650.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6850",
+    "name": "チノー",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1756.0,
+    "min_s_kabu_yen": 1756,
+    "unit_lot_yen": 175600,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 2.85,
+    "raw_annual_return_pct": 20.04,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.7,
+    "annual_volatility_pct": 29.33,
+    "max_drawdown_pct": -40.46,
+    "monthly_var_95_pct": -9.77,
+    "sharpe_ratio": 0.6,
+    "quant_score": 58.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 421440,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 530312
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2107200,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 2644536
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 4214400,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 5289072
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 12643200,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 15867216
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 21072000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 26445360
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132871,
+        "upper_90_yen": 174387,
+        "lower_10_yen": 101896
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 292819,
+        "upper_90_yen": 429761,
+        "lower_10_yen": 202268
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 485362,
+        "upper_90_yen": 780809,
+        "lower_10_yen": 307996
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 717142,
+        "upper_90_yen": 1251617,
+        "lower_10_yen": 422197
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 996156,
+        "upper_90_yen": 1873957,
+        "lower_10_yen": 547367
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1332029,
+        "upper_90_yen": 2688535,
+        "lower_10_yen": 685930
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1736347,
+        "upper_90_yen": 3747014,
+        "lower_10_yen": 840440
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2223060,
+        "upper_90_yen": 5114674,
+        "lower_10_yen": 1013715
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2808957,
+        "upper_90_yen": 6873801,
+        "lower_10_yen": 1208921
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3514252,
+        "upper_90_yen": 9127922,
+        "lower_10_yen": 1429669
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "チノー(6850)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "チノー(6850)を1株(1,756円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,756円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.33%、幾何成長率は15.7%",
+      "新NISAで月1万円の配当金を得るには2,400株（約4,214,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "チノーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,756円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,514,252円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り2.85%）です。月次95%VaR（最大想定損失率）は-9.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "チノーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,756円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約4,214,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1756.0
+  }
+}

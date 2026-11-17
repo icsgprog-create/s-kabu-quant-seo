@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3539",
+    "name": "ＪＭホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1658.0,
+    "min_s_kabu_yen": 1658,
+    "unit_lot_yen": 165800,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 1.51,
+    "raw_annual_return_pct": 13.95,
+    "capped_annual_return_pct": 13.95,
+    "geometric_growth_pct": 11.0,
+    "annual_volatility_pct": 24.28,
+    "max_drawdown_pct": -34.15,
+    "monthly_var_95_pct": -10.4,
+    "sharpe_ratio": 0.47,
+    "quant_score": 49.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 795840,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 999774
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 3979200,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 4993896
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 7958400,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 9987792
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 23875200,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 29963376
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 39792000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 49937302
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128494,
+        "upper_90_yen": 160680,
+        "lower_10_yen": 103215
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274107,
+        "upper_90_yen": 375018,
+        "lower_10_yen": 202269
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 439119,
+        "upper_90_yen": 646176,
+        "lower_10_yen": 302766
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 626114,
+        "upper_90_yen": 982250,
+        "lower_10_yen": 406871
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 838022,
+        "upper_90_yen": 1393797,
+        "lower_10_yen": 516032
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1078161,
+        "upper_90_yen": 1893664,
+        "lower_10_yen": 631438
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1350293,
+        "upper_90_yen": 2497155,
+        "lower_10_yen": 754187
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1658679,
+        "upper_90_yen": 3222350,
+        "lower_10_yen": 885362
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2008150,
+        "upper_90_yen": 4090507,
+        "lower_10_yen": 1026072
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2404178,
+        "upper_90_yen": 5126566,
+        "lower_10_yen": 1177484
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＪＭホールディングス(3539)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＪＭホールディングス(3539)を1株(1,658円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,658円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.28%、幾何成長率は11.0%",
+      "新NISAで月1万円の配当金を得るには4,800株（約7,958,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＪＭホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,658円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,404,178円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り1.51%）です。月次95%VaR（最大想定損失率）は-10.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＪＭホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,658円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約7,958,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1658.0
+  }
+}

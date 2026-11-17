@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9051",
+    "name": "センコン物流",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1180.0,
+    "min_s_kabu_yen": 1180,
+    "unit_lot_yen": 118000,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 1.27,
+    "raw_annual_return_pct": 9.85,
+    "capped_annual_return_pct": 9.85,
+    "geometric_growth_pct": 7.12,
+    "annual_volatility_pct": 23.34,
+    "max_drawdown_pct": -33.86,
+    "monthly_var_95_pct": -13.64,
+    "sharpe_ratio": 0.32,
+    "quant_score": 44.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 944000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 1184720
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 4720000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 5923600
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 9440000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 11847200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 28320000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 35540420
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 47200000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 59233640
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125618,
+        "upper_90_yen": 155601,
+        "lower_10_yen": 101832
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262232,
+        "upper_90_yen": 353622,
+        "lower_10_yen": 196198
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 410808,
+        "upper_90_yen": 593042,
+        "lower_10_yen": 288466
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 572390,
+        "upper_90_yen": 876848,
+        "lower_10_yen": 380509
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 748118,
+        "upper_90_yen": 1209392,
+        "lower_10_yen": 473408
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 939231,
+        "upper_90_yen": 1595992,
+        "lower_10_yen": 567915
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1147074,
+        "upper_90_yen": 2042834,
+        "lower_10_yen": 664619
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1373114,
+        "upper_90_yen": 2556984,
+        "lower_10_yen": 764019
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1618943,
+        "upper_90_yen": 3146436,
+        "lower_10_yen": 866563
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1886293,
+        "upper_90_yen": 3820189,
+        "lower_10_yen": 972670
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "センコン物流(9051)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "センコン物流(9051)を1株(1,180円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,180円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.34%、幾何成長率は7.12%",
+      "新NISAで月1万円の配当金を得るには8,000株（約9,440,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "センコン物流は単元未満株（S株・かぶミニ等）を利用することで1株（約1,180円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,886,293円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り1.27%）です。月次95%VaR（最大想定損失率）は-13.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "センコン物流は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,180円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約9,440,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1180.0
+  }
+}

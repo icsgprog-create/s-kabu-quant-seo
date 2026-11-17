@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4430",
+    "name": "東海ソフト",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1646.0,
+    "min_s_kabu_yen": 1646,
+    "unit_lot_yen": 164600,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 3.95,
+    "raw_annual_return_pct": 10.48,
+    "capped_annual_return_pct": 10.48,
+    "geometric_growth_pct": 7.28,
+    "annual_volatility_pct": 25.3,
+    "max_drawdown_pct": -26.78,
+    "monthly_var_95_pct": -7.83,
+    "sharpe_ratio": 0.4,
+    "quant_score": 66.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 304510,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 381872
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 1520904,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 1907714
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 3040162,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 3813782
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 9117194,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 11441346
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 15194226,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 19068910
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127594,
+        "upper_90_yen": 161029,
+        "lower_10_yen": 101593
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 270355,
+        "upper_90_yen": 374572,
+        "lower_10_yen": 197169
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 430085,
+        "upper_90_yen": 642540,
+        "lower_10_yen": 292464
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 608803,
+        "upper_90_yen": 971686,
+        "lower_10_yen": 389562
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 808764,
+        "upper_90_yen": 1370941,
+        "lower_10_yen": 489758
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1032494,
+        "upper_90_yen": 1851128,
+        "lower_10_yen": 594040
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1282819,
+        "upper_90_yen": 2425037,
+        "lower_10_yen": 703261
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1562899,
+        "upper_90_yen": 3107623,
+        "lower_10_yen": 818218
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1876272,
+        "upper_90_yen": 3916276,
+        "lower_10_yen": 939689
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2226896,
+        "upper_90_yen": 4871164,
+        "lower_10_yen": 1068463
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東海ソフト(4430)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東海ソフト(4430)を1株(1,646円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,646円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.3%、幾何成長率は7.28%",
+      "新NISAで月1万円の配当金を得るには1,847株（約3,040,162円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東海ソフトは単元未満株（S株・かぶミニ等）を利用することで1株（約1,646円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,226,896円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり65.0円（利回り3.95%）です。月次95%VaR（最大想定損失率）は-7.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東海ソフトは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,646円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,847株（元本目安：約3,040,162円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1646.0
+  }
+}

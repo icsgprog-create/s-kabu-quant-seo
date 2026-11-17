@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6071",
+    "name": "ＩＢＪ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1027.0,
+    "min_s_kabu_yen": 1027,
+    "unit_lot_yen": 102700,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 0.97,
+    "raw_annual_return_pct": -1.01,
+    "capped_annual_return_pct": -1.01,
+    "geometric_growth_pct": -8.63,
+    "annual_volatility_pct": 39.06,
+    "max_drawdown_pct": -58.12,
+    "monthly_var_95_pct": -17.07,
+    "sharpe_ratio": -0.22,
+    "quant_score": 13.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1232400,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1546662
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 6162000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 7733310
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 12324000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 15466620
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 36972000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 46397806
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 61620000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 77330019
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115150,
+        "upper_90_yen": 164329,
+        "lower_10_yen": 81641
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 221808,
+        "upper_90_yen": 362437,
+        "lower_10_yen": 139260
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 320599,
+        "upper_90_yen": 581594,
+        "lower_10_yen": 183885
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 412104,
+        "upper_90_yen": 816115,
+        "lower_10_yen": 219641
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 496861,
+        "upper_90_yen": 1062242,
+        "lower_10_yen": 248861
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 575367,
+        "upper_90_yen": 1317161,
+        "lower_10_yen": 273061
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 648083,
+        "upper_90_yen": 1578630,
+        "lower_10_yen": 293300
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 715436,
+        "upper_90_yen": 1844799,
+        "lower_10_yen": 310355
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 777822,
+        "upper_90_yen": 2114108,
+        "lower_10_yen": 324815
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 835606,
+        "upper_90_yen": 2385222,
+        "lower_10_yen": 337138
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＩＢＪ(6071)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＩＢＪ(6071)を1株(1,027円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,027円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.06%、幾何成長率は-8.63%",
+      "新NISAで月1万円の配当金を得るには12,000株（約12,324,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＩＢＪは単元未満株（S株・かぶミニ等）を利用することで1株（約1,027円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は835,606円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り0.97%）です。月次95%VaR（最大想定損失率）は-17.07%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＩＢＪは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,027円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約12,324,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1027.0
+  }
+}

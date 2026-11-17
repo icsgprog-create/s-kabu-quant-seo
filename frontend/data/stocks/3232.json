@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3232",
+    "name": "三重交通グループホールディングス",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 571.0,
+    "min_s_kabu_yen": 571,
+    "unit_lot_yen": 57100,
+    "dps_yen": 21.0,
+    "dividend_yield_pct": 3.68,
+    "raw_annual_return_pct": 6.47,
+    "capped_annual_return_pct": 6.47,
+    "geometric_growth_pct": 4.2,
+    "annual_volatility_pct": 21.31,
+    "max_drawdown_pct": -27.84,
+    "monthly_var_95_pct": -6.96,
+    "sharpe_ratio": 0.32,
+    "quant_score": 66.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 572,
+        "nisa_required_capital_yen": 326612,
+        "specific_required_shares": 718,
+        "specific_required_capital_yen": 409978
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 1631918,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 2047606
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5715,
+        "nisa_required_capital_yen": 3263265,
+        "specific_required_shares": 7172,
+        "specific_required_capital_yen": 4095212
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 9788653,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 12284494
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 28572,
+        "nisa_required_capital_yen": 16314612,
+        "specific_required_shares": 35856,
+        "specific_required_capital_yen": 20473776
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125261,
+        "upper_90_yen": 152253,
+        "lower_10_yen": 103410
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260784,
+        "upper_90_yen": 342417,
+        "lower_10_yen": 200091
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 407410,
+        "upper_90_yen": 569054,
+        "lower_10_yen": 295011
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 566049,
+        "upper_90_yen": 834321,
+        "lower_10_yen": 389923
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 737683,
+        "upper_90_yen": 1141537,
+        "lower_10_yen": 485844
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 923380,
+        "upper_90_yen": 1494786,
+        "lower_10_yen": 583488
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1124289,
+        "upper_90_yen": 1898821,
+        "lower_10_yen": 683416
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1341658,
+        "upper_90_yen": 2359047,
+        "lower_10_yen": 786102
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1576835,
+        "upper_90_yen": 2881543,
+        "lower_10_yen": 891975
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1831279,
+        "upper_90_yen": 3473107,
+        "lower_10_yen": 1001435
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三重交通グループホールディングス(3232)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三重交通グループホールディングス(3232)を1株(571円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小571円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.31%、幾何成長率は4.2%",
+      "新NISAで月1万円の配当金を得るには5,715株（約3,263,265円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三重交通グループホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約571円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,831,279円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり21.0円（利回り3.68%）です。月次95%VaR（最大想定損失率）は-6.96%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三重交通グループホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約571円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,715株（元本目安：約3,263,265円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 571.0
+  }
+}

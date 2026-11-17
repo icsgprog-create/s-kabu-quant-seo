@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5527",
+    "name": "ｐｒｏｐｅｒｔｙ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 841.0,
+    "min_s_kabu_yen": 841,
+    "unit_lot_yen": 84100,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 2.97,
+    "raw_annual_return_pct": -6.8,
+    "capped_annual_return_pct": -6.8,
+    "geometric_growth_pct": -17.18,
+    "annual_volatility_pct": 45.56,
+    "max_drawdown_pct": -81.85,
+    "monthly_var_95_pct": -23.45,
+    "sharpe_ratio": -0.33,
+    "quant_score": 23.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 403680,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 507123
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 2018400,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 2533092
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 4036800,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 5066184
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 12110400,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 15198552
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 20184000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 25330079
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111206,
+        "upper_90_yen": 168172,
+        "lower_10_yen": 74724
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 207688,
+        "upper_90_yen": 366637,
+        "lower_10_yen": 121847
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 291393,
+        "upper_90_yen": 578485,
+        "lower_10_yen": 155013
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 364016,
+        "upper_90_yen": 796011,
+        "lower_10_yen": 179307
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 427022,
+        "upper_90_yen": 1014349,
+        "lower_10_yen": 197517
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 481685,
+        "upper_90_yen": 1230149,
+        "lower_10_yen": 211381
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 529110,
+        "upper_90_yen": 1441032,
+        "lower_10_yen": 222058
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 570255,
+        "upper_90_yen": 1645301,
+        "lower_10_yen": 230353
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 605952,
+        "upper_90_yen": 1841762,
+        "lower_10_yen": 236845
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 636922,
+        "upper_90_yen": 2029604,
+        "lower_10_yen": 241955
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ｐｒｏｐｅｒｔｙ　ｔｅｃｈｎｏｌｏｇｉｅｓ(5527)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ｐｒｏｐｅｒｔｙ　ｔｅｃｈｎｏｌｏｇｉｅｓ(5527)を1株(841円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小841円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.56%、幾何成長率は-17.18%",
+      "新NISAで月1万円の配当金を得るには4,800株（約4,036,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ｐｒｏｐｅｒｔｙ　ｔｅｃｈｎｏｌｏｇｉｅｓは単元未満株（S株・かぶミニ等）を利用することで1株（約841円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は636,922円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り2.97%）です。月次95%VaR（最大想定損失率）は-23.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ｐｒｏｐｅｒｔｙ　ｔｅｃｈｎｏｌｏｇｉｅｓは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約841円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約4,036,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 841.0
+  }
+}

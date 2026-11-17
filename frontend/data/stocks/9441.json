@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9441",
+    "name": "ベルパーク",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2986.0,
+    "min_s_kabu_yen": 2986,
+    "unit_lot_yen": 298600,
+    "dps_yen": 116.0,
+    "dividend_yield_pct": 3.88,
+    "raw_annual_return_pct": 4.96,
+    "capped_annual_return_pct": 4.96,
+    "geometric_growth_pct": 2.98,
+    "annual_volatility_pct": 19.91,
+    "max_drawdown_pct": -42.23,
+    "monthly_var_95_pct": -10.27,
+    "sharpe_ratio": 0.29,
+    "quant_score": 68.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 104,
+        "nisa_required_capital_yen": 310544,
+        "specific_required_shares": 130,
+        "specific_required_capital_yen": 388180
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 518,
+        "nisa_required_capital_yen": 1546748,
+        "specific_required_shares": 650,
+        "specific_required_capital_yen": 1940900
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1035,
+        "nisa_required_capital_yen": 3090510,
+        "specific_required_shares": 1299,
+        "specific_required_capital_yen": 3878814
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3104,
+        "nisa_required_capital_yen": 9268544,
+        "specific_required_shares": 3895,
+        "specific_required_capital_yen": 11630470
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5173,
+        "nisa_required_capital_yen": 15446578,
+        "specific_required_shares": 6492,
+        "specific_required_capital_yen": 19385112
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124568,
+        "upper_90_yen": 149450,
+        "lower_10_yen": 104142
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 257981,
+        "upper_90_yen": 332526,
+        "lower_10_yen": 201451
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 400869,
+        "upper_90_yen": 547160,
+        "lower_10_yen": 296627
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 553905,
+        "upper_90_yen": 794572,
+        "lower_10_yen": 391322
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 717808,
+        "upper_90_yen": 1076961,
+        "lower_10_yen": 486482
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 893351,
+        "upper_90_yen": 1397112,
+        "lower_10_yen": 582758
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1081359,
+        "upper_90_yen": 1758283,
+        "lower_10_yen": 680646
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1282720,
+        "upper_90_yen": 2164167,
+        "lower_10_yen": 780560
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1498379,
+        "upper_90_yen": 2618886,
+        "lower_10_yen": 882857
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1729354,
+        "upper_90_yen": 3127012,
+        "lower_10_yen": 987864
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ベルパーク(9441)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ベルパーク(9441)を1株(2,986円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,986円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.91%、幾何成長率は2.98%",
+      "新NISAで月1万円の配当金を得るには1,035株（約3,090,510円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ベルパークは単元未満株（S株・かぶミニ等）を利用することで1株（約2,986円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,729,354円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり116.0円（利回り3.88%）です。月次95%VaR（最大想定損失率）は-10.27%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ベルパークは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,986円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,035株（元本目安：約3,090,510円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2986.0
+  }
+}

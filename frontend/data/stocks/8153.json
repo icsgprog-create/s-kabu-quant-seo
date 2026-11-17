@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8153",
+    "name": "モスフードサービス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4725.0,
+    "min_s_kabu_yen": 4725,
+    "unit_lot_yen": 472500,
+    "dps_yen": 36.0,
+    "dividend_yield_pct": 0.76,
+    "raw_annual_return_pct": 9.41,
+    "capped_annual_return_pct": 9.41,
+    "geometric_growth_pct": 8.25,
+    "annual_volatility_pct": 15.2,
+    "max_drawdown_pct": -21.14,
+    "monthly_var_95_pct": -6.0,
+    "sharpe_ratio": 0.53,
+    "quant_score": 54.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 334,
+        "nisa_required_capital_yen": 1578150,
+        "specific_required_shares": 419,
+        "specific_required_capital_yen": 1979775
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1667,
+        "nisa_required_capital_yen": 7876575,
+        "specific_required_shares": 2092,
+        "specific_required_capital_yen": 9884700
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 15753150,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 19769400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 47250000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 59298750
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16667,
+        "nisa_required_capital_yen": 78751575,
+        "specific_required_shares": 20916,
+        "specific_required_capital_yen": 98828100
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126046,
+        "upper_90_yen": 144850,
+        "lower_10_yen": 109875
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 263978,
+        "upper_90_yen": 320498,
+        "lower_10_yen": 218247
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 414919,
+        "upper_90_yen": 526453,
+        "lower_10_yen": 328904
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 580095,
+        "upper_90_yen": 764844,
+        "lower_10_yen": 443376
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 760849,
+        "upper_90_yen": 1038705,
+        "lower_10_yen": 562697
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 958649,
+        "upper_90_yen": 1351701,
+        "lower_10_yen": 687716
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1175103,
+        "upper_90_yen": 1708076,
+        "lower_10_yen": 819201
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1411971,
+        "upper_90_yen": 2112653,
+        "lower_10_yen": 957895
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1671177,
+        "upper_90_yen": 2570865,
+        "lower_10_yen": 1104538
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1954828,
+        "upper_90_yen": 3088807,
+        "lower_10_yen": 1259893
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "モスフードサービス(8153)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "モスフードサービス(8153)を1株(4,725円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,725円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは15.2%、幾何成長率は8.25%",
+      "新NISAで月1万円の配当金を得るには3,334株（約15,753,150円）が必要"
+    ],
+    "accumulation_strategy_analysis": "モスフードサービスは単元未満株（S株・かぶミニ等）を利用することで1株（約4,725円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,954,828円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.0円（利回り0.76%）です。月次95%VaR（最大想定損失率）は-6.0%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "モスフードサービスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,725円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,334株（元本目安：約15,753,150円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4725.0
+  }
+}

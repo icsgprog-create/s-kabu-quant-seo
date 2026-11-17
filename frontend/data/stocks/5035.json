@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5035",
+    "name": "ＨＯＵＳＥＩ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 250.0,
+    "min_s_kabu_yen": 250,
+    "unit_lot_yen": 25000,
+    "dps_yen": 3.0,
+    "dividend_yield_pct": 1.2,
+    "raw_annual_return_pct": -18.74,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -28.57,
+    "annual_volatility_pct": 52.1,
+    "max_drawdown_pct": -83.02,
+    "monthly_var_95_pct": -19.93,
+    "sharpe_ratio": -0.54,
+    "quant_score": 9.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 1000000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 1255000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 5000000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 6274750
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 10000000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 12549500
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 30000000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 37648250
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 200000,
+        "nisa_required_capital_yen": 50000000,
+        "specific_required_shares": 250989,
+        "specific_required_capital_yen": 62747250
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 103784,
+        "upper_90_yen": 165881,
+        "lower_10_yen": 66318
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 182716,
+        "upper_90_yen": 345509,
+        "lower_10_yen": 101213
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 242745,
+        "upper_90_yen": 518758,
+        "lower_10_yen": 122089
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 288399,
+        "upper_90_yen": 678565,
+        "lower_10_yen": 135166
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 323121,
+        "upper_90_yen": 822179,
+        "lower_10_yen": 143578
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 349528,
+        "upper_90_yen": 948978,
+        "lower_10_yen": 149086
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 369611,
+        "upper_90_yen": 1059483,
+        "lower_10_yen": 152741
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 384885,
+        "upper_90_yen": 1154818,
+        "lower_10_yen": 155191
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 396501,
+        "upper_90_yen": 1236400,
+        "lower_10_yen": 156847
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 405335,
+        "upper_90_yen": 1305743,
+        "lower_10_yen": 157974
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＨＯＵＳＥＩ(5035)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＨＯＵＳＥＩ(5035)を1株(250円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小250円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは52.1%、幾何成長率は-28.57%",
+      "新NISAで月1万円の配当金を得るには40,000株（約10,000,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＨＯＵＳＥＩは単元未満株（S株・かぶミニ等）を利用することで1株（約250円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は405,335円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり3.0円（利回り1.2%）です。月次95%VaR（最大想定損失率）は-19.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＨＯＵＳＥＩは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約250円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、40,000株（元本目安：約10,000,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 250.0
+  }
+}

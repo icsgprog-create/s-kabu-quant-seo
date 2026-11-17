@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4558",
+    "name": "中京医薬品",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 191.0,
+    "min_s_kabu_yen": 191,
+    "unit_lot_yen": 19100,
+    "dps_yen": 5.0,
+    "dividend_yield_pct": 2.62,
+    "raw_annual_return_pct": -3.96,
+    "capped_annual_return_pct": -3.96,
+    "geometric_growth_pct": -8.93,
+    "annual_volatility_pct": 31.52,
+    "max_drawdown_pct": -46.61,
+    "monthly_var_95_pct": -7.03,
+    "sharpe_ratio": -0.23,
+    "quant_score": 34.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 458400,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 575292
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 2292000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 2876460
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 4584000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 5752729
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 72000,
+        "nisa_required_capital_yen": 13752000,
+        "specific_required_shares": 90356,
+        "specific_required_capital_yen": 17257996
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 22920000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 28763263
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115987,
+        "upper_90_yen": 154457,
+        "lower_10_yen": 87766
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 224881,
+        "upper_90_yen": 333920,
+        "lower_10_yen": 153988
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 327116,
+        "upper_90_yen": 528385,
+        "lower_10_yen": 207807
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 423099,
+        "upper_90_yen": 733521,
+        "lower_10_yen": 252761
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 513213,
+        "upper_90_yen": 946543,
+        "lower_10_yen": 290910
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 597816,
+        "upper_90_yen": 1165406,
+        "lower_10_yen": 323634
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 677246,
+        "upper_90_yen": 1388512,
+        "lower_10_yen": 351927
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 751818,
+        "upper_90_yen": 1614561,
+        "lower_10_yen": 376539
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 821830,
+        "upper_90_yen": 1842469,
+        "lower_10_yen": 398054
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 887561,
+        "upper_90_yen": 2071318,
+        "lower_10_yen": 416941
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "中京医薬品(4558)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "中京医薬品(4558)を1株(191円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小191円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.52%、幾何成長率は-8.93%",
+      "新NISAで月1万円の配当金を得るには24,000株（約4,584,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "中京医薬品は単元未満株（S株・かぶミニ等）を利用することで1株（約191円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は887,561円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.0円（利回り2.62%）です。月次95%VaR（最大想定損失率）は-7.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "中京医薬品は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約191円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、24,000株（元本目安：約4,584,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 191.0
+  }
+}

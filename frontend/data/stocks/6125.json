@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6125",
+    "name": "岡本工作機械製作所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4020.0,
+    "min_s_kabu_yen": 4020,
+    "unit_lot_yen": 402000,
+    "dps_yen": 160.0,
+    "dividend_yield_pct": 3.98,
+    "raw_annual_return_pct": -3.59,
+    "capped_annual_return_pct": -3.59,
+    "geometric_growth_pct": -12.22,
+    "annual_volatility_pct": 41.55,
+    "max_drawdown_pct": -54.33,
+    "monthly_var_95_pct": -17.4,
+    "sharpe_ratio": -0.22,
+    "quant_score": 35.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 75,
+        "nisa_required_capital_yen": 301500,
+        "specific_required_shares": 95,
+        "specific_required_capital_yen": 381900
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 1507500,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 1893420
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 3015000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 3786840
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2250,
+        "nisa_required_capital_yen": 9045000,
+        "specific_required_shares": 2824,
+        "specific_required_capital_yen": 11352480
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 15075000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 18922140
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114793,
+        "upper_90_yen": 167608,
+        "lower_10_yen": 79670
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 220503,
+        "upper_90_yen": 371864,
+        "lower_10_yen": 134592
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 317850,
+        "upper_90_yen": 599065,
+        "lower_10_yen": 176399
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 407495,
+        "upper_90_yen": 843019,
+        "lower_10_yen": 209395
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 490048,
+        "upper_90_yen": 1099596,
+        "lower_10_yen": 235991
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 566070,
+        "upper_90_yen": 1365687,
+        "lower_10_yen": 257733
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 636076,
+        "upper_90_yen": 1638804,
+        "lower_10_yen": 275694
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 700544,
+        "upper_90_yen": 1916887,
+        "lower_10_yen": 290651
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 759912,
+        "upper_90_yen": 2198201,
+        "lower_10_yen": 303188
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 814583,
+        "upper_90_yen": 2481259,
+        "lower_10_yen": 313754
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "岡本工作機械製作所(6125)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "岡本工作機械製作所(6125)を1株(4,020円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,020円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.55%、幾何成長率は-12.22%",
+      "新NISAで月1万円の配当金を得るには750株（約3,015,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "岡本工作機械製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約4,020円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は814,583円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり160.0円（利回り3.98%）です。月次95%VaR（最大想定損失率）は-17.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "岡本工作機械製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,020円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、750株（元本目安：約3,015,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4020.0
+  }
+}

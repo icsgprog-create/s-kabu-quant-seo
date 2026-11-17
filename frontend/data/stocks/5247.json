@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5247",
+    "name": "ＢＴＭ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 480.0,
+    "min_s_kabu_yen": 480,
+    "unit_lot_yen": 48000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -16.94,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -46.39,
+    "annual_volatility_pct": 79.24,
+    "max_drawdown_pct": -86.48,
+    "monthly_var_95_pct": -28.99,
+    "sharpe_ratio": -0.6,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 94168,
+        "upper_90_yen": 191446,
+        "lower_10_yen": 48648
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 153380,
+        "upper_90_yen": 397398,
+        "lower_10_yen": 65912
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 190612,
+        "upper_90_yen": 583355,
+        "lower_10_yen": 73430
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 214024,
+        "upper_90_yen": 740224,
+        "lower_10_yen": 76945
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 228745,
+        "upper_90_yen": 867398,
+        "lower_10_yen": 78657
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 238002,
+        "upper_90_yen": 967756,
+        "lower_10_yen": 79514
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 243822,
+        "upper_90_yen": 1045397,
+        "lower_10_yen": 79952
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 247482,
+        "upper_90_yen": 1104544,
+        "lower_10_yen": 80179
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 249784,
+        "upper_90_yen": 1149048,
+        "lower_10_yen": 80298
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 251231,
+        "upper_90_yen": 1182191,
+        "lower_10_yen": 80362
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＢＴＭ(5247)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＢＴＭ(5247)を1株(480円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小480円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは79.24%、幾何成長率は-46.39%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＢＴＭは単元未満株（S株・かぶミニ等）を利用することで1株（約480円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は251,231円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-28.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＢＴＭは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約480円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 480.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4707",
+    "name": "キタック",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 315.0,
+    "min_s_kabu_yen": 315,
+    "unit_lot_yen": 31500,
+    "dps_yen": 7.0,
+    "dividend_yield_pct": 2.22,
+    "raw_annual_return_pct": 0.31,
+    "capped_annual_return_pct": 0.31,
+    "geometric_growth_pct": -7.63,
+    "annual_volatility_pct": 39.85,
+    "max_drawdown_pct": -46.24,
+    "monthly_var_95_pct": -14.56,
+    "sharpe_ratio": -0.16,
+    "quant_score": 23.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 540225,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 677880
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 2700180,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 3388455
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 5400045,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 6776910
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 51429,
+        "nisa_required_capital_yen": 16200135,
+        "specific_required_shares": 64540,
+        "specific_required_capital_yen": 20330100
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 85715,
+        "nisa_required_capital_yen": 27000225,
+        "specific_required_shares": 107567,
+        "specific_required_capital_yen": 33883605
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116548,
+        "upper_90_yen": 167659,
+        "lower_10_yen": 82012
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 226958,
+        "upper_90_yen": 375403,
+        "lower_10_yen": 140900
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 331552,
+        "upper_90_yen": 611272,
+        "lower_10_yen": 187381
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 430637,
+        "upper_90_yen": 870161,
+        "lower_10_yen": 225363
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 524504,
+        "upper_90_yen": 1148738,
+        "lower_10_yen": 257029
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 613427,
+        "upper_90_yen": 1444494,
+        "lower_10_yen": 283790
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 697666,
+        "upper_90_yen": 1755386,
+        "lower_10_yen": 306635
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 777468,
+        "upper_90_yen": 2079684,
+        "lower_10_yen": 326286
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 853067,
+        "upper_90_yen": 2415870,
+        "lower_10_yen": 343297
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 924684,
+        "upper_90_yen": 2762593,
+        "lower_10_yen": 358098
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "キタック(4707)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "キタック(4707)を1株(315円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小315円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.85%、幾何成長率は-7.63%",
+      "新NISAで月1万円の配当金を得るには17,143株（約5,400,045円）が必要"
+    ],
+    "accumulation_strategy_analysis": "キタックは単元未満株（S株・かぶミニ等）を利用することで1株（約315円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は924,684円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.0円（利回り2.22%）です。月次95%VaR（最大想定損失率）は-14.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "キタックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約315円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、17,143株（元本目安：約5,400,045円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 315.0
+  }
+}

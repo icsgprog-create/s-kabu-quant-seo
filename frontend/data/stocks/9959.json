@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9959",
+    "name": "アシードホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 864.0,
+    "min_s_kabu_yen": 864,
+    "unit_lot_yen": 86400,
+    "dps_yen": 24.0,
+    "dividend_yield_pct": 2.78,
+    "raw_annual_return_pct": 13.27,
+    "capped_annual_return_pct": 13.27,
+    "geometric_growth_pct": 10.3,
+    "annual_volatility_pct": 24.4,
+    "max_drawdown_pct": -33.31,
+    "monthly_var_95_pct": -6.88,
+    "sharpe_ratio": 0.49,
+    "quant_score": 60.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 432000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 542592
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 2160000,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 2711232
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 4320000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 5421600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 12960000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 16264800
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 25000,
+        "nisa_required_capital_yen": 21600000,
+        "specific_required_shares": 31374,
+        "specific_required_capital_yen": 27107136
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128898,
+        "upper_90_yen": 161379,
+        "lower_10_yen": 103419
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275800,
+        "upper_90_yen": 378036,
+        "lower_10_yen": 203158
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 443222,
+        "upper_90_yen": 653833,
+        "lower_10_yen": 304872
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 634030,
+        "upper_90_yen": 997751,
+        "lower_10_yen": 410793
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 851490,
+        "upper_90_yen": 1421461,
+        "lower_10_yen": 522449
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1099324,
+        "upper_90_yen": 1939206,
+        "lower_10_yen": 641127
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1381776,
+        "upper_90_yen": 2568034,
+        "lower_10_yen": 768035
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1703682,
+        "upper_90_yen": 3328196,
+        "lower_10_yen": 904389
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2070551,
+        "upper_90_yen": 4243641,
+        "lower_10_yen": 1051449
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2488665,
+        "upper_90_yen": 5342632,
+        "lower_10_yen": 1210555
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アシードホールディングス(9959)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アシードホールディングス(9959)を1株(864円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小864円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.4%、幾何成長率は10.3%",
+      "新NISAで月1万円の配当金を得るには5,000株（約4,320,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アシードホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約864円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,488,665円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり24.0円（利回り2.78%）です。月次95%VaR（最大想定損失率）は-6.88%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アシードホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約864円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,000株（元本目安：約4,320,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 864.0
+  }
+}

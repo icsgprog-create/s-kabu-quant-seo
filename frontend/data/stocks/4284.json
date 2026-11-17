@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4284",
+    "name": "ソルクシーズ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 406.0,
+    "min_s_kabu_yen": 406,
+    "unit_lot_yen": 40600,
+    "dps_yen": 14.0,
+    "dividend_yield_pct": 3.45,
+    "raw_annual_return_pct": -0.48,
+    "capped_annual_return_pct": -0.48,
+    "geometric_growth_pct": -4.44,
+    "annual_volatility_pct": 28.15,
+    "max_drawdown_pct": -43.14,
+    "monthly_var_95_pct": -11.16,
+    "sharpe_ratio": -0.07,
+    "quant_score": 47.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 348348,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 436856
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 1740116,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 2183874
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 3480232,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 4367342
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 25715,
+        "nisa_required_capital_yen": 10440290,
+        "specific_required_shares": 32270,
+        "specific_required_capital_yen": 13101620
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 17400348,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 21836304
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119358,
+        "upper_90_yen": 154279,
+        "lower_10_yen": 92904
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 237540,
+        "upper_90_yen": 339020,
+        "lower_10_yen": 168642
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 354558,
+        "upper_90_yen": 546908,
+        "lower_10_yen": 234579
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 470422,
+        "upper_90_yen": 775310,
+        "lower_10_yen": 293400
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 585144,
+        "upper_90_yen": 1022760,
+        "lower_10_yen": 346619
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 698736,
+        "upper_90_yen": 1288306,
+        "lower_10_yen": 395233
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 811208,
+        "upper_90_yen": 1571284,
+        "lower_10_yen": 439954
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 922571,
+        "upper_90_yen": 1871200,
+        "lower_10_yen": 481320
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1032837,
+        "upper_90_yen": 2187679,
+        "lower_10_yen": 519750
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1142016,
+        "upper_90_yen": 2520422,
+        "lower_10_yen": 555584
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ソルクシーズ(4284)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ソルクシーズ(4284)を1株(406円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小406円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.15%、幾何成長率は-4.44%",
+      "新NISAで月1万円の配当金を得るには8,572株（約3,480,232円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ソルクシーズは単元未満株（S株・かぶミニ等）を利用することで1株（約406円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,142,016円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.0円（利回り3.45%）です。月次95%VaR（最大想定損失率）は-11.16%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ソルクシーズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約406円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,572株（元本目安：約3,480,232円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 406.0
+  }
+}

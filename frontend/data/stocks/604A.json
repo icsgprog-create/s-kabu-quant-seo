@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "604A",
+    "name": "ビーエイブル",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1048.0,
+    "min_s_kabu_yen": 1048,
+    "unit_lot_yen": 104800,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 1.91,
+    "raw_annual_return_pct": -71.28,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -66.68,
+    "annual_volatility_pct": 101.67,
+    "max_drawdown_pct": -43.21,
+    "monthly_var_95_pct": -38.81,
+    "sharpe_ratio": -0.65,
+    "quant_score": 15.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 628800,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 789144
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 3144000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 3945720
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 6288000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 7891440
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 18864000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 23673272
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 31440000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 39456152
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 85965,
+        "upper_90_yen": 212366,
+        "lower_10_yen": 37729
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 130945,
+        "upper_90_yen": 433791,
+        "lower_10_yen": 47078
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 154480,
+        "upper_90_yen": 618238,
+        "lower_10_yen": 50123
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 166794,
+        "upper_90_yen": 759015,
+        "lower_10_yen": 51210
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 173238,
+        "upper_90_yen": 861102,
+        "lower_10_yen": 51620
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 176609,
+        "upper_90_yen": 932611,
+        "lower_10_yen": 51780
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 178373,
+        "upper_90_yen": 981438,
+        "lower_10_yen": 51844
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 179296,
+        "upper_90_yen": 1014124,
+        "lower_10_yen": 51870
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 179779,
+        "upper_90_yen": 1035659,
+        "lower_10_yen": 51881
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 180032,
+        "upper_90_yen": 1049660,
+        "lower_10_yen": 51886
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビーエイブル(604A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビーエイブル(604A)を1株(1,048円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,048円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは101.67%、幾何成長率は-66.68%",
+      "新NISAで月1万円の配当金を得るには6,000株（約6,288,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビーエイブルは単元未満株（S株・かぶミニ等）を利用することで1株（約1,048円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は180,032円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り1.91%）です。月次95%VaR（最大想定損失率）は-38.81%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビーエイブルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,048円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約6,288,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1048.0
+  }
+}

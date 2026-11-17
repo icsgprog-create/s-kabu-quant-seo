@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9023",
+    "name": "東京地下鉄",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1498.0,
+    "min_s_kabu_yen": 1498,
+    "unit_lot_yen": 149800,
+    "dps_yen": 43.0,
+    "dividend_yield_pct": 2.87,
+    "raw_annual_return_pct": -4.31,
+    "capped_annual_return_pct": -4.31,
+    "geometric_growth_pct": -6.69,
+    "annual_volatility_pct": 21.8,
+    "max_drawdown_pct": -35.72,
+    "monthly_var_95_pct": -9.47,
+    "sharpe_ratio": -0.22,
+    "quant_score": 46.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 280,
+        "nisa_required_capital_yen": 419440,
+        "specific_required_shares": 351,
+        "specific_required_capital_yen": 525798
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1396,
+        "nisa_required_capital_yen": 2091208,
+        "specific_required_shares": 1752,
+        "specific_required_capital_yen": 2624496
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 4180918,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 5247494
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8373,
+        "nisa_required_capital_yen": 12542754,
+        "specific_required_shares": 10507,
+        "specific_required_capital_yen": 15739486
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13954,
+        "nisa_required_capital_yen": 20903092,
+        "specific_required_shares": 17511,
+        "specific_required_capital_yen": 26231478
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117552,
+        "upper_90_yen": 143252,
+        "lower_10_yen": 96816
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 230704,
+        "upper_90_yen": 303102,
+        "lower_10_yen": 176997
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 339619,
+        "upper_90_yen": 473013,
+        "lower_10_yen": 246858
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 444457,
+        "upper_90_yen": 650291,
+        "lower_10_yen": 308885
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 545370,
+        "upper_90_yen": 833256,
+        "lower_10_yen": 364562
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 642506,
+        "upper_90_yen": 1020701,
+        "lower_10_yen": 414913
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 736004,
+        "upper_90_yen": 1211697,
+        "lower_10_yen": 460695
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 826003,
+        "upper_90_yen": 1405491,
+        "lower_10_yen": 502499
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 912632,
+        "upper_90_yen": 1601457,
+        "lower_10_yen": 540802
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 996017,
+        "upper_90_yen": 1799062,
+        "lower_10_yen": 575995
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東京地下鉄(9023)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東京地下鉄(9023)を1株(1,498円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,498円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.8%、幾何成長率は-6.69%",
+      "新NISAで月1万円の配当金を得るには2,791株（約4,180,918円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東京地下鉄は単元未満株（S株・かぶミニ等）を利用することで1株（約1,498円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は996,017円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり43.0円（利回り2.87%）です。月次95%VaR（最大想定損失率）は-9.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東京地下鉄は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,498円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,791株（元本目安：約4,180,918円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1498.0
+  }
+}

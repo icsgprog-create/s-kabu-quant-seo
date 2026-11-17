@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7997",
+    "name": "くろがね工作所",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1250.0,
+    "min_s_kabu_yen": 1250,
+    "unit_lot_yen": 125000,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 3.2,
+    "raw_annual_return_pct": 13.93,
+    "capped_annual_return_pct": 13.93,
+    "geometric_growth_pct": 2.56,
+    "annual_volatility_pct": 47.7,
+    "max_drawdown_pct": -58.73,
+    "monthly_var_95_pct": -15.03,
+    "sharpe_ratio": 0.1,
+    "quant_score": 33.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 375000,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 471250
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 1875000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 2353750
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 3750000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 4706250
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 11250000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 14118750
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 18750000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 23531250
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123817,
+        "upper_90_yen": 192408,
+        "lower_10_yen": 81069
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 254971,
+        "upper_90_yen": 472692,
+        "lower_10_yen": 142754
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 393894,
+        "upper_90_yen": 841199,
+        "lower_10_yen": 195287
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 541049,
+        "upper_90_yen": 1306616,
+        "lower_10_yen": 241916
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 696923,
+        "upper_90_yen": 1880715,
+        "lower_10_yen": 284310
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 862032,
+        "upper_90_yen": 2577597,
+        "lower_10_yen": 323483
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1036923,
+        "upper_90_yen": 3413571,
+        "lower_10_yen": 360115
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1222177,
+        "upper_90_yen": 4407213,
+        "lower_10_yen": 394688
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1418406,
+        "upper_90_yen": 5579537,
+        "lower_10_yen": 427564
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1626262,
+        "upper_90_yen": 6954200,
+        "lower_10_yen": 459018
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "くろがね工作所(7997)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "くろがね工作所(7997)を1株(1,250円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,250円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは47.7%、幾何成長率は2.56%",
+      "新NISAで月1万円の配当金を得るには3,000株（約3,750,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "くろがね工作所は単元未満株（S株・かぶミニ等）を利用することで1株（約1,250円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,626,262円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り3.2%）です。月次95%VaR（最大想定損失率）は-15.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "くろがね工作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,250円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約3,750,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1250.0
+  }
+}

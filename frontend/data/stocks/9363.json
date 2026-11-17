@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9363",
+    "name": "大運",
+    "sector": "倉庫・運輸関連業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 518.0,
+    "min_s_kabu_yen": 518,
+    "unit_lot_yen": 51800,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 2.9,
+    "raw_annual_return_pct": 6.05,
+    "capped_annual_return_pct": 6.05,
+    "geometric_growth_pct": -2.54,
+    "annual_volatility_pct": 41.43,
+    "max_drawdown_pct": -49.77,
+    "monthly_var_95_pct": -12.34,
+    "sharpe_ratio": -0.02,
+    "quant_score": 31.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 414400,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 520072
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 2072000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 2600360
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 4144000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 5200720
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 12432000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 15601642
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 20720000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 26002564
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120235,
+        "upper_90_yen": 175842,
+        "lower_10_yen": 83297
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 240904,
+        "upper_90_yen": 408910,
+        "lower_10_yen": 146014
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 362009,
+        "upper_90_yen": 691200,
+        "lower_10_yen": 198089
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 483551,
+        "upper_90_yen": 1021326,
+        "lower_10_yen": 242911
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 605533,
+        "upper_90_yen": 1399538,
+        "lower_10_yen": 282304
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 727955,
+        "upper_90_yen": 1826827,
+        "lower_10_yen": 317416
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 850820,
+        "upper_90_yen": 2304616,
+        "lower_10_yen": 349039
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 974128,
+        "upper_90_yen": 2834617,
+        "lower_10_yen": 377750
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1097882,
+        "upper_90_yen": 3418758,
+        "lower_10_yen": 403986
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1222083,
+        "upper_90_yen": 4059138,
+        "lower_10_yen": 428089
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大運(9363)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大運(9363)を1株(518円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小518円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.43%、幾何成長率は-2.54%",
+      "新NISAで月1万円の配当金を得るには8,000株（約4,144,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大運は単元未満株（S株・かぶミニ等）を利用することで1株（約518円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,222,083円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り2.9%）です。月次95%VaR（最大想定損失率）は-12.34%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大運は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約518円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約4,144,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 518.0
+  }
+}

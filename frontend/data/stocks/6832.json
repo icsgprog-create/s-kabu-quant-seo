@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6832",
+    "name": "アオイ電子",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2188.0,
+    "min_s_kabu_yen": 2188,
+    "unit_lot_yen": 218800,
+    "dps_yen": 54.0,
+    "dividend_yield_pct": 2.47,
+    "raw_annual_return_pct": -0.4,
+    "capped_annual_return_pct": -0.4,
+    "geometric_growth_pct": -8.45,
+    "annual_volatility_pct": 40.13,
+    "max_drawdown_pct": -53.93,
+    "monthly_var_95_pct": -18.27,
+    "sharpe_ratio": -0.17,
+    "quant_score": 25.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 223,
+        "nisa_required_capital_yen": 487924,
+        "specific_required_shares": 279,
+        "specific_required_capital_yen": 610452
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1112,
+        "nisa_required_capital_yen": 2433056,
+        "specific_required_shares": 1395,
+        "specific_required_capital_yen": 3052260
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2223,
+        "nisa_required_capital_yen": 4863924,
+        "specific_required_shares": 2789,
+        "specific_required_capital_yen": 6102332
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 14587396,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 18306996
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11112,
+        "nisa_required_capital_yen": 24313056,
+        "specific_required_shares": 13944,
+        "specific_required_capital_yen": 30509472
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116190,
+        "upper_90_yen": 167549,
+        "lower_10_yen": 81576
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 225631,
+        "upper_90_yen": 374370,
+        "lower_10_yen": 139698
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 328715,
+        "upper_90_yen": 608149,
+        "lower_10_yen": 185251
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 425811,
+        "upper_90_yen": 863544,
+        "lower_10_yen": 222222
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 517267,
+        "upper_90_yen": 1137038,
+        "lower_10_yen": 252842
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 603411,
+        "upper_90_yen": 1425968,
+        "lower_10_yen": 278551
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 684552,
+        "upper_90_yen": 1728173,
+        "lower_10_yen": 300355
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 760979,
+        "upper_90_yen": 2041818,
+        "lower_10_yen": 318992
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 832967,
+        "upper_90_yen": 2365309,
+        "lower_10_yen": 335022
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 900773,
+        "upper_90_yen": 2697230,
+        "lower_10_yen": 348882
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アオイ電子(6832)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アオイ電子(6832)を1株(2,188円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,188円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは40.13%、幾何成長率は-8.45%",
+      "新NISAで月1万円の配当金を得るには2,223株（約4,863,924円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アオイ電子は単元未満株（S株・かぶミニ等）を利用することで1株（約2,188円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は900,773円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり54.0円（利回り2.47%）です。月次95%VaR（最大想定損失率）は-18.27%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アオイ電子は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,188円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,223株（元本目安：約4,863,924円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2188.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6806",
+    "name": "ヒロセ電機",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 21690.0,
+    "min_s_kabu_yen": 21690,
+    "unit_lot_yen": 2169000,
+    "dps_yen": 520.0,
+    "dividend_yield_pct": 2.4,
+    "raw_annual_return_pct": 4.78,
+    "capped_annual_return_pct": 4.78,
+    "geometric_growth_pct": 0.37,
+    "annual_volatility_pct": 29.67,
+    "max_drawdown_pct": -32.17,
+    "monthly_var_95_pct": -11.38,
+    "sharpe_ratio": 0.06,
+    "quant_score": 41.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 24,
+        "nisa_required_capital_yen": 520560,
+        "specific_required_shares": 29,
+        "specific_required_capital_yen": 629010
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 116,
+        "nisa_required_capital_yen": 2516040,
+        "specific_required_shares": 145,
+        "specific_required_capital_yen": 3145050
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 231,
+        "nisa_required_capital_yen": 5010390,
+        "specific_required_shares": 290,
+        "specific_required_capital_yen": 6290100
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 693,
+        "nisa_required_capital_yen": 15031170,
+        "specific_required_shares": 869,
+        "specific_required_capital_yen": 18848610
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1154,
+        "nisa_required_capital_yen": 25030260,
+        "specific_required_shares": 1449,
+        "specific_required_capital_yen": 31428810
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121819,
+        "upper_90_yen": 159816,
+        "lower_10_yen": 93482
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 247062,
+        "upper_90_yen": 360470,
+        "lower_10_yen": 171810
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 375825,
+        "upper_90_yen": 596513,
+        "lower_10_yen": 242134
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 508207,
+        "upper_90_yen": 867286,
+        "lower_10_yen": 306911
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 644310,
+        "upper_90_yen": 1173354,
+        "lower_10_yen": 367473
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 784238,
+        "upper_90_yen": 1515871,
+        "lower_10_yen": 424669
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 928099,
+        "upper_90_yen": 1896360,
+        "lower_10_yen": 479087
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1076003,
+        "upper_90_yen": 2316616,
+        "lower_10_yen": 531160
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1228064,
+        "upper_90_yen": 2778656,
+        "lower_10_yen": 581223
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1384399,
+        "upper_90_yen": 3284695,
+        "lower_10_yen": 629536
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヒロセ電機(6806)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヒロセ電機(6806)を1株(21,690円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小21,690円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.67%、幾何成長率は0.37%",
+      "新NISAで月1万円の配当金を得るには231株（約5,010,390円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヒロセ電機は単元未満株（S株・かぶミニ等）を利用することで1株（約21,690円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,384,399円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり520.0円（利回り2.4%）です。月次95%VaR（最大想定損失率）は-11.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヒロセ電機は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約21,690円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、231株（元本目安：約5,010,390円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 21690.0
+  }
+}

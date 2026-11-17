@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9564",
+    "name": "ＦＣＥ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 520.0,
+    "min_s_kabu_yen": 520,
+    "unit_lot_yen": 52000,
+    "dps_yen": 11.0,
+    "dividend_yield_pct": 2.12,
+    "raw_annual_return_pct": 15.35,
+    "capped_annual_return_pct": 15.35,
+    "geometric_growth_pct": 7.6,
+    "annual_volatility_pct": 39.38,
+    "max_drawdown_pct": -53.56,
+    "monthly_var_95_pct": -14.47,
+    "sharpe_ratio": 0.22,
+    "quant_score": 33.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 567320,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 712400
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 2836600,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 3559920
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 5673200,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 7119320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 32728,
+        "nisa_required_capital_yen": 17018560,
+        "specific_required_shares": 41071,
+        "specific_required_capital_yen": 21356920
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 54546,
+        "nisa_required_capital_yen": 28363920,
+        "specific_required_shares": 68452,
+        "specific_required_capital_yen": 35595040
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126533,
+        "upper_90_yen": 182065,
+        "lower_10_yen": 88979
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265974,
+        "upper_90_yen": 443143,
+        "lower_10_yen": 163713
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 419640,
+        "upper_90_yen": 787037,
+        "lower_10_yen": 232520
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 588983,
+        "upper_90_yen": 1225233,
+        "lower_10_yen": 298062
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 775602,
+        "upper_90_yen": 1772815,
+        "lower_10_yen": 361736
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 981259,
+        "upper_90_yen": 2448085,
+        "lower_10_yen": 424430
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1207897,
+        "upper_90_yen": 3272722,
+        "lower_10_yen": 486767
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1457655,
+        "upper_90_yen": 4272151,
+        "lower_10_yen": 549226
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1732893,
+        "upper_90_yen": 5476029,
+        "lower_10_yen": 612191
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2036210,
+        "upper_90_yen": 6918846,
+        "lower_10_yen": 675991
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＦＣＥ(9564)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＦＣＥ(9564)を1株(520円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小520円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.38%、幾何成長率は7.6%",
+      "新NISAで月1万円の配当金を得るには10,910株（約5,673,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＦＣＥは単元未満株（S株・かぶミニ等）を利用することで1株（約520円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,036,210円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり11.0円（利回り2.12%）です。月次95%VaR（最大想定損失率）は-14.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＦＣＥは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約520円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,910株（元本目安：約5,673,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 520.0
+  }
+}

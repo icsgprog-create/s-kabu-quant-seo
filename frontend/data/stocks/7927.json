@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7927",
+    "name": "ムトー精工",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2010.0,
+    "min_s_kabu_yen": 2010,
+    "unit_lot_yen": 201000,
+    "dps_yen": 143.0,
+    "dividend_yield_pct": 7.11,
+    "raw_annual_return_pct": 34.47,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.04,
+    "annual_volatility_pct": 37.3,
+    "max_drawdown_pct": -42.61,
+    "monthly_var_95_pct": -10.01,
+    "sharpe_ratio": 0.51,
+    "quant_score": 65.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 84,
+        "nisa_required_capital_yen": 168840,
+        "specific_required_shares": 106,
+        "specific_required_capital_yen": 213060
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 420,
+        "nisa_required_capital_yen": 844200,
+        "specific_required_shares": 527,
+        "specific_required_capital_yen": 1059270
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 840,
+        "nisa_required_capital_yen": 1688400,
+        "specific_required_shares": 1054,
+        "specific_required_capital_yen": 2118540
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2518,
+        "nisa_required_capital_yen": 5061180,
+        "specific_required_shares": 3160,
+        "specific_required_capital_yen": 6351600
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4196,
+        "nisa_required_capital_yen": 8433960,
+        "specific_required_shares": 5266,
+        "specific_required_capital_yen": 10584660
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134069,
+        "upper_90_yen": 189757,
+        "lower_10_yen": 95719
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298080,
+        "upper_90_yen": 487321,
+        "lower_10_yen": 186399
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 498717,
+        "upper_90_yen": 918204,
+        "lower_10_yen": 279999
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 744162,
+        "upper_90_yen": 1522922,
+        "lower_10_yen": 379753
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1044421,
+        "upper_90_yen": 2356139,
+        "lower_10_yen": 488067
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1411734,
+        "upper_90_yen": 3489916,
+        "lower_10_yen": 607169
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1861078,
+        "upper_90_yen": 5018493,
+        "lower_10_yen": 739354
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2410771,
+        "upper_90_yen": 7064606,
+        "lower_10_yen": 887122
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3083223,
+        "upper_90_yen": 9787675,
+        "lower_10_yen": 1053274
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3905850,
+        "upper_90_yen": 13394328,
+        "lower_10_yen": 1240996
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ムトー精工(7927)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ムトー精工(7927)を1株(2,010円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,010円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.3%、幾何成長率は13.04%",
+      "新NISAで月1万円の配当金を得るには840株（約1,688,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ムトー精工は単元未満株（S株・かぶミニ等）を利用することで1株（約2,010円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,905,850円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり143.0円（利回り7.11%）です。月次95%VaR（最大想定損失率）は-10.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ムトー精工は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,010円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、840株（元本目安：約1,688,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2010.0
+  }
+}

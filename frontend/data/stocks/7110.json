@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7110",
+    "name": "クラシコム",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1760.0,
+    "min_s_kabu_yen": 1760,
+    "unit_lot_yen": 176000,
+    "dps_yen": 55.0,
+    "dividend_yield_pct": 3.12,
+    "raw_annual_return_pct": 2.3,
+    "capped_annual_return_pct": 2.3,
+    "geometric_growth_pct": -4.58,
+    "annual_volatility_pct": 37.1,
+    "max_drawdown_pct": -44.98,
+    "monthly_var_95_pct": -14.4,
+    "sharpe_ratio": -0.07,
+    "quant_score": 36.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 219,
+        "nisa_required_capital_yen": 385440,
+        "specific_required_shares": 274,
+        "specific_required_capital_yen": 482240
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 1920160,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 2411200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 3840320,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 4820640
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6546,
+        "nisa_required_capital_yen": 11520960,
+        "specific_required_shares": 8215,
+        "specific_required_capital_yen": 14458400
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 19201600,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 24096160
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119056,
+        "upper_90_yen": 167153,
+        "lower_10_yen": 85697
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 236388,
+        "upper_90_yen": 378614,
+        "lower_10_yen": 151001
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 352020,
+        "upper_90_yen": 625258,
+        "lower_10_yen": 205312
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 465976,
+        "upper_90_yen": 904024,
+        "lower_10_yen": 251958
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 578282,
+        "upper_90_yen": 1213341,
+        "lower_10_yen": 292776
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 688961,
+        "upper_90_yen": 1552283,
+        "lower_10_yen": 328948
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 798037,
+        "upper_90_yen": 1920277,
+        "lower_10_yen": 361302
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 905533,
+        "upper_90_yen": 2316960,
+        "lower_10_yen": 390450
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1011471,
+        "upper_90_yen": 2742104,
+        "lower_10_yen": 416862
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1115875,
+        "upper_90_yen": 3195575,
+        "lower_10_yen": 440911
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クラシコム(7110)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クラシコム(7110)を1株(1,760円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,760円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.1%、幾何成長率は-4.58%",
+      "新NISAで月1万円の配当金を得るには2,182株（約3,840,320円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クラシコムは単元未満株（S株・かぶミニ等）を利用することで1株（約1,760円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,115,875円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり55.0円（利回り3.12%）です。月次95%VaR（最大想定損失率）は-14.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クラシコムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,760円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,182株（元本目安：約3,840,320円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1760.0
+  }
+}

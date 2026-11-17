@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5302",
+    "name": "日本カーボン",
+    "sector": "ガラス・土石製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4745.0,
+    "min_s_kabu_yen": 4745,
+    "unit_lot_yen": 474500,
+    "dps_yen": 200.0,
+    "dividend_yield_pct": 4.21,
+    "raw_annual_return_pct": 6.66,
+    "capped_annual_return_pct": 6.66,
+    "geometric_growth_pct": 4.59,
+    "annual_volatility_pct": 20.37,
+    "max_drawdown_pct": -33.13,
+    "monthly_var_95_pct": -6.22,
+    "sharpe_ratio": 0.38,
+    "quant_score": 72.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 60,
+        "nisa_required_capital_yen": 284700,
+        "specific_required_shares": 76,
+        "specific_required_capital_yen": 360620
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 1423500,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 1788865
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 2847000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 3572985
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1800,
+        "nisa_required_capital_yen": 8541000,
+        "specific_required_shares": 2259,
+        "specific_required_capital_yen": 10718955
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 14235000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 17864925
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125902,
+        "upper_90_yen": 151739,
+        "lower_10_yen": 104794
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 263392,
+        "upper_90_yen": 341828,
+        "lower_10_yen": 204332
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 413536,
+        "upper_90_yen": 569522,
+        "lower_10_yen": 303394
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 577499,
+        "upper_90_yen": 837590,
+        "lower_10_yen": 403722
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 756553,
+        "upper_90_yen": 1150015,
+        "lower_10_yen": 506371
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 952087,
+        "upper_90_yen": 1511644,
+        "lower_10_yen": 612124
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1165618,
+        "upper_90_yen": 1928111,
+        "lower_10_yen": 721629
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1398802,
+        "upper_90_yen": 2405851,
+        "lower_10_yen": 835467
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1653447,
+        "upper_90_yen": 2952144,
+        "lower_10_yen": 954185
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1931530,
+        "upper_90_yen": 3575188,
+        "lower_10_yen": 1078320
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本カーボン(5302)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本カーボン(5302)を1株(4,745円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,745円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.37%、幾何成長率は4.59%",
+      "新NISAで月1万円の配当金を得るには600株（約2,847,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本カーボンは単元未満株（S株・かぶミニ等）を利用することで1株（約4,745円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,931,530円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり200.0円（利回り4.21%）です。月次95%VaR（最大想定損失率）は-6.22%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本カーボンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,745円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、600株（元本目安：約2,847,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4745.0
+  }
+}

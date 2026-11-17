@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9816",
+    "name": "ストライダーズ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 222.0,
+    "min_s_kabu_yen": 222,
+    "unit_lot_yen": 22200,
+    "dps_yen": 5.0,
+    "dividend_yield_pct": 2.25,
+    "raw_annual_return_pct": -0.43,
+    "capped_annual_return_pct": -0.43,
+    "geometric_growth_pct": -6.81,
+    "annual_volatility_pct": 35.71,
+    "max_drawdown_pct": -41.76,
+    "monthly_var_95_pct": -11.23,
+    "sharpe_ratio": -0.16,
+    "quant_score": 28.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 532800,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 668664
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 2664000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 3343320
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 5328000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 6686418
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 72000,
+        "nisa_required_capital_yen": 15984000,
+        "specific_required_shares": 90356,
+        "specific_required_capital_yen": 20059032
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 26640000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 33431646
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117086,
+        "upper_90_yen": 162143,
+        "lower_10_yen": 85381
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 228958,
+        "upper_90_yen": 359264,
+        "lower_10_yen": 149054
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 335849,
+        "upper_90_yen": 580801,
+        "lower_10_yen": 200717
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 437981,
+        "upper_90_yen": 822333,
+        "lower_10_yen": 243957
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 535566,
+        "upper_90_yen": 1081025,
+        "lower_10_yen": 280803
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 628805,
+        "upper_90_yen": 1354774,
+        "lower_10_yen": 312585
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 717893,
+        "upper_90_yen": 1641891,
+        "lower_10_yen": 340246
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 803014,
+        "upper_90_yen": 1940957,
+        "lower_10_yen": 364488
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 884345,
+        "upper_90_yen": 2250742,
+        "lower_10_yen": 385851
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 962055,
+        "upper_90_yen": 2570153,
+        "lower_10_yen": 404766
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ストライダーズ(9816)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ストライダーズ(9816)を1株(222円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小222円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.71%、幾何成長率は-6.81%",
+      "新NISAで月1万円の配当金を得るには24,000株（約5,328,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ストライダーズは単元未満株（S株・かぶミニ等）を利用することで1株（約222円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は962,055円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.0円（利回り2.25%）です。月次95%VaR（最大想定損失率）は-11.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ストライダーズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約222円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、24,000株（元本目安：約5,328,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 222.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9347",
+    "name": "日本管財ホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3100.0,
+    "min_s_kabu_yen": 3100,
+    "unit_lot_yen": 310000,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 1.94,
+    "raw_annual_return_pct": 3.55,
+    "capped_annual_return_pct": 3.55,
+    "geometric_growth_pct": 2.29,
+    "annual_volatility_pct": 15.84,
+    "max_drawdown_pct": -15.21,
+    "monthly_var_95_pct": -5.9,
+    "sharpe_ratio": 0.2,
+    "quant_score": 54.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 620000,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 778100
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 3100000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3890500
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 6200000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 7781000
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 18600000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 23343000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 31000000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 38905000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122790,
+        "upper_90_yen": 141848,
+        "lower_10_yen": 106495
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 250883,
+        "upper_90_yen": 306562,
+        "lower_10_yen": 206166
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 384510,
+        "upper_90_yen": 491217,
+        "lower_10_yen": 302898
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 523908,
+        "upper_90_yen": 695455,
+        "lower_10_yen": 398065
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 669328,
+        "upper_90_yen": 919579,
+        "lower_10_yen": 492437
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 821030,
+        "upper_90_yen": 1164213,
+        "lower_10_yen": 586524
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 979284,
+        "upper_90_yen": 1430183,
+        "lower_10_yen": 680699
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1144374,
+        "upper_90_yen": 1718466,
+        "lower_10_yen": 775251
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1316596,
+        "upper_90_yen": 2030166,
+        "lower_10_yen": 870417
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1496256,
+        "upper_90_yen": 2366495,
+        "lower_10_yen": 966397
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本管財ホールディングス(9347)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本管財ホールディングス(9347)を1株(3,100円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,100円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは15.84%、幾何成長率は2.29%",
+      "新NISAで月1万円の配当金を得るには2,000株（約6,200,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本管財ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,100円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,496,256円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り1.94%）です。月次95%VaR（最大想定損失率）は-5.9%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本管財ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,100円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約6,200,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3100.0
+  }
+}

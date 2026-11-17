@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6309",
+    "name": "巴工業",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1843.0,
+    "min_s_kabu_yen": 1843,
+    "unit_lot_yen": 184300,
+    "dps_yen": 76.0,
+    "dividend_yield_pct": 4.12,
+    "raw_annual_return_pct": 21.24,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.09,
+    "annual_volatility_pct": 27.96,
+    "max_drawdown_pct": -29.36,
+    "monthly_var_95_pct": -8.28,
+    "sharpe_ratio": 0.69,
+    "quant_score": 72.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 158,
+        "nisa_required_capital_yen": 291194,
+        "specific_required_shares": 199,
+        "specific_required_capital_yen": 366757
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 790,
+        "nisa_required_capital_yen": 1455970,
+        "specific_required_shares": 991,
+        "specific_required_capital_yen": 1826413
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1579,
+        "nisa_required_capital_yen": 2910097,
+        "specific_required_shares": 1982,
+        "specific_required_capital_yen": 3652826
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4737,
+        "nisa_required_capital_yen": 8730291,
+        "specific_required_shares": 5945,
+        "specific_required_capital_yen": 10956635
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7895,
+        "nisa_required_capital_yen": 14550485,
+        "specific_required_shares": 9908,
+        "specific_required_capital_yen": 18260444
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134113,
+        "upper_90_yen": 173838,
+        "lower_10_yen": 104075
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298271,
+        "upper_90_yen": 430318,
+        "lower_10_yen": 209326
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 499206,
+        "upper_90_yen": 786596,
+        "lower_10_yen": 322769
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 745157,
+        "upper_90_yen": 1270006,
+        "lower_10_yen": 447998
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1046208,
+        "upper_90_yen": 1916916,
+        "lower_10_yen": 588180
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1414705,
+        "upper_90_yen": 2774535,
+        "lower_10_yen": 746590
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1865757,
+        "upper_90_yen": 3903646,
+        "lower_10_yen": 926847
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2417860,
+        "upper_90_yen": 5382212,
+        "lower_10_yen": 1133077
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3093651,
+        "upper_90_yen": 7310005,
+        "lower_10_yen": 1370050
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3920841,
+        "upper_90_yen": 9814485,
+        "lower_10_yen": 1643333
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "巴工業(6309)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "巴工業(6309)を1株(1,843円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,843円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.96%、幾何成長率は16.09%",
+      "新NISAで月1万円の配当金を得るには1,579株（約2,910,097円）が必要"
+    ],
+    "accumulation_strategy_analysis": "巴工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,843円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,920,841円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり76.0円（利回り4.12%）です。月次95%VaR（最大想定損失率）は-8.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "巴工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,843円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,579株（元本目安：約2,910,097円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1843.0
+  }
+}

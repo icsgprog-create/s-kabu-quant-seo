@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6384",
+    "name": "昭和真空",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1543.0,
+    "min_s_kabu_yen": 1543,
+    "unit_lot_yen": 154300,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 4.54,
+    "raw_annual_return_pct": 4.75,
+    "capped_annual_return_pct": 4.75,
+    "geometric_growth_pct": 2.85,
+    "annual_volatility_pct": 19.49,
+    "max_drawdown_pct": -18.88,
+    "monthly_var_95_pct": -4.86,
+    "sharpe_ratio": 0.33,
+    "quant_score": 75.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 265396,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 333288
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 1323894,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 1660268
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 2646245,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 3320536
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 7935649,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 9958522
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 13226596,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 16598051
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124924,
+        "upper_90_yen": 149306,
+        "lower_10_yen": 104827
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 259421,
+        "upper_90_yen": 332637,
+        "lower_10_yen": 203580
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 404222,
+        "upper_90_yen": 548279,
+        "lower_10_yen": 300863
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 560119,
+        "upper_90_yen": 797763,
+        "lower_10_yen": 398315
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 727961,
+        "upper_90_yen": 1083621,
+        "lower_10_yen": 496892
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 908663,
+        "upper_90_yen": 1409007,
+        "lower_10_yen": 597268
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1103212,
+        "upper_90_yen": 1777598,
+        "lower_10_yen": 699973
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1312667,
+        "upper_90_yen": 2193563,
+        "lower_10_yen": 805460
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1538171,
+        "upper_90_yen": 2661569,
+        "lower_10_yen": 914134
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1780953,
+        "upper_90_yen": 3186804,
+        "lower_10_yen": 1026372
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "昭和真空(6384)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "昭和真空(6384)を1株(1,543円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,543円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.49%、幾何成長率は2.85%",
+      "新NISAで月1万円の配当金を得るには1,715株（約2,646,245円）が必要"
+    ],
+    "accumulation_strategy_analysis": "昭和真空は単元未満株（S株・かぶミニ等）を利用することで1株（約1,543円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,780,953円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り4.54%）です。月次95%VaR（最大想定損失率）は-4.86%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "昭和真空は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,543円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約2,646,245円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1543.0
+  }
+}

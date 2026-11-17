@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6492",
+    "name": "岡野バルブ製造",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 8890.0,
+    "min_s_kabu_yen": 8890,
+    "unit_lot_yen": 889000,
+    "dps_yen": 130.0,
+    "dividend_yield_pct": 1.46,
+    "raw_annual_return_pct": 24.51,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 2.87,
+    "annual_volatility_pct": 58.54,
+    "max_drawdown_pct": -58.11,
+    "monthly_var_95_pct": -21.19,
+    "sharpe_ratio": 0.06,
+    "quant_score": 18.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 93,
+        "nisa_required_capital_yen": 826770,
+        "specific_required_shares": 116,
+        "specific_required_capital_yen": 1031240
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 4107180,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 5156200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 8214360,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 10303510
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2770,
+        "nisa_required_capital_yen": 24625300,
+        "specific_required_shares": 3476,
+        "specific_required_capital_yen": 30901640
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 41036240,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 51499770
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122856,
+        "upper_90_yen": 211370,
+        "lower_10_yen": 73295
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251144,
+        "upper_90_yen": 537263,
+        "lower_10_yen": 124185
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 385107,
+        "upper_90_yen": 980819,
+        "lower_10_yen": 164831
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 524994,
+        "upper_90_yen": 1555546,
+        "lower_10_yen": 198991
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 671067,
+        "upper_90_yen": 2278998,
+        "lower_10_yen": 228561
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 823600,
+        "upper_90_yen": 3171913,
+        "lower_10_yen": 254673
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 982879,
+        "upper_90_yen": 4258103,
+        "lower_10_yen": 278071
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1149202,
+        "upper_90_yen": 5564580,
+        "lower_10_yen": 299278
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1322881,
+        "upper_90_yen": 7121788,
+        "lower_10_yen": 318675
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1504240,
+        "upper_90_yen": 8963909,
+        "lower_10_yen": 336552
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "岡野バルブ製造(6492)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "岡野バルブ製造(6492)を1株(8,890円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小8,890円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは58.54%、幾何成長率は2.87%",
+      "新NISAで月1万円の配当金を得るには924株（約8,214,360円）が必要"
+    ],
+    "accumulation_strategy_analysis": "岡野バルブ製造は単元未満株（S株・かぶミニ等）を利用することで1株（約8,890円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,504,240円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり130.0円（利回り1.46%）です。月次95%VaR（最大想定損失率）は-21.19%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "岡野バルブ製造は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約8,890円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、924株（元本目安：約8,214,360円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 8890.0
+  }
+}

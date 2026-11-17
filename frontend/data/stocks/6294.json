@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6294",
+    "name": "オカダアイヨン",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1804.0,
+    "min_s_kabu_yen": 1804,
+    "unit_lot_yen": 180400,
+    "dps_yen": 113.0,
+    "dividend_yield_pct": 6.26,
+    "raw_annual_return_pct": 8.18,
+    "capped_annual_return_pct": 8.18,
+    "geometric_growth_pct": 4.42,
+    "annual_volatility_pct": 27.4,
+    "max_drawdown_pct": -45.78,
+    "monthly_var_95_pct": -11.55,
+    "sharpe_ratio": 0.35,
+    "quant_score": 71.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 107,
+        "nisa_required_capital_yen": 193028,
+        "specific_required_shares": 134,
+        "specific_required_capital_yen": 241736
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 531,
+        "nisa_required_capital_yen": 957924,
+        "specific_required_shares": 667,
+        "specific_required_capital_yen": 1203268
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1062,
+        "nisa_required_capital_yen": 1915848,
+        "specific_required_shares": 1333,
+        "specific_required_capital_yen": 2404732
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3186,
+        "nisa_required_capital_yen": 5747544,
+        "specific_required_shares": 3999,
+        "specific_required_capital_yen": 7214196
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5310,
+        "nisa_required_capital_yen": 9579240,
+        "specific_required_shares": 6664,
+        "specific_required_capital_yen": 12021856
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127212,
+        "upper_90_yen": 163704,
+        "lower_10_yen": 99419
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 268773,
+        "upper_90_yen": 382672,
+        "lower_10_yen": 191091
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 426302,
+        "upper_90_yen": 658575,
+        "lower_10_yen": 281124
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 601600,
+        "upper_90_yen": 998257,
+        "lower_10_yen": 371654
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 796670,
+        "upper_90_yen": 1410820,
+        "lower_10_yen": 463941
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1013744,
+        "upper_90_yen": 1907297,
+        "lower_10_yen": 558895
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1255304,
+        "upper_90_yen": 2500708,
+        "lower_10_yen": 657265
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1524110,
+        "upper_90_yen": 3206236,
+        "lower_10_yen": 759715
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1823237,
+        "upper_90_yen": 4041500,
+        "lower_10_yen": 866871
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2156104,
+        "upper_90_yen": 5026872,
+        "lower_10_yen": 979346
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オカダアイヨン(6294)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オカダアイヨン(6294)を1株(1,804円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,804円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.4%、幾何成長率は4.42%",
+      "新NISAで月1万円の配当金を得るには1,062株（約1,915,848円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オカダアイヨンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,804円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,156,104円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり113.0円（利回り6.26%）です。月次95%VaR（最大想定損失率）は-11.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オカダアイヨンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,804円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,062株（元本目安：約1,915,848円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1804.0
+  }
+}

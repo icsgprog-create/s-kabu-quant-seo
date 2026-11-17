@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "369A",
+    "name": "エータイ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2318.0,
+    "min_s_kabu_yen": 2318,
+    "unit_lot_yen": 231800,
+    "dps_yen": 67.0,
+    "dividend_yield_pct": 2.89,
+    "raw_annual_return_pct": -5.38,
+    "capped_annual_return_pct": -5.38,
+    "geometric_growth_pct": -16.52,
+    "annual_volatility_pct": 47.19,
+    "max_drawdown_pct": -49.55,
+    "monthly_var_95_pct": -18.49,
+    "sharpe_ratio": -0.31,
+    "quant_score": 23.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 180,
+        "nisa_required_capital_yen": 417240,
+        "specific_required_shares": 225,
+        "specific_required_capital_yen": 521550
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 896,
+        "nisa_required_capital_yen": 2076928,
+        "specific_required_shares": 1124,
+        "specific_required_capital_yen": 2605432
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1792,
+        "nisa_required_capital_yen": 4153856,
+        "specific_required_shares": 2248,
+        "specific_required_capital_yen": 5210864
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5374,
+        "nisa_required_capital_yen": 12456932,
+        "specific_required_shares": 6743,
+        "specific_required_capital_yen": 15630274
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8956,
+        "nisa_required_capital_yen": 20760008,
+        "specific_required_shares": 11239,
+        "specific_required_capital_yen": 26052002
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111547,
+        "upper_90_yen": 171293,
+        "lower_10_yen": 73898
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 208882,
+        "upper_90_yen": 376803,
+        "lower_10_yen": 120230
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 293817,
+        "upper_90_yen": 599072,
+        "lower_10_yen": 152783
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 367931,
+        "upper_90_yen": 830000,
+        "lower_10_yen": 176621
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 432602,
+        "upper_90_yen": 1064348,
+        "lower_10_yen": 194498
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 489035,
+        "upper_90_yen": 1298399,
+        "lower_10_yen": 208123
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 538278,
+        "upper_90_yen": 1529420,
+        "lower_10_yen": 218631
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 581247,
+        "upper_90_yen": 1755378,
+        "lower_10_yen": 226811
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 618742,
+        "upper_90_yen": 1974762,
+        "lower_10_yen": 233225
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 651460,
+        "upper_90_yen": 2186469,
+        "lower_10_yen": 238285
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エータイ(369A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エータイ(369A)を1株(2,318円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,318円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは47.19%、幾何成長率は-16.52%",
+      "新NISAで月1万円の配当金を得るには1,792株（約4,153,856円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エータイは単元未満株（S株・かぶミニ等）を利用することで1株（約2,318円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は651,460円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり67.0円（利回り2.89%）です。月次95%VaR（最大想定損失率）は-18.49%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エータイは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,318円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,792株（元本目安：約4,153,856円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2318.0
+  }
+}

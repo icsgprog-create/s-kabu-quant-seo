@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6135",
+    "name": "牧野フライス製作所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2685.0,
+    "min_s_kabu_yen": 2685,
+    "unit_lot_yen": 268500,
+    "dps_yen": 86.0,
+    "dividend_yield_pct": 3.2,
+    "raw_annual_return_pct": 28.11,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.15,
+    "annual_volatility_pct": 34.21,
+    "max_drawdown_pct": -33.19,
+    "monthly_var_95_pct": -10.92,
+    "sharpe_ratio": 0.48,
+    "quant_score": 53.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 140,
+        "nisa_required_capital_yen": 375900,
+        "specific_required_shares": 176,
+        "specific_required_capital_yen": 472560
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 698,
+        "nisa_required_capital_yen": 1874130,
+        "specific_required_shares": 876,
+        "specific_required_capital_yen": 2352060
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1396,
+        "nisa_required_capital_yen": 3748260,
+        "specific_required_shares": 1752,
+        "specific_required_capital_yen": 4704120
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4187,
+        "nisa_required_capital_yen": 11242095,
+        "specific_required_shares": 5254,
+        "specific_required_capital_yen": 14106990
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6977,
+        "nisa_required_capital_yen": 18733245,
+        "specific_required_shares": 8756,
+        "specific_required_capital_yen": 23509860
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131989,
+        "upper_90_yen": 181312,
+        "lower_10_yen": 96934
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288985,
+        "upper_90_yen": 452298,
+        "lower_10_yen": 188128
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 475725,
+        "upper_90_yen": 828595,
+        "lower_10_yen": 280945
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 697847,
+        "upper_90_yen": 1336314,
+        "lower_10_yen": 378229
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 962052,
+        "upper_90_yen": 2009879,
+        "lower_10_yen": 481954
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1276314,
+        "upper_90_yen": 2893250,
+        "lower_10_yen": 593834
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1650117,
+        "upper_90_yen": 4042002,
+        "lower_10_yen": 715543
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2094742,
+        "upper_90_yen": 5526050,
+        "lower_10_yen": 848824
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2623607,
+        "upper_90_yen": 7433102,
+        "lower_10_yen": 995558
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3252672,
+        "upper_90_yen": 9872967,
+        "lower_10_yen": 1157816
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "牧野フライス製作所(6135)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "牧野フライス製作所(6135)を1株(2,685円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,685円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.21%、幾何成長率は14.15%",
+      "新NISAで月1万円の配当金を得るには1,396株（約3,748,260円）が必要"
+    ],
+    "accumulation_strategy_analysis": "牧野フライス製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約2,685円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,252,672円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり86.0円（利回り3.2%）です。月次95%VaR（最大想定損失率）は-10.92%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "牧野フライス製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,685円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,396株（元本目安：約3,748,260円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2685.0
+  }
+}

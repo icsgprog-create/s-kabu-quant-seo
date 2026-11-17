@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4673",
+    "name": "川崎地質",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3795.0,
+    "min_s_kabu_yen": 3795,
+    "unit_lot_yen": 379500,
+    "dps_yen": 145.0,
+    "dividend_yield_pct": 3.82,
+    "raw_annual_return_pct": 0.54,
+    "capped_annual_return_pct": 0.54,
+    "geometric_growth_pct": -9.39,
+    "annual_volatility_pct": 44.55,
+    "max_drawdown_pct": -49.43,
+    "monthly_var_95_pct": -19.52,
+    "sharpe_ratio": -0.15,
+    "quant_score": 32.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 83,
+        "nisa_required_capital_yen": 314985,
+        "specific_required_shares": 104,
+        "specific_required_capital_yen": 394680
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 1571130,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 1973400
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 828,
+        "nisa_required_capital_yen": 3142260,
+        "specific_required_shares": 1039,
+        "specific_required_capital_yen": 3943005
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2483,
+        "nisa_required_capital_yen": 9422985,
+        "specific_required_shares": 3116,
+        "specific_required_capital_yen": 11825220
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 15703710,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 19707435
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116450,
+        "upper_90_yen": 174990,
+        "lower_10_yen": 78683
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 226594,
+        "upper_90_yen": 398330,
+        "lower_10_yen": 133245
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 330773,
+        "upper_90_yen": 656955,
+        "lower_10_yen": 175323
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 429311,
+        "upper_90_yen": 945334,
+        "lower_10_yen": 209057
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 522512,
+        "upper_90_yen": 1259845,
+        "lower_10_yen": 236717
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 610666,
+        "upper_90_yen": 1597735,
+        "lower_10_yen": 259744
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 694047,
+        "upper_90_yen": 1956740,
+        "lower_10_yen": 279129
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 772912,
+        "upper_90_yen": 2334909,
+        "lower_10_yen": 295591
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 847506,
+        "upper_90_yen": 2730511,
+        "lower_10_yen": 309668
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 918061,
+        "upper_90_yen": 3141977,
+        "lower_10_yen": 321774
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "川崎地質(4673)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "川崎地質(4673)を1株(3,795円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,795円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.55%、幾何成長率は-9.39%",
+      "新NISAで月1万円の配当金を得るには828株（約3,142,260円）が必要"
+    ],
+    "accumulation_strategy_analysis": "川崎地質は単元未満株（S株・かぶミニ等）を利用することで1株（約3,795円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は918,061円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり145.0円（利回り3.82%）です。月次95%VaR（最大想定損失率）は-19.52%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "川崎地質は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,795円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、828株（元本目安：約3,142,260円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3795.0
+  }
+}

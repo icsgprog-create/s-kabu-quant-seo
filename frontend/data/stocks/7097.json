@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7097",
+    "name": "さくらさくプラス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2764.0,
+    "min_s_kabu_yen": 2764,
+    "unit_lot_yen": 276400,
+    "dps_yen": 28.0,
+    "dividend_yield_pct": 1.01,
+    "raw_annual_return_pct": 9.22,
+    "capped_annual_return_pct": 9.22,
+    "geometric_growth_pct": 0.34,
+    "annual_volatility_pct": 42.15,
+    "max_drawdown_pct": -68.57,
+    "monthly_var_95_pct": -17.76,
+    "sharpe_ratio": 0.01,
+    "quant_score": 16.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 1185756,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 1487032
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2143,
+        "nisa_required_capital_yen": 5923252,
+        "specific_required_shares": 2690,
+        "specific_required_capital_yen": 7435160
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 11846504,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 14867556
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12858,
+        "nisa_required_capital_yen": 35539512,
+        "specific_required_shares": 16135,
+        "specific_required_capital_yen": 44597140
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21429,
+        "nisa_required_capital_yen": 59229756,
+        "specific_required_shares": 26892,
+        "specific_required_capital_yen": 74329488
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120885,
+        "upper_90_yen": 178042,
+        "lower_10_yen": 83199
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 243421,
+        "upper_90_yen": 417484,
+        "lower_10_yen": 146157
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 367629,
+        "upper_90_yen": 711337,
+        "lower_10_yen": 198784
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 493533,
+        "upper_90_yen": 1059335,
+        "lower_10_yen": 244413
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 621155,
+        "upper_90_yen": 1462927,
+        "lower_10_yen": 284823
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 750519,
+        "upper_90_yen": 1924393,
+        "lower_10_yen": 321127
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 881649,
+        "upper_90_yen": 2446532,
+        "lower_10_yen": 354090
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1014569,
+        "upper_90_yen": 3032535,
+        "lower_10_yen": 384263
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1149303,
+        "upper_90_yen": 3685915,
+        "lower_10_yen": 412067
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1285876,
+        "upper_90_yen": 4410470,
+        "lower_10_yen": 437826
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "さくらさくプラス(7097)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "さくらさくプラス(7097)を1株(2,764円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,764円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.15%、幾何成長率は0.34%",
+      "新NISAで月1万円の配当金を得るには4,286株（約11,846,504円）が必要"
+    ],
+    "accumulation_strategy_analysis": "さくらさくプラスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,764円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,285,876円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり28.0円（利回り1.01%）です。月次95%VaR（最大想定損失率）は-17.76%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "さくらさくプラスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,764円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,286株（元本目安：約11,846,504円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2764.0
+  }
+}

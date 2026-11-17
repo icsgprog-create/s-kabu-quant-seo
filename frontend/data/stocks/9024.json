@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9024",
+    "name": "西武ホールディングス",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3774.0,
+    "min_s_kabu_yen": 3774,
+    "unit_lot_yen": 377400,
+    "dps_yen": 43.0,
+    "dividend_yield_pct": 1.14,
+    "raw_annual_return_pct": 23.09,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.23,
+    "annual_volatility_pct": 33.98,
+    "max_drawdown_pct": -53.85,
+    "monthly_var_95_pct": -13.02,
+    "sharpe_ratio": 0.42,
+    "quant_score": 35.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 280,
+        "nisa_required_capital_yen": 1056720,
+        "specific_required_shares": 351,
+        "specific_required_capital_yen": 1324674
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1396,
+        "nisa_required_capital_yen": 5268504,
+        "specific_required_shares": 1752,
+        "specific_required_capital_yen": 6612048
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 10533234,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 13220322
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8373,
+        "nisa_required_capital_yen": 31599702,
+        "specific_required_shares": 10507,
+        "specific_required_capital_yen": 39653418
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13954,
+        "nisa_required_capital_yen": 52662396,
+        "specific_required_shares": 17511,
+        "specific_required_capital_yen": 66086514
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130542,
+        "upper_90_yen": 178847,
+        "lower_10_yen": 96118
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 282763,
+        "upper_90_yen": 440558,
+        "lower_10_yen": 184884
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 460266,
+        "upper_90_yen": 796487,
+        "lower_10_yen": 273542
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 667247,
+        "upper_90_yen": 1266903,
+        "lower_10_yen": 364714
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 908603,
+        "upper_90_yen": 1878278,
+        "lower_10_yen": 460078
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1190043,
+        "upper_90_yen": 2663824,
+        "lower_10_yen": 560982
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1518224,
+        "upper_90_yen": 3664694,
+        "lower_10_yen": 668656
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1900908,
+        "upper_90_yen": 4931589,
+        "lower_10_yen": 784311
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2347148,
+        "upper_90_yen": 6526773,
+        "lower_10_yen": 909200
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2867497,
+        "upper_90_yen": 8526551,
+        "lower_10_yen": 1044653
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "西武ホールディングス(9024)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "西武ホールディングス(9024)を1株(3,774円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,774円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.98%、幾何成長率は14.23%",
+      "新NISAで月1万円の配当金を得るには2,791株（約10,533,234円）が必要"
+    ],
+    "accumulation_strategy_analysis": "西武ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,774円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,867,497円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり43.0円（利回り1.14%）です。月次95%VaR（最大想定損失率）は-13.02%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "西武ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,774円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,791株（元本目安：約10,533,234円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3774.0
+  }
+}

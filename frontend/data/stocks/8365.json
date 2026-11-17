@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8365",
+    "name": "富山銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1841.0,
+    "min_s_kabu_yen": 1841,
+    "unit_lot_yen": 184100,
+    "dps_yen": 57.5,
+    "dividend_yield_pct": 3.12,
+    "raw_annual_return_pct": 2.31,
+    "capped_annual_return_pct": 2.31,
+    "geometric_growth_pct": -1.28,
+    "annual_volatility_pct": 26.8,
+    "max_drawdown_pct": -35.16,
+    "monthly_var_95_pct": -8.92,
+    "sharpe_ratio": 0.03,
+    "quant_score": 49.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 209,
+        "nisa_required_capital_yen": 384769,
+        "specific_required_shares": 262,
+        "specific_required_capital_yen": 482342
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1044,
+        "nisa_required_capital_yen": 1922004,
+        "specific_required_shares": 1310,
+        "specific_required_capital_yen": 2411710
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2087,
+        "nisa_required_capital_yen": 3842167,
+        "specific_required_shares": 2620,
+        "specific_required_capital_yen": 4823420
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6261,
+        "nisa_required_capital_yen": 11526501,
+        "specific_required_shares": 7858,
+        "specific_required_capital_yen": 14466578
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10435,
+        "nisa_required_capital_yen": 19210835,
+        "specific_required_shares": 13096,
+        "specific_required_capital_yen": 24109736
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121207,
+        "upper_90_yen": 154820,
+        "lower_10_yen": 95414
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 244672,
+        "upper_90_yen": 343778,
+        "lower_10_yen": 176216
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 370437,
+        "upper_90_yen": 561176,
+        "lower_10_yen": 249041
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 498544,
+        "upper_90_yen": 805664,
+        "lower_10_yen": 316213
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 629037,
+        "upper_90_yen": 1076980,
+        "lower_10_yen": 379009
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 761960,
+        "upper_90_yen": 1375353,
+        "lower_10_yen": 438252
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 897360,
+        "upper_90_yen": 1701303,
+        "lower_10_yen": 494518
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1035281,
+        "upper_90_yen": 2055538,
+        "lower_10_yen": 548235
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1175771,
+        "upper_90_yen": 2438911,
+        "lower_10_yen": 599733
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1318878,
+        "upper_90_yen": 2852385,
+        "lower_10_yen": 649277
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "富山銀行(8365)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "富山銀行(8365)を1株(1,841円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,841円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.8%、幾何成長率は-1.28%",
+      "新NISAで月1万円の配当金を得るには2,087株（約3,842,167円）が必要"
+    ],
+    "accumulation_strategy_analysis": "富山銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約1,841円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,318,878円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり57.5円（利回り3.12%）です。月次95%VaR（最大想定損失率）は-8.92%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "富山銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,841円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,087株（元本目安：約3,842,167円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1841.0
+  }
+}

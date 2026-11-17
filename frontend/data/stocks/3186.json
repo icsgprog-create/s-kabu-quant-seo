@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3186",
+    "name": "ネクステージ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2559.0,
+    "min_s_kabu_yen": 2559,
+    "unit_lot_yen": 255900,
+    "dps_yen": 45.0,
+    "dividend_yield_pct": 1.76,
+    "raw_annual_return_pct": 3.8,
+    "capped_annual_return_pct": 3.8,
+    "geometric_growth_pct": -8.19,
+    "annual_volatility_pct": 48.96,
+    "max_drawdown_pct": -64.06,
+    "monthly_var_95_pct": -20.47,
+    "sharpe_ratio": -0.15,
+    "quant_score": 15.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 267,
+        "nisa_required_capital_yen": 683253,
+        "specific_required_shares": 335,
+        "specific_required_capital_yen": 857265
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 3413706,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 4283766
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 6824853,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 8564973
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 20472000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 25692360
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 34121706,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 42819747
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115912,
+        "upper_90_yen": 181438,
+        "lower_10_yen": 75426
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 224607,
+        "upper_90_yen": 417841,
+        "lower_10_yen": 125672
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 326532,
+        "upper_90_yen": 694721,
+        "lower_10_yen": 163314
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 422110,
+        "upper_90_yen": 1005830,
+        "lower_10_yen": 192745
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 511737,
+        "upper_90_yen": 1346994,
+        "lower_10_yen": 216333
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 595782,
+        "upper_90_yen": 1714985,
+        "lower_10_yen": 235556
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 674593,
+        "upper_90_yen": 2107106,
+        "lower_10_yen": 251416
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 748496,
+        "upper_90_yen": 2521004,
+        "lower_10_yen": 264626
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 817797,
+        "upper_90_yen": 2954569,
+        "lower_10_yen": 275714
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 882783,
+        "upper_90_yen": 3405876,
+        "lower_10_yen": 285079
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ネクステージ(3186)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ネクステージ(3186)を1株(2,559円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,559円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは48.96%、幾何成長率は-8.19%",
+      "新NISAで月1万円の配当金を得るには2,667株（約6,824,853円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ネクステージは単元未満株（S株・かぶミニ等）を利用することで1株（約2,559円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は882,783円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり45.0円（利回り1.76%）です。月次95%VaR（最大想定損失率）は-20.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ネクステージは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,559円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,667株（元本目安：約6,824,853円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2559.0
+  }
+}

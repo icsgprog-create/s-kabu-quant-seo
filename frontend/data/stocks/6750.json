@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6750",
+    "name": "エレコム",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1917.0,
+    "min_s_kabu_yen": 1917,
+    "unit_lot_yen": 191700,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 3.13,
+    "raw_annual_return_pct": 7.68,
+    "capped_annual_return_pct": 7.68,
+    "geometric_growth_pct": 4.56,
+    "annual_volatility_pct": 24.95,
+    "max_drawdown_pct": -28.65,
+    "monthly_var_95_pct": -9.29,
+    "sharpe_ratio": 0.27,
+    "quant_score": 56.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 383400,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 481167
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1917000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2405835
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 3834000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 4811670
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 11502000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 14435010
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 19170000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 24058350
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125137,
+        "upper_90_yen": 157321,
+        "lower_10_yen": 100010
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260282,
+        "upper_90_yen": 358298,
+        "lower_10_yen": 191013
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 406234,
+        "upper_90_yen": 601375,
+        "lower_10_yen": 278721
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 563858,
+        "upper_90_yen": 889219,
+        "lower_10_yen": 365088
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 734088,
+        "upper_90_yen": 1225878,
+        "lower_10_yen": 451204
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 917931,
+        "upper_90_yen": 1616333,
+        "lower_10_yen": 537799
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1116476,
+        "upper_90_yen": 2066379,
+        "lower_10_yen": 625419
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1330900,
+        "upper_90_yen": 2582618,
+        "lower_10_yen": 714506
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1562471,
+        "upper_90_yen": 3172493,
+        "lower_10_yen": 805438
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1812562,
+        "upper_90_yen": 3844342,
+        "lower_10_yen": 898553
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エレコム(6750)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エレコム(6750)を1株(1,917円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,917円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.95%、幾何成長率は4.56%",
+      "新NISAで月1万円の配当金を得るには2,000株（約3,834,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エレコムは単元未満株（S株・かぶミニ等）を利用することで1株（約1,917円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,812,562円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り3.13%）です。月次95%VaR（最大想定損失率）は-9.29%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エレコムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,917円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約3,834,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1917.0
+  }
+}

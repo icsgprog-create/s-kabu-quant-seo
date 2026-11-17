@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7343",
+    "name": "ブロードマインド",
+    "sector": "保険業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1242.0,
+    "min_s_kabu_yen": 1242,
+    "unit_lot_yen": 124200,
+    "dps_yen": 104.0,
+    "dividend_yield_pct": 8.37,
+    "raw_annual_return_pct": 15.6,
+    "capped_annual_return_pct": 15.6,
+    "geometric_growth_pct": 8.59,
+    "annual_volatility_pct": 37.44,
+    "max_drawdown_pct": -58.58,
+    "monthly_var_95_pct": -13.08,
+    "sharpe_ratio": 0.43,
+    "quant_score": 63.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 116,
+        "nisa_required_capital_yen": 144072,
+        "specific_required_shares": 145,
+        "specific_required_capital_yen": 180090
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 577,
+        "nisa_required_capital_yen": 716634,
+        "specific_required_shares": 725,
+        "specific_required_capital_yen": 900450
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1154,
+        "nisa_required_capital_yen": 1433268,
+        "specific_required_shares": 1449,
+        "specific_required_capital_yen": 1799658
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3462,
+        "nisa_required_capital_yen": 4299804,
+        "specific_required_shares": 4345,
+        "specific_required_capital_yen": 5396490
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5770,
+        "nisa_required_capital_yen": 7166340,
+        "specific_required_shares": 7241,
+        "specific_required_capital_yen": 8993322
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131706,
+        "upper_90_yen": 186480,
+        "lower_10_yen": 94008
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287762,
+        "upper_90_yen": 470080,
+        "lower_10_yen": 180150
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 472671,
+        "upper_90_yen": 868125,
+        "lower_10_yen": 266209
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 691765,
+        "upper_90_yen": 1409504,
+        "lower_10_yen": 354996
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 951367,
+        "upper_90_yen": 2132347,
+        "lower_10_yen": 448326
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1258964,
+        "upper_90_yen": 3085422,
+        "lower_10_yen": 547686
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1623431,
+        "upper_90_yen": 4330458,
+        "lower_10_yen": 654456
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2055281,
+        "upper_90_yen": 5945215,
+        "lower_10_yen": 770023
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2566973,
+        "upper_90_yen": 8027345,
+        "lower_10_yen": 895844
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3173268,
+        "upper_90_yen": 10699227,
+        "lower_10_yen": 1033491
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブロードマインド(7343)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブロードマインド(7343)を1株(1,242円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,242円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.44%、幾何成長率は8.59%",
+      "新NISAで月1万円の配当金を得るには1,154株（約1,433,268円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブロードマインドは単元未満株（S株・かぶミニ等）を利用することで1株（約1,242円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,173,268円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり104.0円（利回り8.37%）です。月次95%VaR（最大想定損失率）は-13.08%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブロードマインドは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,242円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,154株（元本目安：約1,433,268円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1242.0
+  }
+}

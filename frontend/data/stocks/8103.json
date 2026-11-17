@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8103",
+    "name": "明和産業",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 935.0,
+    "min_s_kabu_yen": 935,
+    "unit_lot_yen": 93500,
+    "dps_yen": 42.0,
+    "dividend_yield_pct": 4.49,
+    "raw_annual_return_pct": 7.49,
+    "capped_annual_return_pct": 7.49,
+    "geometric_growth_pct": 4.55,
+    "annual_volatility_pct": 24.24,
+    "max_drawdown_pct": -43.14,
+    "monthly_var_95_pct": -11.06,
+    "sharpe_ratio": 0.33,
+    "quant_score": 70.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 286,
+        "nisa_required_capital_yen": 267410,
+        "specific_required_shares": 359,
+        "specific_required_capital_yen": 335665
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1429,
+        "nisa_required_capital_yen": 1336115,
+        "specific_required_shares": 1793,
+        "specific_required_capital_yen": 1676455
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 2672230,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 3352910
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 8014820,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 10057795
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 14286,
+        "nisa_required_capital_yen": 13357410,
+        "specific_required_shares": 17928,
+        "specific_required_capital_yen": 16762680
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126068,
+        "upper_90_yen": 157479,
+        "lower_10_yen": 101374
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 264072,
+        "upper_90_yen": 360397,
+        "lower_10_yen": 195353
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 415140,
+        "upper_90_yen": 608343,
+        "lower_10_yen": 287468
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 580509,
+        "upper_90_yen": 905157,
+        "lower_10_yen": 379655
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 761534,
+        "upper_90_yen": 1256220,
+        "lower_10_yen": 473042
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 959697,
+        "upper_90_yen": 1668071,
+        "lower_10_yen": 568422
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1176619,
+        "upper_90_yen": 2148334,
+        "lower_10_yen": 666430
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1414078,
+        "upper_90_yen": 2705761,
+        "lower_10_yen": 767612
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1674016,
+        "upper_90_yen": 3350314,
+        "lower_10_yen": 872466
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1958563,
+        "upper_90_yen": 4093288,
+        "lower_10_yen": 981465
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "明和産業(8103)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "明和産業(8103)を1株(935円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小935円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.24%、幾何成長率は4.55%",
+      "新NISAで月1万円の配当金を得るには2,858株（約2,672,230円）が必要"
+    ],
+    "accumulation_strategy_analysis": "明和産業は単元未満株（S株・かぶミニ等）を利用することで1株（約935円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,958,563円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり42.0円（利回り4.49%）です。月次95%VaR（最大想定損失率）は-11.06%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "明和産業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約935円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,858株（元本目安：約2,672,230円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 935.0
+  }
+}

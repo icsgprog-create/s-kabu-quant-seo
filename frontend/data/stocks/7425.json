@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7425",
+    "name": "初穂商事",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1070.0,
+    "min_s_kabu_yen": 1070,
+    "unit_lot_yen": 107000,
+    "dps_yen": 38.5,
+    "dividend_yield_pct": 3.6,
+    "raw_annual_return_pct": 22.31,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.02,
+    "annual_volatility_pct": 24.41,
+    "max_drawdown_pct": -36.6,
+    "monthly_var_95_pct": -8.8,
+    "sharpe_ratio": 0.8,
+    "quant_score": 74.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 312,
+        "nisa_required_capital_yen": 333840,
+        "specific_required_shares": 392,
+        "specific_required_capital_yen": 419440
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1559,
+        "nisa_required_capital_yen": 1668130,
+        "specific_required_shares": 1956,
+        "specific_required_capital_yen": 2092920
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3117,
+        "nisa_required_capital_yen": 3335190,
+        "specific_required_shares": 3912,
+        "specific_required_capital_yen": 4185840
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9351,
+        "nisa_required_capital_yen": 10005570,
+        "specific_required_shares": 11735,
+        "specific_required_capital_yen": 12556450
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15585,
+        "nisa_required_capital_yen": 16675950,
+        "specific_required_shares": 19558,
+        "specific_required_capital_yen": 20927060
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134415,
+        "upper_90_yen": 168548,
+        "lower_10_yen": 107675
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 299608,
+        "upper_90_yen": 412429,
+        "lower_10_yen": 219717
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 502626,
+        "upper_90_yen": 747168,
+        "lower_10_yen": 342946
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 752131,
+        "upper_90_yen": 1197274,
+        "lower_10_yen": 481331
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1058766,
+        "upper_90_yen": 1795248,
+        "lower_10_yen": 638641
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1435614,
+        "upper_90_yen": 2583181,
+        "lower_10_yen": 818943
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1898751,
+        "upper_90_yen": 3615153,
+        "lower_10_yen": 1026857
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2467935,
+        "upper_90_yen": 4960413,
+        "lower_10_yen": 1267746
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3167450,
+        "upper_90_yen": 6707433,
+        "lower_10_yen": 1547901
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4027137,
+        "upper_90_yen": 8969084,
+        "lower_10_yen": 1874750
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "初穂商事(7425)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "初穂商事(7425)を1株(1,070円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,070円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.41%、幾何成長率は17.02%",
+      "新NISAで月1万円の配当金を得るには3,117株（約3,335,190円）が必要"
+    ],
+    "accumulation_strategy_analysis": "初穂商事は単元未満株（S株・かぶミニ等）を利用することで1株（約1,070円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,027,137円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり38.5円（利回り3.6%）です。月次95%VaR（最大想定損失率）は-8.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "初穂商事は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,070円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,117株（元本目安：約3,335,190円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1070.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7115",
+    "name": "アルファパーチェス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1114.0,
+    "min_s_kabu_yen": 1114,
+    "unit_lot_yen": 111400,
+    "dps_yen": 37.0,
+    "dividend_yield_pct": 3.32,
+    "raw_annual_return_pct": 13.0,
+    "capped_annual_return_pct": 13.0,
+    "geometric_growth_pct": 2.49,
+    "annual_volatility_pct": 45.85,
+    "max_drawdown_pct": -69.75,
+    "monthly_var_95_pct": -16.41,
+    "sharpe_ratio": 0.1,
+    "quant_score": 34.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 325,
+        "nisa_required_capital_yen": 362050,
+        "specific_required_shares": 408,
+        "specific_required_capital_yen": 454512
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 1806908,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 2268104
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3244,
+        "nisa_required_capital_yen": 3613816,
+        "specific_required_shares": 4071,
+        "specific_required_capital_yen": 4535094
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9730,
+        "nisa_required_capital_yen": 10839220,
+        "specific_required_shares": 12211,
+        "specific_required_capital_yen": 13603054
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16217,
+        "nisa_required_capital_yen": 18065738,
+        "specific_required_shares": 20351,
+        "specific_required_capital_yen": 22671014
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123853,
+        "upper_90_yen": 189143,
+        "lower_10_yen": 82408
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 255113,
+        "upper_90_yen": 461485,
+        "lower_10_yen": 145969
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 394224,
+        "upper_90_yen": 816760,
+        "lower_10_yen": 200593
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 541654,
+        "upper_90_yen": 1262654,
+        "lower_10_yen": 249438
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 697902,
+        "upper_90_yen": 1809721,
+        "lower_10_yen": 294135
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 863495,
+        "upper_90_yen": 2470640,
+        "lower_10_yen": 335677
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1038991,
+        "upper_90_yen": 3260072,
+        "lower_10_yen": 374734
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1224983,
+        "upper_90_yen": 4194703,
+        "lower_10_yen": 411782
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1422098,
+        "upper_90_yen": 5293380,
+        "lower_10_yen": 447176
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1631003,
+        "upper_90_yen": 6577291,
+        "lower_10_yen": 481192
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アルファパーチェス(7115)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アルファパーチェス(7115)を1株(1,114円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,114円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.85%、幾何成長率は2.49%",
+      "新NISAで月1万円の配当金を得るには3,244株（約3,613,816円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アルファパーチェスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,114円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,631,003円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり37.0円（利回り3.32%）です。月次95%VaR（最大想定損失率）は-16.41%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アルファパーチェスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,114円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,244株（元本目安：約3,613,816円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1114.0
+  }
+}

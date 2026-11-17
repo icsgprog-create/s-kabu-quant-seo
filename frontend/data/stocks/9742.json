@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9742",
+    "name": "アイネス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2348.0,
+    "min_s_kabu_yen": 2348,
+    "unit_lot_yen": 234800,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 2.13,
+    "raw_annual_return_pct": 12.25,
+    "capped_annual_return_pct": 12.25,
+    "geometric_growth_pct": 7.39,
+    "annual_volatility_pct": 31.16,
+    "max_drawdown_pct": -26.87,
+    "monthly_var_95_pct": -10.57,
+    "sharpe_ratio": 0.27,
+    "quant_score": 42.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 563520,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 709096
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2817600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 3536088
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 5635200,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 7072176
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 16905600,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 21216528
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 28176000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 35360880
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126398,
+        "upper_90_yen": 168401,
+        "lower_10_yen": 95573
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265422,
+        "upper_90_yen": 396683,
+        "lower_10_yen": 180423
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 418333,
+        "upper_90_yen": 685860,
+        "lower_10_yen": 261384
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 586517,
+        "upper_90_yen": 1042661,
+        "lower_10_yen": 340735
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 771501,
+        "upper_90_yen": 1476155,
+        "lower_10_yen": 419730
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 974963,
+        "upper_90_yen": 1997329,
+        "lower_10_yen": 499207
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1198747,
+        "upper_90_yen": 2619091,
+        "lower_10_yen": 579792
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1444885,
+        "upper_90_yen": 3356408,
+        "lower_10_yen": 661996
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1715609,
+        "upper_90_yen": 4226533,
+        "lower_10_yen": 746260
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2013375,
+        "upper_90_yen": 5249273,
+        "lower_10_yen": 832983
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイネス(9742)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイネス(9742)を1株(2,348円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,348円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.16%、幾何成長率は7.39%",
+      "新NISAで月1万円の配当金を得るには2,400株（約5,635,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイネスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,348円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,013,375円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り2.13%）です。月次95%VaR（最大想定損失率）は-10.57%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイネスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,348円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約5,635,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2348.0
+  }
+}

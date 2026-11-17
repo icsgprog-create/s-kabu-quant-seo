@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8111",
+    "name": "ゴールドウイン",
+    "sector": "繊維製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2264.5,
+    "min_s_kabu_yen": 2265,
+    "unit_lot_yen": 226450,
+    "dps_yen": 64.0,
+    "dividend_yield_pct": 2.83,
+    "raw_annual_return_pct": 0.83,
+    "capped_annual_return_pct": 0.83,
+    "geometric_growth_pct": -4.23,
+    "annual_volatility_pct": 31.79,
+    "max_drawdown_pct": -51.63,
+    "monthly_var_95_pct": -12.46,
+    "sharpe_ratio": -0.08,
+    "quant_score": 38.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 188,
+        "nisa_required_capital_yen": 425726,
+        "specific_required_shares": 236,
+        "specific_required_capital_yen": 534422
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 938,
+        "nisa_required_capital_yen": 2124101,
+        "specific_required_shares": 1177,
+        "specific_required_capital_yen": 2665316
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 4245938,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 5330633
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5625,
+        "nisa_required_capital_yen": 12737812,
+        "specific_required_shares": 7060,
+        "specific_required_capital_yen": 15987370
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9375,
+        "nisa_required_capital_yen": 21229688,
+        "specific_required_shares": 11766,
+        "specific_required_capital_yen": 26644107
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119094,
+        "upper_90_yen": 159188,
+        "lower_10_yen": 89791
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 236533,
+        "upper_90_yen": 353708,
+        "lower_10_yen": 160854
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 352339,
+        "upper_90_yen": 575336,
+        "lower_10_yen": 221447
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 466534,
+        "upper_90_yen": 821121,
+        "lower_10_yen": 274556
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 579142,
+        "upper_90_yen": 1089419,
+        "lower_10_yen": 321854
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 690184,
+        "upper_90_yen": 1379163,
+        "lower_10_yen": 364437
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 799682,
+        "upper_90_yen": 1689601,
+        "lower_10_yen": 403080
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 907658,
+        "upper_90_yen": 2020175,
+        "lower_10_yen": 438364
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1014133,
+        "upper_90_yen": 2370449,
+        "lower_10_yen": 470743
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1119127,
+        "upper_90_yen": 2740081,
+        "lower_10_yen": 500577
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ゴールドウイン(8111)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ゴールドウイン(8111)を1株(2,265円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,265円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.79%、幾何成長率は-4.23%",
+      "新NISAで月1万円の配当金を得るには1,875株（約4,245,938円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ゴールドウインは単元未満株（S株・かぶミニ等）を利用することで1株（約2,265円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,119,127円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり64.0円（利回り2.83%）です。月次95%VaR（最大想定損失率）は-12.46%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ゴールドウインは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,265円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,875株（元本目安：約4,245,938円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2264.5
+  }
+}

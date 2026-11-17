@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4977",
+    "name": "新田ゼラチン",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1170.0,
+    "min_s_kabu_yen": 1170,
+    "unit_lot_yen": 117000,
+    "dps_yen": 38.0,
+    "dividend_yield_pct": 3.25,
+    "raw_annual_return_pct": 15.32,
+    "capped_annual_return_pct": 15.32,
+    "geometric_growth_pct": 9.75,
+    "annual_volatility_pct": 33.38,
+    "max_drawdown_pct": -42.86,
+    "monthly_var_95_pct": -12.96,
+    "sharpe_ratio": 0.36,
+    "quant_score": 51.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 316,
+        "nisa_required_capital_yen": 369720,
+        "specific_required_shares": 397,
+        "specific_required_capital_yen": 464490
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1579,
+        "nisa_required_capital_yen": 1847430,
+        "specific_required_shares": 1982,
+        "specific_required_capital_yen": 2318940
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 3694860,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 4636710
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9474,
+        "nisa_required_capital_yen": 11084580,
+        "specific_required_shares": 11889,
+        "specific_required_capital_yen": 13910130
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15790,
+        "nisa_required_capital_yen": 18474300,
+        "specific_required_shares": 19815,
+        "specific_required_capital_yen": 23183550
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128842,
+        "upper_90_yen": 175417,
+        "lower_10_yen": 95435
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275566,
+        "upper_90_yen": 425175,
+        "lower_10_yen": 181845
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 442654,
+        "upper_90_yen": 756024,
+        "lower_10_yen": 266355
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 632932,
+        "upper_90_yen": 1182132,
+        "lower_10_yen": 351414
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 849618,
+        "upper_90_yen": 1721940,
+        "lower_10_yen": 438468
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1096378,
+        "upper_90_yen": 2398149,
+        "lower_10_yen": 528576
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1377386,
+        "upper_90_yen": 3238242,
+        "lower_10_yen": 622626
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1697394,
+        "upper_90_yen": 4275245,
+        "lower_10_yen": 721427
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2061816,
+        "upper_90_yen": 5548688,
+        "lower_10_yen": 825760
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2476816,
+        "upper_90_yen": 7105776,
+        "lower_10_yen": 936411
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "新田ゼラチン(4977)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "新田ゼラチン(4977)を1株(1,170円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,170円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.38%、幾何成長率は9.75%",
+      "新NISAで月1万円の配当金を得るには3,158株（約3,694,860円）が必要"
+    ],
+    "accumulation_strategy_analysis": "新田ゼラチンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,170円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,476,816円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり38.0円（利回り3.25%）です。月次95%VaR（最大想定損失率）は-12.96%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "新田ゼラチンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,170円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,158株（元本目安：約3,694,860円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1170.0
+  }
+}

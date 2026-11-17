@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "378A",
+    "name": "ヒット",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 632.0,
+    "min_s_kabu_yen": 632,
+    "unit_lot_yen": 63200,
+    "dps_yen": 22.5,
+    "dividend_yield_pct": 3.56,
+    "raw_annual_return_pct": -53.4,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -28.26,
+    "annual_volatility_pct": 51.51,
+    "max_drawdown_pct": -55.57,
+    "monthly_var_95_pct": -21.04,
+    "sharpe_ratio": -0.5,
+    "quant_score": 28.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 534,
+        "nisa_required_capital_yen": 337488,
+        "specific_required_shares": 670,
+        "specific_required_capital_yen": 423440
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 1685544,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 2115304
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5334,
+        "nisa_required_capital_yen": 3371088,
+        "specific_required_shares": 6694,
+        "specific_required_capital_yen": 4230608
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16000,
+        "nisa_required_capital_yen": 10112000,
+        "specific_required_shares": 20080,
+        "specific_required_capital_yen": 12690560
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26667,
+        "nisa_required_capital_yen": 16853544,
+        "specific_required_shares": 33466,
+        "specific_required_capital_yen": 21150512
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105236,
+        "upper_90_yen": 167457,
+        "lower_10_yen": 67509
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 187437,
+        "upper_90_yen": 352871,
+        "lower_10_yen": 104170
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 251645,
+        "upper_90_yen": 536017,
+        "lower_10_yen": 126761
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 301798,
+        "upper_90_yen": 709130,
+        "lower_10_yen": 141328
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 340974,
+        "upper_90_yen": 868599,
+        "lower_10_yen": 150971
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 371574,
+        "upper_90_yen": 1012954,
+        "lower_10_yen": 157468
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 395477,
+        "upper_90_yen": 1141959,
+        "lower_10_yen": 161903
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 414147,
+        "upper_90_yen": 1256099,
+        "lower_10_yen": 164961
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 428731,
+        "upper_90_yen": 1356278,
+        "lower_10_yen": 167086
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 440122,
+        "upper_90_yen": 1443620,
+        "lower_10_yen": 168573
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヒット(378A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヒット(378A)を1株(632円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小632円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.51%、幾何成長率は-28.26%",
+      "新NISAで月1万円の配当金を得るには5,334株（約3,371,088円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヒットは単元未満株（S株・かぶミニ等）を利用することで1株（約632円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は440,122円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.5円（利回り3.56%）です。月次95%VaR（最大想定損失率）は-21.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヒットは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約632円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,334株（元本目安：約3,371,088円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 632.0
+  }
+}

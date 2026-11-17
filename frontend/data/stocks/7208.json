@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7208",
+    "name": "カネミツ",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1125.0,
+    "min_s_kabu_yen": 1125,
+    "unit_lot_yen": 112500,
+    "dps_yen": 41.0,
+    "dividend_yield_pct": 3.64,
+    "raw_annual_return_pct": 12.16,
+    "capped_annual_return_pct": 12.16,
+    "geometric_growth_pct": 10.38,
+    "annual_volatility_pct": 18.88,
+    "max_drawdown_pct": -23.87,
+    "monthly_var_95_pct": -6.72,
+    "sharpe_ratio": 0.69,
+    "quant_score": 77.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 293,
+        "nisa_required_capital_yen": 329625,
+        "specific_required_shares": 368,
+        "specific_required_capital_yen": 414000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1464,
+        "nisa_required_capital_yen": 1647000,
+        "specific_required_shares": 1837,
+        "specific_required_capital_yen": 2066625
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2927,
+        "nisa_required_capital_yen": 3292875,
+        "specific_required_shares": 3673,
+        "specific_required_capital_yen": 4132125
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8781,
+        "nisa_required_capital_yen": 9878625,
+        "specific_required_shares": 11019,
+        "specific_required_capital_yen": 12396375
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 14635,
+        "nisa_required_capital_yen": 16464375,
+        "specific_required_shares": 18365,
+        "specific_required_capital_yen": 20660625
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129573,
+        "upper_90_yen": 154140,
+        "lower_10_yen": 109216
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 278647,
+        "upper_90_yen": 355479,
+        "lower_10_yen": 219680
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 450156,
+        "upper_90_yen": 607820,
+        "lower_10_yen": 336306
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 647478,
+        "upper_90_yen": 919073,
+        "lower_10_yen": 461442
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 874497,
+        "upper_90_yen": 1299416,
+        "lower_10_yen": 596981
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1135681,
+        "upper_90_yen": 1761240,
+        "lower_10_yen": 744726
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1436175,
+        "upper_90_yen": 2319378,
+        "lower_10_yen": 906537
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1781892,
+        "upper_90_yen": 2991466,
+        "lower_10_yen": 1084401
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2179641,
+        "upper_90_yen": 3798397,
+        "lower_10_yen": 1280484
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2637250,
+        "upper_90_yen": 4764872,
+        "lower_10_yen": 1497182
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "カネミツ(7208)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "カネミツ(7208)を1株(1,125円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,125円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.88%、幾何成長率は10.38%",
+      "新NISAで月1万円の配当金を得るには2,927株（約3,292,875円）が必要"
+    ],
+    "accumulation_strategy_analysis": "カネミツは単元未満株（S株・かぶミニ等）を利用することで1株（約1,125円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,637,250円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり41.0円（利回り3.64%）です。月次95%VaR（最大想定損失率）は-6.72%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "カネミツは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,125円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,927株（元本目安：約3,292,875円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1125.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5189",
+    "name": "櫻護謨",
+    "sector": "ゴム製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3150.0,
+    "min_s_kabu_yen": 3150,
+    "unit_lot_yen": 315000,
+    "dps_yen": 150.0,
+    "dividend_yield_pct": 4.76,
+    "raw_annual_return_pct": 12.65,
+    "capped_annual_return_pct": 12.65,
+    "geometric_growth_pct": 1.82,
+    "annual_volatility_pct": 46.54,
+    "max_drawdown_pct": -51.22,
+    "monthly_var_95_pct": -16.54,
+    "sharpe_ratio": 0.12,
+    "quant_score": 46.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 80,
+        "nisa_required_capital_yen": 252000,
+        "specific_required_shares": 101,
+        "specific_required_capital_yen": 318150
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 1260000,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 1581300
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 2520000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 3162600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 7560000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 9487800
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 12600000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 15813000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124380,
+        "upper_90_yen": 191237,
+        "lower_10_yen": 82240
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 257228,
+        "upper_90_yen": 469967,
+        "lower_10_yen": 145866
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 399120,
+        "upper_90_yen": 837540,
+        "lower_10_yen": 200799
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 550672,
+        "upper_90_yen": 1303641,
+        "lower_10_yen": 250178
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 712540,
+        "upper_90_yen": 1881223,
+        "lower_10_yen": 295616
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 885428,
+        "upper_90_yen": 2585831,
+        "lower_10_yen": 338093
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1070086,
+        "upper_90_yen": 3435532,
+        "lower_10_yen": 378268
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1267314,
+        "upper_90_yen": 4451051,
+        "lower_10_yen": 416610
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1477970,
+        "upper_90_yen": 5655998,
+        "lower_10_yen": 453470
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1702966,
+        "upper_90_yen": 7077163,
+        "lower_10_yen": 489119
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "櫻護謨(5189)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "櫻護謨(5189)を1株(3,150円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,150円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは46.54%、幾何成長率は1.82%",
+      "新NISAで月1万円の配当金を得るには800株（約2,520,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "櫻護謨は単元未満株（S株・かぶミニ等）を利用することで1株（約3,150円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,702,966円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり150.0円（利回り4.76%）です。月次95%VaR（最大想定損失率）は-16.54%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "櫻護謨は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,150円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、800株（元本目安：約2,520,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3150.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9428",
+    "name": "クロップス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1405.0,
+    "min_s_kabu_yen": 1405,
+    "unit_lot_yen": 140500,
+    "dps_yen": 29.0,
+    "dividend_yield_pct": 2.06,
+    "raw_annual_return_pct": 9.04,
+    "capped_annual_return_pct": 9.04,
+    "geometric_growth_pct": 3.13,
+    "annual_volatility_pct": 34.39,
+    "max_drawdown_pct": -35.32,
+    "monthly_var_95_pct": -13.79,
+    "sharpe_ratio": 0.12,
+    "quant_score": 35.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 581670,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 730600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 2906945,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 3648785
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 5813890,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 7296165
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12414,
+        "nisa_required_capital_yen": 17441670,
+        "specific_required_shares": 15579,
+        "specific_required_capital_yen": 21888495
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 29069450,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 36480825
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123437,
+        "upper_90_yen": 169299,
+        "lower_10_yen": 90813
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253454,
+        "upper_90_yen": 393946,
+        "lower_10_yen": 166261
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 390401,
+        "upper_90_yen": 670515,
+        "lower_10_yen": 234181
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 534649,
+        "upper_90_yen": 1001244,
+        "lower_10_yen": 297166
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 686585,
+        "upper_90_yen": 1390050,
+        "lower_10_yen": 356591
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 846619,
+        "upper_90_yen": 1841865,
+        "lower_10_yen": 413317
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1015185,
+        "upper_90_yen": 2362432,
+        "lower_10_yen": 467934
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1192735,
+        "upper_90_yen": 2958246,
+        "lower_10_yen": 520872
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1379749,
+        "upper_90_yen": 3636545,
+        "lower_10_yen": 572458
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1576732,
+        "upper_90_yen": 4405333,
+        "lower_10_yen": 622951
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クロップス(9428)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クロップス(9428)を1株(1,405円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,405円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.39%、幾何成長率は3.13%",
+      "新NISAで月1万円の配当金を得るには4,138株（約5,813,890円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クロップスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,405円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,576,732円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり29.0円（利回り2.06%）です。月次95%VaR（最大想定損失率）は-13.79%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クロップスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,405円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,138株（元本目安：約5,813,890円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1405.0
+  }
+}

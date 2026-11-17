@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4258",
+    "name": "網屋",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4740.0,
+    "min_s_kabu_yen": 4740,
+    "unit_lot_yen": 474000,
+    "dps_yen": 15.73,
+    "dividend_yield_pct": 0.33,
+    "raw_annual_return_pct": 32.1,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": -0.72,
+    "annual_volatility_pct": 64.37,
+    "max_drawdown_pct": -61.06,
+    "monthly_var_95_pct": -22.8,
+    "sharpe_ratio": -0.02,
+    "quant_score": 7.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 763,
+        "nisa_required_capital_yen": 3616620,
+        "specific_required_shares": 958,
+        "specific_required_capital_yen": 4540920
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3815,
+        "nisa_required_capital_yen": 18083100,
+        "specific_required_shares": 4787,
+        "specific_required_capital_yen": 22690380
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7629,
+        "nisa_required_capital_yen": 36161460,
+        "specific_required_shares": 9574,
+        "specific_required_capital_yen": 45380760
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22887,
+        "nisa_required_capital_yen": 108484380,
+        "specific_required_shares": 28721,
+        "specific_required_capital_yen": 136137540
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 38144,
+        "nisa_required_capital_yen": 180802560,
+        "specific_required_shares": 47869,
+        "specific_required_capital_yen": 226899060
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119749,
+        "upper_90_yen": 217259,
+        "lower_10_yen": 68124
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239035,
+        "upper_90_yen": 549481,
+        "lower_10_yen": 111354
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 357859,
+        "upper_90_yen": 992423,
+        "lower_10_yen": 143409
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 476225,
+        "upper_90_yen": 1551867,
+        "lower_10_yen": 168552
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 594133,
+        "upper_90_yen": 2236314,
+        "lower_10_yen": 188927
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 711586,
+        "upper_90_yen": 3055756,
+        "lower_10_yen": 205805
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 828585,
+        "upper_90_yen": 4021273,
+        "lower_10_yen": 220013
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 945131,
+        "upper_90_yen": 5144871,
+        "lower_10_yen": 232124
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1061227,
+        "upper_90_yen": 6439409,
+        "lower_10_yen": 242553
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1176875,
+        "upper_90_yen": 7918578,
+        "lower_10_yen": 251608
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "網屋(4258)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "網屋(4258)を1株(4,740円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,740円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは64.37%、幾何成長率は-0.72%",
+      "新NISAで月1万円の配当金を得るには7,629株（約36,161,460円）が必要"
+    ],
+    "accumulation_strategy_analysis": "網屋は単元未満株（S株・かぶミニ等）を利用することで1株（約4,740円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,176,875円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.73円（利回り0.33%）です。月次95%VaR（最大想定損失率）は-22.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "網屋は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,740円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,629株（元本目安：約36,161,460円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4740.0
+  }
+}

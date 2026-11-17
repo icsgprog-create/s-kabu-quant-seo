@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6730",
+    "name": "アクセル",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1559.0,
+    "min_s_kabu_yen": 1559,
+    "unit_lot_yen": 155900,
+    "dps_yen": 57.0,
+    "dividend_yield_pct": 3.66,
+    "raw_annual_return_pct": 15.89,
+    "capped_annual_return_pct": 15.89,
+    "geometric_growth_pct": 6.0,
+    "annual_volatility_pct": 44.47,
+    "max_drawdown_pct": -58.43,
+    "monthly_var_95_pct": -15.69,
+    "sharpe_ratio": 0.19,
+    "quant_score": 39.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 211,
+        "nisa_required_capital_yen": 328949,
+        "specific_required_shares": 265,
+        "specific_required_capital_yen": 413135
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1053,
+        "nisa_required_capital_yen": 1641627,
+        "specific_required_shares": 1321,
+        "specific_required_capital_yen": 2059439
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2106,
+        "nisa_required_capital_yen": 3283254,
+        "specific_required_shares": 2642,
+        "specific_required_capital_yen": 4118878
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 9846644,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 12356634
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10527,
+        "nisa_required_capital_yen": 16411593,
+        "specific_required_shares": 13210,
+        "specific_required_capital_yen": 20594390
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126495,
+        "upper_90_yen": 190931,
+        "lower_10_yen": 85071
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265820,
+        "upper_90_yen": 473890,
+        "lower_10_yen": 153977
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 419275,
+        "upper_90_yen": 855057,
+        "lower_10_yen": 215921
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 588294,
+        "upper_90_yen": 1349662,
+        "lower_10_yen": 273789
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 774456,
+        "upper_90_yen": 1977507,
+        "lower_10_yen": 329069
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 979498,
+        "upper_90_yen": 2762658,
+        "lower_10_yen": 382681
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1205336,
+        "upper_90_yen": 3733762,
+        "lower_10_yen": 435256
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1454080,
+        "upper_90_yen": 4924609,
+        "lower_10_yen": 487259
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1728052,
+        "upper_90_yen": 6374868,
+        "lower_10_yen": 539057
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2029810,
+        "upper_90_yen": 8130966,
+        "lower_10_yen": 590946
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アクセル(6730)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アクセル(6730)を1株(1,559円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,559円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.47%、幾何成長率は6.0%",
+      "新NISAで月1万円の配当金を得るには2,106株（約3,283,254円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アクセルは単元未満株（S株・かぶミニ等）を利用することで1株（約1,559円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,029,810円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり57.0円（利回り3.66%）です。月次95%VaR（最大想定損失率）は-15.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アクセルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,559円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,106株（元本目安：約3,283,254円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1559.0
+  }
+}

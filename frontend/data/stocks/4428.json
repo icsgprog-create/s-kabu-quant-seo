@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4428",
+    "name": "シノプス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 640.0,
+    "min_s_kabu_yen": 640,
+    "unit_lot_yen": 64000,
+    "dps_yen": 16.0,
+    "dividend_yield_pct": 2.5,
+    "raw_annual_return_pct": -16.85,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -23.25,
+    "annual_volatility_pct": 40.63,
+    "max_drawdown_pct": -59.07,
+    "monthly_var_95_pct": -16.6,
+    "sharpe_ratio": -0.54,
+    "quant_score": 24.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 480000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 602880
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 2400000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 3012480
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 4800000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 6024320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22500,
+        "nisa_required_capital_yen": 14400000,
+        "specific_required_shares": 28237,
+        "specific_required_capital_yen": 18071680
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 37500,
+        "nisa_required_capital_yen": 24000000,
+        "specific_required_shares": 47061,
+        "specific_required_capital_yen": 30119040
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107432,
+        "upper_90_yen": 154916,
+        "lower_10_yen": 75461
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 194729,
+        "upper_90_yen": 320782,
+        "lower_10_yen": 121578
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 265665,
+        "upper_90_yen": 482985,
+        "lower_10_yen": 152669
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 323307,
+        "upper_90_yen": 636186,
+        "lower_10_yen": 174391
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 370145,
+        "upper_90_yen": 777971,
+        "lower_10_yen": 189883
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 408205,
+        "upper_90_yen": 907396,
+        "lower_10_yen": 201087
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 439132,
+        "upper_90_yen": 1024344,
+        "lower_10_yen": 209273
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 464263,
+        "upper_90_yen": 1129190,
+        "lower_10_yen": 215301
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 484684,
+        "upper_90_yen": 1222591,
+        "lower_10_yen": 219769
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 501278,
+        "upper_90_yen": 1305361,
+        "lower_10_yen": 223097
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シノプス(4428)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シノプス(4428)を1株(640円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小640円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは40.63%、幾何成長率は-23.25%",
+      "新NISAで月1万円の配当金を得るには7,500株（約4,800,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シノプスは単元未満株（S株・かぶミニ等）を利用することで1株（約640円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は501,278円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.0円（利回り2.5%）です。月次95%VaR（最大想定損失率）は-16.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シノプスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約640円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,500株（元本目安：約4,800,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 640.0
+  }
+}

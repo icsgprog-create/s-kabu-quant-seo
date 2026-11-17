@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6078",
+    "name": "バリューＨＲ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1478.0,
+    "min_s_kabu_yen": 1478,
+    "unit_lot_yen": 147800,
+    "dps_yen": 27.5,
+    "dividend_yield_pct": 1.86,
+    "raw_annual_return_pct": 6.29,
+    "capped_annual_return_pct": 6.29,
+    "geometric_growth_pct": 1.41,
+    "annual_volatility_pct": 31.23,
+    "max_drawdown_pct": -33.39,
+    "monthly_var_95_pct": -11.61,
+    "sharpe_ratio": 0.07,
+    "quant_score": 35.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 437,
+        "nisa_required_capital_yen": 645886,
+        "specific_required_shares": 548,
+        "specific_required_capital_yen": 809944
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 3224996,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 4048242
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4364,
+        "nisa_required_capital_yen": 6449992,
+        "specific_required_shares": 5477,
+        "specific_required_capital_yen": 8095006
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13091,
+        "nisa_required_capital_yen": 19348498,
+        "specific_required_shares": 16429,
+        "specific_required_capital_yen": 24282062
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21819,
+        "nisa_required_capital_yen": 32248482,
+        "specific_required_shares": 27381,
+        "specific_required_capital_yen": 40469118
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122152,
+        "upper_90_yen": 162613,
+        "lower_10_yen": 92443
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248367,
+        "upper_90_yen": 369940,
+        "lower_10_yen": 169448
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 378782,
+        "upper_90_yen": 616796,
+        "lower_10_yen": 238437
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 513535,
+        "upper_90_yen": 903039,
+        "lower_10_yen": 301933
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 652771,
+        "upper_90_yen": 1229846,
+        "lower_10_yen": 361298
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 796639,
+        "upper_90_yen": 1599052,
+        "lower_10_yen": 417393
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 945294,
+        "upper_90_yen": 2012934,
+        "lower_10_yen": 470813
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1098894,
+        "upper_90_yen": 2474107,
+        "lower_10_yen": 521994
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1257605,
+        "upper_90_yen": 2985482,
+        "lower_10_yen": 571270
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1421595,
+        "upper_90_yen": 3550246,
+        "lower_10_yen": 618905
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "バリューＨＲ(6078)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "バリューＨＲ(6078)を1株(1,478円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,478円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.23%、幾何成長率は1.41%",
+      "新NISAで月1万円の配当金を得るには4,364株（約6,449,992円）が必要"
+    ],
+    "accumulation_strategy_analysis": "バリューＨＲは単元未満株（S株・かぶミニ等）を利用することで1株（約1,478円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,421,595円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり27.5円（利回り1.86%）です。月次95%VaR（最大想定損失率）は-11.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "バリューＨＲは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,478円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,364株（元本目安：約6,449,992円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1478.0
+  }
+}

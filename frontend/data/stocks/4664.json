@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4664",
+    "name": "アール・エス・シー",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 986.0,
+    "min_s_kabu_yen": 986,
+    "unit_lot_yen": 98600,
+    "dps_yen": 24.0,
+    "dividend_yield_pct": 2.43,
+    "raw_annual_return_pct": 16.36,
+    "capped_annual_return_pct": 16.36,
+    "geometric_growth_pct": -1.57,
+    "annual_volatility_pct": 59.88,
+    "max_drawdown_pct": -66.08,
+    "monthly_var_95_pct": -17.05,
+    "sharpe_ratio": -0.0,
+    "quant_score": 24.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 493000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 619208
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 2465000,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 3094068
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 4930000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 6187150
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 14790000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 18561450
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 25000,
+        "nisa_required_capital_yen": 24650000,
+        "specific_required_shares": 31374,
+        "specific_required_capital_yen": 30934764
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120562,
+        "upper_90_yen": 209741,
+        "lower_10_yen": 71222
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242167,
+        "upper_90_yen": 525060,
+        "lower_10_yen": 118499
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 364825,
+        "upper_90_yen": 942193,
+        "lower_10_yen": 154741
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 488545,
+        "upper_90_yen": 1466902,
+        "lower_10_yen": 184013
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 613336,
+        "upper_90_yen": 2107665,
+        "lower_10_yen": 208382
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 739207,
+        "upper_90_yen": 2874543,
+        "lower_10_yen": 229087
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 866167,
+        "upper_90_yen": 3778820,
+        "lower_10_yen": 246946
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 994227,
+        "upper_90_yen": 4832872,
+        "lower_10_yen": 262529
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1123394,
+        "upper_90_yen": 6050121,
+        "lower_10_yen": 276255
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1253680,
+        "upper_90_yen": 7445032,
+        "lower_10_yen": 288440
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アール・エス・シー(4664)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アール・エス・シー(4664)を1株(986円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小986円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは59.88%、幾何成長率は-1.57%",
+      "新NISAで月1万円の配当金を得るには5,000株（約4,930,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アール・エス・シーは単元未満株（S株・かぶミニ等）を利用することで1株（約986円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,253,680円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり24.0円（利回り2.43%）です。月次95%VaR（最大想定損失率）は-17.05%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アール・エス・シーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約986円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,000株（元本目安：約4,930,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 986.0
+  }
+}

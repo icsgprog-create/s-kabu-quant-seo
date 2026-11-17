@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "343A",
+    "name": "ＩＡＣＥトラベル",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1245.0,
+    "min_s_kabu_yen": 1245,
+    "unit_lot_yen": 124500,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 2.41,
+    "raw_annual_return_pct": 25.21,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 10.55,
+    "annual_volatility_pct": 43.48,
+    "max_drawdown_pct": -31.22,
+    "monthly_var_95_pct": -12.44,
+    "sharpe_ratio": 0.28,
+    "quant_score": 32.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 498000,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 624990
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 2490000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 3124950
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 4980000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 6249900
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 14940000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 18749700
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 24900000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 31248255
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128816,
+        "upper_90_yen": 192837,
+        "lower_10_yen": 87288
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275454,
+        "upper_90_yen": 486143,
+        "lower_10_yen": 160910
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 442382,
+        "upper_90_yen": 892622,
+        "lower_10_yen": 229636
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 632407,
+        "upper_90_yen": 1435735,
+        "lower_10_yen": 296243
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 848724,
+        "upper_90_yen": 2145993,
+        "lower_10_yen": 362218
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1094971,
+        "upper_90_yen": 3061370,
+        "lower_10_yen": 428538
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1375289,
+        "upper_90_yen": 4228459,
+        "lower_10_yen": 495933
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1694393,
+        "upper_90_yen": 5704070,
+        "lower_10_yen": 564998
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2057649,
+        "upper_90_yen": 7557207,
+        "lower_10_yen": 636258
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2471166,
+        "upper_90_yen": 9871473,
+        "lower_10_yen": 710195
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＩＡＣＥトラベル(343A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＩＡＣＥトラベル(343A)を1株(1,245円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,245円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.48%、幾何成長率は10.55%",
+      "新NISAで月1万円の配当金を得るには4,000株（約4,980,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＩＡＣＥトラベルは単元未満株（S株・かぶミニ等）を利用することで1株（約1,245円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,471,166円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り2.41%）です。月次95%VaR（最大想定損失率）は-12.44%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＩＡＣＥトラベルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,245円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約4,980,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1245.0
+  }
+}

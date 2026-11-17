@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4057",
+    "name": "インターファクトリー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 365.0,
+    "min_s_kabu_yen": 365,
+    "unit_lot_yen": 36500,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -21.58,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -25.02,
+    "annual_volatility_pct": 44.77,
+    "max_drawdown_pct": -79.28,
+    "monthly_var_95_pct": -19.07,
+    "sharpe_ratio": -0.58,
+    "quant_score": 0.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105061,
+        "upper_90_yen": 157134,
+        "lower_10_yen": 71347
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 186864,
+        "upper_90_yen": 322970,
+        "lower_10_yen": 111881
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 250558,
+        "upper_90_yen": 481346,
+        "lower_10_yen": 137565
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 300152,
+        "upper_90_yen": 626905,
+        "lower_10_yen": 154495
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 338767,
+        "upper_90_yen": 757717,
+        "lower_10_yen": 165911
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 368833,
+        "upper_90_yen": 873505,
+        "lower_10_yen": 173728
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 392243,
+        "upper_90_yen": 974852,
+        "lower_10_yen": 179141
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 410471,
+        "upper_90_yen": 1062793,
+        "lower_10_yen": 182923
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 424664,
+        "upper_90_yen": 1138569,
+        "lower_10_yen": 185583
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 435715,
+        "upper_90_yen": 1203486,
+        "lower_10_yen": 187466
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "インターファクトリー(4057)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "インターファクトリー(4057)を1株(365円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小365円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.77%、幾何成長率は-25.02%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "インターファクトリーは単元未満株（S株・かぶミニ等）を利用することで1株（約365円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は435,715円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-19.07%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "インターファクトリーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約365円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 365.0
+  }
+}

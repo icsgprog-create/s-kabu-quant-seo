@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6848",
+    "name": "東亜ディーケーケー",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 784.0,
+    "min_s_kabu_yen": 784,
+    "unit_lot_yen": 78400,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 2.81,
+    "raw_annual_return_pct": 0.75,
+    "capped_annual_return_pct": 0.75,
+    "geometric_growth_pct": -1.6,
+    "annual_volatility_pct": 21.65,
+    "max_drawdown_pct": -27.84,
+    "monthly_var_95_pct": -7.18,
+    "sharpe_ratio": 0.01,
+    "quant_score": 51.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 428064,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 537040
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 2138752,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 2683632
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 4276720,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 5367264
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 12829376,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 16100224
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 21382032,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 26833184
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120788,
+        "upper_90_yen": 147123,
+        "lower_10_yen": 99523
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 243043,
+        "upper_90_yen": 319514,
+        "lower_10_yen": 186313
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 366782,
+        "upper_90_yen": 512048,
+        "lower_10_yen": 265889
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 492024,
+        "upper_90_yen": 723150,
+        "lower_10_yen": 340226
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 618787,
+        "upper_90_yen": 952132,
+        "lower_10_yen": 410426
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 747089,
+        "upper_90_yen": 1198696,
+        "lower_10_yen": 477209
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 876949,
+        "upper_90_yen": 1462765,
+        "lower_10_yen": 541085
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1008387,
+        "upper_90_yen": 1744400,
+        "lower_10_yen": 602439
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1141420,
+        "upper_90_yen": 2043759,
+        "lower_10_yen": 661569
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1276069,
+        "upper_90_yen": 2361069,
+        "lower_10_yen": 718717
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東亜ディーケーケー(6848)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東亜ディーケーケー(6848)を1株(784円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小784円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.65%、幾何成長率は-1.6%",
+      "新NISAで月1万円の配当金を得るには5,455株（約4,276,720円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東亜ディーケーケーは単元未満株（S株・かぶミニ等）を利用することで1株（約784円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,276,069円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り2.81%）です。月次95%VaR（最大想定損失率）は-7.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東亜ディーケーケーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約784円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約4,276,720円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 784.0
+  }
+}

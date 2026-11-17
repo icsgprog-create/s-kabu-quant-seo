@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4380",
+    "name": "Ｍマート",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 629.0,
+    "min_s_kabu_yen": 629,
+    "unit_lot_yen": 62900,
+    "dps_yen": 12.5,
+    "dividend_yield_pct": 1.99,
+    "raw_annual_return_pct": 8.25,
+    "capped_annual_return_pct": 8.25,
+    "geometric_growth_pct": -0.87,
+    "annual_volatility_pct": 42.7,
+    "max_drawdown_pct": -56.82,
+    "monthly_var_95_pct": -12.33,
+    "sharpe_ratio": 0.0,
+    "quant_score": 23.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 960,
+        "nisa_required_capital_yen": 603840,
+        "specific_required_shares": 1205,
+        "specific_required_capital_yen": 757945
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 3019200,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 3789096
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 9600,
+        "nisa_required_capital_yen": 6038400,
+        "specific_required_shares": 12048,
+        "specific_required_capital_yen": 7578192
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 28800,
+        "nisa_required_capital_yen": 18115200,
+        "specific_required_shares": 36143,
+        "specific_required_capital_yen": 22733947
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 48000,
+        "nisa_required_capital_yen": 30192000,
+        "specific_required_shares": 60238,
+        "specific_required_capital_yen": 37889702
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120730,
+        "upper_90_yen": 178719,
+        "lower_10_yen": 82700
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242820,
+        "upper_90_yen": 419390,
+        "lower_10_yen": 144889
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 366284,
+        "upper_90_yen": 714791,
+        "lower_10_yen": 196617
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 491137,
+        "upper_90_yen": 1064510,
+        "lower_10_yen": 241270
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 617396,
+        "upper_90_yen": 1469855,
+        "lower_10_yen": 280651
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 745076,
+        "upper_90_yen": 1932960,
+        "lower_10_yen": 315893
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 874193,
+        "upper_90_yen": 2456473,
+        "lower_10_yen": 347768
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1004764,
+        "upper_90_yen": 3043413,
+        "lower_10_yen": 376838
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1136804,
+        "upper_90_yen": 3697107,
+        "lower_10_yen": 403529
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1270331,
+        "upper_90_yen": 4421153,
+        "lower_10_yen": 428169
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｍマート(4380)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｍマート(4380)を1株(629円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小629円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.7%、幾何成長率は-0.87%",
+      "新NISAで月1万円の配当金を得るには9,600株（約6,038,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｍマートは単元未満株（S株・かぶミニ等）を利用することで1株（約629円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,270,331円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり12.5円（利回り1.99%）です。月次95%VaR（最大想定損失率）は-12.33%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｍマートは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約629円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、9,600株（元本目安：約6,038,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 629.0
+  }
+}

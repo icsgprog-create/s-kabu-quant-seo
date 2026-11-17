@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4768",
+    "name": "大塚商会",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3803.0,
+    "min_s_kabu_yen": 3803,
+    "unit_lot_yen": 380300,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 2.63,
+    "raw_annual_return_pct": 10.16,
+    "capped_annual_return_pct": 10.16,
+    "geometric_growth_pct": 6.48,
+    "annual_volatility_pct": 27.13,
+    "max_drawdown_pct": -33.06,
+    "monthly_var_95_pct": -8.64,
+    "sharpe_ratio": 0.3,
+    "quant_score": 51.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 456360,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 574253
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 2281800,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 2863659
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 4563600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 5727318
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 13690800,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 17181954
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 22818000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 28636590
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126111,
+        "upper_90_yen": 161817,
+        "lower_10_yen": 98834
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 264244,
+        "upper_90_yen": 374506,
+        "lower_10_yen": 188694
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 415546,
+        "upper_90_yen": 637974,
+        "lower_10_yen": 275668
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 581272,
+        "upper_90_yen": 956939,
+        "lower_10_yen": 361836
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 762798,
+        "upper_90_yen": 1337931,
+        "lower_10_yen": 448373
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 961630,
+        "upper_90_yen": 1788872,
+        "lower_10_yen": 536083
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1179417,
+        "upper_90_yen": 2319019,
+        "lower_10_yen": 625585
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1417966,
+        "upper_90_yen": 2939032,
+        "lower_10_yen": 717397
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1679258,
+        "upper_90_yen": 3661090,
+        "lower_10_yen": 811979
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1965460,
+        "upper_90_yen": 4499056,
+        "lower_10_yen": 909755
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大塚商会(4768)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大塚商会(4768)を1株(3,803円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,803円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.13%、幾何成長率は6.48%",
+      "新NISAで月1万円の配当金を得るには1,200株（約4,563,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大塚商会は単元未満株（S株・かぶミニ等）を利用することで1株（約3,803円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,965,460円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り2.63%）です。月次95%VaR（最大想定損失率）は-8.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大塚商会は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,803円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約4,563,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3803.0
+  }
+}

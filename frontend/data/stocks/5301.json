@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5301",
+    "name": "東海カーボン",
+    "sector": "ガラス・土石製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1547.0,
+    "min_s_kabu_yen": 1547,
+    "unit_lot_yen": 154700,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 2.26,
+    "raw_annual_return_pct": 6.59,
+    "capped_annual_return_pct": 6.59,
+    "geometric_growth_pct": 0.57,
+    "annual_volatility_pct": 34.7,
+    "max_drawdown_pct": -43.48,
+    "monthly_var_95_pct": -11.73,
+    "sharpe_ratio": 0.05,
+    "quant_score": 34.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 530621,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 666757
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 2653105,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 3329144
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 5304663,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 6656741
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 15912442,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 19968676
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 26520221,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 33282158
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121861,
+        "upper_90_yen": 167520,
+        "lower_10_yen": 89465
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 247226,
+        "upper_90_yen": 385138,
+        "lower_10_yen": 161880
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 376196,
+        "upper_90_yen": 647200,
+        "lower_10_yen": 225454
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 508875,
+        "upper_90_yen": 953646,
+        "lower_10_yen": 282965
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 645370,
+        "upper_90_yen": 1305869,
+        "lower_10_yen": 335908
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 785789,
+        "upper_90_yen": 1705998,
+        "lower_10_yen": 385222
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 930246,
+        "upper_90_yen": 2156646,
+        "lower_10_yen": 431557
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1078857,
+        "upper_90_yen": 2660800,
+        "lower_10_yen": 475388
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1231741,
+        "upper_90_yen": 3221776,
+        "lower_10_yen": 517074
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1389022,
+        "upper_90_yen": 3843191,
+        "lower_10_yen": 556899
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東海カーボン(5301)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東海カーボン(5301)を1株(1,547円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,547円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.7%、幾何成長率は0.57%",
+      "新NISAで月1万円の配当金を得るには3,429株（約5,304,663円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東海カーボンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,547円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,389,022円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り2.26%）です。月次95%VaR（最大想定損失率）は-11.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東海カーボンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,547円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約5,304,663円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1547.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6524",
+    "name": "湖北工業",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4130.0,
+    "min_s_kabu_yen": 4130,
+    "unit_lot_yen": 413000,
+    "dps_yen": 53.0,
+    "dividend_yield_pct": 1.28,
+    "raw_annual_return_pct": 19.22,
+    "capped_annual_return_pct": 19.22,
+    "geometric_growth_pct": 4.02,
+    "annual_volatility_pct": 55.14,
+    "max_drawdown_pct": -58.51,
+    "monthly_var_95_pct": -20.29,
+    "sharpe_ratio": 0.08,
+    "quant_score": 17.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 227,
+        "nisa_required_capital_yen": 937510,
+        "specific_required_shares": 285,
+        "specific_required_capital_yen": 1177050
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1133,
+        "nisa_required_capital_yen": 4679290,
+        "specific_required_shares": 1421,
+        "specific_required_capital_yen": 5868730
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2265,
+        "nisa_required_capital_yen": 9354450,
+        "specific_required_shares": 2842,
+        "specific_required_capital_yen": 11737460
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6793,
+        "nisa_required_capital_yen": 28055090,
+        "specific_required_shares": 8525,
+        "specific_required_capital_yen": 35208250
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11321,
+        "nisa_required_capital_yen": 46755730,
+        "specific_required_shares": 14207,
+        "specific_required_capital_yen": 58674910
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123508,
+        "upper_90_yen": 205847,
+        "lower_10_yen": 75839
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253737,
+        "upper_90_yen": 519242,
+        "lower_10_yen": 130324
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 391053,
+        "upper_90_yen": 943388,
+        "lower_10_yen": 174962
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 535841,
+        "upper_90_yen": 1491421,
+        "lower_10_yen": 213326
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 688507,
+        "upper_90_yen": 2180488,
+        "lower_10_yen": 247227
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 849481,
+        "upper_90_yen": 3030966,
+        "lower_10_yen": 277752
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1019214,
+        "upper_90_yen": 4066411,
+        "lower_10_yen": 305619
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1198183,
+        "upper_90_yen": 5313721,
+        "lower_10_yen": 331334
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1386891,
+        "upper_90_yen": 6803426,
+        "lower_10_yen": 355267
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1585868,
+        "upper_90_yen": 8570046,
+        "lower_10_yen": 377702
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "湖北工業(6524)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "湖北工業(6524)を1株(4,130円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,130円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは55.14%、幾何成長率は4.02%",
+      "新NISAで月1万円の配当金を得るには2,265株（約9,354,450円）が必要"
+    ],
+    "accumulation_strategy_analysis": "湖北工業は単元未満株（S株・かぶミニ等）を利用することで1株（約4,130円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,585,868円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり53.0円（利回り1.28%）です。月次95%VaR（最大想定損失率）は-20.29%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "湖北工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,130円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,265株（元本目安：約9,354,450円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4130.0
+  }
+}

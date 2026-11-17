@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8393",
+    "name": "宮崎銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2294.0,
+    "min_s_kabu_yen": 2294,
+    "unit_lot_yen": 229400,
+    "dps_yen": 57.0,
+    "dividend_yield_pct": 2.48,
+    "raw_annual_return_pct": 38.94,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.52,
+    "annual_volatility_pct": 33.1,
+    "max_drawdown_pct": -29.41,
+    "monthly_var_95_pct": -11.06,
+    "sharpe_ratio": 0.48,
+    "quant_score": 48.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 211,
+        "nisa_required_capital_yen": 484034,
+        "specific_required_shares": 265,
+        "specific_required_capital_yen": 607910
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1053,
+        "nisa_required_capital_yen": 2415582,
+        "specific_required_shares": 1321,
+        "specific_required_capital_yen": 3030374
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2106,
+        "nisa_required_capital_yen": 4831164,
+        "specific_required_shares": 2642,
+        "specific_required_capital_yen": 6060748
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 14488904,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 18182244
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10527,
+        "nisa_required_capital_yen": 24148938,
+        "specific_required_shares": 13210,
+        "specific_required_capital_yen": 30303740
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131736,
+        "upper_90_yen": 179070,
+        "lower_10_yen": 97718
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287894,
+        "upper_90_yen": 443848,
+        "lower_10_yen": 190040
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 472998,
+        "upper_90_yen": 808434,
+        "lower_10_yen": 284158
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 692417,
+        "upper_90_yen": 1296666,
+        "lower_10_yen": 382872
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 952510,
+        "upper_90_yen": 1939872,
+        "lower_10_yen": 488132
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1260819,
+        "upper_90_yen": 2777872,
+        "lower_10_yen": 601637
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1626279,
+        "upper_90_yen": 3860740,
+        "lower_10_yen": 725048
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2059488,
+        "upper_90_yen": 5251136,
+        "lower_10_yen": 860090
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2573002,
+        "upper_90_yen": 7027243,
+        "lower_10_yen": 1008624
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3181709,
+        "upper_90_yen": 9286418,
+        "lower_10_yen": 1172696
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "宮崎銀行(8393)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "宮崎銀行(8393)を1株(2,294円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,294円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.1%、幾何成長率は14.52%",
+      "新NISAで月1万円の配当金を得るには2,106株（約4,831,164円）が必要"
+    ],
+    "accumulation_strategy_analysis": "宮崎銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約2,294円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,181,709円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり57.0円（利回り2.48%）です。月次95%VaR（最大想定損失率）は-11.06%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "宮崎銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,294円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,106株（元本目安：約4,831,164円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2294.0
+  }
+}

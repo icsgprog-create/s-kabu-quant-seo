@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9552",
+    "name": "クオンツ総研ホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1185.0,
+    "min_s_kabu_yen": 1185,
+    "unit_lot_yen": 118500,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 10.12,
+    "capped_annual_return_pct": 10.12,
+    "geometric_growth_pct": -11.26,
+    "annual_volatility_pct": 65.39,
+    "max_drawdown_pct": -92.31,
+    "monthly_var_95_pct": -30.47,
+    "sharpe_ratio": -0.19,
+    "quant_score": 0.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112960,
+        "upper_90_yen": 205811,
+        "lower_10_yen": 64072
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 213893,
+        "upper_90_yen": 490664,
+        "lower_10_yen": 100181
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 304079,
+        "upper_90_yen": 833128,
+        "lower_10_yen": 124068
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 384662,
+        "upper_90_yen": 1222708,
+        "lower_10_yen": 140805
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 456666,
+        "upper_90_yen": 1651732,
+        "lower_10_yen": 152928
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 521003,
+        "upper_90_yen": 2113881,
+        "lower_10_yen": 161908
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 578489,
+        "upper_90_yen": 2603684,
+        "lower_10_yen": 168670
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 629855,
+        "upper_90_yen": 3116277,
+        "lower_10_yen": 173827
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 675752,
+        "upper_90_yen": 3647285,
+        "lower_10_yen": 177801
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 716762,
+        "upper_90_yen": 4192747,
+        "lower_10_yen": 180889
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クオンツ総研ホールディングス(9552)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クオンツ総研ホールディングス(9552)を1株(1,185円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,185円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは65.39%、幾何成長率は-11.26%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クオンツ総研ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,185円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は716,762円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-30.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クオンツ総研ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,185円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1185.0
+  }
+}

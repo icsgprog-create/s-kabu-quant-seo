@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6677",
+    "name": "エスケーエレクトロニクス",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2323.0,
+    "min_s_kabu_yen": 2323,
+    "unit_lot_yen": 232300,
+    "dps_yen": 152.0,
+    "dividend_yield_pct": 6.54,
+    "raw_annual_return_pct": 20.52,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 10.69,
+    "annual_volatility_pct": 43.15,
+    "max_drawdown_pct": -53.82,
+    "monthly_var_95_pct": -17.5,
+    "sharpe_ratio": 0.38,
+    "quant_score": 56.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 79,
+        "nisa_required_capital_yen": 183517,
+        "specific_required_shares": 100,
+        "specific_required_capital_yen": 232300
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 395,
+        "nisa_required_capital_yen": 917585,
+        "specific_required_shares": 496,
+        "specific_required_capital_yen": 1152208
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 790,
+        "nisa_required_capital_yen": 1835170,
+        "specific_required_shares": 991,
+        "specific_required_capital_yen": 2302093
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2369,
+        "nisa_required_capital_yen": 5503187,
+        "specific_required_shares": 2973,
+        "specific_required_capital_yen": 6906279
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3948,
+        "nisa_required_capital_yen": 9171204,
+        "specific_required_shares": 4954,
+        "specific_required_capital_yen": 11508142
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131903,
+        "upper_90_yen": 197133,
+        "lower_10_yen": 89504
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288613,
+        "upper_90_yen": 509208,
+        "lower_10_yen": 168524
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 474796,
+        "upper_90_yen": 959845,
+        "lower_10_yen": 245639
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 695995,
+        "upper_90_yen": 1587444,
+        "lower_10_yen": 323740
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 958796,
+        "upper_90_yen": 2443094,
+        "lower_10_yen": 404568
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1271021,
+        "upper_90_yen": 3592891,
+        "lower_10_yen": 489449
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1641968,
+        "upper_90_yen": 5121535,
+        "lower_10_yen": 579552
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2082680,
+        "upper_90_yen": 7137046,
+        "lower_10_yen": 675998
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2606277,
+        "upper_90_yen": 9776753,
+        "lower_10_yen": 779933
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3228348,
+        "upper_90_yen": 13214832,
+        "lower_10_yen": 892562
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エスケーエレクトロニクス(6677)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エスケーエレクトロニクス(6677)を1株(2,323円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,323円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.15%、幾何成長率は10.69%",
+      "新NISAで月1万円の配当金を得るには790株（約1,835,170円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エスケーエレクトロニクスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,323円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,228,348円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり152.0円（利回り6.54%）です。月次95%VaR（最大想定損失率）は-17.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エスケーエレクトロニクスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,323円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、790株（元本目安：約1,835,170円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2323.0
+  }
+}

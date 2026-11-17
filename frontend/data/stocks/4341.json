@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4341",
+    "name": "西菱電機",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 867.0,
+    "min_s_kabu_yen": 867,
+    "unit_lot_yen": 86700,
+    "dps_yen": 48.0,
+    "dividend_yield_pct": 5.54,
+    "raw_annual_return_pct": 3.01,
+    "capped_annual_return_pct": 3.01,
+    "geometric_growth_pct": 0.25,
+    "annual_volatility_pct": 23.5,
+    "max_drawdown_pct": -19.99,
+    "monthly_var_95_pct": -6.68,
+    "sharpe_ratio": 0.2,
+    "quant_score": 71.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 250,
+        "nisa_required_capital_yen": 216750,
+        "specific_required_shares": 314,
+        "specific_required_capital_yen": 272238
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1250,
+        "nisa_required_capital_yen": 1083750,
+        "specific_required_shares": 1569,
+        "specific_required_capital_yen": 1360323
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 2167500,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 2720646
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 6502500,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 8161071
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12500,
+        "nisa_required_capital_yen": 10837500,
+        "specific_required_shares": 15687,
+        "specific_required_capital_yen": 13600629
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123837,
+        "upper_90_yen": 153543,
+        "lower_10_yen": 100299
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 255050,
+        "upper_90_yen": 344154,
+        "lower_10_yen": 190736
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 394079,
+        "upper_90_yen": 568854,
+        "lower_10_yen": 276821
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 541388,
+        "upper_90_yen": 828515,
+        "lower_10_yen": 360436
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 697471,
+        "upper_90_yen": 1125091,
+        "lower_10_yen": 442614
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 862851,
+        "upper_90_yen": 1461157,
+        "lower_10_yen": 524025
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1038081,
+        "upper_90_yen": 1839753,
+        "lower_10_yen": 605153
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1223748,
+        "upper_90_yen": 2264329,
+        "lower_10_yen": 686365
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1420474,
+        "upper_90_yen": 2738732,
+        "lower_10_yen": 767961
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1628917,
+        "upper_90_yen": 3267207,
+        "lower_10_yen": 850192
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "西菱電機(4341)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "西菱電機(4341)を1株(867円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小867円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.5%、幾何成長率は0.25%",
+      "新NISAで月1万円の配当金を得るには2,500株（約2,167,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "西菱電機は単元未満株（S株・かぶミニ等）を利用することで1株（約867円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,628,917円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり48.0円（利回り5.54%）です。月次95%VaR（最大想定損失率）は-6.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "西菱電機は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約867円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,500株（元本目安：約2,167,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 867.0
+  }
+}

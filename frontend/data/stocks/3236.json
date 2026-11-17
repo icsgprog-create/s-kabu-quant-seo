@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3236",
+    "name": "プロパスト",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 275.0,
+    "min_s_kabu_yen": 275,
+    "unit_lot_yen": 27500,
+    "dps_yen": 8.0,
+    "dividend_yield_pct": 2.91,
+    "raw_annual_return_pct": 10.2,
+    "capped_annual_return_pct": 10.2,
+    "geometric_growth_pct": 4.12,
+    "annual_volatility_pct": 34.87,
+    "max_drawdown_pct": -35.43,
+    "monthly_var_95_pct": -13.01,
+    "sharpe_ratio": 0.17,
+    "quant_score": 42.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 412500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 517825
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 2062500,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 2588575
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 4125000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 5176875
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 45000,
+        "nisa_required_capital_yen": 12375000,
+        "specific_required_shares": 56473,
+        "specific_required_capital_yen": 15530075
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 75000,
+        "nisa_required_capital_yen": 20625000,
+        "specific_required_shares": 94121,
+        "specific_required_capital_yen": 25883275
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124681,
+        "upper_90_yen": 171863,
+        "lower_10_yen": 91292
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258438,
+        "upper_90_yen": 404827,
+        "lower_10_yen": 168298
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 401932,
+        "upper_90_yen": 697565,
+        "lower_10_yen": 238751
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 555871,
+        "upper_90_yen": 1054732,
+        "lower_10_yen": 305177
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 721016,
+        "upper_90_yen": 1483041,
+        "lower_10_yen": 368911
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 898183,
+        "upper_90_yen": 1990663,
+        "lower_10_yen": 430790
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1088247,
+        "upper_90_yen": 2587099,
+        "lower_10_yen": 491396
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1292147,
+        "upper_90_yen": 3283188,
+        "lower_10_yen": 551155
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1510889,
+        "upper_90_yen": 4091186,
+        "lower_10_yen": 610402
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1745555,
+        "upper_90_yen": 5024880,
+        "lower_10_yen": 669406
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "プロパスト(3236)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "プロパスト(3236)を1株(275円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小275円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.87%、幾何成長率は4.12%",
+      "新NISAで月1万円の配当金を得るには15,000株（約4,125,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "プロパストは単元未満株（S株・かぶミニ等）を利用することで1株（約275円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,745,555円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり8.0円（利回り2.91%）です。月次95%VaR（最大想定損失率）は-13.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "プロパストは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約275円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、15,000株（元本目安：約4,125,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 275.0
+  }
+}

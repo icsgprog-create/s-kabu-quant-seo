@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9009",
+    "name": "京成電鉄",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1521.5,
+    "min_s_kabu_yen": 1522,
+    "unit_lot_yen": 152150,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 1.51,
+    "raw_annual_return_pct": 5.63,
+    "capped_annual_return_pct": 5.63,
+    "geometric_growth_pct": 1.41,
+    "annual_volatility_pct": 29.05,
+    "max_drawdown_pct": -57.28,
+    "monthly_var_95_pct": -12.42,
+    "sharpe_ratio": 0.07,
+    "quant_score": 34.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 794223,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 996582
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 3969594,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 4981391
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 7939187,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 9962782
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 23816040,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 29886824
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 39691370,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 49810867
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121921,
+        "upper_90_yen": 159050,
+        "lower_10_yen": 94063
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 247462,
+        "upper_90_yen": 358232,
+        "lower_10_yen": 173339
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 376730,
+        "upper_90_yen": 592252,
+        "lower_10_yen": 244825
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 509835,
+        "upper_90_yen": 860511,
+        "lower_10_yen": 310924
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 646893,
+        "upper_90_yen": 1163610,
+        "lower_10_yen": 372939
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 788019,
+        "upper_90_yen": 1502731,
+        "lower_10_yen": 431699
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 933335,
+        "upper_90_yen": 1879425,
+        "lower_10_yen": 487782
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1082966,
+        "upper_90_yen": 2295513,
+        "lower_10_yen": 541611
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1237038,
+        "upper_90_yen": 2753041,
+        "lower_10_yen": 593513
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1395685,
+        "upper_90_yen": 3254254,
+        "lower_10_yen": 643744
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "京成電鉄(9009)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "京成電鉄(9009)を1株(1,522円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,522円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.05%、幾何成長率は1.41%",
+      "新NISAで月1万円の配当金を得るには5,218株（約7,939,187円）が必要"
+    ],
+    "accumulation_strategy_analysis": "京成電鉄は単元未満株（S株・かぶミニ等）を利用することで1株（約1,522円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,395,685円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り1.51%）です。月次95%VaR（最大想定損失率）は-12.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "京成電鉄は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,522円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約7,939,187円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1521.5
+  }
+}

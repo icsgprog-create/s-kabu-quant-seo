@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6658",
+    "name": "シライ電子工業",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 521.0,
+    "min_s_kabu_yen": 521,
+    "unit_lot_yen": 52100,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 6.72,
+    "raw_annual_return_pct": 9.19,
+    "capped_annual_return_pct": 9.19,
+    "geometric_growth_pct": -1.51,
+    "annual_volatility_pct": 46.26,
+    "max_drawdown_pct": -48.12,
+    "monthly_var_95_pct": -22.6,
+    "sharpe_ratio": 0.09,
+    "quant_score": 47.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 178703,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 224551
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 893515,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 1121192
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 1786509,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 2241863
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 5359006,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 6725068
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 8931503,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 11208794
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123445,
+        "upper_90_yen": 189206,
+        "lower_10_yen": 81862
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253484,
+        "upper_90_yen": 460753,
+        "lower_10_yen": 144435
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 390470,
+        "upper_90_yen": 813515,
+        "lower_10_yen": 197783
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 534775,
+        "upper_90_yen": 1254258,
+        "lower_10_yen": 245128
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 686788,
+        "upper_90_yen": 1792455,
+        "lower_10_yen": 288133
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 846922,
+        "upper_90_yen": 2439500,
+        "lower_10_yen": 327816
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1015611,
+        "upper_90_yen": 3208526,
+        "lower_10_yen": 364859
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1193311,
+        "upper_90_yen": 4114411,
+        "lower_10_yen": 399751
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1380504,
+        "upper_90_yen": 5173863,
+        "lower_10_yen": 432854
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1577698,
+        "upper_90_yen": 6405554,
+        "lower_10_yen": 464449
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シライ電子工業(6658)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シライ電子工業(6658)を1株(521円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小521円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは46.26%、幾何成長率は-1.51%",
+      "新NISAで月1万円の配当金を得るには3,429株（約1,786,509円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シライ電子工業は単元未満株（S株・かぶミニ等）を利用することで1株（約521円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,577,698円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り6.72%）です。月次95%VaR（最大想定損失率）は-22.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シライ電子工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約521円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約1,786,509円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 521.0
+  }
+}

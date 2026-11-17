@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4718",
+    "name": "早稲田アカデミー",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2656.0,
+    "min_s_kabu_yen": 2656,
+    "unit_lot_yen": 265600,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 2.45,
+    "raw_annual_return_pct": 21.83,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.72,
+    "annual_volatility_pct": 25.63,
+    "max_drawdown_pct": -32.9,
+    "monthly_var_95_pct": -8.14,
+    "sharpe_ratio": 0.71,
+    "quant_score": 61.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 491360,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 616192
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 2454144,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 3078304
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 4905632,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 6153952
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 14711584,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 18461856
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 24517536,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 30769760
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133328,
+        "upper_90_yen": 169052,
+        "lower_10_yen": 105673
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294817,
+        "upper_90_yen": 412109,
+        "lower_10_yen": 213126
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 490416,
+        "upper_90_yen": 742721,
+        "lower_10_yen": 328949
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 727330,
+        "upper_90_yen": 1182828,
+        "lower_10_yen": 456562
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1014284,
+        "upper_90_yen": 1761319,
+        "lower_10_yen": 598973
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1361850,
+        "upper_90_yen": 2515185,
+        "lower_10_yen": 759281
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1782828,
+        "upper_90_yen": 3491371,
+        "lower_10_yen": 940889
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2292726,
+        "upper_90_yen": 4749217,
+        "lower_10_yen": 1147649
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2910325,
+        "upper_90_yen": 6363554,
+        "lower_10_yen": 1383986
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3658374,
+        "upper_90_yen": 8428594,
+        "lower_10_yen": 1655026
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "早稲田アカデミー(4718)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "早稲田アカデミー(4718)を1株(2,656円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,656円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.63%、幾何成長率は16.72%",
+      "新NISAで月1万円の配当金を得るには1,847株（約4,905,632円）が必要"
+    ],
+    "accumulation_strategy_analysis": "早稲田アカデミーは単元未満株（S株・かぶミニ等）を利用することで1株（約2,656円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,658,374円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり65.0円（利回り2.45%）です。月次95%VaR（最大想定損失率）は-8.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "早稲田アカデミーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,656円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,847株（元本目安：約4,905,632円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2656.0
+  }
+}

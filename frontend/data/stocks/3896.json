@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3896",
+    "name": "阿波製紙",
+    "sector": "パルプ・紙",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 399.0,
+    "min_s_kabu_yen": 399,
+    "unit_lot_yen": 39900,
+    "dps_yen": 2.0,
+    "dividend_yield_pct": 0.5,
+    "raw_annual_return_pct": 1.58,
+    "capped_annual_return_pct": 1.58,
+    "geometric_growth_pct": -12.11,
+    "annual_volatility_pct": 52.32,
+    "max_drawdown_pct": -60.64,
+    "monthly_var_95_pct": -14.89,
+    "sharpe_ratio": -0.24,
+    "quant_score": 4.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 2394000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 3004470
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 11970000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 15021951
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 23940000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 30043503
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 180000,
+        "nisa_required_capital_yen": 71820000,
+        "specific_required_shares": 225890,
+        "specific_required_capital_yen": 90130110
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 300000,
+        "nisa_required_capital_yen": 119700000,
+        "specific_required_shares": 376483,
+        "specific_required_capital_yen": 150216717
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112749,
+        "upper_90_yen": 181729,
+        "lower_10_yen": 71443
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 213141,
+        "upper_90_yen": 411794,
+        "lower_10_yen": 115520
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 302529,
+        "upper_90_yen": 671628,
+        "lower_10_yen": 146385
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 382120,
+        "upper_90_yen": 952334,
+        "lower_10_yen": 169012
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 452987,
+        "upper_90_yen": 1247795,
+        "lower_10_yen": 186045
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 516087,
+        "upper_90_yen": 1553336,
+        "lower_10_yen": 199098
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 572271,
+        "upper_90_yen": 1865211,
+        "lower_10_yen": 209234
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 622297,
+        "upper_90_yen": 2180348,
+        "lower_10_yen": 217185
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 666840,
+        "upper_90_yen": 2496193,
+        "lower_10_yen": 223473
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 706501,
+        "upper_90_yen": 2810617,
+        "lower_10_yen": 228481
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "阿波製紙(3896)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "阿波製紙(3896)を1株(399円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小399円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは52.32%、幾何成長率は-12.11%",
+      "新NISAで月1万円の配当金を得るには60,000株（約23,940,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "阿波製紙は単元未満株（S株・かぶミニ等）を利用することで1株（約399円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は706,501円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり2.0円（利回り0.5%）です。月次95%VaR（最大想定損失率）は-14.89%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "阿波製紙は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約399円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、60,000株（元本目安：約23,940,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 399.0
+  }
+}

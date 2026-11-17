@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5461",
+    "name": "中部鋼鈑",
+    "sector": "鉄鋼",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2272.0,
+    "min_s_kabu_yen": 2272,
+    "unit_lot_yen": 227200,
+    "dps_yen": 110.0,
+    "dividend_yield_pct": 4.84,
+    "raw_annual_return_pct": 13.61,
+    "capped_annual_return_pct": 13.61,
+    "geometric_growth_pct": 7.97,
+    "annual_volatility_pct": 33.57,
+    "max_drawdown_pct": -40.0,
+    "monthly_var_95_pct": -13.94,
+    "sharpe_ratio": 0.35,
+    "quant_score": 64.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 110,
+        "nisa_required_capital_yen": 249920,
+        "specific_required_shares": 137,
+        "specific_required_capital_yen": 311264
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 1240512,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 1556320
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 2478752,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 3112640
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3273,
+        "nisa_required_capital_yen": 7436256,
+        "specific_required_shares": 4108,
+        "specific_required_capital_yen": 9333376
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 12393760,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 15554112
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128712,
+        "upper_90_yen": 175547,
+        "lower_10_yen": 95181
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275020,
+        "upper_90_yen": 425355,
+        "lower_10_yen": 181086
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 441329,
+        "upper_90_yen": 755953,
+        "lower_10_yen": 264876
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 630373,
+        "upper_90_yen": 1181262,
+        "lower_10_yen": 348994
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 845261,
+        "upper_90_yen": 1719402,
+        "lower_10_yen": 434875
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1089526,
+        "upper_90_yen": 2392659,
+        "lower_10_yen": 523558
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1367183,
+        "upper_90_yen": 3227973,
+        "lower_10_yen": 615905
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1682797,
+        "upper_90_yen": 4257670,
+        "lower_10_yen": 712694
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2041558,
+        "upper_90_yen": 5520377,
+        "lower_10_yen": 814671
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2449364,
+        "upper_90_yen": 7062145,
+        "lower_10_yen": 922581
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "中部鋼鈑(5461)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "中部鋼鈑(5461)を1株(2,272円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,272円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.57%、幾何成長率は7.97%",
+      "新NISAで月1万円の配当金を得るには1,091株（約2,478,752円）が必要"
+    ],
+    "accumulation_strategy_analysis": "中部鋼鈑は単元未満株（S株・かぶミニ等）を利用することで1株（約2,272円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,449,364円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり110.0円（利回り4.84%）です。月次95%VaR（最大想定損失率）は-13.94%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "中部鋼鈑は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,272円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,091株（元本目安：約2,478,752円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2272.0
+  }
+}

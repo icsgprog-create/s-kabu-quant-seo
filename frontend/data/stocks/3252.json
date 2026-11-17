@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3252",
+    "name": "地主",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2877.0,
+    "min_s_kabu_yen": 2877,
+    "unit_lot_yen": 287700,
+    "dps_yen": 125.0,
+    "dividend_yield_pct": 4.34,
+    "raw_annual_return_pct": 13.5,
+    "capped_annual_return_pct": 13.5,
+    "geometric_growth_pct": 10.23,
+    "annual_volatility_pct": 25.61,
+    "max_drawdown_pct": -41.4,
+    "monthly_var_95_pct": -8.42,
+    "sharpe_ratio": 0.53,
+    "quant_score": 72.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 96,
+        "nisa_required_capital_yen": 276192,
+        "specific_required_shares": 121,
+        "specific_required_capital_yen": 348117
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 1380960,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 1734831
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 960,
+        "nisa_required_capital_yen": 2761920,
+        "specific_required_shares": 1205,
+        "specific_required_capital_yen": 3466785
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2880,
+        "nisa_required_capital_yen": 8285760,
+        "specific_required_shares": 3615,
+        "specific_required_capital_yen": 10400355
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 13809600,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 17331048
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129968,
+        "upper_90_yen": 164613,
+        "lower_10_yen": 103125
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280323,
+        "upper_90_yen": 390726,
+        "lower_10_yen": 203250
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 454260,
+        "upper_90_yen": 684491,
+        "lower_10_yen": 306328
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 655480,
+        "upper_90_yen": 1057990,
+        "lower_10_yen": 414802
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 888261,
+        "upper_90_yen": 1526880,
+        "lower_10_yen": 530423
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1157554,
+        "upper_90_yen": 2110473,
+        "lower_10_yen": 654736
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1469086,
+        "upper_90_yen": 2832228,
+        "lower_10_yen": 789248
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1829482,
+        "upper_90_yen": 3720459,
+        "lower_10_yen": 935521
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2246407,
+        "upper_90_yen": 4809222,
+        "lower_10_yen": 1095217
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2728727,
+        "upper_90_yen": 6139397,
+        "lower_10_yen": 1270147
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "地主(3252)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "地主(3252)を1株(2,877円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,877円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.61%、幾何成長率は10.23%",
+      "新NISAで月1万円の配当金を得るには960株（約2,761,920円）が必要"
+    ],
+    "accumulation_strategy_analysis": "地主は単元未満株（S株・かぶミニ等）を利用することで1株（約2,877円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,728,727円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり125.0円（利回り4.34%）です。月次95%VaR（最大想定損失率）は-8.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "地主は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,877円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、960株（元本目安：約2,761,920円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2877.0
+  }
+}

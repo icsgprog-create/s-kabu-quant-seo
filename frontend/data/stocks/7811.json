@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7811",
+    "name": "中本パックス",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2341.0,
+    "min_s_kabu_yen": 2341,
+    "unit_lot_yen": 234100,
+    "dps_yen": 78.0,
+    "dividend_yield_pct": 3.33,
+    "raw_annual_return_pct": 10.4,
+    "capped_annual_return_pct": 10.4,
+    "geometric_growth_pct": 8.73,
+    "annual_volatility_pct": 18.29,
+    "max_drawdown_pct": -15.92,
+    "monthly_var_95_pct": -5.5,
+    "sharpe_ratio": 0.6,
+    "quant_score": 73.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 154,
+        "nisa_required_capital_yen": 360514,
+        "specific_required_shares": 194,
+        "specific_required_capital_yen": 454154
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 770,
+        "nisa_required_capital_yen": 1802570,
+        "specific_required_shares": 966,
+        "specific_required_capital_yen": 2261406
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1539,
+        "nisa_required_capital_yen": 3602799,
+        "specific_required_shares": 1931,
+        "specific_required_capital_yen": 4520471
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 10806056,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 13561413
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7693,
+        "nisa_required_capital_yen": 18009313,
+        "specific_required_shares": 9654,
+        "specific_required_capital_yen": 22600014
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128178,
+        "upper_90_yen": 151607,
+        "lower_10_yen": 108645
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 272785,
+        "upper_90_yen": 345055,
+        "lower_10_yen": 216823
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 435928,
+        "upper_90_yen": 582176,
+        "lower_10_yen": 329118
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 619981,
+        "upper_90_yen": 868363,
+        "lower_10_yen": 447525
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 827626,
+        "upper_90_yen": 1210649,
+        "lower_10_yen": 573522
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1061886,
+        "upper_90_yen": 1617516,
+        "lower_10_yen": 708429
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1326172,
+        "upper_90_yen": 2098956,
+        "lower_10_yen": 853534
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1624334,
+        "upper_90_yen": 2666632,
+        "lower_10_yen": 1010161
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1960713,
+        "upper_90_yen": 3334090,
+        "lower_10_yen": 1179708
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2340207,
+        "upper_90_yen": 4117021,
+        "lower_10_yen": 1363675
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "中本パックス(7811)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "中本パックス(7811)を1株(2,341円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,341円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.29%、幾何成長率は8.73%",
+      "新NISAで月1万円の配当金を得るには1,539株（約3,602,799円）が必要"
+    ],
+    "accumulation_strategy_analysis": "中本パックスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,341円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,340,207円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり78.0円（利回り3.33%）です。月次95%VaR（最大想定損失率）は-5.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "中本パックスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,341円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,539株（元本目安：約3,602,799円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2341.0
+  }
+}

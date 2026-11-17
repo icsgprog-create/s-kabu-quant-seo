@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7021",
+    "name": "ニッチツ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2484.0,
+    "min_s_kabu_yen": 2484,
+    "unit_lot_yen": 248400,
+    "dps_yen": 33.0,
+    "dividend_yield_pct": 1.33,
+    "raw_annual_return_pct": 10.9,
+    "capped_annual_return_pct": 10.9,
+    "geometric_growth_pct": 6.45,
+    "annual_volatility_pct": 29.82,
+    "max_drawdown_pct": -36.17,
+    "monthly_var_95_pct": -13.23,
+    "sharpe_ratio": 0.23,
+    "quant_score": 36.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 364,
+        "nisa_required_capital_yen": 904176,
+        "specific_required_shares": 457,
+        "specific_required_capital_yen": 1135188
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1819,
+        "nisa_required_capital_yen": 4518396,
+        "specific_required_shares": 2282,
+        "specific_required_capital_yen": 5668488
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3637,
+        "nisa_required_capital_yen": 9034308,
+        "specific_required_shares": 4564,
+        "specific_required_capital_yen": 11336976
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 27100440,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 34008444
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18182,
+        "nisa_required_capital_yen": 45164088,
+        "specific_required_shares": 22818,
+        "specific_required_capital_yen": 56679912
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125198,
+        "upper_90_yen": 164665,
+        "lower_10_yen": 95835
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260526,
+        "upper_90_yen": 382131,
+        "lower_10_yen": 180218
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 406807,
+        "upper_90_yen": 651236,
+        "lower_10_yen": 259828
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 564925,
+        "upper_90_yen": 975949,
+        "lower_10_yen": 336889
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 735838,
+        "upper_90_yen": 1362007,
+        "lower_10_yen": 412605
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 920582,
+        "upper_90_yen": 1816413,
+        "lower_10_yen": 487756
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1120277,
+        "upper_90_yen": 2347320,
+        "lower_10_yen": 562903
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1336131,
+        "upper_90_yen": 2964048,
+        "lower_10_yen": 638482
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1569453,
+        "upper_90_yen": 3677155,
+        "lower_10_yen": 714850
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1821657,
+        "upper_90_yen": 4498543,
+        "lower_10_yen": 792313
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ニッチツ(7021)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ニッチツ(7021)を1株(2,484円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,484円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.82%、幾何成長率は6.45%",
+      "新NISAで月1万円の配当金を得るには3,637株（約9,034,308円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ニッチツは単元未満株（S株・かぶミニ等）を利用することで1株（約2,484円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,821,657円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり33.0円（利回り1.33%）です。月次95%VaR（最大想定損失率）は-13.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ニッチツは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,484円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,637株（元本目安：約9,034,308円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2484.0
+  }
+}

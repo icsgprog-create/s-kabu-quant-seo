@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "480A",
+    "name": "リブ・コンサルティング",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 863.0,
+    "min_s_kabu_yen": 863,
+    "unit_lot_yen": 86300,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -44.92,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -24.45,
+    "annual_volatility_pct": 43.48,
+    "max_drawdown_pct": -36.92,
+    "monthly_var_95_pct": -18.36,
+    "sharpe_ratio": -0.59,
+    "quant_score": 1.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105375,
+        "upper_90_yen": 155774,
+        "lower_10_yen": 72335
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 187892,
+        "upper_90_yen": 319680,
+        "lower_10_yen": 114055
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 252511,
+        "upper_90_yen": 476182,
+        "lower_10_yen": 140804
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 303113,
+        "upper_90_yen": 620150,
+        "lower_10_yen": 158622
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 342739,
+        "upper_90_yen": 749736,
+        "lower_10_yen": 170756
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 373770,
+        "upper_90_yen": 864668,
+        "lower_10_yen": 179144
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 398070,
+        "upper_90_yen": 965501,
+        "lower_10_yen": 185006
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 417098,
+        "upper_90_yen": 1053222,
+        "lower_10_yen": 189137
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 432000,
+        "upper_90_yen": 1129018,
+        "lower_10_yen": 192069
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 443669,
+        "upper_90_yen": 1194145,
+        "lower_10_yen": 194161
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "リブ・コンサルティング(480A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "リブ・コンサルティング(480A)を1株(863円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小863円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.48%、幾何成長率は-24.45%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "リブ・コンサルティングは単元未満株（S株・かぶミニ等）を利用することで1株（約863円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は443,669円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-18.36%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "リブ・コンサルティングは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約863円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 863.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3675",
+    "name": "クロス・マーケティンググループ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 531.0,
+    "min_s_kabu_yen": 531,
+    "unit_lot_yen": 53100,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 2.82,
+    "raw_annual_return_pct": -16.35,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -23.6,
+    "annual_volatility_pct": 41.47,
+    "max_drawdown_pct": -65.27,
+    "monthly_var_95_pct": -15.74,
+    "sharpe_ratio": -0.53,
+    "quant_score": 26.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 424800,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 533124
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 2124000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 2665620
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 4248000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 5331240
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 12744000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 15993189
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 21240000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 26655138
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107420,
+        "upper_90_yen": 156101,
+        "lower_10_yen": 74912
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 194688,
+        "upper_90_yen": 324144,
+        "lower_10_yen": 120408
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 265585,
+        "upper_90_yen": 489072,
+        "lower_10_yen": 150955
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 323183,
+        "upper_90_yen": 645298,
+        "lower_10_yen": 172225
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 369975,
+        "upper_90_yen": 790244,
+        "lower_10_yen": 187351
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 407990,
+        "upper_90_yen": 922844,
+        "lower_10_yen": 198260
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 438873,
+        "upper_90_yen": 1042901,
+        "lower_10_yen": 206212
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 463963,
+        "upper_90_yen": 1150730,
+        "lower_10_yen": 212054
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 484346,
+        "upper_90_yen": 1246951,
+        "lower_10_yen": 216375
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 500905,
+        "upper_90_yen": 1332355,
+        "lower_10_yen": 219588
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クロス・マーケティンググループ(3675)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クロス・マーケティンググループ(3675)を1株(531円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小531円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.47%、幾何成長率は-23.6%",
+      "新NISAで月1万円の配当金を得るには8,000株（約4,248,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クロス・マーケティンググループは単元未満株（S株・かぶミニ等）を利用することで1株（約531円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は500,905円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り2.82%）です。月次95%VaR（最大想定損失率）は-15.74%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クロス・マーケティンググループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約531円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約4,248,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 531.0
+  }
+}

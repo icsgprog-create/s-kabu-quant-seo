@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8218",
+    "name": "コメリ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4060.0,
+    "min_s_kabu_yen": 4060,
+    "unit_lot_yen": 406000,
+    "dps_yen": 57.0,
+    "dividend_yield_pct": 1.4,
+    "raw_annual_return_pct": 10.47,
+    "capped_annual_return_pct": 10.47,
+    "geometric_growth_pct": 8.21,
+    "annual_volatility_pct": 21.25,
+    "max_drawdown_pct": -27.73,
+    "monthly_var_95_pct": -7.15,
+    "sharpe_ratio": 0.41,
+    "quant_score": 50.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 211,
+        "nisa_required_capital_yen": 856660,
+        "specific_required_shares": 265,
+        "specific_required_capital_yen": 1075900
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1053,
+        "nisa_required_capital_yen": 4275180,
+        "specific_required_shares": 1321,
+        "specific_required_capital_yen": 5363260
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2106,
+        "nisa_required_capital_yen": 8550360,
+        "specific_required_shares": 2642,
+        "specific_required_capital_yen": 10726520
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 25642960,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 32179560
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10527,
+        "nisa_required_capital_yen": 42739620,
+        "specific_required_shares": 13210,
+        "specific_required_capital_yen": 53632600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126465,
+        "upper_90_yen": 153683,
+        "lower_10_yen": 104425
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265697,
+        "upper_90_yen": 348912,
+        "lower_10_yen": 203822
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 418984,
+        "upper_90_yen": 585608,
+        "lower_10_yen": 303152
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 587745,
+        "upper_90_yen": 867458,
+        "lower_10_yen": 404244
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 773542,
+        "upper_90_yen": 1199556,
+        "lower_10_yen": 508226
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 978096,
+        "upper_90_yen": 1588067,
+        "lower_10_yen": 615955
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1203298,
+        "upper_90_yen": 2040177,
+        "lower_10_yen": 728157
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1451235,
+        "upper_90_yen": 2564148,
+        "lower_10_yen": 845502
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1724200,
+        "upper_90_yen": 3169394,
+        "lower_10_yen": 968631
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2024721,
+        "upper_90_yen": 3866612,
+        "lower_10_yen": 1098185
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コメリ(8218)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コメリ(8218)を1株(4,060円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,060円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.25%、幾何成長率は8.21%",
+      "新NISAで月1万円の配当金を得るには2,106株（約8,550,360円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コメリは単元未満株（S株・かぶミニ等）を利用することで1株（約4,060円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,024,721円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり57.0円（利回り1.4%）です。月次95%VaR（最大想定損失率）は-7.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コメリは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,060円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,106株（元本目安：約8,550,360円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4060.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9413",
+    "name": "テレビ東京ホールディングス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3585.0,
+    "min_s_kabu_yen": 3585,
+    "unit_lot_yen": 358500,
+    "dps_yen": 135.0,
+    "dividend_yield_pct": 3.77,
+    "raw_annual_return_pct": 12.97,
+    "capped_annual_return_pct": 12.97,
+    "geometric_growth_pct": 8.71,
+    "annual_volatility_pct": 29.19,
+    "max_drawdown_pct": -34.18,
+    "monthly_var_95_pct": -10.18,
+    "sharpe_ratio": 0.39,
+    "quant_score": 60.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 89,
+        "nisa_required_capital_yen": 319065,
+        "specific_required_shares": 112,
+        "specific_required_capital_yen": 401520
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 445,
+        "nisa_required_capital_yen": 1595325,
+        "specific_required_shares": 558,
+        "specific_required_capital_yen": 2000430
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 889,
+        "nisa_required_capital_yen": 3187065,
+        "specific_required_shares": 1116,
+        "specific_required_capital_yen": 4000860
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 9561195,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 11998995
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 15935325,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 19997130
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128471,
+        "upper_90_yen": 168165,
+        "lower_10_yen": 98781
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274009,
+        "upper_90_yen": 399843,
+        "lower_10_yen": 190381
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 438882,
+        "upper_90_yen": 699416,
+        "lower_10_yen": 281224
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 625658,
+        "upper_90_yen": 1077356,
+        "lower_10_yen": 373604
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 837247,
+        "upper_90_yen": 1547320,
+        "lower_10_yen": 468927
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1076946,
+        "upper_90_yen": 2126002,
+        "lower_10_yen": 568266
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1348490,
+        "upper_90_yen": 2833411,
+        "lower_10_yen": 672546
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1656107,
+        "upper_90_yen": 3693328,
+        "lower_10_yen": 782632
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2004592,
+        "upper_90_yen": 4733900,
+        "lower_10_yen": 899378
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2399373,
+        "upper_90_yen": 5988357,
+        "lower_10_yen": 1023654
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "テレビ東京ホールディングス(9413)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "テレビ東京ホールディングス(9413)を1株(3,585円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,585円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.19%、幾何成長率は8.71%",
+      "新NISAで月1万円の配当金を得るには889株（約3,187,065円）が必要"
+    ],
+    "accumulation_strategy_analysis": "テレビ東京ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,585円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,399,373円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり135.0円（利回り3.77%）です。月次95%VaR（最大想定損失率）は-10.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "テレビ東京ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,585円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、889株（元本目安：約3,187,065円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3585.0
+  }
+}

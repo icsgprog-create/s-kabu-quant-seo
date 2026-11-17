@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6490",
+    "name": "ＰＩＬＬＡＲ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 8590.0,
+    "min_s_kabu_yen": 8590,
+    "unit_lot_yen": 859000,
+    "dps_yen": 223.0,
+    "dividend_yield_pct": 2.6,
+    "raw_annual_return_pct": 24.53,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.28,
+    "annual_volatility_pct": 41.75,
+    "max_drawdown_pct": -55.54,
+    "monthly_var_95_pct": -16.18,
+    "sharpe_ratio": 0.31,
+    "quant_score": 36.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 54,
+        "nisa_required_capital_yen": 463860,
+        "specific_required_shares": 68,
+        "specific_required_capital_yen": 584120
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 270,
+        "nisa_required_capital_yen": 2319300,
+        "specific_required_shares": 338,
+        "specific_required_capital_yen": 2903420
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 539,
+        "nisa_required_capital_yen": 4630010,
+        "specific_required_shares": 676,
+        "specific_required_capital_yen": 5806840
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1615,
+        "nisa_required_capital_yen": 13872850,
+        "specific_required_shares": 2026,
+        "specific_required_capital_yen": 17403340
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2691,
+        "nisa_required_capital_yen": 23115690,
+        "specific_required_shares": 3377,
+        "specific_required_capital_yen": 29008430
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129474,
+        "upper_90_yen": 190748,
+        "lower_10_yen": 89048
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 278227,
+        "upper_90_yen": 480230,
+        "lower_10_yen": 165784
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 449130,
+        "upper_90_yen": 881973,
+        "lower_10_yen": 238657
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 645482,
+        "upper_90_yen": 1420291,
+        "lower_10_yen": 310397
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 871072,
+        "upper_90_yen": 2126894,
+        "lower_10_yen": 382513
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1130254,
+        "upper_90_yen": 3041472,
+        "lower_10_yen": 456040
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1428029,
+        "upper_90_yen": 4213055,
+        "lower_10_yen": 531793
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1770145,
+        "upper_90_yen": 5701846,
+        "lower_10_yen": 610471
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2163204,
+        "upper_90_yen": 7581503,
+        "lower_10_yen": 692721
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2614792,
+        "upper_90_yen": 9941928,
+        "lower_10_yen": 779171
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＰＩＬＬＡＲ(6490)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＰＩＬＬＡＲ(6490)を1株(8,590円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小8,590円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.75%、幾何成長率は11.28%",
+      "新NISAで月1万円の配当金を得るには539株（約4,630,010円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＰＩＬＬＡＲは単元未満株（S株・かぶミニ等）を利用することで1株（約8,590円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,614,792円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり223.0円（利回り2.6%）です。月次95%VaR（最大想定損失率）は-16.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＰＩＬＬＡＲは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約8,590円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、539株（元本目安：約4,630,010円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 8590.0
+  }
+}

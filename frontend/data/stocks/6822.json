@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6822",
+    "name": "大井電気",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4780.0,
+    "min_s_kabu_yen": 4780,
+    "unit_lot_yen": 478000,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 1.46,
+    "raw_annual_return_pct": 16.9,
+    "capped_annual_return_pct": 16.9,
+    "geometric_growth_pct": 10.82,
+    "annual_volatility_pct": 34.86,
+    "max_drawdown_pct": -44.4,
+    "monthly_var_95_pct": -10.6,
+    "sharpe_ratio": 0.32,
+    "quant_score": 34.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 822160,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 1032480
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 4101240,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 5143280
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 8197700,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 10286560
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 24583540,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 30850120
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 40974160,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 51418460
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128340,
+        "upper_90_yen": 177138,
+        "lower_10_yen": 93844
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 273462,
+        "upper_90_yen": 430048,
+        "lower_10_yen": 177343
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 437560,
+        "upper_90_yen": 764944,
+        "lower_10_yen": 257881
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 623116,
+        "upper_90_yen": 1195570,
+        "lower_10_yen": 337931
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 832935,
+        "upper_90_yen": 1739817,
+        "lower_10_yen": 418894
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1070191,
+        "upper_90_yen": 2419649,
+        "lower_10_yen": 501756
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1338470,
+        "upper_90_yen": 3261531,
+        "lower_10_yen": 587302
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1641830,
+        "upper_90_yen": 4297109,
+        "lower_10_yen": 676216
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1984858,
+        "upper_90_yen": 5564067,
+        "lower_10_yen": 769135
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2372740,
+        "upper_90_yen": 7107161,
+        "lower_10_yen": 866678
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大井電気(6822)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大井電気(6822)を1株(4,780円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,780円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.86%、幾何成長率は10.82%",
+      "新NISAで月1万円の配当金を得るには1,715株（約8,197,700円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大井電気は単元未満株（S株・かぶミニ等）を利用することで1株（約4,780円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,372,740円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り1.46%）です。月次95%VaR（最大想定損失率）は-10.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大井電気は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,780円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約8,197,700円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4780.0
+  }
+}

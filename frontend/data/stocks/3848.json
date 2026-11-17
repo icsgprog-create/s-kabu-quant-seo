@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3848",
+    "name": "データ・アプリケーション",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 804.0,
+    "min_s_kabu_yen": 804,
+    "unit_lot_yen": 80400,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 4.35,
+    "raw_annual_return_pct": 0.24,
+    "capped_annual_return_pct": 0.24,
+    "geometric_growth_pct": -3.5,
+    "annual_volatility_pct": 27.35,
+    "max_drawdown_pct": -38.76,
+    "monthly_var_95_pct": -9.23,
+    "sharpe_ratio": -0.01,
+    "quant_score": 57.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 275772,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 346524
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 1378860,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 1730208
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 2756916,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 3459612
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 8269944,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 10378032
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 13782972,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 17297256
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120556,
+        "upper_90_yen": 154735,
+        "lower_10_yen": 94464
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242143,
+        "upper_90_yen": 342425,
+        "lower_10_yen": 173362
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 364771,
+        "upper_90_yen": 556765,
+        "lower_10_yen": 243590
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 488448,
+        "upper_90_yen": 795918,
+        "lower_10_yen": 307596
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 613184,
+        "upper_90_yen": 1059152,
+        "lower_10_yen": 366736
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 738988,
+        "upper_90_yen": 1346227,
+        "lower_10_yen": 421892
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 865868,
+        "upper_90_yen": 1657179,
+        "lower_10_yen": 473684
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 993834,
+        "upper_90_yen": 1992219,
+        "lower_10_yen": 522576
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1122895,
+        "upper_90_yen": 2351679,
+        "lower_10_yen": 568928
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1253061,
+        "upper_90_yen": 2735981,
+        "lower_10_yen": 613028
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "データ・アプリケーション(3848)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "データ・アプリケーション(3848)を1株(804円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小804円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.35%、幾何成長率は-3.5%",
+      "新NISAで月1万円の配当金を得るには3,429株（約2,756,916円）が必要"
+    ],
+    "accumulation_strategy_analysis": "データ・アプリケーションは単元未満株（S株・かぶミニ等）を利用することで1株（約804円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,253,061円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り4.35%）です。月次95%VaR（最大想定損失率）は-9.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "データ・アプリケーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約804円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約2,756,916円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 804.0
+  }
+}

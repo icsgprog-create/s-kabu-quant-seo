@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4374",
+    "name": "ＲＯＢＯＴ　ＰＡＹＭＥＮＴ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1179.0,
+    "min_s_kabu_yen": 1179,
+    "unit_lot_yen": 117900,
+    "dps_yen": 14.0,
+    "dividend_yield_pct": 1.19,
+    "raw_annual_return_pct": -6.92,
+    "capped_annual_return_pct": -6.92,
+    "geometric_growth_pct": -19.33,
+    "annual_volatility_pct": 49.82,
+    "max_drawdown_pct": -69.6,
+    "monthly_var_95_pct": -19.43,
+    "sharpe_ratio": -0.38,
+    "quant_score": 9.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 1011582,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 1268604
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 5053194,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 6341841
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 10106388,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 12682503
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 25715,
+        "nisa_required_capital_yen": 30317985,
+        "specific_required_shares": 32270,
+        "specific_required_capital_yen": 38046330
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 50529582,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 63411336
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108917,
+        "upper_90_yen": 171088,
+        "lower_10_yen": 70682
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 199763,
+        "upper_90_yen": 370896,
+        "lower_10_yen": 112218
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 275537,
+        "upper_90_yen": 579981,
+        "lower_10_yen": 139771
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 338739,
+        "upper_90_yen": 789674,
+        "lower_10_yen": 158866
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 391455,
+        "upper_90_yen": 994812,
+        "lower_10_yen": 172438
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 435425,
+        "upper_90_yen": 1192138,
+        "lower_10_yen": 182250
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 472099,
+        "upper_90_yen": 1379603,
+        "lower_10_yen": 189434
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 502689,
+        "upper_90_yen": 1555991,
+        "lower_10_yen": 194745
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 528204,
+        "upper_90_yen": 1720670,
+        "lower_10_yen": 198702
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 549485,
+        "upper_90_yen": 1873431,
+        "lower_10_yen": 201670
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＲＯＢＯＴ　ＰＡＹＭＥＮＴ(4374)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＲＯＢＯＴ　ＰＡＹＭＥＮＴ(4374)を1株(1,179円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,179円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは49.82%、幾何成長率は-19.33%",
+      "新NISAで月1万円の配当金を得るには8,572株（約10,106,388円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＲＯＢＯＴ　ＰＡＹＭＥＮＴは単元未満株（S株・かぶミニ等）を利用することで1株（約1,179円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は549,485円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.0円（利回り1.19%）です。月次95%VaR（最大想定損失率）は-19.43%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＲＯＢＯＴ　ＰＡＹＭＥＮＴは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,179円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,572株（元本目安：約10,106,388円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1179.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9361",
+    "name": "伏木海陸運送",
+    "sector": "倉庫・運輸関連業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1900.0,
+    "min_s_kabu_yen": 1900,
+    "unit_lot_yen": 190000,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 3.16,
+    "raw_annual_return_pct": 11.94,
+    "capped_annual_return_pct": 11.94,
+    "geometric_growth_pct": 8.41,
+    "annual_volatility_pct": 26.55,
+    "max_drawdown_pct": -27.66,
+    "monthly_var_95_pct": -7.31,
+    "sharpe_ratio": 0.4,
+    "quant_score": 58.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 380000,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 476900
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1900000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2384500
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 3800000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 4769000
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 11400000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 14307000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 19000000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 23845000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127832,
+        "upper_90_yen": 163240,
+        "lower_10_yen": 100641
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271345,
+        "upper_90_yen": 382268,
+        "lower_10_yen": 194823
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 432462,
+        "upper_90_yen": 659623,
+        "lower_10_yen": 288505
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 613343,
+        "upper_90_yen": 1003043,
+        "lower_10_yen": 383840
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 816411,
+        "upper_90_yen": 1422705,
+        "lower_10_yen": 482153
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1044388,
+        "upper_90_yen": 1930970,
+        "lower_10_yen": 584455
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1300331,
+        "upper_90_yen": 2542500,
+        "lower_10_yen": 691613
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1587668,
+        "upper_90_yen": 3274519,
+        "lower_10_yen": 804437
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1910252,
+        "upper_90_yen": 4147155,
+        "lower_10_yen": 923719
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2272406,
+        "upper_90_yen": 5183867,
+        "lower_10_yen": 1050261
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "伏木海陸運送(9361)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "伏木海陸運送(9361)を1株(1,900円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,900円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.55%、幾何成長率は8.41%",
+      "新NISAで月1万円の配当金を得るには2,000株（約3,800,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "伏木海陸運送は単元未満株（S株・かぶミニ等）を利用することで1株（約1,900円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,272,406円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り3.16%）です。月次95%VaR（最大想定損失率）は-7.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "伏木海陸運送は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,900円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約3,800,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1900.0
+  }
+}

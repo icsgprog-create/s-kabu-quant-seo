@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6551",
+    "name": "ツナググループ・ホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 623.0,
+    "min_s_kabu_yen": 623,
+    "unit_lot_yen": 62300,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 3.21,
+    "raw_annual_return_pct": 15.37,
+    "capped_annual_return_pct": 15.37,
+    "geometric_growth_pct": 5.62,
+    "annual_volatility_pct": 44.16,
+    "max_drawdown_pct": -52.5,
+    "monthly_var_95_pct": -16.75,
+    "sharpe_ratio": 0.18,
+    "quant_score": 36.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 373800,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 469119
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 1869000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 2345595
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3738000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 4691190
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 11214000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 14072947
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 18690000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 23455327
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125921,
+        "upper_90_yen": 189464,
+        "lower_10_yen": 84937
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 263469,
+        "upper_90_yen": 467408,
+        "lower_10_yen": 153303
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 413717,
+        "upper_90_yen": 838232,
+        "lower_10_yen": 214340
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 577839,
+        "upper_90_yen": 1314918,
+        "lower_10_yen": 270953
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 757115,
+        "upper_90_yen": 1914447,
+        "lower_10_yen": 324639
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 952944,
+        "upper_90_yen": 2657360,
+        "lower_10_yen": 376321
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1166856,
+        "upper_90_yen": 3567920,
+        "lower_10_yen": 426625
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1400519,
+        "upper_90_yen": 4674500,
+        "lower_10_yen": 476008
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1655758,
+        "upper_90_yen": 6010101,
+        "lower_10_yen": 524823
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1934564,
+        "upper_90_yen": 7612979,
+        "lower_10_yen": 573353
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ツナググループ・ホールディングス(6551)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ツナググループ・ホールディングス(6551)を1株(623円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小623円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.16%、幾何成長率は5.62%",
+      "新NISAで月1万円の配当金を得るには6,000株（約3,738,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ツナググループ・ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約623円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,934,564円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り3.21%）です。月次95%VaR（最大想定損失率）は-16.75%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ツナググループ・ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約623円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約3,738,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 623.0
+  }
+}

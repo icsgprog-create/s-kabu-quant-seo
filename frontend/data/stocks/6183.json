@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6183",
+    "name": "ベルシステム２４ホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1425.0,
+    "min_s_kabu_yen": 1425,
+    "unit_lot_yen": 142500,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 4.21,
+    "raw_annual_return_pct": 4.64,
+    "capped_annual_return_pct": 4.64,
+    "geometric_growth_pct": 1.7,
+    "annual_volatility_pct": 24.26,
+    "max_drawdown_pct": -35.59,
+    "monthly_var_95_pct": -9.92,
+    "sharpe_ratio": 0.2,
+    "quant_score": 64.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 285000,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 357675
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1425000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 1788375
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 2850000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 3576750
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 8550000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 10730250
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 14250000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 17883750
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123924,
+        "upper_90_yen": 154737,
+        "lower_10_yen": 99692
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 255397,
+        "upper_90_yen": 348052,
+        "lower_10_yen": 189225
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 394880,
+        "upper_90_yen": 577019,
+        "lower_10_yen": 274263
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 542860,
+        "upper_90_yen": 842691,
+        "lower_10_yen": 356734
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 699854,
+        "upper_90_yen": 1147259,
+        "lower_10_yen": 437695
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 866413,
+        "upper_90_yen": 1493575,
+        "lower_10_yen": 517830
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1043118,
+        "upper_90_yen": 1884991,
+        "lower_10_yen": 597628
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1230588,
+        "upper_90_yen": 2325315,
+        "lower_10_yen": 677465
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1429478,
+        "upper_90_yen": 2818791,
+        "lower_10_yen": 757645
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1640485,
+        "upper_90_yen": 3370108,
+        "lower_10_yen": 838420
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ベルシステム２４ホールディングス(6183)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ベルシステム２４ホールディングス(6183)を1株(1,425円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,425円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.26%、幾何成長率は1.7%",
+      "新NISAで月1万円の配当金を得るには2,000株（約2,850,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ベルシステム２４ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,425円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,640,485円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り4.21%）です。月次95%VaR（最大想定損失率）は-9.92%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ベルシステム２４ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,425円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約2,850,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1425.0
+  }
+}

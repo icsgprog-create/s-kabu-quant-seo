@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9973",
+    "name": "ＫＯＺＯホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 17.0,
+    "min_s_kabu_yen": 17,
+    "unit_lot_yen": 1700,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -19.1,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -34.18,
+    "annual_volatility_pct": 61.93,
+    "max_drawdown_pct": -63.64,
+    "monthly_var_95_pct": -17.59,
+    "sharpe_ratio": -0.57,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 100203,
+        "upper_90_yen": 174791,
+        "lower_10_yen": 59186
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 171400,
+        "upper_90_yen": 363779,
+        "lower_10_yen": 86240
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 221987,
+        "upper_90_yen": 541897,
+        "lower_10_yen": 100681
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 257930,
+        "upper_90_yen": 701096,
+        "lower_10_yen": 108826
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 283468,
+        "upper_90_yen": 839040,
+        "lower_10_yen": 113568
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 301614,
+        "upper_90_yen": 956077,
+        "lower_10_yen": 116387
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 314506,
+        "upper_90_yen": 1053851,
+        "lower_10_yen": 118091
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 323667,
+        "upper_90_yen": 1134557,
+        "lower_10_yen": 119133
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 330176,
+        "upper_90_yen": 1200531,
+        "lower_10_yen": 119776
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 334800,
+        "upper_90_yen": 1254032,
+        "lower_10_yen": 120176
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＫＯＺＯホールディングス(9973)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＫＯＺＯホールディングス(9973)を1株(17円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小17円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは61.93%、幾何成長率は-34.18%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＫＯＺＯホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約17円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は334,800円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-17.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＫＯＺＯホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約17円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 17.0
+  }
+}

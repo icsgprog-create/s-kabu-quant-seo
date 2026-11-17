@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6376",
+    "name": "日機装",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2753.0,
+    "min_s_kabu_yen": 2753,
+    "unit_lot_yen": 275300,
+    "dps_yen": 52.0,
+    "dividend_yield_pct": 1.89,
+    "raw_annual_return_pct": 24.18,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.11,
+    "annual_volatility_pct": 37.13,
+    "max_drawdown_pct": -42.21,
+    "monthly_var_95_pct": -14.98,
+    "sharpe_ratio": 0.38,
+    "quant_score": 37.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 231,
+        "nisa_required_capital_yen": 635943,
+        "specific_required_shares": 290,
+        "specific_required_capital_yen": 798370
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1154,
+        "nisa_required_capital_yen": 3176962,
+        "specific_required_shares": 1449,
+        "specific_required_capital_yen": 3989097
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 6353924,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 7975441
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6924,
+        "nisa_required_capital_yen": 19061772,
+        "specific_required_shares": 8689,
+        "specific_required_capital_yen": 23920817
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11539,
+        "nisa_required_capital_yen": 31766867,
+        "specific_required_shares": 14481,
+        "specific_required_capital_yen": 39866193
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130275,
+        "upper_90_yen": 183820,
+        "lower_10_yen": 93292
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281624,
+        "upper_90_yen": 457444,
+        "lower_10_yen": 177267
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 457459,
+        "upper_90_yen": 833505,
+        "lower_10_yen": 259634
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 661739,
+        "upper_90_yen": 1334465,
+        "lower_10_yen": 343045
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 899066,
+        "upper_90_yen": 1989677,
+        "lower_10_yen": 429097
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1174787,
+        "upper_90_yen": 2836008,
+        "lower_10_yen": 518998
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1495113,
+        "upper_90_yen": 3919195,
+        "lower_10_yen": 613795
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1867260,
+        "upper_90_yen": 5295643,
+        "lower_10_yen": 714473
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2299611,
+        "upper_90_yen": 7034693,
+        "lower_10_yen": 822020
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2801905,
+        "upper_90_yen": 9221393,
+        "lower_10_yen": 937456
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日機装(6376)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日機装(6376)を1株(2,753円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,753円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.13%、幾何成長率は13.11%",
+      "新NISAで月1万円の配当金を得るには2,308株（約6,353,924円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日機装は単元未満株（S株・かぶミニ等）を利用することで1株（約2,753円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,801,905円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり52.0円（利回り1.89%）です。月次95%VaR（最大想定損失率）は-14.98%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日機装は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,753円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,308株（元本目安：約6,353,924円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2753.0
+  }
+}

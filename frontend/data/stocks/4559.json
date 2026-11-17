@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4559",
+    "name": "ゼリア新薬工業",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2100.0,
+    "min_s_kabu_yen": 2100,
+    "unit_lot_yen": 210000,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 2.38,
+    "raw_annual_return_pct": 3.12,
+    "capped_annual_return_pct": 3.12,
+    "geometric_growth_pct": 0.98,
+    "annual_volatility_pct": 20.65,
+    "max_drawdown_pct": -26.16,
+    "monthly_var_95_pct": -8.82,
+    "sharpe_ratio": 0.11,
+    "quant_score": 51.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 504000,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 634200
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2520000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 3162600
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 5040000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 6325200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 15120000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 18975600
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 25200000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 31626000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122213,
+        "upper_90_yen": 147546,
+        "lower_10_yen": 101559
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248607,
+        "upper_90_yen": 322992,
+        "lower_10_yen": 192702
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 379326,
+        "upper_90_yen": 522294,
+        "lower_10_yen": 278488
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 514517,
+        "upper_90_yen": 744755,
+        "lower_10_yen": 360679
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 654334,
+        "upper_90_yen": 990527,
+        "lower_10_yen": 440245
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 798936,
+        "upper_90_yen": 1260165,
+        "lower_10_yen": 517811
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 948484,
+        "upper_90_yen": 1554472,
+        "lower_10_yen": 593820
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1103150,
+        "upper_90_yen": 1874424,
+        "lower_10_yen": 668600
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1263108,
+        "upper_90_yen": 2221140,
+        "lower_10_yen": 742409
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1428539,
+        "upper_90_yen": 2595858,
+        "lower_10_yen": 815455
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ゼリア新薬工業(4559)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ゼリア新薬工業(4559)を1株(2,100円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,100円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.65%、幾何成長率は0.98%",
+      "新NISAで月1万円の配当金を得るには2,400株（約5,040,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ゼリア新薬工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,100円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,428,539円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り2.38%）です。月次95%VaR（最大想定損失率）は-8.82%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ゼリア新薬工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,100円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約5,040,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2100.0
+  }
+}

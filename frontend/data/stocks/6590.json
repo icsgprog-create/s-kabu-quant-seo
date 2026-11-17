@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6590",
+    "name": "芝浦メカトロニクス",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2640.0,
+    "min_s_kabu_yen": 2640,
+    "unit_lot_yen": 264000,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 2.27,
+    "raw_annual_return_pct": 34.78,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": -0.95,
+    "annual_volatility_pct": 64.74,
+    "max_drawdown_pct": -60.95,
+    "monthly_var_95_pct": -22.97,
+    "sharpe_ratio": 0.0,
+    "quant_score": 23.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 528000,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 662640
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 2640000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3313200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 5280000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 6626400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 15840000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 19879200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 26400000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 33132000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120861,
+        "upper_90_yen": 220221,
+        "lower_10_yen": 68484
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 243327,
+        "upper_90_yen": 563450,
+        "lower_10_yen": 112593
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 367419,
+        "upper_90_yen": 1029655,
+        "lower_10_yen": 145810
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 493158,
+        "upper_90_yen": 1629380,
+        "lower_10_yen": 172279
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 620567,
+        "upper_90_yen": 2376572,
+        "lower_10_yen": 194072
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 749667,
+        "upper_90_yen": 3287449,
+        "lower_10_yen": 212417
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 880481,
+        "upper_90_yen": 4380182,
+        "lower_10_yen": 228111
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1013032,
+        "upper_90_yen": 5674820,
+        "lower_10_yen": 241708
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1147342,
+        "upper_90_yen": 7193314,
+        "lower_10_yen": 253608
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1283436,
+        "upper_90_yen": 8959584,
+        "lower_10_yen": 264110
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "芝浦メカトロニクス(6590)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "芝浦メカトロニクス(6590)を1株(2,640円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,640円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは64.74%、幾何成長率は-0.95%",
+      "新NISAで月1万円の配当金を得るには2,000株（約5,280,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "芝浦メカトロニクスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,640円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,283,436円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り2.27%）です。月次95%VaR（最大想定損失率）は-22.97%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "芝浦メカトロニクスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,640円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約5,280,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2640.0
+  }
+}

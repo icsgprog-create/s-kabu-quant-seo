@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9969",
+    "name": "ショクブン",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 232.0,
+    "min_s_kabu_yen": 232,
+    "unit_lot_yen": 23200,
+    "dps_yen": 2.5,
+    "dividend_yield_pct": 1.08,
+    "raw_annual_return_pct": 0.12,
+    "capped_annual_return_pct": 0.12,
+    "geometric_growth_pct": -2.25,
+    "annual_volatility_pct": 21.78,
+    "max_drawdown_pct": -32.15,
+    "monthly_var_95_pct": -8.18,
+    "sharpe_ratio": -0.1,
+    "quant_score": 34.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 1113600,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 1397568
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 5568000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 6987608
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 48000,
+        "nisa_required_capital_yen": 11136000,
+        "specific_required_shares": 60238,
+        "specific_required_capital_yen": 13975216
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 144000,
+        "nisa_required_capital_yen": 33408000,
+        "specific_required_shares": 180712,
+        "specific_required_capital_yen": 41925184
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 240000,
+        "nisa_required_capital_yen": 55680000,
+        "specific_required_shares": 301186,
+        "specific_required_capital_yen": 69875152
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119241,
+        "upper_90_yen": 145351,
+        "lower_10_yen": 98177
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 237092,
+        "upper_90_yen": 311832,
+        "lower_10_yen": 181692
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 353569,
+        "upper_90_yen": 493507,
+        "lower_10_yen": 256417
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 468688,
+        "upper_90_yen": 688116,
+        "lower_10_yen": 324546
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 582466,
+        "upper_90_yen": 894332,
+        "lower_10_yen": 387344
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 694917,
+        "upper_90_yen": 1111241,
+        "lower_10_yen": 445658
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 806057,
+        "upper_90_yen": 1338165,
+        "lower_10_yen": 500104
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 915902,
+        "upper_90_yen": 1574568,
+        "lower_10_yen": 551155
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1024466,
+        "upper_90_yen": 1820011,
+        "lower_10_yen": 599184
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1131765,
+        "upper_90_yen": 2074125,
+        "lower_10_yen": 644498
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ショクブン(9969)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ショクブン(9969)を1株(232円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小232円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.78%、幾何成長率は-2.25%",
+      "新NISAで月1万円の配当金を得るには48,000株（約11,136,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ショクブンは単元未満株（S株・かぶミニ等）を利用することで1株（約232円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,131,765円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり2.5円（利回り1.08%）です。月次95%VaR（最大想定損失率）は-8.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ショクブンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約232円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、48,000株（元本目安：約11,136,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 232.0
+  }
+}

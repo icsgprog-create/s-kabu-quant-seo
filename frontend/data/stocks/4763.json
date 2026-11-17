@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4763",
+    "name": "クリーク・アンド・リバー社",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1545.0,
+    "min_s_kabu_yen": 1545,
+    "unit_lot_yen": 154500,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 3.24,
+    "raw_annual_return_pct": -4.67,
+    "capped_annual_return_pct": -4.67,
+    "geometric_growth_pct": -9.76,
+    "annual_volatility_pct": 31.91,
+    "max_drawdown_pct": -48.83,
+    "monthly_var_95_pct": -14.96,
+    "sharpe_ratio": -0.24,
+    "quant_score": 39.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 370800,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 466590
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1854000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 2326770
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 3708000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 4653540
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 11124000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 13960620
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 18540000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 23267700
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115853,
+        "upper_90_yen": 154827,
+        "lower_10_yen": 87370
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 224387,
+        "upper_90_yen": 334807,
+        "lower_10_yen": 152969
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 326064,
+        "upper_90_yen": 529759,
+        "lower_10_yen": 206072
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 421318,
+        "upper_90_yen": 735263,
+        "lower_10_yen": 250267
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 510554,
+        "upper_90_yen": 948474,
+        "lower_10_yen": 287644
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 594153,
+        "upper_90_yen": 1167304,
+        "lower_10_yen": 319601
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 672470,
+        "upper_90_yen": 1390125,
+        "lower_10_yen": 347143
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 745840,
+        "upper_90_yen": 1615611,
+        "lower_10_yen": 371027
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 814575,
+        "upper_90_yen": 1842662,
+        "lower_10_yen": 391844
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 878968,
+        "upper_90_yen": 2070350,
+        "lower_10_yen": 410061
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クリーク・アンド・リバー社(4763)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クリーク・アンド・リバー社(4763)を1株(1,545円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,545円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.91%、幾何成長率は-9.76%",
+      "新NISAで月1万円の配当金を得るには2,400株（約3,708,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クリーク・アンド・リバー社は単元未満株（S株・かぶミニ等）を利用することで1株（約1,545円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は878,968円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り3.24%）です。月次95%VaR（最大想定損失率）は-14.96%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クリーク・アンド・リバー社は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,545円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約3,708,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1545.0
+  }
+}

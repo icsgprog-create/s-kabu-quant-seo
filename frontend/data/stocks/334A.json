@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "334A",
+    "name": "ビジュアル・プロセッシング・ジャパン",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1016.0,
+    "min_s_kabu_yen": 1016,
+    "unit_lot_yen": 101600,
+    "dps_yen": 16.0,
+    "dividend_yield_pct": 1.57,
+    "raw_annual_return_pct": -7.58,
+    "capped_annual_return_pct": -7.58,
+    "geometric_growth_pct": -23.1,
+    "annual_volatility_pct": 55.72,
+    "max_drawdown_pct": -47.42,
+    "monthly_var_95_pct": -22.57,
+    "sharpe_ratio": -0.4,
+    "quant_score": 12.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 762000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 957072
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 3810000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 4782312
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 7620000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 9563608
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22500,
+        "nisa_required_capital_yen": 22860000,
+        "specific_required_shares": 28237,
+        "specific_required_capital_yen": 28688792
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 37500,
+        "nisa_required_capital_yen": 38100000,
+        "specific_required_shares": 47061,
+        "specific_required_capital_yen": 47813976
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106998,
+        "upper_90_yen": 177254,
+        "lower_10_yen": 66160
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 193274,
+        "upper_90_yen": 385462,
+        "lower_10_yen": 102161
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 262841,
+        "upper_90_yen": 601821,
+        "lower_10_yen": 124623
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 318936,
+        "upper_90_yen": 816221,
+        "lower_10_yen": 139343
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 364166,
+        "upper_90_yen": 1022852,
+        "lower_10_yen": 149267
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 400637,
+        "upper_90_yen": 1218271,
+        "lower_10_yen": 156087
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 430045,
+        "upper_90_yen": 1400536,
+        "lower_10_yen": 160839
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 453758,
+        "upper_90_yen": 1568707,
+        "lower_10_yen": 164187
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 472878,
+        "upper_90_yen": 1722531,
+        "lower_10_yen": 166567
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 488295,
+        "upper_90_yen": 1862221,
+        "lower_10_yen": 168270
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビジュアル・プロセッシング・ジャパン(334A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビジュアル・プロセッシング・ジャパン(334A)を1株(1,016円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,016円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは55.72%、幾何成長率は-23.1%",
+      "新NISAで月1万円の配当金を得るには7,500株（約7,620,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビジュアル・プロセッシング・ジャパンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,016円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は488,295円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.0円（利回り1.57%）です。月次95%VaR（最大想定損失率）は-22.57%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビジュアル・プロセッシング・ジャパンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,016円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,500株（元本目安：約7,620,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1016.0
+  }
+}

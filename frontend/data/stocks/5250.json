@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5250",
+    "name": "ＧＭＯプライム・ストラテジー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 956.0,
+    "min_s_kabu_yen": 956,
+    "unit_lot_yen": 95600,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 2.3,
+    "raw_annual_return_pct": -35.96,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -39.67,
+    "annual_volatility_pct": 70.25,
+    "max_drawdown_pct": -82.27,
+    "monthly_var_95_pct": -24.42,
+    "sharpe_ratio": -0.55,
+    "quant_score": 18.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 521976,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 654860
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 2607968,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 3272388
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 5214980,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 6544776
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 15643984,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 19632416
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 26072988,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 32720056
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 98577,
+        "upper_90_yen": 185376,
+        "lower_10_yen": 54476
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 166416,
+        "upper_90_yen": 390613,
+        "lower_10_yen": 77149
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 213101,
+        "upper_90_yen": 585200,
+        "lower_10_yen": 88424
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 245229,
+        "upper_90_yen": 758922,
+        "lower_10_yen": 94393
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 267338,
+        "upper_90_yen": 908655,
+        "lower_10_yen": 97670
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 282554,
+        "upper_90_yen": 1034669,
+        "lower_10_yen": 99513
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 293025,
+        "upper_90_yen": 1138875,
+        "lower_10_yen": 100568
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 300231,
+        "upper_90_yen": 1223880,
+        "lower_10_yen": 101180
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 305190,
+        "upper_90_yen": 1292463,
+        "lower_10_yen": 101539
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 308602,
+        "upper_90_yen": 1347297,
+        "lower_10_yen": 101752
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＧＭＯプライム・ストラテジー(5250)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＧＭＯプライム・ストラテジー(5250)を1株(956円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小956円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは70.25%、幾何成長率は-39.67%",
+      "新NISAで月1万円の配当金を得るには5,455株（約5,214,980円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＧＭＯプライム・ストラテジーは単元未満株（S株・かぶミニ等）を利用することで1株（約956円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は308,602円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り2.3%）です。月次95%VaR（最大想定損失率）は-24.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＧＭＯプライム・ストラテジーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約956円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約5,214,980円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 956.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6545",
+    "name": "インターネットインフィニティー",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 736.0,
+    "min_s_kabu_yen": 736,
+    "unit_lot_yen": 73600,
+    "dps_yen": 18.0,
+    "dividend_yield_pct": 2.45,
+    "raw_annual_return_pct": 9.05,
+    "capped_annual_return_pct": 9.05,
+    "geometric_growth_pct": 2.66,
+    "annual_volatility_pct": 35.75,
+    "max_drawdown_pct": -39.23,
+    "monthly_var_95_pct": -11.74,
+    "sharpe_ratio": 0.11,
+    "quant_score": 36.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 490912,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 616032
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 2453824,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 3079424
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 4906912,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 6158112
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 14720000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 18472864
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 33334,
+        "nisa_required_capital_yen": 24533824,
+        "specific_required_shares": 41832,
+        "specific_required_capital_yen": 30788352
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123379,
+        "upper_90_yen": 171380,
+        "lower_10_yen": 89691
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253222,
+        "upper_90_yen": 400656,
+        "lower_10_yen": 163434
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 389867,
+        "upper_90_yen": 684424,
+        "lower_10_yen": 229347
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 533671,
+        "upper_90_yen": 1025178,
+        "lower_10_yen": 290109
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 685009,
+        "upper_90_yen": 1427167,
+        "lower_10_yen": 347139
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 844276,
+        "upper_90_yen": 1895718,
+        "lower_10_yen": 401318
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1011887,
+        "upper_90_yen": 2437023,
+        "lower_10_yen": 453252
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1188279,
+        "upper_90_yen": 3058078,
+        "lower_10_yen": 503380
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1373912,
+        "upper_90_yen": 3766681,
+        "lower_10_yen": 552035
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1569271,
+        "upper_90_yen": 4571456,
+        "lower_10_yen": 599480
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "インターネットインフィニティー(6545)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "インターネットインフィニティー(6545)を1株(736円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小736円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.75%、幾何成長率は2.66%",
+      "新NISAで月1万円の配当金を得るには6,667株（約4,906,912円）が必要"
+    ],
+    "accumulation_strategy_analysis": "インターネットインフィニティーは単元未満株（S株・かぶミニ等）を利用することで1株（約736円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,569,271円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり18.0円（利回り2.45%）です。月次95%VaR（最大想定損失率）は-11.74%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "インターネットインフィニティーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約736円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,667株（元本目安：約4,906,912円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 736.0
+  }
+}

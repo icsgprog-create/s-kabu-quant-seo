@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4365",
+    "name": "松本油脂製薬",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 22930.0,
+    "min_s_kabu_yen": 22930,
+    "unit_lot_yen": 2293000,
+    "dps_yen": 450.0,
+    "dividend_yield_pct": 1.96,
+    "raw_annual_return_pct": 17.71,
+    "capped_annual_return_pct": 17.71,
+    "geometric_growth_pct": 15.57,
+    "annual_volatility_pct": 20.7,
+    "max_drawdown_pct": -16.24,
+    "monthly_var_95_pct": -4.78,
+    "sharpe_ratio": 0.8,
+    "quant_score": 65.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 27,
+        "nisa_required_capital_yen": 619110,
+        "specific_required_shares": 34,
+        "specific_required_capital_yen": 779620
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 134,
+        "nisa_required_capital_yen": 3072620,
+        "specific_required_shares": 168,
+        "specific_required_capital_yen": 3852240
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 267,
+        "nisa_required_capital_yen": 6122310,
+        "specific_required_shares": 335,
+        "specific_required_capital_yen": 7681550
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 18344000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 23021720
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 30588620,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 38384820
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132124,
+        "upper_90_yen": 159944,
+        "lower_10_yen": 109496
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289570,
+        "upper_90_yen": 378931,
+        "lower_10_yen": 222804
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 477192,
+        "upper_90_yen": 665543,
+        "lower_10_yen": 345695
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 700773,
+        "upper_90_yen": 1034169,
+        "lower_10_yen": 481358
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 967203,
+        "upper_90_yen": 1503443,
+        "lower_10_yen": 632673
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1284697,
+        "upper_90_yen": 2096701,
+        "lower_10_yen": 802630
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1663040,
+        "upper_90_yen": 2842860,
+        "lower_10_yen": 994513
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2113894,
+        "upper_90_yen": 3777592,
+        "lower_10_yen": 1212019
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2651157,
+        "upper_90_yen": 4944793,
+        "lower_10_yen": 1459363
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3291390,
+        "upper_90_yen": 6398401,
+        "lower_10_yen": 1741392
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "松本油脂製薬(4365)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "松本油脂製薬(4365)を1株(22,930円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小22,930円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.7%、幾何成長率は15.57%",
+      "新NISAで月1万円の配当金を得るには267株（約6,122,310円）が必要"
+    ],
+    "accumulation_strategy_analysis": "松本油脂製薬は単元未満株（S株・かぶミニ等）を利用することで1株（約22,930円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,291,390円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり450.0円（利回り1.96%）です。月次95%VaR（最大想定損失率）は-4.78%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "松本油脂製薬は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約22,930円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、267株（元本目安：約6,122,310円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 22930.0
+  }
+}

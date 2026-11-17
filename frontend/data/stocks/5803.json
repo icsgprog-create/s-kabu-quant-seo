@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5803",
+    "name": "フジクラ",
+    "sector": "非鉄金属",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2590.5,
+    "min_s_kabu_yen": 2591,
+    "unit_lot_yen": 259050,
+    "dps_yen": 61.67,
+    "dividend_yield_pct": 2.38,
+    "raw_annual_return_pct": 68.32,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 1.13,
+    "annual_volatility_pct": 61.43,
+    "max_drawdown_pct": -66.75,
+    "monthly_var_95_pct": -21.78,
+    "sharpe_ratio": 0.04,
+    "quant_score": 25.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 195,
+        "nisa_required_capital_yen": 505148,
+        "specific_required_shares": 245,
+        "specific_required_capital_yen": 634672
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 973,
+        "nisa_required_capital_yen": 2520556,
+        "specific_required_shares": 1222,
+        "specific_required_capital_yen": 3165591
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1946,
+        "nisa_required_capital_yen": 5041113,
+        "specific_required_shares": 2443,
+        "specific_required_capital_yen": 6328592
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5838,
+        "nisa_required_capital_yen": 15123339,
+        "specific_required_shares": 7327,
+        "specific_required_capital_yen": 18980594
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9730,
+        "nisa_required_capital_yen": 25205565,
+        "specific_required_shares": 12211,
+        "specific_required_capital_yen": 31632596
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122311,
+        "upper_90_yen": 216201,
+        "lower_10_yen": 71211
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248994,
+        "upper_90_yen": 553165,
+        "lower_10_yen": 119243
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 380206,
+        "upper_90_yen": 1014042,
+        "lower_10_yen": 156789
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 516109,
+        "upper_90_yen": 1612701,
+        "lower_10_yen": 187753
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 656869,
+        "upper_90_yen": 2367085,
+        "lower_10_yen": 214092
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 802662,
+        "upper_90_yen": 3298271,
+        "lower_10_yen": 236971
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 953666,
+        "upper_90_yen": 4430320,
+        "lower_10_yen": 257153
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1110068,
+        "upper_90_yen": 5790361,
+        "lower_10_yen": 275169
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1272061,
+        "upper_90_yen": 7408790,
+        "lower_10_yen": 291408
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1439844,
+        "upper_90_yen": 9319519,
+        "lower_10_yen": 306161
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フジクラ(5803)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フジクラ(5803)を1株(2,591円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,591円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは61.43%、幾何成長率は1.13%",
+      "新NISAで月1万円の配当金を得るには1,946株（約5,041,113円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フジクラは単元未満株（S株・かぶミニ等）を利用することで1株（約2,591円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,439,844円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり61.67円（利回り2.38%）です。月次95%VaR（最大想定損失率）は-21.78%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フジクラは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,591円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,946株（元本目安：約5,041,113円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2590.5
+  }
+}

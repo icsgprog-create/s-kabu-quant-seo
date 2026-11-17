@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3910",
+    "name": "エムケイシステム",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 328.0,
+    "min_s_kabu_yen": 328,
+    "unit_lot_yen": 32800,
+    "dps_yen": 8.0,
+    "dividend_yield_pct": 2.44,
+    "raw_annual_return_pct": -6.0,
+    "capped_annual_return_pct": -6.0,
+    "geometric_growth_pct": -11.67,
+    "annual_volatility_pct": 33.66,
+    "max_drawdown_pct": -47.44,
+    "monthly_var_95_pct": -11.03,
+    "sharpe_ratio": -0.3,
+    "quant_score": 30.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 492000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 617624
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 2460000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 3087464
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 4920000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 6174600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 45000,
+        "nisa_required_capital_yen": 14760000,
+        "specific_required_shares": 56473,
+        "specific_required_capital_yen": 18523144
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 75000,
+        "nisa_required_capital_yen": 24600000,
+        "specific_required_shares": 94121,
+        "specific_required_capital_yen": 30871688
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114190,
+        "upper_90_yen": 154973,
+        "lower_10_yen": 84877
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 218315,
+        "upper_90_yen": 332436,
+        "lower_10_yen": 146127
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 313263,
+        "upper_90_yen": 521042,
+        "lower_10_yen": 193998
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 399842,
+        "upper_90_yen": 715822,
+        "lower_10_yen": 232524
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 478789,
+        "upper_90_yen": 913627,
+        "lower_10_yen": 264060
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 550779,
+        "upper_90_yen": 1112230,
+        "lower_10_yen": 290173
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 616422,
+        "upper_90_yen": 1309968,
+        "lower_10_yen": 311978
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 676281,
+        "upper_90_yen": 1505565,
+        "lower_10_yen": 330306
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 730863,
+        "upper_90_yen": 1698033,
+        "lower_10_yen": 345792
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 780634,
+        "upper_90_yen": 1886599,
+        "lower_10_yen": 358934
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エムケイシステム(3910)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エムケイシステム(3910)を1株(328円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小328円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.66%、幾何成長率は-11.67%",
+      "新NISAで月1万円の配当金を得るには15,000株（約4,920,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エムケイシステムは単元未満株（S株・かぶミニ等）を利用することで1株（約328円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は780,634円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり8.0円（利回り2.44%）です。月次95%VaR（最大想定損失率）は-11.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エムケイシステムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約328円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、15,000株（元本目安：約4,920,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 328.0
+  }
+}

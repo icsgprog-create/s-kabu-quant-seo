@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5885",
+    "name": "ジーデップ・アドバンス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2533.0,
+    "min_s_kabu_yen": 2533,
+    "unit_lot_yen": 253300,
+    "dps_yen": 44.0,
+    "dividend_yield_pct": 1.74,
+    "raw_annual_return_pct": -8.0,
+    "capped_annual_return_pct": -8.0,
+    "geometric_growth_pct": -31.27,
+    "annual_volatility_pct": 68.21,
+    "max_drawdown_pct": -65.33,
+    "monthly_var_95_pct": -23.5,
+    "sharpe_ratio": -0.45,
+    "quant_score": 13.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 273,
+        "nisa_required_capital_yen": 691509,
+        "specific_required_shares": 343,
+        "specific_required_capital_yen": 868819
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1364,
+        "nisa_required_capital_yen": 3455012,
+        "specific_required_shares": 1712,
+        "specific_required_capital_yen": 4336496
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 6910024,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 8670459
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8182,
+        "nisa_required_capital_yen": 20725006,
+        "specific_required_shares": 10268,
+        "specific_required_capital_yen": 26008844
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13637,
+        "nisa_required_capital_yen": 34542521,
+        "specific_required_shares": 17113,
+        "specific_required_capital_yen": 43347229
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 102631,
+        "upper_90_yen": 190192,
+        "lower_10_yen": 57421
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 179021,
+        "upper_90_yen": 414488,
+        "lower_10_yen": 83710
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 235878,
+        "upper_90_yen": 642262,
+        "lower_10_yen": 97992
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 278197,
+        "upper_90_yen": 860493,
+        "lower_10_yen": 106235
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 309696,
+        "upper_90_yen": 1062577,
+        "lower_10_yen": 111162
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 333140,
+        "upper_90_yen": 1245430,
+        "lower_10_yen": 114176
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 350590,
+        "upper_90_yen": 1408089,
+        "lower_10_yen": 116053
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 363578,
+        "upper_90_yen": 1550882,
+        "lower_10_yen": 117237
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 373246,
+        "upper_90_yen": 1674908,
+        "lower_10_yen": 117992
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 380441,
+        "upper_90_yen": 1781687,
+        "lower_10_yen": 118477
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ジーデップ・アドバンス(5885)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ジーデップ・アドバンス(5885)を1株(2,533円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,533円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは68.21%、幾何成長率は-31.27%",
+      "新NISAで月1万円の配当金を得るには2,728株（約6,910,024円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ジーデップ・アドバンスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,533円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は380,441円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり44.0円（利回り1.74%）です。月次95%VaR（最大想定損失率）は-23.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ジーデップ・アドバンスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,533円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,728株（元本目安：約6,910,024円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2533.0
+  }
+}

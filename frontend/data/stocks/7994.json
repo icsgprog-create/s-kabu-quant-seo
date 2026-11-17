@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7994",
+    "name": "オカムラ",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2217.0,
+    "min_s_kabu_yen": 2217,
+    "unit_lot_yen": 221700,
+    "dps_yen": 104.5,
+    "dividend_yield_pct": 4.71,
+    "raw_annual_return_pct": 14.41,
+    "capped_annual_return_pct": 14.41,
+    "geometric_growth_pct": 10.89,
+    "annual_volatility_pct": 26.55,
+    "max_drawdown_pct": -33.87,
+    "monthly_var_95_pct": -8.16,
+    "sharpe_ratio": 0.55,
+    "quant_score": 74.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 115,
+        "nisa_required_capital_yen": 254955,
+        "specific_required_shares": 145,
+        "specific_required_capital_yen": 321465
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 575,
+        "nisa_required_capital_yen": 1274775,
+        "specific_required_shares": 721,
+        "specific_required_capital_yen": 1598457
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1149,
+        "nisa_required_capital_yen": 2547333,
+        "specific_required_shares": 1442,
+        "specific_required_capital_yen": 3196914
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3445,
+        "nisa_required_capital_yen": 7637565,
+        "specific_required_shares": 4324,
+        "specific_required_capital_yen": 9586308
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5742,
+        "nisa_required_capital_yen": 12730014,
+        "specific_required_shares": 7206,
+        "specific_required_capital_yen": 15975702
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130714,
+        "upper_90_yen": 167045,
+        "lower_10_yen": 102831
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 283502,
+        "upper_90_yen": 400302,
+        "lower_10_yen": 203067
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 462089,
+        "upper_90_yen": 707785,
+        "lower_10_yen": 306888
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 670832,
+        "upper_90_yen": 1104142,
+        "lower_10_yen": 416899
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 914824,
+        "upper_90_yen": 1608392,
+        "lower_10_yen": 535022
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1200017,
+        "upper_90_yen": 2244203,
+        "lower_10_yen": 663000
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1533369,
+        "upper_90_yen": 3040639,
+        "lower_10_yen": 802577
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1923010,
+        "upper_90_yen": 4033187,
+        "lower_10_yen": 955586
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2378447,
+        "upper_90_yen": 5265047,
+        "lower_10_yen": 1124015
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2910790,
+        "upper_90_yen": 6788703,
+        "lower_10_yen": 1310054
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オカムラ(7994)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オカムラ(7994)を1株(2,217円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,217円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.55%、幾何成長率は10.89%",
+      "新NISAで月1万円の配当金を得るには1,149株（約2,547,333円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オカムラは単元未満株（S株・かぶミニ等）を利用することで1株（約2,217円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,910,790円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり104.5円（利回り4.71%）です。月次95%VaR（最大想定損失率）は-8.16%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オカムラは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,217円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,149株（元本目安：約2,547,333円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2217.0
+  }
+}

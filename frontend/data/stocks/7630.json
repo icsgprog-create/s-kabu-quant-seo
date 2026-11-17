@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7630",
+    "name": "壱番屋",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1195.0,
+    "min_s_kabu_yen": 1195,
+    "unit_lot_yen": 119500,
+    "dps_yen": 16.0,
+    "dividend_yield_pct": 1.34,
+    "raw_annual_return_pct": 6.71,
+    "capped_annual_return_pct": 6.71,
+    "geometric_growth_pct": 4.93,
+    "annual_volatility_pct": 18.87,
+    "max_drawdown_pct": -34.22,
+    "monthly_var_95_pct": -6.56,
+    "sharpe_ratio": 0.28,
+    "quant_score": 48.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 896250,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 1125690
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 4481250,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 5624865
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 8962500,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 11248535
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22500,
+        "nisa_required_capital_yen": 26887500,
+        "specific_required_shares": 28237,
+        "specific_required_capital_yen": 33743215
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 37500,
+        "nisa_required_capital_yen": 44812500,
+        "specific_required_shares": 47061,
+        "specific_required_capital_yen": 56237895
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124165,
+        "upper_90_yen": 147532,
+        "lower_10_yen": 104782
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 256363,
+        "upper_90_yen": 325953,
+        "lower_10_yen": 202810
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 397113,
+        "upper_90_yen": 532918,
+        "lower_10_yen": 298576
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 546969,
+        "upper_90_yen": 769175,
+        "lower_10_yen": 393661
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 706520,
+        "upper_90_yen": 1036353,
+        "lower_10_yen": 488966
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 876394,
+        "upper_90_yen": 1336579,
+        "lower_10_yen": 585104
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1057257,
+        "upper_90_yen": 1672363,
+        "lower_10_yen": 682541
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1249821,
+        "upper_90_yen": 2046547,
+        "lower_10_yen": 781655
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1454844,
+        "upper_90_yen": 2462302,
+        "lower_10_yen": 882772
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1673130,
+        "upper_90_yen": 2923123,
+        "lower_10_yen": 986185
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "壱番屋(7630)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "壱番屋(7630)を1株(1,195円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,195円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.87%、幾何成長率は4.93%",
+      "新NISAで月1万円の配当金を得るには7,500株（約8,962,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "壱番屋は単元未満株（S株・かぶミニ等）を利用することで1株（約1,195円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,673,130円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.0円（利回り1.34%）です。月次95%VaR（最大想定損失率）は-6.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "壱番屋は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,195円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,500株（元本目安：約8,962,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1195.0
+  }
+}

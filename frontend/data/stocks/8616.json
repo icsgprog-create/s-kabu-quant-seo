@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8616",
+    "name": "東海東京フィナンシャル・ホールディングス",
+    "sector": "証券、商品先物取引業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 758.0,
+    "min_s_kabu_yen": 758,
+    "unit_lot_yen": 75800,
+    "dps_yen": 53.0,
+    "dividend_yield_pct": 6.99,
+    "raw_annual_return_pct": 19.3,
+    "capped_annual_return_pct": 19.3,
+    "geometric_growth_pct": 16.14,
+    "annual_volatility_pct": 25.16,
+    "max_drawdown_pct": -30.88,
+    "monthly_var_95_pct": -8.33,
+    "sharpe_ratio": 0.88,
+    "quant_score": 86.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 227,
+        "nisa_required_capital_yen": 172066,
+        "specific_required_shares": 285,
+        "specific_required_capital_yen": 216030
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1133,
+        "nisa_required_capital_yen": 858814,
+        "specific_required_shares": 1421,
+        "specific_required_capital_yen": 1077118
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2265,
+        "nisa_required_capital_yen": 1716870,
+        "specific_required_shares": 2842,
+        "specific_required_capital_yen": 2154236
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6793,
+        "nisa_required_capital_yen": 5149094,
+        "specific_required_shares": 8525,
+        "specific_required_capital_yen": 6461950
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11321,
+        "nisa_required_capital_yen": 8581318,
+        "specific_required_shares": 14207,
+        "specific_required_capital_yen": 10768906
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 136319,
+        "upper_90_yen": 172225,
+        "lower_10_yen": 108412
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 308113,
+        "upper_90_yen": 428983,
+        "lower_10_yen": 223520
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 524616,
+        "upper_90_yen": 791568,
+        "lower_10_yen": 352905
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 797463,
+        "upper_90_yen": 1292887,
+        "lower_10_yen": 501494
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1141315,
+        "upper_90_yen": 1977467,
+        "lower_10_yen": 674287
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1574654,
+        "upper_90_yen": 2904434,
+        "lower_10_yen": 876942
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2120765,
+        "upper_90_yen": 4151815,
+        "lower_10_yen": 1116112
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2808999,
+        "upper_90_yen": 5822254,
+        "lower_10_yen": 1399750
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3676341,
+        "upper_90_yen": 8050515,
+        "lower_10_yen": 1737444
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4769402,
+        "upper_90_yen": 11013274,
+        "lower_10_yen": 2140802
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東海東京フィナンシャル・ホールディングス(8616)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東海東京フィナンシャル・ホールディングス(8616)を1株(758円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小758円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.16%、幾何成長率は16.14%",
+      "新NISAで月1万円の配当金を得るには2,265株（約1,716,870円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東海東京フィナンシャル・ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約758円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,769,402円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり53.0円（利回り6.99%）です。月次95%VaR（最大想定損失率）は-8.33%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東海東京フィナンシャル・ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約758円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,265株（元本目安：約1,716,870円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 758.0
+  }
+}

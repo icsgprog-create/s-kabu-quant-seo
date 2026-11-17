@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6995",
+    "name": "東海理化電機製作所",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2949.0,
+    "min_s_kabu_yen": 2949,
+    "unit_lot_yen": 294900,
+    "dps_yen": 120.0,
+    "dividend_yield_pct": 4.07,
+    "raw_annual_return_pct": 15.76,
+    "capped_annual_return_pct": 15.76,
+    "geometric_growth_pct": 12.13,
+    "annual_volatility_pct": 26.93,
+    "max_drawdown_pct": -33.69,
+    "monthly_var_95_pct": -10.01,
+    "sharpe_ratio": 0.56,
+    "quant_score": 69.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 100,
+        "nisa_required_capital_yen": 294900,
+        "specific_required_shares": 126,
+        "specific_required_capital_yen": 371574
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 1474500,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 1851972
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 2949000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3700995
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 8847000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 11102985
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 14745000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 18504975
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131148,
+        "upper_90_yen": 168216,
+        "lower_10_yen": 102809
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285360,
+        "upper_90_yen": 405097,
+        "lower_10_yen": 203365
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 466691,
+        "upper_90_yen": 719763,
+        "lower_10_yen": 307962
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 679911,
+        "upper_90_yen": 1128374,
+        "lower_10_yen": 419301
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 930628,
+        "upper_90_yen": 1651958,
+        "lower_10_yen": 539421
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1225436,
+        "upper_90_yen": 2316818,
+        "lower_10_yen": 670201
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1572089,
+        "upper_90_yen": 3155455,
+        "lower_10_yen": 813545
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1979704,
+        "upper_90_yen": 4207816,
+        "lower_10_yen": 971479
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2459001,
+        "upper_90_yen": 5522855,
+        "lower_10_yen": 1146221
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3022588,
+        "upper_90_yen": 7160454,
+        "lower_10_yen": 1340232
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東海理化電機製作所(6995)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東海理化電機製作所(6995)を1株(2,949円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,949円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.93%、幾何成長率は12.13%",
+      "新NISAで月1万円の配当金を得るには1,000株（約2,949,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東海理化電機製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約2,949円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,022,588円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり120.0円（利回り4.07%）です。月次95%VaR（最大想定損失率）は-10.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東海理化電機製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,949円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,000株（元本目安：約2,949,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2949.0
+  }
+}

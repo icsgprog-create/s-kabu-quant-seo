@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5870",
+    "name": "ナルネットコミュニケーションズ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 850.0,
+    "min_s_kabu_yen": 850,
+    "unit_lot_yen": 85000,
+    "dps_yen": 29.0,
+    "dividend_yield_pct": 3.41,
+    "raw_annual_return_pct": 0.56,
+    "capped_annual_return_pct": 0.56,
+    "geometric_growth_pct": -10.98,
+    "annual_volatility_pct": 48.04,
+    "max_drawdown_pct": -59.52,
+    "monthly_var_95_pct": -21.9,
+    "sharpe_ratio": -0.18,
+    "quant_score": 27.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 351900,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 442000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 1758650,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 2207450
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 3517300,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 4414050
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12414,
+        "nisa_required_capital_yen": 10551900,
+        "specific_required_shares": 15579,
+        "specific_required_capital_yen": 13242150
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 17586500,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 22070250
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115209,
+        "upper_90_yen": 178720,
+        "lower_10_yen": 75596
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 222022,
+        "upper_90_yen": 407601,
+        "lower_10_yen": 125702
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 321051,
+        "upper_90_yen": 671555,
+        "lower_10_yen": 162971
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 412863,
+        "upper_90_yen": 963804,
+        "lower_10_yen": 191879
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 497986,
+        "upper_90_yen": 1279741,
+        "lower_10_yen": 214853
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 576905,
+        "upper_90_yen": 1615790,
+        "lower_10_yen": 233413
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 650073,
+        "upper_90_yen": 1968981,
+        "lower_10_yen": 248588
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 717909,
+        "upper_90_yen": 2336759,
+        "lower_10_yen": 261114
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 780801,
+        "upper_90_yen": 2716870,
+        "lower_10_yen": 271529
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 839111,
+        "upper_90_yen": 3107299,
+        "lower_10_yen": 280245
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ナルネットコミュニケーションズ(5870)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ナルネットコミュニケーションズ(5870)を1株(850円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小850円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは48.04%、幾何成長率は-10.98%",
+      "新NISAで月1万円の配当金を得るには4,138株（約3,517,300円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ナルネットコミュニケーションズは単元未満株（S株・かぶミニ等）を利用することで1株（約850円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は839,111円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり29.0円（利回り3.41%）です。月次95%VaR（最大想定損失率）は-21.9%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ナルネットコミュニケーションズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約850円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,138株（元本目安：約3,517,300円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 850.0
+  }
+}

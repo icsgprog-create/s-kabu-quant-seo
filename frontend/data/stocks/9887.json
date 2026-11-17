@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9887",
+    "name": "松屋フーズホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5540.0,
+    "min_s_kabu_yen": 5540,
+    "unit_lot_yen": 554000,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 0.45,
+    "raw_annual_return_pct": 9.21,
+    "capped_annual_return_pct": 9.21,
+    "geometric_growth_pct": 6.93,
+    "annual_volatility_pct": 21.36,
+    "max_drawdown_pct": -40.74,
+    "monthly_var_95_pct": -11.06,
+    "sharpe_ratio": 0.3,
+    "quant_score": 39.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 2659200,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 3340620
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 13296000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 16686480
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 26592000,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 33372960
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 79776000,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 100118880
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 132960000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 166859260
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124925,
+        "upper_90_yen": 151907,
+        "lower_10_yen": 103092
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 259422,
+        "upper_90_yen": 340784,
+        "lower_10_yen": 198963
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 404225,
+        "upper_90_yen": 564842,
+        "lower_10_yen": 292604
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 560124,
+        "upper_90_yen": 825860,
+        "lower_10_yen": 385759
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 727969,
+        "upper_90_yen": 1126725,
+        "lower_10_yen": 479428
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 908676,
+        "upper_90_yen": 1471033,
+        "lower_10_yen": 574297
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1103230,
+        "upper_90_yen": 1862967,
+        "lower_10_yen": 670894
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1312691,
+        "upper_90_yen": 2307282,
+        "lower_10_yen": 769661
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1538203,
+        "upper_90_yen": 2809304,
+        "lower_10_yen": 870981
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1780996,
+        "upper_90_yen": 3374970,
+        "lower_10_yen": 975208
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "松屋フーズホールディングス(9887)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "松屋フーズホールディングス(9887)を1株(5,540円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,540円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.36%、幾何成長率は6.93%",
+      "新NISAで月1万円の配当金を得るには4,800株（約26,592,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "松屋フーズホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約5,540円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,780,996円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り0.45%）です。月次95%VaR（最大想定損失率）は-11.06%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "松屋フーズホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,540円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約26,592,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5540.0
+  }
+}

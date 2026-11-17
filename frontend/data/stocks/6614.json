@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6614",
+    "name": "シキノハイテック",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 757.0,
+    "min_s_kabu_yen": 757,
+    "unit_lot_yen": 75700,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 1.98,
+    "raw_annual_return_pct": -24.48,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -31.08,
+    "annual_volatility_pct": 56.72,
+    "max_drawdown_pct": -84.99,
+    "monthly_var_95_pct": -21.38,
+    "sharpe_ratio": -0.53,
+    "quant_score": 15.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 605600,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 760028
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 3028000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 3800140
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 6056000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 7600280
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 18168000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 22800083
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 30280000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 37999886
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 102859,
+        "upper_90_yen": 171407,
+        "lower_10_yen": 63287
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 179746,
+        "upper_90_yen": 359571,
+        "lower_10_yen": 94933
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 237220,
+        "upper_90_yen": 541731,
+        "lower_10_yen": 113145
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 280181,
+        "upper_90_yen": 709724,
+        "lower_10_yen": 124166
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 312295,
+        "upper_90_yen": 860318,
+        "lower_10_yen": 131030
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 336300,
+        "upper_90_yen": 992740,
+        "lower_10_yen": 135391
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 354244,
+        "upper_90_yen": 1107544,
+        "lower_10_yen": 138200
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 367657,
+        "upper_90_yen": 1205986,
+        "lower_10_yen": 140030
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 377684,
+        "upper_90_yen": 1289651,
+        "lower_10_yen": 141233
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 385178,
+        "upper_90_yen": 1360239,
+        "lower_10_yen": 142030
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シキノハイテック(6614)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シキノハイテック(6614)を1株(757円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小757円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは56.72%、幾何成長率は-31.08%",
+      "新NISAで月1万円の配当金を得るには8,000株（約6,056,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シキノハイテックは単元未満株（S株・かぶミニ等）を利用することで1株（約757円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は385,178円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り1.98%）です。月次95%VaR（最大想定損失率）は-21.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シキノハイテックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約757円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約6,056,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 757.0
+  }
+}

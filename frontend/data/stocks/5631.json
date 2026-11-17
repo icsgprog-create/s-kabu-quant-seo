@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5631",
+    "name": "日本製鋼所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5003.0,
+    "min_s_kabu_yen": 5003,
+    "unit_lot_yen": 500300,
+    "dps_yen": 98.0,
+    "dividend_yield_pct": 1.96,
+    "raw_annual_return_pct": 10.08,
+    "capped_annual_return_pct": 10.08,
+    "geometric_growth_pct": -1.82,
+    "annual_volatility_pct": 48.79,
+    "max_drawdown_pct": -51.28,
+    "monthly_var_95_pct": -15.4,
+    "sharpe_ratio": -0.02,
+    "quant_score": 20.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 123,
+        "nisa_required_capital_yen": 615369,
+        "specific_required_shares": 154,
+        "specific_required_capital_yen": 770462
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 613,
+        "nisa_required_capital_yen": 3066839,
+        "specific_required_shares": 769,
+        "specific_required_capital_yen": 3847307
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1225,
+        "nisa_required_capital_yen": 6128675,
+        "specific_required_shares": 1537,
+        "specific_required_capital_yen": 7689611
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3674,
+        "nisa_required_capital_yen": 18381022,
+        "specific_required_shares": 4610,
+        "specific_required_capital_yen": 23063830
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6123,
+        "nisa_required_capital_yen": 30633369,
+        "specific_required_shares": 7684,
+        "specific_required_capital_yen": 38443052
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120093,
+        "upper_90_yen": 188135,
+        "lower_10_yen": 78066
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 240358,
+        "upper_90_yen": 449321,
+        "lower_10_yen": 133739
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 360795,
+        "upper_90_yen": 775647,
+        "lower_10_yen": 178331
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 481404,
+        "upper_90_yen": 1166903,
+        "lower_10_yen": 215596
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 602186,
+        "upper_90_yen": 1624796,
+        "lower_10_yen": 247512
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 723141,
+        "upper_90_yen": 2151939,
+        "lower_10_yen": 275306
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 844269,
+        "upper_90_yen": 2751494,
+        "lower_10_yen": 299808
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 965570,
+        "upper_90_yen": 3427019,
+        "lower_10_yen": 321613
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1087045,
+        "upper_90_yen": 4182382,
+        "lower_10_yen": 341167
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1208694,
+        "upper_90_yen": 5021726,
+        "lower_10_yen": 358813
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本製鋼所(5631)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本製鋼所(5631)を1株(5,003円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,003円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは48.79%、幾何成長率は-1.82%",
+      "新NISAで月1万円の配当金を得るには1,225株（約6,128,675円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本製鋼所は単元未満株（S株・かぶミニ等）を利用することで1株（約5,003円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,208,694円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり98.0円（利回り1.96%）です。月次95%VaR（最大想定損失率）は-15.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本製鋼所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,003円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,225株（元本目安：約6,128,675円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5003.0
+  }
+}

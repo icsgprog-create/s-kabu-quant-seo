@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5204",
+    "name": "石塚硝子",
+    "sector": "ガラス・土石製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2771.0,
+    "min_s_kabu_yen": 2771,
+    "unit_lot_yen": 277100,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 2.53,
+    "raw_annual_return_pct": 8.12,
+    "capped_annual_return_pct": 8.12,
+    "geometric_growth_pct": 3.35,
+    "annual_volatility_pct": 30.89,
+    "max_drawdown_pct": -43.07,
+    "monthly_var_95_pct": -12.94,
+    "sharpe_ratio": 0.16,
+    "quant_score": 43.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 476612,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 598536
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 2377518,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 2981596
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 4752265,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 5963192
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 14251253,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 17884034
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 23753012,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 29807647
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123898,
+        "upper_90_yen": 164525,
+        "lower_10_yen": 93984
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 255295,
+        "upper_90_yen": 379278,
+        "lower_10_yen": 174551
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 394643,
+        "upper_90_yen": 641300,
+        "lower_10_yen": 248754
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 542425,
+        "upper_90_yen": 952741,
+        "lower_10_yen": 318942
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 699150,
+        "upper_90_yen": 1317289,
+        "lower_10_yen": 386369
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 865359,
+        "upper_90_yen": 1739580,
+        "lower_10_yen": 451826
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1041628,
+        "upper_90_yen": 2225019,
+        "lower_10_yen": 515863
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1228563,
+        "upper_90_yen": 2779731,
+        "lower_10_yen": 578886
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1426812,
+        "upper_90_yen": 3410563,
+        "lower_10_yen": 641213
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1637059,
+        "upper_90_yen": 4125108,
+        "lower_10_yen": 703096
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "石塚硝子(5204)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "石塚硝子(5204)を1株(2,771円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,771円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.89%、幾何成長率は3.35%",
+      "新NISAで月1万円の配当金を得るには1,715株（約4,752,265円）が必要"
+    ],
+    "accumulation_strategy_analysis": "石塚硝子は単元未満株（S株・かぶミニ等）を利用することで1株（約2,771円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,637,059円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り2.53%）です。月次95%VaR（最大想定損失率）は-12.94%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "石塚硝子は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,771円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約4,752,265円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2771.0
+  }
+}

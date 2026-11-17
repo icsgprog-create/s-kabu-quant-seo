@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4658",
+    "name": "日本空調サービス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1438.0,
+    "min_s_kabu_yen": 1438,
+    "unit_lot_yen": 143800,
+    "dps_yen": 59.5,
+    "dividend_yield_pct": 4.14,
+    "raw_annual_return_pct": 15.93,
+    "capped_annual_return_pct": 15.93,
+    "geometric_growth_pct": 13.44,
+    "annual_volatility_pct": 22.32,
+    "max_drawdown_pct": -21.78,
+    "monthly_var_95_pct": -6.52,
+    "sharpe_ratio": 0.74,
+    "quant_score": 79.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 202,
+        "nisa_required_capital_yen": 290476,
+        "specific_required_shares": 254,
+        "specific_required_capital_yen": 365252
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1009,
+        "nisa_required_capital_yen": 1450942,
+        "specific_required_shares": 1266,
+        "specific_required_capital_yen": 1820508
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2017,
+        "nisa_required_capital_yen": 2900446,
+        "specific_required_shares": 2531,
+        "specific_required_capital_yen": 3639578
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6051,
+        "nisa_required_capital_yen": 8701338,
+        "specific_required_shares": 7593,
+        "specific_required_capital_yen": 10918734
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10085,
+        "nisa_required_capital_yen": 14502230,
+        "specific_required_shares": 12655,
+        "specific_required_capital_yen": 18197890
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132154,
+        "upper_90_yen": 162411,
+        "lower_10_yen": 107939
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289701,
+        "upper_90_yen": 387272,
+        "lower_10_yen": 218445
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 477520,
+        "upper_90_yen": 683854,
+        "lower_10_yen": 337466
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 701427,
+        "upper_90_yen": 1067739,
+        "lower_10_yen": 468126
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 968357,
+        "upper_90_yen": 1559170,
+        "lower_10_yen": 613168
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1286577,
+        "upper_90_yen": 2183569,
+        "lower_10_yen": 775395
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1665940,
+        "upper_90_yen": 2972537,
+        "lower_10_yen": 957854
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2118196,
+        "upper_90_yen": 3965171,
+        "lower_10_yen": 1163953
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2657351,
+        "upper_90_yen": 5209723,
+        "lower_10_yen": 1397568
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3300102,
+        "upper_90_yen": 6765652,
+        "lower_10_yen": 1663134
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本空調サービス(4658)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本空調サービス(4658)を1株(1,438円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,438円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.32%、幾何成長率は13.44%",
+      "新NISAで月1万円の配当金を得るには2,017株（約2,900,446円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本空調サービスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,438円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,300,102円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり59.5円（利回り4.14%）です。月次95%VaR（最大想定損失率）は-6.52%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本空調サービスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,438円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,017株（元本目安：約2,900,446円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1438.0
+  }
+}

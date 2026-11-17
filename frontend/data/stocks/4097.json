@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4097",
+    "name": "高圧ガス工業",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1253.0,
+    "min_s_kabu_yen": 1253,
+    "unit_lot_yen": 125300,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 3.19,
+    "raw_annual_return_pct": 12.95,
+    "capped_annual_return_pct": 12.95,
+    "geometric_growth_pct": 9.24,
+    "annual_volatility_pct": 27.25,
+    "max_drawdown_pct": -25.88,
+    "monthly_var_95_pct": -6.79,
+    "sharpe_ratio": 0.42,
+    "quant_score": 58.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 375900,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 472381
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 1879500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 2359399
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 3759000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 4717545
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 11277000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 14152635
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 18795000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 23587725
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128442,
+        "upper_90_yen": 165108,
+        "lower_10_yen": 100482
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 273888,
+        "upper_90_yen": 389572,
+        "lower_10_yen": 194883
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 438590,
+        "upper_90_yen": 677163,
+        "lower_10_yen": 289300
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 625096,
+        "upper_90_yen": 1037253,
+        "lower_10_yen": 385969
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 836293,
+        "upper_90_yen": 1482075,
+        "lower_10_yen": 486299
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1075451,
+        "upper_90_yen": 2026550,
+        "lower_10_yen": 591396
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1346270,
+        "upper_90_yen": 2688510,
+        "lower_10_yen": 702235
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1652943,
+        "upper_90_yen": 3489090,
+        "lower_10_yen": 819750
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2000216,
+        "upper_90_yen": 4453226,
+        "lower_10_yen": 944871
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2393464,
+        "upper_90_yen": 5610264,
+        "lower_10_yen": 1078562
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "高圧ガス工業(4097)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "高圧ガス工業(4097)を1株(1,253円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,253円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.25%、幾何成長率は9.24%",
+      "新NISAで月1万円の配当金を得るには3,000株（約3,759,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "高圧ガス工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,253円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,393,464円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り3.19%）です。月次95%VaR（最大想定損失率）は-6.79%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "高圧ガス工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,253円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約3,759,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1253.0
+  }
+}

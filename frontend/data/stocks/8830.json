@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8830",
+    "name": "住友不動産",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3488.0,
+    "min_s_kabu_yen": 3488,
+    "unit_lot_yen": 348800,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 1.43,
+    "raw_annual_return_pct": 13.46,
+    "capped_annual_return_pct": 13.46,
+    "geometric_growth_pct": 7.97,
+    "annual_volatility_pct": 33.13,
+    "max_drawdown_pct": -41.92,
+    "monthly_var_95_pct": -12.42,
+    "sharpe_ratio": 0.25,
+    "quant_score": 34.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 837120,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 1053376
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 4185600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 5252928
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 8371200,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 10505856
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 25113600,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 31517568
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 41856000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 52529280
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126318,
+        "upper_90_yen": 171416,
+        "lower_10_yen": 93863
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265093,
+        "upper_90_yen": 406572,
+        "lower_10_yen": 175962
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 417554,
+        "upper_90_yen": 706780,
+        "lower_10_yen": 253503
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 585051,
+        "upper_90_yen": 1079463,
+        "lower_10_yen": 328861
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 769065,
+        "upper_90_yen": 1534584,
+        "lower_10_yen": 403323
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 971227,
+        "upper_90_yen": 2084217,
+        "lower_10_yen": 477731
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1193325,
+        "upper_90_yen": 2742549,
+        "lower_10_yen": 552702
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1437326,
+        "upper_90_yen": 3526056,
+        "lower_10_yen": 628727
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1705390,
+        "upper_90_yen": 4453750,
+        "lower_10_yen": 706220
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1999890,
+        "upper_90_yen": 5547485,
+        "lower_10_yen": 785548
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "住友不動産(8830)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "住友不動産(8830)を1株(3,488円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,488円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.13%、幾何成長率は7.97%",
+      "新NISAで月1万円の配当金を得るには2,400株（約8,371,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "住友不動産は単元未満株（S株・かぶミニ等）を利用することで1株（約3,488円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,999,890円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り1.43%）です。月次95%VaR（最大想定損失率）は-12.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "住友不動産は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,488円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約8,371,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3488.0
+  }
+}

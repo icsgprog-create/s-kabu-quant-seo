@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9218",
+    "name": "メンタルヘルステクノロジーズ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 763.0,
+    "min_s_kabu_yen": 763,
+    "unit_lot_yen": 76300,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.31,
+    "raw_annual_return_pct": -3.25,
+    "capped_annual_return_pct": -3.25,
+    "geometric_growth_pct": -15.4,
+    "annual_volatility_pct": 49.29,
+    "max_drawdown_pct": -65.28,
+    "monthly_var_95_pct": -20.18,
+    "sharpe_ratio": -0.31,
+    "quant_score": 10.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 915600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1149078
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 4578000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 5745390
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 9156000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 11490780
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 27468000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 34470814
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 45780000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 57451611
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111276,
+        "upper_90_yen": 174206,
+        "lower_10_yen": 72424
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 207933,
+        "upper_90_yen": 385186,
+        "lower_10_yen": 116948
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 291891,
+        "upper_90_yen": 614503,
+        "lower_10_yen": 147788
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 364819,
+        "upper_90_yen": 853513,
+        "lower_10_yen": 170092
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 428165,
+        "upper_90_yen": 1096582,
+        "lower_10_yen": 186630
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 483188,
+        "upper_90_yen": 1339691,
+        "lower_10_yen": 199103
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 530983,
+        "upper_90_yen": 1579872,
+        "lower_10_yen": 208625
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 572498,
+        "upper_90_yen": 1814906,
+        "lower_10_yen": 215966
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 608559,
+        "upper_90_yen": 2043143,
+        "lower_10_yen": 221669
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 639882,
+        "upper_90_yen": 2263373,
+        "lower_10_yen": 226128
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "メンタルヘルステクノロジーズ(9218)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "メンタルヘルステクノロジーズ(9218)を1株(763円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小763円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは49.29%、幾何成長率は-15.4%",
+      "新NISAで月1万円の配当金を得るには12,000株（約9,156,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "メンタルヘルステクノロジーズは単元未満株（S株・かぶミニ等）を利用することで1株（約763円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は639,882円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.31%）です。月次95%VaR（最大想定損失率）は-20.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "メンタルヘルステクノロジーズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約763円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約9,156,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 763.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3927",
+    "name": "フーバーブレイン",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 789.0,
+    "min_s_kabu_yen": 789,
+    "unit_lot_yen": 78900,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 2.92,
+    "raw_annual_return_pct": -10.74,
+    "capped_annual_return_pct": -10.74,
+    "geometric_growth_pct": -27.07,
+    "annual_volatility_pct": 57.16,
+    "max_drawdown_pct": -66.18,
+    "monthly_var_95_pct": -22.61,
+    "sharpe_ratio": -0.44,
+    "quant_score": 23.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 411858,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 516795
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 2058501,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 2583186
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 4117002,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 5166372
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 12350217,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 15498327
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 20582643,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 25830282
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105538,
+        "upper_90_yen": 176974,
+        "lower_10_yen": 64552
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 188428,
+        "upper_90_yen": 381498,
+        "lower_10_yen": 98394
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 253532,
+        "upper_90_yen": 589896,
+        "lower_10_yen": 118822
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 304665,
+        "upper_90_yen": 792134,
+        "lower_10_yen": 131791
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 344826,
+        "upper_90_yen": 982870,
+        "lower_10_yen": 140267
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 376368,
+        "upper_90_yen": 1159307,
+        "lower_10_yen": 145918
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 401142,
+        "upper_90_yen": 1320205,
+        "lower_10_yen": 149739
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 420600,
+        "upper_90_yen": 1465316,
+        "lower_10_yen": 152352
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 435883,
+        "upper_90_yen": 1595027,
+        "lower_10_yen": 154155
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 447886,
+        "upper_90_yen": 1710117,
+        "lower_10_yen": 155408
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フーバーブレイン(3927)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フーバーブレイン(3927)を1株(789円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小789円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは57.16%、幾何成長率は-27.07%",
+      "新NISAで月1万円の配当金を得るには5,218株（約4,117,002円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フーバーブレインは単元未満株（S株・かぶミニ等）を利用することで1株（約789円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は447,886円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り2.92%）です。月次95%VaR（最大想定損失率）は-22.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フーバーブレインは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約789円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約4,117,002円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 789.0
+  }
+}

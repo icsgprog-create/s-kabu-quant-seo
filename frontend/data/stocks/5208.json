@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5208",
+    "name": "有沢製作所",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2147.0,
+    "min_s_kabu_yen": 2147,
+    "unit_lot_yen": 214700,
+    "dps_yen": 133.0,
+    "dividend_yield_pct": 6.19,
+    "raw_annual_return_pct": 23.61,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.9,
+    "annual_volatility_pct": 31.93,
+    "max_drawdown_pct": -29.56,
+    "monthly_var_95_pct": -10.73,
+    "sharpe_ratio": 0.63,
+    "quant_score": 73.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 91,
+        "nisa_required_capital_yen": 195377,
+        "specific_required_shares": 114,
+        "specific_required_capital_yen": 244758
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 452,
+        "nisa_required_capital_yen": 970444,
+        "specific_required_shares": 567,
+        "specific_required_capital_yen": 1217349
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 903,
+        "nisa_required_capital_yen": 1938741,
+        "specific_required_shares": 1133,
+        "specific_required_capital_yen": 2432551
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2707,
+        "nisa_required_capital_yen": 5811929,
+        "specific_required_shares": 3397,
+        "specific_required_capital_yen": 7293359
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4512,
+        "nisa_required_capital_yen": 9687264,
+        "specific_required_shares": 5662,
+        "specific_required_capital_yen": 12156314
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134776,
+        "upper_90_yen": 181371,
+        "lower_10_yen": 100921
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 301210,
+        "upper_90_yen": 458473,
+        "lower_10_yen": 201113
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 506738,
+        "upper_90_yen": 853812,
+        "lower_10_yen": 308108
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 760543,
+        "upper_90_yen": 1402925,
+        "lower_10_yen": 425533
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1073964,
+        "upper_90_yen": 2153703,
+        "lower_10_yen": 556474
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1461005,
+        "upper_90_yen": 3169269,
+        "lower_10_yen": 704071
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1938959,
+        "upper_90_yen": 4532193,
+        "lower_10_yen": 871769
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2529180,
+        "upper_90_yen": 6350080,
+        "lower_10_yen": 1063487
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3258039,
+        "upper_90_yen": 8762819,
+        "lower_10_yen": 1283755
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4158101,
+        "upper_90_yen": 11951939,
+        "lower_10_yen": 1537871
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "有沢製作所(5208)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "有沢製作所(5208)を1株(2,147円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,147円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.93%、幾何成長率は14.9%",
+      "新NISAで月1万円の配当金を得るには903株（約1,938,741円）が必要"
+    ],
+    "accumulation_strategy_analysis": "有沢製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約2,147円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,158,101円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり133.0円（利回り6.19%）です。月次95%VaR（最大想定損失率）は-10.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "有沢製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,147円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、903株（元本目安：約1,938,741円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2147.0
+  }
+}

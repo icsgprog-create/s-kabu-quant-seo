@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3548",
+    "name": "バロックジャパンリミテッド",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 483.0,
+    "min_s_kabu_yen": 483,
+    "unit_lot_yen": 48300,
+    "dps_yen": 38.0,
+    "dividend_yield_pct": 7.87,
+    "raw_annual_return_pct": -7.39,
+    "capped_annual_return_pct": -7.39,
+    "geometric_growth_pct": -8.92,
+    "annual_volatility_pct": 17.51,
+    "max_drawdown_pct": -41.14,
+    "monthly_var_95_pct": -8.13,
+    "sharpe_ratio": -0.12,
+    "quant_score": 69.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 316,
+        "nisa_required_capital_yen": 152628,
+        "specific_required_shares": 397,
+        "specific_required_capital_yen": 191751
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1579,
+        "nisa_required_capital_yen": 762657,
+        "specific_required_shares": 1982,
+        "specific_required_capital_yen": 957306
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 1525314,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 1914129
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9474,
+        "nisa_required_capital_yen": 4575942,
+        "specific_required_shares": 11889,
+        "specific_required_capital_yen": 5742387
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15790,
+        "nisa_required_capital_yen": 7626570,
+        "specific_required_shares": 19815,
+        "specific_required_capital_yen": 9570645
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119317,
+        "upper_90_yen": 139869,
+        "lower_10_yen": 102024
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 237383,
+        "upper_90_yen": 295722,
+        "lower_10_yen": 191526
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 354210,
+        "upper_90_yen": 462730,
+        "lower_10_yen": 273284
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 469812,
+        "upper_90_yen": 639038,
+        "lower_10_yen": 349104
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 584201,
+        "upper_90_yen": 823546,
+        "lower_10_yen": 420038
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 697390,
+        "upper_90_yen": 1015495,
+        "lower_10_yen": 486797
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 809393,
+        "upper_90_yen": 1214315,
+        "lower_10_yen": 549902
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 920220,
+        "upper_90_yen": 1419557,
+        "lower_10_yen": 609755
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1029885,
+        "upper_90_yen": 1630850,
+        "lower_10_yen": 666680
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1138400,
+        "upper_90_yen": 1847881,
+        "lower_10_yen": 720943
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "バロックジャパンリミテッド(3548)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "バロックジャパンリミテッド(3548)を1株(483円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小483円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.51%、幾何成長率は-8.92%",
+      "新NISAで月1万円の配当金を得るには3,158株（約1,525,314円）が必要"
+    ],
+    "accumulation_strategy_analysis": "バロックジャパンリミテッドは単元未満株（S株・かぶミニ等）を利用することで1株（約483円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,138,400円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり38.0円（利回り7.87%）です。月次95%VaR（最大想定損失率）は-8.13%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "バロックジャパンリミテッドは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約483円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,158株（元本目安：約1,525,314円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 483.0
+  }
+}

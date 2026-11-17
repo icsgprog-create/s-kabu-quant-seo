@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8088",
+    "name": "岩谷産業",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1923.0,
+    "min_s_kabu_yen": 1923,
+    "unit_lot_yen": 192300,
+    "dps_yen": 49.5,
+    "dividend_yield_pct": 2.57,
+    "raw_annual_return_pct": 6.17,
+    "capped_annual_return_pct": 6.17,
+    "geometric_growth_pct": 1.62,
+    "annual_volatility_pct": 30.18,
+    "max_drawdown_pct": -53.05,
+    "monthly_var_95_pct": -10.63,
+    "sharpe_ratio": 0.11,
+    "quant_score": 43.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 243,
+        "nisa_required_capital_yen": 467289,
+        "specific_required_shares": 305,
+        "specific_required_capital_yen": 586515
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1213,
+        "nisa_required_capital_yen": 2332599,
+        "specific_required_shares": 1522,
+        "specific_required_capital_yen": 2926806
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2425,
+        "nisa_required_capital_yen": 4663275,
+        "specific_required_shares": 3043,
+        "specific_required_capital_yen": 5851689
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7273,
+        "nisa_required_capital_yen": 13985979,
+        "specific_required_shares": 9127,
+        "specific_required_capital_yen": 17551221
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12122,
+        "nisa_required_capital_yen": 23310606,
+        "specific_required_shares": 15212,
+        "specific_required_capital_yen": 29252676
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122763,
+        "upper_90_yen": 161871,
+        "lower_10_yen": 93753
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 250780,
+        "upper_90_yen": 368676,
+        "lower_10_yen": 173159
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 384273,
+        "upper_90_yen": 615989,
+        "lower_10_yen": 245304
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 523479,
+        "upper_90_yen": 904277,
+        "lower_10_yen": 312581
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 668641,
+        "upper_90_yen": 1235330,
+        "lower_10_yen": 376276
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 820015,
+        "upper_90_yen": 1611641,
+        "lower_10_yen": 437201
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 977865,
+        "upper_90_yen": 2036202,
+        "lower_10_yen": 495917
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1142470,
+        "upper_90_yen": 2512414,
+        "lower_10_yen": 552837
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1314117,
+        "upper_90_yen": 3044061,
+        "lower_10_yen": 608275
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1493109,
+        "upper_90_yen": 3635290,
+        "lower_10_yen": 662482
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "岩谷産業(8088)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "岩谷産業(8088)を1株(1,923円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,923円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.18%、幾何成長率は1.62%",
+      "新NISAで月1万円の配当金を得るには2,425株（約4,663,275円）が必要"
+    ],
+    "accumulation_strategy_analysis": "岩谷産業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,923円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,493,109円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり49.5円（利回り2.57%）です。月次95%VaR（最大想定損失率）は-10.63%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "岩谷産業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,923円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,425株（元本目安：約4,663,275円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1923.0
+  }
+}

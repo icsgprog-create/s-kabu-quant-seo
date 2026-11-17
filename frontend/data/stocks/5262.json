@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5262",
+    "name": "日本ヒューム",
+    "sector": "ガラス・土石製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 921.0,
+    "min_s_kabu_yen": 921,
+    "unit_lot_yen": 92100,
+    "dps_yen": 26.0,
+    "dividend_yield_pct": 2.82,
+    "raw_annual_return_pct": 21.74,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.76,
+    "annual_volatility_pct": 40.59,
+    "max_drawdown_pct": -61.25,
+    "monthly_var_95_pct": -13.74,
+    "sharpe_ratio": 0.33,
+    "quant_score": 40.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 425502,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 534180
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 2125668,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 2668137
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 4251336,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 5335353
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13847,
+        "nisa_required_capital_yen": 12753087,
+        "specific_required_shares": 17377,
+        "specific_required_capital_yen": 16004217
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 23077,
+        "nisa_required_capital_yen": 21253917,
+        "specific_required_shares": 28961,
+        "specific_required_capital_yen": 26673081
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129979,
+        "upper_90_yen": 189455,
+        "lower_10_yen": 90291
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280367,
+        "upper_90_yen": 476785,
+        "lower_10_yen": 169293
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 454368,
+        "upper_90_yen": 876256,
+        "lower_10_yen": 245252
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 655691,
+        "upper_90_yen": 1413013,
+        "lower_10_yen": 320883
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 888625,
+        "upper_90_yen": 2119921,
+        "lower_10_yen": 397732
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1158134,
+        "upper_90_yen": 3038311,
+        "lower_10_yen": 476901
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1469960,
+        "upper_90_yen": 4219510,
+        "lower_10_yen": 559291
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1830749,
+        "upper_90_yen": 5726897,
+        "lower_10_yen": 645709
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2248188,
+        "upper_90_yen": 7638458,
+        "lower_10_yen": 736927
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2731173,
+        "upper_90_yen": 10049939,
+        "lower_10_yen": 833719
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本ヒューム(5262)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本ヒューム(5262)を1株(921円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小921円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは40.59%、幾何成長率は11.76%",
+      "新NISAで月1万円の配当金を得るには4,616株（約4,251,336円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本ヒュームは単元未満株（S株・かぶミニ等）を利用することで1株（約921円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,731,173円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり26.0円（利回り2.82%）です。月次95%VaR（最大想定損失率）は-13.74%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本ヒュームは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約921円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,616株（元本目安：約4,251,336円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 921.0
+  }
+}

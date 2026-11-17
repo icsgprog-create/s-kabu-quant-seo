@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4553",
+    "name": "東和薬品",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3390.0,
+    "min_s_kabu_yen": 3390,
+    "unit_lot_yen": 339000,
+    "dps_yen": 80.0,
+    "dividend_yield_pct": 2.36,
+    "raw_annual_return_pct": 6.16,
+    "capped_annual_return_pct": 6.16,
+    "geometric_growth_pct": 0.86,
+    "annual_volatility_pct": 32.54,
+    "max_drawdown_pct": -42.77,
+    "monthly_var_95_pct": -11.24,
+    "sharpe_ratio": 0.07,
+    "quant_score": 38.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 150,
+        "nisa_required_capital_yen": 508500,
+        "specific_required_shares": 189,
+        "specific_required_capital_yen": 640710
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 2542500,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 3193380
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 5085000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 6383370
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4500,
+        "nisa_required_capital_yen": 15255000,
+        "specific_required_shares": 5648,
+        "specific_required_capital_yen": 19146720
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 25425000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 31910070
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122117,
+        "upper_90_yen": 164554,
+        "lower_10_yen": 91359
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248231,
+        "upper_90_yen": 376080,
+        "lower_10_yen": 166728
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 378473,
+        "upper_90_yen": 629304,
+        "lower_10_yen": 233812
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 512979,
+        "upper_90_yen": 924199,
+        "lower_10_yen": 295224
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 651886,
+        "upper_90_yen": 1262119,
+        "lower_10_yen": 352370
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 795341,
+        "upper_90_yen": 1645112,
+        "lower_10_yen": 406137
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 943491,
+        "upper_90_yen": 2075694,
+        "lower_10_yen": 457139
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1096490,
+        "upper_90_yen": 2556747,
+        "lower_10_yen": 505824
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1254497,
+        "upper_90_yen": 3091469,
+        "lower_10_yen": 552534
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1417676,
+        "upper_90_yen": 3683361,
+        "lower_10_yen": 597538
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東和薬品(4553)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東和薬品(4553)を1株(3,390円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,390円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.54%、幾何成長率は0.86%",
+      "新NISAで月1万円の配当金を得るには1,500株（約5,085,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東和薬品は単元未満株（S株・かぶミニ等）を利用することで1株（約3,390円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,417,676円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり80.0円（利回り2.36%）です。月次95%VaR（最大想定損失率）は-11.24%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東和薬品は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,390円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,500株（元本目安：約5,085,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3390.0
+  }
+}

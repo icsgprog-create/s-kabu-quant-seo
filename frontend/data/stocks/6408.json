@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6408",
+    "name": "小倉クラッチ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4750.0,
+    "min_s_kabu_yen": 4750,
+    "unit_lot_yen": 475000,
+    "dps_yen": 150.0,
+    "dividend_yield_pct": 3.16,
+    "raw_annual_return_pct": 14.19,
+    "capped_annual_return_pct": 14.19,
+    "geometric_growth_pct": 9.3,
+    "annual_volatility_pct": 31.27,
+    "max_drawdown_pct": -25.51,
+    "monthly_var_95_pct": -7.11,
+    "sharpe_ratio": 0.37,
+    "quant_score": 53.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 80,
+        "nisa_required_capital_yen": 380000,
+        "specific_required_shares": 101,
+        "specific_required_capital_yen": 479750
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 1900000,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 2384500
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 3800000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 4769000
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 11400000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 14307000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 19000000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 23845000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128458,
+        "upper_90_yen": 171446,
+        "lower_10_yen": 96964
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 273957,
+        "upper_90_yen": 410881,
+        "lower_10_yen": 185573
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 438755,
+        "upper_90_yen": 723352,
+        "lower_10_yen": 272603
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 625415,
+        "upper_90_yen": 1120524,
+        "lower_10_yen": 360410
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 836835,
+        "upper_90_yen": 1617604,
+        "lower_10_yen": 450398
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1076300,
+        "upper_90_yen": 2233211,
+        "lower_10_yen": 543603
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1347530,
+        "upper_90_yen": 2989716,
+        "lower_10_yen": 640897
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1654740,
+        "upper_90_yen": 3913780,
+        "lower_10_yen": 743075
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2002700,
+        "upper_90_yen": 5037046,
+        "lower_10_yen": 850907
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2396818,
+        "upper_90_yen": 6396967,
+        "lower_10_yen": 965166
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "小倉クラッチ(6408)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "小倉クラッチ(6408)を1株(4,750円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,750円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.27%、幾何成長率は9.3%",
+      "新NISAで月1万円の配当金を得るには800株（約3,800,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "小倉クラッチは単元未満株（S株・かぶミニ等）を利用することで1株（約4,750円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,396,818円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり150.0円（利回り3.16%）です。月次95%VaR（最大想定損失率）は-7.11%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "小倉クラッチは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,750円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、800株（元本目安：約3,800,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4750.0
+  }
+}

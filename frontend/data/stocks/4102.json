@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4102",
+    "name": "丸尾カルシウム",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1440.0,
+    "min_s_kabu_yen": 1440,
+    "unit_lot_yen": 144000,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 4.17,
+    "raw_annual_return_pct": 3.68,
+    "capped_annual_return_pct": 3.68,
+    "geometric_growth_pct": 2.05,
+    "annual_volatility_pct": 18.07,
+    "max_drawdown_pct": -14.94,
+    "monthly_var_95_pct": -4.5,
+    "sharpe_ratio": 0.29,
+    "quant_score": 72.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 288000,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 361440
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1440000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 1807200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 2880000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 3614400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 8640000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 10843200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 14400000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 18072000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124126,
+        "upper_90_yen": 146396,
+        "lower_10_yen": 105506
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 256208,
+        "upper_90_yen": 322392,
+        "lower_10_yen": 204703
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 396754,
+        "upper_90_yen": 525683,
+        "lower_10_yen": 301913
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 546308,
+        "upper_90_yen": 756929,
+        "lower_10_yen": 398665
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 705447,
+        "upper_90_yen": 1017618,
+        "lower_10_yen": 495835
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 874785,
+        "upper_90_yen": 1309715,
+        "lower_10_yen": 594025
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1054975,
+        "upper_90_yen": 1635535,
+        "lower_10_yen": 693694
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1246714,
+        "upper_90_yen": 1997706,
+        "lower_10_yen": 795219
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1450741,
+        "upper_90_yen": 2399153,
+        "lower_10_yen": 898925
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1667844,
+        "upper_90_yen": 2843099,
+        "lower_10_yen": 1005107
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "丸尾カルシウム(4102)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "丸尾カルシウム(4102)を1株(1,440円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,440円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.07%、幾何成長率は2.05%",
+      "新NISAで月1万円の配当金を得るには2,000株（約2,880,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "丸尾カルシウムは単元未満株（S株・かぶミニ等）を利用することで1株（約1,440円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,667,844円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り4.17%）です。月次95%VaR（最大想定損失率）は-4.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "丸尾カルシウムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,440円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約2,880,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1440.0
+  }
+}

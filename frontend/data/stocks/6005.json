@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6005",
+    "name": "三浦工業",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2897.5,
+    "min_s_kabu_yen": 2898,
+    "unit_lot_yen": 289750,
+    "dps_yen": 73.0,
+    "dividend_yield_pct": 2.52,
+    "raw_annual_return_pct": -6.42,
+    "capped_annual_return_pct": -6.42,
+    "geometric_growth_pct": -11.03,
+    "annual_volatility_pct": 30.36,
+    "max_drawdown_pct": -42.29,
+    "monthly_var_95_pct": -13.04,
+    "sharpe_ratio": -0.31,
+    "quant_score": 34.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 165,
+        "nisa_required_capital_yen": 478088,
+        "specific_required_shares": 207,
+        "specific_required_capital_yen": 599782
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 822,
+        "nisa_required_capital_yen": 2381745,
+        "specific_required_shares": 1032,
+        "specific_required_capital_yen": 2990220
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 4763490,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 5977542
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4932,
+        "nisa_required_capital_yen": 14290470,
+        "specific_required_shares": 6189,
+        "specific_required_capital_yen": 17932628
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8220,
+        "nisa_required_capital_yen": 23817450,
+        "specific_required_shares": 10315,
+        "specific_required_capital_yen": 29887712
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114629,
+        "upper_90_yen": 150945,
+        "lower_10_yen": 87670
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 219908,
+        "upper_90_yen": 321225,
+        "lower_10_yen": 152895
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 316599,
+        "upper_90_yen": 500787,
+        "lower_10_yen": 205026
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 405402,
+        "upper_90_yen": 685297,
+        "lower_10_yen": 247805
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 486962,
+        "upper_90_yen": 872040,
+        "lower_10_yen": 283451
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 561870,
+        "upper_90_yen": 1059111,
+        "lower_10_yen": 313462
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 630667,
+        "upper_90_yen": 1245098,
+        "lower_10_yen": 338922
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 693852,
+        "upper_90_yen": 1428925,
+        "lower_10_yen": 360649
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 751883,
+        "upper_90_yen": 1609757,
+        "lower_10_yen": 379279
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 805180,
+        "upper_90_yen": 1786947,
+        "lower_10_yen": 395316
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三浦工業(6005)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三浦工業(6005)を1株(2,898円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,898円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.36%、幾何成長率は-11.03%",
+      "新NISAで月1万円の配当金を得るには1,644株（約4,763,490円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三浦工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,898円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は805,180円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり73.0円（利回り2.52%）です。月次95%VaR（最大想定損失率）は-13.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三浦工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,898円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,644株（元本目安：約4,763,490円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2897.5
+  }
+}

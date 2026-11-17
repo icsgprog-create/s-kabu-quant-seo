@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5843",
+    "name": "ニッポンインシュア",
+    "sector": "その他金融業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2388.0,
+    "min_s_kabu_yen": 2388,
+    "unit_lot_yen": 238800,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 1.26,
+    "raw_annual_return_pct": 33.61,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.35,
+    "annual_volatility_pct": 41.58,
+    "max_drawdown_pct": -39.97,
+    "monthly_var_95_pct": -11.79,
+    "sharpe_ratio": 0.28,
+    "quant_score": 25.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 955200,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 1198776
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 4776000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 5993880
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 9552000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 11987760
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 28656000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 35963280
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 47760000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 59936412
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128568,
+        "upper_90_yen": 189041,
+        "lower_10_yen": 88591
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274414,
+        "upper_90_yen": 472054,
+        "lower_10_yen": 164042
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 439863,
+        "upper_90_yen": 859588,
+        "lower_10_yen": 234840
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 627547,
+        "upper_90_yen": 1372012,
+        "lower_10_yen": 303697
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 840456,
+        "upper_90_yen": 2035795,
+        "lower_10_yen": 372076
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1081979,
+        "upper_90_yen": 2883710,
+        "lower_10_yen": 440945
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1355963,
+        "upper_90_yen": 3955729,
+        "lower_10_yen": 511032
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1666769,
+        "upper_90_yen": 5300270,
+        "lower_10_yen": 582935
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2019347,
+        "upper_90_yen": 6975753,
+        "lower_10_yen": 657180
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2419311,
+        "upper_90_yen": 9052493,
+        "lower_10_yen": 734257
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ニッポンインシュア(5843)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ニッポンインシュア(5843)を1株(2,388円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,388円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.58%、幾何成長率は11.35%",
+      "新NISAで月1万円の配当金を得るには4,000株（約9,552,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ニッポンインシュアは単元未満株（S株・かぶミニ等）を利用することで1株（約2,388円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,419,311円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り1.26%）です。月次95%VaR（最大想定損失率）は-11.79%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ニッポンインシュアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,388円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約9,552,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2388.0
+  }
+}

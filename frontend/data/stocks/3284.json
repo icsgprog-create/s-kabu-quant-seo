@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "code": "3284",
+    "name": "フージャースホールディングス",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1214.0,
+    "min_s_kabu_yen": 1214,
+    "unit_lot_yen": 121400,
+    "dps_yen": 74.0,
+    "dividend_yield_pct": 6.1,
+    "raw_annual_return_pct": 18.07,
+    "capped_annual_return_pct": 18.07,
+    "geometric_growth_pct": 15.46,
+    "annual_volatility_pct": 22.87,
+    "max_drawdown_pct": -23.92,
+    "monthly_var_95_pct": -6.31,
+    "sharpe_ratio": 0.9,
+    "quant_score": 89.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 163,
+        "nisa_required_capital_yen": 197882,
+        "specific_required_shares": 204,
+        "specific_required_capital_yen": 247656
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 811,
+        "nisa_required_capital_yen": 984554,
+        "specific_required_shares": 1018,
+        "specific_required_capital_yen": 1235852
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 1969108,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 2471704
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4865,
+        "nisa_required_capital_yen": 5906110,
+        "specific_required_shares": 6106,
+        "specific_required_capital_yen": 7412684
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8109,
+        "nisa_required_capital_yen": 9844326,
+        "specific_required_shares": 10176,
+        "specific_required_capital_yen": 12353664
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135119,
+        "upper_90_yen": 167039,
+        "lower_10_yen": 109729
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 302736,
+        "upper_90_yen": 408510,
+        "lower_10_yen": 226215
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 510666,
+        "upper_90_yen": 740732,
+        "lower_10_yen": 356445
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 768606,
+        "upper_90_yen": 1189095,
+        "lower_10_yen": 504911
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1088584,
+        "upper_90_yen": 1787400,
+        "lower_10_yen": 676104
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1485520,
+        "upper_90_yen": 2579680,
+        "lower_10_yen": 875035
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1977924,
+        "upper_90_yen": 3622894,
+        "lower_10_yen": 1107516
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2588757,
+        "upper_90_yen": 4990481,
+        "lower_10_yen": 1380409
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3346503,
+        "upper_90_yen": 6776947,
+        "lower_10_yen": 1701881
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4286496,
+        "upper_90_yen": 9103732,
+        "lower_10_yen": 2081697
+      }
+    ]
+  },
+  "seo": {
+    "code": "3284",
+    "seo_title": "フージャースHD(3284)の配当利回り6.1%と新NISA1株積立検証",
+    "meta_description": "フージャースホールディングス(3284)の1株投資データ。配当利回り6.10%、年間配当74円。年率ボラティリティ22.87%の不動産株のリスクと長期積立シミュレーションを解説。",
+    "summary_points": [
+      "配当利回り6.10%、1株配当金74円の高水準インカム銘柄",
+      "1株あたり約1,214円と少額から積立買付が可能",
+      "幾何平均成長率15.46%に対し年率ボラティリティは22.87%と値動きが大きい"
+    ],
+    "accumulation_strategy_analysis": "1株あたり約1,214円から購入でき、月1万円積立では10年間で累計1,622株(元本約197万円)に達する試算です。幾何平均成長率が15.46%、10年時の中央値評価額は428万6,496円と試算されますが、不動産業特有の景気敏感性があるため時期を分散した買付が機能しやすい傾向があります。",
+    "dividend_and_risk_commentary": "配当利回りは6.10%と極めて高い水準を誇ります。一方で年率ボラティリティは22.87%、月次VaR(95%)は-6.31%となっており、金利変動や不動産市況悪化による株価調整や配当変動の可能性を勘案しておく必要があります。",
+    "faqs": [
+      {
+        "question": "フージャースHDの配当利回りはどのくらいですか？",
+        "answer": "直近数値で年率6.10%、1株あたり年間配当金は74.0円です。"
+      },
+      {
+        "question": "1株単位での購入は新NISAに対応していますか？",
+        "answer": "はい、対応証券会社の成長投資枠を利用することで1株単位から非課税で積立可能です。"
+      }
+    ],
+    "is_ai_generated": true,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1214.0
+  }
+}

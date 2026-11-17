@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9782",
+    "name": "ディーエムエス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3155.0,
+    "min_s_kabu_yen": 3155,
+    "unit_lot_yen": 315500,
+    "dps_yen": 234.0,
+    "dividend_yield_pct": 7.42,
+    "raw_annual_return_pct": 21.57,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.73,
+    "annual_volatility_pct": 29.23,
+    "max_drawdown_pct": -27.52,
+    "monthly_var_95_pct": -9.58,
+    "sharpe_ratio": 0.76,
+    "quant_score": 79.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 52,
+        "nisa_required_capital_yen": 164060,
+        "specific_required_shares": 65,
+        "specific_required_capital_yen": 205075
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 257,
+        "nisa_required_capital_yen": 810835,
+        "specific_required_shares": 322,
+        "specific_required_capital_yen": 1015910
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 513,
+        "nisa_required_capital_yen": 1618515,
+        "specific_required_shares": 644,
+        "specific_required_capital_yen": 2031820
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1539,
+        "nisa_required_capital_yen": 4855545,
+        "specific_required_shares": 1931,
+        "specific_required_capital_yen": 6092305
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2565,
+        "nisa_required_capital_yen": 8092575,
+        "specific_required_shares": 3218,
+        "specific_required_capital_yen": 10152790
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 136330,
+        "upper_90_yen": 178948,
+        "lower_10_yen": 104528
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 308163,
+        "upper_90_yen": 453029,
+        "lower_10_yen": 212463
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 524746,
+        "upper_90_yen": 847298,
+        "lower_10_yen": 331574
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 797733,
+        "upper_90_yen": 1400716,
+        "lower_10_yen": 466342
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1141812,
+        "upper_90_yen": 2166404,
+        "lower_10_yen": 621061
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1575499,
+        "upper_90_yen": 3215441,
+        "lower_10_yen": 800446
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2122128,
+        "upper_90_yen": 4642323,
+        "lower_10_yen": 1009949
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2811114,
+        "upper_90_yen": 6572257,
+        "lower_10_yen": 1256011
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3679529,
+        "upper_90_yen": 9170785,
+        "lower_10_yen": 1546330
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4774102,
+        "upper_90_yen": 12656407,
+        "lower_10_yen": 1890157
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ディーエムエス(9782)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ディーエムエス(9782)を1株(3,155円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,155円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.23%、幾何成長率は15.73%",
+      "新NISAで月1万円の配当金を得るには513株（約1,618,515円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ディーエムエスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,155円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,774,102円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり234.0円（利回り7.42%）です。月次95%VaR（最大想定損失率）は-9.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ディーエムエスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,155円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、513株（元本目安：約1,618,515円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3155.0
+  }
+}

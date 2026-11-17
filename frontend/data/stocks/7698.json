@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7698",
+    "name": "アイスコ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2671.0,
+    "min_s_kabu_yen": 2671,
+    "unit_lot_yen": 267100,
+    "dps_yen": 21.0,
+    "dividend_yield_pct": 0.79,
+    "raw_annual_return_pct": 26.8,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.61,
+    "annual_volatility_pct": 29.62,
+    "max_drawdown_pct": -32.82,
+    "monthly_var_95_pct": -9.2,
+    "sharpe_ratio": 0.52,
+    "quant_score": 39.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 572,
+        "nisa_required_capital_yen": 1527812,
+        "specific_required_shares": 718,
+        "specific_required_capital_yen": 1917778
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 7633718,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 9578206
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5715,
+        "nisa_required_capital_yen": 15264765,
+        "specific_required_shares": 7172,
+        "specific_required_capital_yen": 19156412
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 45788953,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 57463894
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 28572,
+        "nisa_required_capital_yen": 76315812,
+        "specific_required_shares": 35856,
+        "specific_required_capital_yen": 95771376
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131294,
+        "upper_90_yen": 172702,
+        "lower_10_yen": 100477
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285988,
+        "upper_90_yen": 420763,
+        "lower_10_yen": 197135
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 468252,
+        "upper_90_yen": 754975,
+        "lower_10_yen": 296651
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 683000,
+        "upper_90_yen": 1194166,
+        "lower_10_yen": 401743
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 936021,
+        "upper_90_yen": 1762921,
+        "lower_10_yen": 514377
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1234135,
+        "upper_90_yen": 2492166,
+        "lower_10_yen": 636312
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1585381,
+        "upper_90_yen": 3420347,
+        "lower_10_yen": 769291
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1999226,
+        "upper_90_yen": 4595014,
+        "lower_10_yen": 915150
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2486828,
+        "upper_90_yen": 6074799,
+        "lower_10_yen": 1075875
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3061332,
+        "upper_90_yen": 7931865,
+        "lower_10_yen": 1253660
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイスコ(7698)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイスコ(7698)を1株(2,671円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,671円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.62%、幾何成長率は15.61%",
+      "新NISAで月1万円の配当金を得るには5,715株（約15,264,765円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイスコは単元未満株（S株・かぶミニ等）を利用することで1株（約2,671円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,061,332円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり21.0円（利回り0.79%）です。月次95%VaR（最大想定損失率）は-9.2%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイスコは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,671円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,715株（元本目安：約15,264,765円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2671.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7567",
+    "name": "栄電子",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 606.0,
+    "min_s_kabu_yen": 606,
+    "unit_lot_yen": 60600,
+    "dps_yen": 11.0,
+    "dividend_yield_pct": 1.82,
+    "raw_annual_return_pct": 4.6,
+    "capped_annual_return_pct": 4.6,
+    "geometric_growth_pct": -2.22,
+    "annual_volatility_pct": 36.92,
+    "max_drawdown_pct": -43.04,
+    "monthly_var_95_pct": -13.25,
+    "sharpe_ratio": -0.04,
+    "quant_score": 26.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 661146,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 830220
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 3305730,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 4148676
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 6611460,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 8296746
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 32728,
+        "nisa_required_capital_yen": 19833168,
+        "specific_required_shares": 41071,
+        "specific_required_capital_yen": 24889026
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 54546,
+        "nisa_required_capital_yen": 33054876,
+        "specific_required_shares": 68452,
+        "specific_required_capital_yen": 41481912
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119739,
+        "upper_90_yen": 167888,
+        "lower_10_yen": 86294
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238997,
+        "upper_90_yen": 382257,
+        "lower_10_yen": 152843
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 357776,
+        "upper_90_yen": 634737,
+        "lower_10_yen": 208825
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 476079,
+        "upper_90_yen": 922941,
+        "lower_10_yen": 257450
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 593907,
+        "upper_90_yen": 1245941,
+        "lower_10_yen": 300476
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 711261,
+        "upper_90_yen": 1603456,
+        "lower_10_yen": 339030
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 828144,
+        "upper_90_yen": 1995556,
+        "lower_10_yen": 373898
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 944559,
+        "upper_90_yen": 2422531,
+        "lower_10_yen": 405657
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1060505,
+        "upper_90_yen": 2884818,
+        "lower_10_yen": 434754
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1175987,
+        "upper_90_yen": 3382957,
+        "lower_10_yen": 461538
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "栄電子(7567)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "栄電子(7567)を1株(606円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小606円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.92%、幾何成長率は-2.22%",
+      "新NISAで月1万円の配当金を得るには10,910株（約6,611,460円）が必要"
+    ],
+    "accumulation_strategy_analysis": "栄電子は単元未満株（S株・かぶミニ等）を利用することで1株（約606円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,175,987円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり11.0円（利回り1.82%）です。月次95%VaR（最大想定損失率）は-13.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "栄電子は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約606円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,910株（元本目安：約6,611,460円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 606.0
+  }
+}

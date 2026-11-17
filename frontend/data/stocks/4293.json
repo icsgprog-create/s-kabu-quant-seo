@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4293",
+    "name": "セプテーニ・ホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 450.0,
+    "min_s_kabu_yen": 450,
+    "unit_lot_yen": 45000,
+    "dps_yen": 27.0,
+    "dividend_yield_pct": 6.0,
+    "raw_annual_return_pct": 0.32,
+    "capped_annual_return_pct": 0.32,
+    "geometric_growth_pct": -6.03,
+    "annual_volatility_pct": 35.62,
+    "max_drawdown_pct": -53.59,
+    "monthly_var_95_pct": -15.79,
+    "sharpe_ratio": -0.03,
+    "quant_score": 53.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 445,
+        "nisa_required_capital_yen": 200250,
+        "specific_required_shares": 558,
+        "specific_required_capital_yen": 251100
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2223,
+        "nisa_required_capital_yen": 1000350,
+        "specific_required_shares": 2789,
+        "specific_required_capital_yen": 1255050
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 2000250,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 2510100
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 6000300,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 7529850
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 22223,
+        "nisa_required_capital_yen": 10000350,
+        "specific_required_shares": 27888,
+        "specific_required_capital_yen": 12549600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119982,
+        "upper_90_yen": 166225,
+        "lower_10_yen": 87448
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239932,
+        "upper_90_yen": 377426,
+        "lower_10_yen": 155766
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 359848,
+        "upper_90_yen": 625641,
+        "lower_10_yen": 213799
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 479732,
+        "upper_90_yen": 908677,
+        "lower_10_yen": 264640
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 599584,
+        "upper_90_yen": 1225755,
+        "lower_10_yen": 309985
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 719402,
+        "upper_90_yen": 1576724,
+        "lower_10_yen": 350922
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 839188,
+        "upper_90_yen": 1961782,
+        "lower_10_yen": 388210
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 958941,
+        "upper_90_yen": 2381342,
+        "lower_10_yen": 422411
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1078662,
+        "upper_90_yen": 2835966,
+        "lower_10_yen": 453954
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1198349,
+        "upper_90_yen": 3326326,
+        "lower_10_yen": 483180
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セプテーニ・ホールディングス(4293)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セプテーニ・ホールディングス(4293)を1株(450円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小450円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.62%、幾何成長率は-6.03%",
+      "新NISAで月1万円の配当金を得るには4,445株（約2,000,250円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セプテーニ・ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約450円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,198,349円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり27.0円（利回り6.0%）です。月次95%VaR（最大想定損失率）は-15.79%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セプテーニ・ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約450円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,445株（元本目安：約2,000,250円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 450.0
+  }
+}

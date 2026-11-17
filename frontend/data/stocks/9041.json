@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9041",
+    "name": "近鉄グループホールディングス",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3720.0,
+    "min_s_kabu_yen": 3720,
+    "unit_lot_yen": 372000,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 1.75,
+    "raw_annual_return_pct": 2.77,
+    "capped_annual_return_pct": 2.77,
+    "geometric_growth_pct": 0.37,
+    "annual_volatility_pct": 21.9,
+    "max_drawdown_pct": -47.48,
+    "monthly_var_95_pct": -10.04,
+    "sharpe_ratio": 0.05,
+    "quant_score": 43.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 688200,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 863040
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 3437280,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 4311480
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 6870840,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 8619240
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 20605080,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 25857720
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 34339320,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 43096200
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121388,
+        "upper_90_yen": 148211,
+        "lower_10_yen": 99785
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 245378,
+        "upper_90_yen": 323744,
+        "lower_10_yen": 187460
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 372024,
+        "upper_90_yen": 521802,
+        "lower_10_yen": 268495
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 501384,
+        "upper_90_yen": 741149,
+        "lower_10_yen": 344820
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 633515,
+        "upper_90_yen": 981442,
+        "lower_10_yen": 417502
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 768478,
+        "upper_90_yen": 1242741,
+        "lower_10_yen": 487232
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 906333,
+        "upper_90_yen": 1525337,
+        "lower_10_yen": 554497
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1047142,
+        "upper_90_yen": 1829676,
+        "lower_10_yen": 619659
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1190968,
+        "upper_90_yen": 2156314,
+        "lower_10_yen": 683001
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1337876,
+        "upper_90_yen": 2505896,
+        "lower_10_yen": 744747
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "近鉄グループホールディングス(9041)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "近鉄グループホールディングス(9041)を1株(3,720円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,720円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.9%、幾何成長率は0.37%",
+      "新NISAで月1万円の配当金を得るには1,847株（約6,870,840円）が必要"
+    ],
+    "accumulation_strategy_analysis": "近鉄グループホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,720円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,337,876円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり65.0円（利回り1.75%）です。月次95%VaR（最大想定損失率）は-10.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "近鉄グループホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,720円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,847株（元本目安：約6,870,840円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3720.0
+  }
+}

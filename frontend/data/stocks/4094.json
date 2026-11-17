@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4094",
+    "name": "日本化学産業",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1953.0,
+    "min_s_kabu_yen": 1953,
+    "unit_lot_yen": 195300,
+    "dps_yen": 90.0,
+    "dividend_yield_pct": 4.61,
+    "raw_annual_return_pct": 10.34,
+    "capped_annual_return_pct": 10.34,
+    "geometric_growth_pct": 7.49,
+    "annual_volatility_pct": 23.87,
+    "max_drawdown_pct": -34.7,
+    "monthly_var_95_pct": -9.22,
+    "sharpe_ratio": 0.46,
+    "quant_score": 74.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 134,
+        "nisa_required_capital_yen": 261702,
+        "specific_required_shares": 168,
+        "specific_required_capital_yen": 328104
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1302651,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 1634661
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 2605302,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 3269322
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 7812000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 9804060
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 13020651,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 16340751
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128204,
+        "upper_90_yen": 159691,
+        "lower_10_yen": 103371
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 272896,
+        "upper_90_yen": 371263,
+        "lower_10_yen": 202450
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 436195,
+        "upper_90_yen": 637335,
+        "lower_10_yen": 302749
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 620493,
+        "upper_90_yen": 965260,
+        "lower_10_yen": 406385
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 828493,
+        "upper_90_yen": 1364664,
+        "lower_10_yen": 514752
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1063241,
+        "upper_90_yen": 1847232,
+        "lower_10_yen": 628986
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1328177,
+        "upper_90_yen": 2426837,
+        "lower_10_yen": 750124
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1627184,
+        "upper_90_yen": 3119793,
+        "lower_10_yen": 879177
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1964643,
+        "upper_90_yen": 3945201,
+        "lower_10_yen": 1017175
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2345499,
+        "upper_90_yen": 4925359,
+        "lower_10_yen": 1165193
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本化学産業(4094)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本化学産業(4094)を1株(1,953円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,953円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.87%、幾何成長率は7.49%",
+      "新NISAで月1万円の配当金を得るには1,334株（約2,605,302円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本化学産業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,953円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,345,499円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり90.0円（利回り4.61%）です。月次95%VaR（最大想定損失率）は-9.22%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本化学産業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,953円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,334株（元本目安：約2,605,302円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1953.0
+  }
+}

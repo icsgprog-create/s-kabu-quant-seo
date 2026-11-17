@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3680",
+    "name": "ホットリンク",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 169.0,
+    "min_s_kabu_yen": 169,
+    "unit_lot_yen": 16900,
+    "dps_yen": 6.1,
+    "dividend_yield_pct": 3.61,
+    "raw_annual_return_pct": -30.7,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -28.55,
+    "annual_volatility_pct": 52.05,
+    "max_drawdown_pct": -83.85,
+    "monthly_var_95_pct": -22.25,
+    "sharpe_ratio": -0.5,
+    "quant_score": 28.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1968,
+        "nisa_required_capital_yen": 332592,
+        "specific_required_shares": 2469,
+        "specific_required_capital_yen": 417261
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 9837,
+        "nisa_required_capital_yen": 1662453,
+        "specific_required_shares": 12344,
+        "specific_required_capital_yen": 2086136
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 19673,
+        "nisa_required_capital_yen": 3324737,
+        "specific_required_shares": 24688,
+        "specific_required_capital_yen": 4172272
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 59017,
+        "nisa_required_capital_yen": 9973873,
+        "specific_required_shares": 74063,
+        "specific_required_capital_yen": 12516647
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 98361,
+        "nisa_required_capital_yen": 16623009,
+        "specific_required_shares": 123437,
+        "specific_required_capital_yen": 20860853
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105108,
+        "upper_90_yen": 168080,
+        "lower_10_yen": 67126
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 187019,
+        "upper_90_yen": 354430,
+        "lower_10_yen": 103350
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 250851,
+        "upper_90_yen": 538531,
+        "lower_10_yen": 125563
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 300596,
+        "upper_90_yen": 712493,
+        "lower_10_yen": 139824
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 339361,
+        "upper_90_yen": 872649,
+        "lower_10_yen": 149226
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 369571,
+        "upper_90_yen": 1017517,
+        "lower_10_yen": 155537
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 393114,
+        "upper_90_yen": 1146862,
+        "lower_10_yen": 159828
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 411460,
+        "upper_90_yen": 1261188,
+        "lower_10_yen": 162776
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 425758,
+        "upper_90_yen": 1361420,
+        "lower_10_yen": 164817
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 436899,
+        "upper_90_yen": 1448708,
+        "lower_10_yen": 166241
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ホットリンク(3680)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ホットリンク(3680)を1株(169円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小169円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは52.05%、幾何成長率は-28.55%",
+      "新NISAで月1万円の配当金を得るには19,673株（約3,324,737円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ホットリンクは単元未満株（S株・かぶミニ等）を利用することで1株（約169円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は436,899円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり6.1円（利回り3.61%）です。月次95%VaR（最大想定損失率）は-22.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ホットリンクは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約169円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、19,673株（元本目安：約3,324,737円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 169.0
+  }
+}

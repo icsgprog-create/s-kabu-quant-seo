@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9467",
+    "name": "アルファポリス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 990.0,
+    "min_s_kabu_yen": 990,
+    "unit_lot_yen": 99000,
+    "dps_yen": 24.0,
+    "dividend_yield_pct": 2.42,
+    "raw_annual_return_pct": -7.58,
+    "capped_annual_return_pct": -7.58,
+    "geometric_growth_pct": -16.93,
+    "annual_volatility_pct": 43.24,
+    "max_drawdown_pct": -61.86,
+    "monthly_var_95_pct": -18.17,
+    "sharpe_ratio": -0.36,
+    "quant_score": 21.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 495000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 621720
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 2475000,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 3106620
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 4950000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 6212250
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 14850000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 18636750
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 25000,
+        "nisa_required_capital_yen": 24750000,
+        "specific_required_shares": 31374,
+        "specific_required_capital_yen": 31060260
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111030,
+        "upper_90_yen": 164324,
+        "lower_10_yen": 76112
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 207072,
+        "upper_90_yen": 354718,
+        "lower_10_yen": 124762
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 290147,
+        "upper_90_yen": 555226,
+        "lower_10_yen": 159269
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 362007,
+        "upper_90_yen": 758742,
+        "lower_10_yen": 184688
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 424166,
+        "upper_90_yen": 960903,
+        "lower_10_yen": 203826
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 477933,
+        "upper_90_yen": 1158800,
+        "lower_10_yen": 218451
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 524441,
+        "upper_90_yen": 1350447,
+        "lower_10_yen": 229749
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 564671,
+        "upper_90_yen": 1534492,
+        "lower_10_yen": 238550
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 599470,
+        "upper_90_yen": 1710050,
+        "lower_10_yen": 245453
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 629570,
+        "upper_90_yen": 1876579,
+        "lower_10_yen": 250897
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アルファポリス(9467)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アルファポリス(9467)を1株(990円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小990円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.24%、幾何成長率は-16.93%",
+      "新NISAで月1万円の配当金を得るには5,000株（約4,950,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アルファポリスは単元未満株（S株・かぶミニ等）を利用することで1株（約990円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は629,570円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり24.0円（利回り2.42%）です。月次95%VaR（最大想定損失率）は-18.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アルファポリスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約990円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,000株（元本目安：約4,950,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 990.0
+  }
+}

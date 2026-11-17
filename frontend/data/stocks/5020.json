@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5020",
+    "name": "ＥＮＥＯＳホールディングス",
+    "sector": "石油・石炭製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1200.0,
+    "min_s_kabu_yen": 1200,
+    "unit_lot_yen": 120000,
+    "dps_yen": 36.0,
+    "dividend_yield_pct": 3.0,
+    "raw_annual_return_pct": 23.35,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.4,
+    "annual_volatility_pct": 30.34,
+    "max_drawdown_pct": -29.88,
+    "monthly_var_95_pct": -9.73,
+    "sharpe_ratio": 0.57,
+    "quant_score": 58.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 334,
+        "nisa_required_capital_yen": 400800,
+        "specific_required_shares": 419,
+        "specific_required_capital_yen": 502800
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1667,
+        "nisa_required_capital_yen": 2000400,
+        "specific_required_shares": 2092,
+        "specific_required_capital_yen": 2510400
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 4000800,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 5020800
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 12000000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 15060000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16667,
+        "nisa_required_capital_yen": 20000400,
+        "specific_required_shares": 20916,
+        "specific_required_capital_yen": 25099200
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132760,
+        "upper_90_yen": 175903,
+        "lower_10_yen": 100895
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 292334,
+        "upper_90_yen": 434842,
+        "lower_10_yen": 199437
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 484139,
+        "upper_90_yen": 791892,
+        "lower_10_yen": 302600
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 714685,
+        "upper_90_yen": 1271821,
+        "lower_10_yen": 413446
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 991795,
+        "upper_90_yen": 1907318,
+        "lower_10_yen": 534364
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1324876,
+        "upper_90_yen": 2740278,
+        "lower_10_yen": 667631
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1725232,
+        "upper_90_yen": 3823880,
+        "lower_10_yen": 815620
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2206451,
+        "upper_90_yen": 5225331,
+        "lower_10_yen": 980926
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2784866,
+        "upper_90_yen": 7029346,
+        "lower_10_yen": 1166449
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3480109,
+        "upper_90_yen": 9342511,
+        "lower_10_yen": 1375478
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＥＮＥＯＳホールディングス(5020)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＥＮＥＯＳホールディングス(5020)を1株(1,200円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,200円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.34%、幾何成長率は15.4%",
+      "新NISAで月1万円の配当金を得るには3,334株（約4,000,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＥＮＥＯＳホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,200円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,480,109円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.0円（利回り3.0%）です。月次95%VaR（最大想定損失率）は-9.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＥＮＥＯＳホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,200円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,334株（元本目安：約4,000,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1200.0
+  }
+}

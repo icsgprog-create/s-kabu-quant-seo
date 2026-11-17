@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4439",
+    "name": "東名",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1219.0,
+    "min_s_kabu_yen": 1219,
+    "unit_lot_yen": 121900,
+    "dps_yen": 13.0,
+    "dividend_yield_pct": 1.07,
+    "raw_annual_return_pct": 29.51,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 8.48,
+    "annual_volatility_pct": 48.0,
+    "max_drawdown_pct": -51.99,
+    "monthly_var_95_pct": -19.82,
+    "sharpe_ratio": 0.18,
+    "quant_score": 18.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 1126356,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 1412821
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 5626904,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 7061667
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 11252589,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 14122115
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 27693,
+        "nisa_required_capital_yen": 33757767,
+        "specific_required_shares": 34753,
+        "specific_required_capital_yen": 42363907
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 46154,
+        "nisa_required_capital_yen": 56261726,
+        "specific_required_shares": 57921,
+        "specific_required_capital_yen": 70605699
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126417,
+        "upper_90_yen": 197263,
+        "lower_10_yen": 82443
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265501,
+        "upper_90_yen": 496114,
+        "lower_10_yen": 147506
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 418519,
+        "upper_90_yen": 904684,
+        "lower_10_yen": 204992
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 586868,
+        "upper_90_yen": 1441172,
+        "lower_10_yen": 257937
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 772084,
+        "upper_90_yen": 2129113,
+        "lower_10_yen": 307889
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 975857,
+        "upper_90_yen": 2997147,
+        "lower_10_yen": 355793
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1200047,
+        "upper_90_yen": 4079467,
+        "lower_10_yen": 402287
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1446698,
+        "upper_90_yen": 5416549,
+        "lower_10_yen": 447833
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1718061,
+        "upper_90_yen": 7056089,
+        "lower_10_yen": 492788
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2016613,
+        "upper_90_yen": 9054123,
+        "lower_10_yen": 537435
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東名(4439)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東名(4439)を1株(1,219円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,219円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは48.0%、幾何成長率は8.48%",
+      "新NISAで月1万円の配当金を得るには9,231株（約11,252,589円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東名は単元未満株（S株・かぶミニ等）を利用することで1株（約1,219円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,016,613円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり13.0円（利回り1.07%）です。月次95%VaR（最大想定損失率）は-19.82%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東名は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,219円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、9,231株（元本目安：約11,252,589円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1219.0
+  }
+}

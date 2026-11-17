@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6584",
+    "name": "三櫻工業",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 670.0,
+    "min_s_kabu_yen": 670,
+    "unit_lot_yen": 67000,
+    "dps_yen": 28.0,
+    "dividend_yield_pct": 4.18,
+    "raw_annual_return_pct": -5.6,
+    "capped_annual_return_pct": -5.6,
+    "geometric_growth_pct": -13.45,
+    "annual_volatility_pct": 39.63,
+    "max_drawdown_pct": -54.79,
+    "monthly_var_95_pct": -18.46,
+    "sharpe_ratio": -0.26,
+    "quant_score": 38.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 287430,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 360460
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2143,
+        "nisa_required_capital_yen": 1435810,
+        "specific_required_shares": 2690,
+        "specific_required_capital_yen": 1802300
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 2871620,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 3603930
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12858,
+        "nisa_required_capital_yen": 8614860,
+        "specific_required_shares": 16135,
+        "specific_required_capital_yen": 10810450
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21429,
+        "nisa_required_capital_yen": 14357430,
+        "specific_required_shares": 26892,
+        "specific_required_capital_yen": 18017640
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114161,
+        "upper_90_yen": 163705,
+        "lower_10_yen": 80580
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 218211,
+        "upper_90_yen": 358688,
+        "lower_10_yen": 136301
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 313045,
+        "upper_90_yen": 571504,
+        "lower_10_yen": 178650
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 399480,
+        "upper_90_yen": 796077,
+        "lower_10_yen": 211967
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 478259,
+        "upper_90_yen": 1028425,
+        "lower_10_yen": 238709
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 550060,
+        "upper_90_yen": 1265614,
+        "lower_10_yen": 260466
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 615502,
+        "upper_90_yen": 1505367,
+        "lower_10_yen": 278343
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 675148,
+        "upper_90_yen": 1745860,
+        "lower_10_yen": 293147
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 729511,
+        "upper_90_yen": 1985610,
+        "lower_10_yen": 305481
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 779059,
+        "upper_90_yen": 2223398,
+        "lower_10_yen": 315811
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三櫻工業(6584)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三櫻工業(6584)を1株(670円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小670円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.63%、幾何成長率は-13.45%",
+      "新NISAで月1万円の配当金を得るには4,286株（約2,871,620円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三櫻工業は単元未満株（S株・かぶミニ等）を利用することで1株（約670円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は779,059円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり28.0円（利回り4.18%）です。月次95%VaR（最大想定損失率）は-18.46%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三櫻工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約670円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,286株（元本目安：約2,871,620円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 670.0
+  }
+}

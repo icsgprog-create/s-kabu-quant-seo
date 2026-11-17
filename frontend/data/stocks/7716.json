@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7716",
+    "name": "ナカニシ",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1578.0,
+    "min_s_kabu_yen": 1578,
+    "unit_lot_yen": 157800,
+    "dps_yen": 29.0,
+    "dividend_yield_pct": 1.84,
+    "raw_annual_return_pct": 8.4,
+    "capped_annual_return_pct": 8.4,
+    "geometric_growth_pct": 3.34,
+    "annual_volatility_pct": 31.79,
+    "max_drawdown_pct": -51.23,
+    "monthly_var_95_pct": -13.53,
+    "sharpe_ratio": 0.13,
+    "quant_score": 36.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 653292,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 820560
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 3264882,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 4098066
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 6529764,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 8194554
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12414,
+        "nisa_required_capital_yen": 19589292,
+        "specific_required_shares": 15579,
+        "specific_required_capital_yen": 24583662
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 32648820,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 40972770
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123429,
+        "upper_90_yen": 165239,
+        "lower_10_yen": 92911
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253423,
+        "upper_90_yen": 380721,
+        "lower_10_yen": 171509
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 390329,
+        "upper_90_yen": 642873,
+        "lower_10_yen": 243104
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 534516,
+        "upper_90_yen": 953335,
+        "lower_10_yen": 310134
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 686371,
+        "upper_90_yen": 1315254,
+        "lower_10_yen": 373898
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 846301,
+        "upper_90_yen": 1732663,
+        "lower_10_yen": 435213
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1014737,
+        "upper_90_yen": 2210282,
+        "lower_10_yen": 494644
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1192129,
+        "upper_90_yen": 2753451,
+        "lower_10_yen": 552605
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1378956,
+        "upper_90_yen": 3368121,
+        "lower_10_yen": 609413
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1575718,
+        "upper_90_yen": 4060858,
+        "lower_10_yen": 665320
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ナカニシ(7716)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ナカニシ(7716)を1株(1,578円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,578円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.79%、幾何成長率は3.34%",
+      "新NISAで月1万円の配当金を得るには4,138株（約6,529,764円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ナカニシは単元未満株（S株・かぶミニ等）を利用することで1株（約1,578円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,575,718円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり29.0円（利回り1.84%）です。月次95%VaR（最大想定損失率）は-13.53%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ナカニシは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,578円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,138株（元本目安：約6,529,764円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1578.0
+  }
+}

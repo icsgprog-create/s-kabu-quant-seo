@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7581",
+    "name": "サイゼリヤ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 9040.0,
+    "min_s_kabu_yen": 9040,
+    "unit_lot_yen": 904000,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 0.39,
+    "raw_annual_return_pct": 22.44,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.06,
+    "annual_volatility_pct": 34.46,
+    "max_drawdown_pct": -37.4,
+    "monthly_var_95_pct": -14.06,
+    "sharpe_ratio": 0.39,
+    "quant_score": 28.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 3100720,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 3896240
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 15503600,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 19454080
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 30998160,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 38899120
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 92985440,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 116688320
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 154972720,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 194486560
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129882,
+        "upper_90_yen": 178697,
+        "lower_10_yen": 95252
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 279954,
+        "upper_90_yen": 438649,
+        "lower_10_yen": 182120
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 453355,
+        "upper_90_yen": 789728,
+        "lower_10_yen": 267901
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 653712,
+        "upper_90_yen": 1250322,
+        "lower_10_yen": 355155
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 885216,
+        "upper_90_yen": 1844385,
+        "lower_10_yen": 445451
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1152708,
+        "upper_90_yen": 2601768,
+        "lower_10_yen": 539993
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1461782,
+        "upper_90_yen": 3559156,
+        "lower_10_yen": 639833
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1818904,
+        "upper_90_yen": 4761357,
+        "lower_10_yen": 745975
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2231541,
+        "upper_90_yen": 6262912,
+        "lower_10_yen": 859424
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2708324,
+        "upper_90_yen": 8130064,
+        "lower_10_yen": 981223
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サイゼリヤ(7581)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サイゼリヤ(7581)を1株(9,040円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小9,040円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.46%、幾何成長率は14.06%",
+      "新NISAで月1万円の配当金を得るには3,429株（約30,998,160円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サイゼリヤは単元未満株（S株・かぶミニ等）を利用することで1株（約9,040円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,708,324円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り0.39%）です。月次95%VaR（最大想定損失率）は-14.06%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サイゼリヤは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約9,040円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約30,998,160円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 9040.0
+  }
+}

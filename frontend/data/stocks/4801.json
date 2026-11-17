@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4801",
+    "name": "セントラルスポーツ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2326.0,
+    "min_s_kabu_yen": 2326,
+    "unit_lot_yen": 232600,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 1.72,
+    "raw_annual_return_pct": -0.62,
+    "capped_annual_return_pct": -0.62,
+    "geometric_growth_pct": -1.85,
+    "annual_volatility_pct": 15.66,
+    "max_drawdown_pct": -14.58,
+    "monthly_var_95_pct": -4.83,
+    "sharpe_ratio": -0.07,
+    "quant_score": 46.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 697800,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 876902
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 3489000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 4379858
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 6978000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 8757390
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 20934000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 26272170
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 34890000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 43786950
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119918,
+        "upper_90_yen": 138229,
+        "lower_10_yen": 104227
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239683,
+        "upper_90_yen": 291752,
+        "lower_10_yen": 197709
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 359296,
+        "upper_90_yen": 456402,
+        "lower_10_yen": 284633
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 478758,
+        "upper_90_yen": 630643,
+        "lower_10_yen": 366557
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 598068,
+        "upper_90_yen": 813598,
+        "lower_10_yen": 444377
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 717227,
+        "upper_90_yen": 1004690,
+        "lower_10_yen": 518692
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 836235,
+        "upper_90_yen": 1203503,
+        "lower_10_yen": 589938
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 955092,
+        "upper_90_yen": 1409722,
+        "lower_10_yen": 658450
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1073798,
+        "upper_90_yen": 1623104,
+        "lower_10_yen": 724494
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1192353,
+        "upper_90_yen": 1843450,
+        "lower_10_yen": 788287
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セントラルスポーツ(4801)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セントラルスポーツ(4801)を1株(2,326円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,326円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは15.66%、幾何成長率は-1.85%",
+      "新NISAで月1万円の配当金を得るには3,000株（約6,978,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セントラルスポーツは単元未満株（S株・かぶミニ等）を利用することで1株（約2,326円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,192,353円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り1.72%）です。月次95%VaR（最大想定損失率）は-4.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セントラルスポーツは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,326円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約6,978,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2326.0
+  }
+}

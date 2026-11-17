@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8747",
+    "name": "豊トラスティ証券",
+    "sector": "証券、商品先物取引業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1680.0,
+    "min_s_kabu_yen": 1680,
+    "unit_lot_yen": 168000,
+    "dps_yen": 210.0,
+    "dividend_yield_pct": 12.5,
+    "raw_annual_return_pct": 20.71,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.34,
+    "annual_volatility_pct": 30.53,
+    "max_drawdown_pct": -50.5,
+    "monthly_var_95_pct": -10.87,
+    "sharpe_ratio": 0.88,
+    "quant_score": 81.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 58,
+        "nisa_required_capital_yen": 97440,
+        "specific_required_shares": 72,
+        "specific_required_capital_yen": 120960
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 286,
+        "nisa_required_capital_yen": 480480,
+        "specific_required_shares": 359,
+        "specific_required_capital_yen": 603120
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 572,
+        "nisa_required_capital_yen": 960960,
+        "specific_required_shares": 718,
+        "specific_required_capital_yen": 1206240
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 2881200,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 3615360
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 4801440,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 6024480
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 139979,
+        "upper_90_yen": 186209,
+        "lower_10_yen": 105960
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 324891,
+        "upper_90_yen": 487549,
+        "lower_10_yen": 219664
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 569160,
+        "upper_90_yen": 944475,
+        "lower_10_yen": 350410
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 891840,
+        "upper_90_yen": 1619843,
+        "lower_10_yen": 504719
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1318100,
+        "upper_90_yen": 2603190,
+        "lower_10_yen": 689622
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1881190,
+        "upper_90_yen": 4020385,
+        "lower_10_yen": 913481
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2625033,
+        "upper_90_yen": 6047484,
+        "lower_10_yen": 1186565
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 3607650,
+        "upper_90_yen": 8929996,
+        "lower_10_yen": 1521668
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 4905688,
+        "upper_90_yen": 13009540,
+        "lower_10_yen": 1934833
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 6620397,
+        "upper_90_yen": 18760611,
+        "lower_10_yen": 2446251
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "豊トラスティ証券(8747)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "豊トラスティ証券(8747)を1株(1,680円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,680円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.53%、幾何成長率は15.34%",
+      "新NISAで月1万円の配当金を得るには572株（約960,960円）が必要"
+    ],
+    "accumulation_strategy_analysis": "豊トラスティ証券は単元未満株（S株・かぶミニ等）を利用することで1株（約1,680円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は6,620,397円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり210.0円（利回り12.5%）です。月次95%VaR（最大想定損失率）は-10.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "豊トラスティ証券は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,680円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、572株（元本目安：約960,960円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1680.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9270",
+    "name": "バリュエンスホールディングス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1258.0,
+    "min_s_kabu_yen": 1258,
+    "unit_lot_yen": 125800,
+    "dps_yen": 45.0,
+    "dividend_yield_pct": 3.58,
+    "raw_annual_return_pct": -16.34,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -32.4,
+    "annual_volatility_pct": 58.99,
+    "max_drawdown_pct": -78.16,
+    "monthly_var_95_pct": -39.83,
+    "sharpe_ratio": -0.51,
+    "quant_score": 28.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 267,
+        "nisa_required_capital_yen": 335886,
+        "specific_required_shares": 335,
+        "specific_required_capital_yen": 421430
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 1678172,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 2105892
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 3355086,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 4210526
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 10064000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 12630320
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 16774172,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 21050114
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 103010,
+        "upper_90_yen": 175313,
+        "lower_10_yen": 62185
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 180227,
+        "upper_90_yen": 371219,
+        "lower_10_yen": 92860
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 238111,
+        "upper_90_yen": 563375,
+        "lower_10_yen": 110378
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 281502,
+        "upper_90_yen": 742583,
+        "lower_10_yen": 120919
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 314029,
+        "upper_90_yen": 904857,
+        "lower_10_yen": 127456
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 338411,
+        "upper_90_yen": 1048885,
+        "lower_10_yen": 131593
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 356689,
+        "upper_90_yen": 1174848,
+        "lower_10_yen": 134250
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 370390,
+        "upper_90_yen": 1283759,
+        "lower_10_yen": 135976
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 380661,
+        "upper_90_yen": 1377063,
+        "lower_10_yen": 137108
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 388360,
+        "upper_90_yen": 1456388,
+        "lower_10_yen": 137856
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "バリュエンスホールディングス(9270)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "バリュエンスホールディングス(9270)を1株(1,258円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,258円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは58.99%、幾何成長率は-32.4%",
+      "新NISAで月1万円の配当金を得るには2,667株（約3,355,086円）が必要"
+    ],
+    "accumulation_strategy_analysis": "バリュエンスホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,258円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は388,360円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり45.0円（利回り3.58%）です。月次95%VaR（最大想定損失率）は-39.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "バリュエンスホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,258円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,667株（元本目安：約3,355,086円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1258.0
+  }
+}

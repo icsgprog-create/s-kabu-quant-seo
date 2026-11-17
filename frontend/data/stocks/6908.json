@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6908",
+    "name": "イリソ電子工業",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2689.0,
+    "min_s_kabu_yen": 2689,
+    "unit_lot_yen": 268900,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 3.72,
+    "raw_annual_return_pct": -10.37,
+    "capped_annual_return_pct": -10.37,
+    "geometric_growth_pct": -16.51,
+    "annual_volatility_pct": 35.04,
+    "max_drawdown_pct": -55.38,
+    "monthly_var_95_pct": -13.94,
+    "sharpe_ratio": -0.39,
+    "quant_score": 39.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 322680,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 406039
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 1613400,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 2024817
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 3226800,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 4049634
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 9680400,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 12148902
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 16134000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 20248170
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112045,
+        "upper_90_yen": 153855,
+        "lower_10_yen": 82373
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 210639,
+        "upper_90_yen": 325520,
+        "lower_10_yen": 139156
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 297397,
+        "upper_90_yen": 502709,
+        "lower_10_yen": 181707
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 373741,
+        "upper_90_yen": 680207,
+        "lower_10_yen": 214582
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 440920,
+        "upper_90_yen": 854931,
+        "lower_10_yen": 240435
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 500034,
+        "upper_90_yen": 1024896,
+        "lower_10_yen": 261010
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 552052,
+        "upper_90_yen": 1188792,
+        "lower_10_yen": 277531
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 597826,
+        "upper_90_yen": 1345767,
+        "lower_10_yen": 290885
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 638104,
+        "upper_90_yen": 1495294,
+        "lower_10_yen": 301741
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 673547,
+        "upper_90_yen": 1637082,
+        "lower_10_yen": 310604
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "イリソ電子工業(6908)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "イリソ電子工業(6908)を1株(2,689円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,689円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.04%、幾何成長率は-16.51%",
+      "新NISAで月1万円の配当金を得るには1,200株（約3,226,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "イリソ電子工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,689円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は673,547円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り3.72%）です。月次95%VaR（最大想定損失率）は-13.94%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "イリソ電子工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,689円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約3,226,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2689.0
+  }
+}

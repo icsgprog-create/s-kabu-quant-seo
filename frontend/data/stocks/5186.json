@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5186",
+    "name": "ニッタ",
+    "sector": "ゴム製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6140.0,
+    "min_s_kabu_yen": 6140,
+    "unit_lot_yen": 614000,
+    "dps_yen": 173.0,
+    "dividend_yield_pct": 2.82,
+    "raw_annual_return_pct": 20.61,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.36,
+    "annual_volatility_pct": 22.99,
+    "max_drawdown_pct": -20.19,
+    "monthly_var_95_pct": -5.62,
+    "sharpe_ratio": 0.83,
+    "quant_score": 70.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 70,
+        "nisa_required_capital_yen": 429800,
+        "specific_required_shares": 88,
+        "specific_required_capital_yen": 540320
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 347,
+        "nisa_required_capital_yen": 2130580,
+        "specific_required_shares": 436,
+        "specific_required_capital_yen": 2677040
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 694,
+        "nisa_required_capital_yen": 4261160,
+        "specific_required_shares": 871,
+        "specific_required_capital_yen": 5347940
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2081,
+        "nisa_required_capital_yen": 12777340,
+        "specific_required_shares": 2612,
+        "specific_required_capital_yen": 16037680
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3469,
+        "nisa_required_capital_yen": 21299660,
+        "specific_required_shares": 4353,
+        "specific_required_capital_yen": 26727420
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134082,
+        "upper_90_yen": 165897,
+        "lower_10_yen": 108800
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298137,
+        "upper_90_yen": 402645,
+        "lower_10_yen": 222616
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 498865,
+        "upper_90_yen": 724090,
+        "lower_10_yen": 348050
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 744462,
+        "upper_90_yen": 1152162,
+        "lower_10_yen": 489028
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1044960,
+        "upper_90_yen": 1715790,
+        "lower_10_yen": 649301
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1412630,
+        "upper_90_yen": 2452187,
+        "lower_10_yen": 832932
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1862488,
+        "upper_90_yen": 3408845,
+        "lower_10_yen": 1044531
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2412907,
+        "upper_90_yen": 4646156,
+        "lower_10_yen": 1289443
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3086364,
+        "upper_90_yen": 6240751,
+        "lower_10_yen": 1573929
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3910365,
+        "upper_90_yen": 8289729,
+        "lower_10_yen": 1905365
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ニッタ(5186)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ニッタ(5186)を1株(6,140円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,140円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.99%、幾何成長率は17.36%",
+      "新NISAで月1万円の配当金を得るには694株（約4,261,160円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ニッタは単元未満株（S株・かぶミニ等）を利用することで1株（約6,140円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,910,365円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり173.0円（利回り2.82%）です。月次95%VaR（最大想定損失率）は-5.62%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ニッタは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,140円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、694株（元本目安：約4,261,160円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6140.0
+  }
+}

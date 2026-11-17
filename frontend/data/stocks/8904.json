@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8904",
+    "name": "ＡＶＡＮＴＩＡ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 822.0,
+    "min_s_kabu_yen": 822,
+    "unit_lot_yen": 82200,
+    "dps_yen": 38.0,
+    "dividend_yield_pct": 4.62,
+    "raw_annual_return_pct": 3.58,
+    "capped_annual_return_pct": 3.58,
+    "geometric_growth_pct": 2.58,
+    "annual_volatility_pct": 14.11,
+    "max_drawdown_pct": -17.41,
+    "monthly_var_95_pct": -4.69,
+    "sharpe_ratio": 0.44,
+    "quant_score": 83.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 316,
+        "nisa_required_capital_yen": 259752,
+        "specific_required_shares": 397,
+        "specific_required_capital_yen": 326334
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1579,
+        "nisa_required_capital_yen": 1297938,
+        "specific_required_shares": 1982,
+        "specific_required_capital_yen": 1629204
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 2595876,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 3257586
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9474,
+        "nisa_required_capital_yen": 7787628,
+        "specific_required_shares": 11889,
+        "specific_required_capital_yen": 9772758
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15790,
+        "nisa_required_capital_yen": 12979380,
+        "specific_required_shares": 19815,
+        "specific_required_capital_yen": 16287930
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124803,
+        "upper_90_yen": 141958,
+        "lower_10_yen": 109888
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258932,
+        "upper_90_yen": 309797,
+        "lower_10_yen": 217124
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 403082,
+        "upper_90_yen": 502119,
+        "lower_10_yen": 325197
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 558003,
+        "upper_90_yen": 719870,
+        "lower_10_yen": 435439
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 724500,
+        "upper_90_yen": 964685,
+        "lower_10_yen": 548689
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 903437,
+        "upper_90_yen": 1238622,
+        "lower_10_yen": 665586
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1095744,
+        "upper_90_yen": 1544069,
+        "lower_10_yen": 786673
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1302420,
+        "upper_90_yen": 1883725,
+        "lower_10_yen": 912444
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1524539,
+        "upper_90_yen": 2260592,
+        "lower_10_yen": 1043367
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1763254,
+        "upper_90_yen": 2677987,
+        "lower_10_yen": 1179902
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＡＶＡＮＴＩＡ(8904)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＡＶＡＮＴＩＡ(8904)を1株(822円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小822円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは14.11%、幾何成長率は2.58%",
+      "新NISAで月1万円の配当金を得るには3,158株（約2,595,876円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＡＶＡＮＴＩＡは単元未満株（S株・かぶミニ等）を利用することで1株（約822円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,763,254円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり38.0円（利回り4.62%）です。月次95%VaR（最大想定損失率）は-4.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＡＶＡＮＴＩＡは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約822円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,158株（元本目安：約2,595,876円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 822.0
+  }
+}

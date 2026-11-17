@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3418",
+    "name": "バルニバービ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1054.0,
+    "min_s_kabu_yen": 1054,
+    "unit_lot_yen": 105400,
+    "dps_yen": 7.5,
+    "dividend_yield_pct": 0.71,
+    "raw_annual_return_pct": -1.28,
+    "capped_annual_return_pct": -1.28,
+    "geometric_growth_pct": -4.16,
+    "annual_volatility_pct": 23.99,
+    "max_drawdown_pct": -41.13,
+    "monthly_var_95_pct": -10.86,
+    "sharpe_ratio": -0.19,
+    "quant_score": 27.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 1686400,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 2116432
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 8432000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 10582160
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 16000,
+        "nisa_required_capital_yen": 16864000,
+        "specific_required_shares": 20080,
+        "specific_required_capital_yen": 21164320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 48000,
+        "nisa_required_capital_yen": 50592000,
+        "specific_required_shares": 60238,
+        "specific_required_capital_yen": 63490852
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 80000,
+        "nisa_required_capital_yen": 84320000,
+        "specific_required_shares": 100396,
+        "specific_required_capital_yen": 105817384
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117786,
+        "upper_90_yen": 146456,
+        "lower_10_yen": 95148
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 231582,
+        "upper_90_yen": 312911,
+        "lower_10_yen": 173044
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 341523,
+        "upper_90_yen": 492272,
+        "lower_10_yen": 240486
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 447739,
+        "upper_90_yen": 681625,
+        "lower_10_yen": 300100
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 550357,
+        "upper_90_yen": 879152,
+        "lower_10_yen": 353434
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 649498,
+        "upper_90_yen": 1083540,
+        "lower_10_yen": 401541
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 745281,
+        "upper_90_yen": 1293767,
+        "lower_10_yen": 445194
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 837818,
+        "upper_90_yen": 1508999,
+        "lower_10_yen": 484990
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 927221,
+        "upper_90_yen": 1728532,
+        "lower_10_yen": 521407
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1013595,
+        "upper_90_yen": 1951760,
+        "lower_10_yen": 554834
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "バルニバービ(3418)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "バルニバービ(3418)を1株(1,054円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,054円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.99%、幾何成長率は-4.16%",
+      "新NISAで月1万円の配当金を得るには16,000株（約16,864,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "バルニバービは単元未満株（S株・かぶミニ等）を利用することで1株（約1,054円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,013,595円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.5円（利回り0.71%）です。月次95%VaR（最大想定損失率）は-10.86%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "バルニバービは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,054円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、16,000株（元本目安：約16,864,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1054.0
+  }
+}

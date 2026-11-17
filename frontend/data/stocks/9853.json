@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9853",
+    "name": "銀座ルノアール",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 918.0,
+    "min_s_kabu_yen": 918,
+    "unit_lot_yen": 91800,
+    "dps_yen": 5.0,
+    "dividend_yield_pct": 0.54,
+    "raw_annual_return_pct": 2.52,
+    "capped_annual_return_pct": 2.52,
+    "geometric_growth_pct": 2.12,
+    "annual_volatility_pct": 8.96,
+    "max_drawdown_pct": -7.66,
+    "monthly_var_95_pct": -2.78,
+    "sharpe_ratio": 0.19,
+    "quant_score": 44.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 2203200,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 2765016
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 11016000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 13825080
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 22032000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 27649242
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 72000,
+        "nisa_required_capital_yen": 66096000,
+        "specific_required_shares": 90356,
+        "specific_required_capital_yen": 82946808
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 110160000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 138244374
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121746,
+        "upper_90_yen": 132052,
+        "lower_10_yen": 112313
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 246776,
+        "upper_90_yen": 276172,
+        "lower_10_yen": 220801
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 375178,
+        "upper_90_yen": 430335,
+        "lower_10_yen": 327759
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 507044,
+        "upper_90_yen": 593986,
+        "lower_10_yen": 434020
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 642466,
+        "upper_90_yen": 766935,
+        "lower_10_yen": 540065
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 781541,
+        "upper_90_yen": 949157,
+        "lower_10_yen": 646214
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 924367,
+        "upper_90_yen": 1140721,
+        "lower_10_yen": 752707
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1071045,
+        "upper_90_yen": 1341758,
+        "lower_10_yen": 859729
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1221680,
+        "upper_90_yen": 1552441,
+        "lower_10_yen": 967433
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1376377,
+        "upper_90_yen": 1772979,
+        "lower_10_yen": 1075949
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "銀座ルノアール(9853)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "銀座ルノアール(9853)を1株(918円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小918円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは8.96%、幾何成長率は2.12%",
+      "新NISAで月1万円の配当金を得るには24,000株（約22,032,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "銀座ルノアールは単元未満株（S株・かぶミニ等）を利用することで1株（約918円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,376,377円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.0円（利回り0.54%）です。月次95%VaR（最大想定損失率）は-2.78%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "銀座ルノアールは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約918円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、24,000株（元本目安：約22,032,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 918.0
+  }
+}

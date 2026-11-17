@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4025",
+    "name": "多木化学",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5350.0,
+    "min_s_kabu_yen": 5350,
+    "unit_lot_yen": 535000,
+    "dps_yen": 75.0,
+    "dividend_yield_pct": 1.4,
+    "raw_annual_return_pct": -0.89,
+    "capped_annual_return_pct": -0.89,
+    "geometric_growth_pct": -7.08,
+    "annual_volatility_pct": 35.19,
+    "max_drawdown_pct": -52.75,
+    "monthly_var_95_pct": -12.04,
+    "sharpe_ratio": -0.19,
+    "quant_score": 21.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 160,
+        "nisa_required_capital_yen": 856000,
+        "specific_required_shares": 201,
+        "specific_required_capital_yen": 1075350
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 4280000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 5371400
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 8560000,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 10742800
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 25680000,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 32228400
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 42800000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 53714000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116381,
+        "upper_90_yen": 160335,
+        "lower_10_yen": 85283
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 226336,
+        "upper_90_yen": 352432,
+        "lower_10_yen": 148396
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 330222,
+        "upper_90_yen": 565409,
+        "lower_10_yen": 199154
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 428373,
+        "upper_90_yen": 794573,
+        "lower_10_yen": 241242
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 521105,
+        "upper_90_yen": 1036871,
+        "lower_10_yen": 276766
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 608718,
+        "upper_90_yen": 1290027,
+        "lower_10_yen": 307110
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 691495,
+        "upper_90_yen": 1552220,
+        "lower_10_yen": 333260
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 769701,
+        "upper_90_yen": 1821931,
+        "lower_10_yen": 355950
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 843591,
+        "upper_90_yen": 2097858,
+        "lower_10_yen": 375746
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 913401,
+        "upper_90_yen": 2378866,
+        "lower_10_yen": 393097
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "多木化学(4025)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "多木化学(4025)を1株(5,350円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,350円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.19%、幾何成長率は-7.08%",
+      "新NISAで月1万円の配当金を得るには1,600株（約8,560,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "多木化学は単元未満株（S株・かぶミニ等）を利用することで1株（約5,350円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は913,401円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり75.0円（利回り1.4%）です。月次95%VaR（最大想定損失率）は-12.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "多木化学は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,350円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,600株（元本目安：約8,560,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5350.0
+  }
+}

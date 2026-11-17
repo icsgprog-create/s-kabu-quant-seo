@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9343",
+    "name": "アイビス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 689.0,
+    "min_s_kabu_yen": 689,
+    "unit_lot_yen": 68900,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.45,
+    "raw_annual_return_pct": 8.47,
+    "capped_annual_return_pct": 8.47,
+    "geometric_growth_pct": -7.94,
+    "annual_volatility_pct": 57.29,
+    "max_drawdown_pct": -58.72,
+    "monthly_var_95_pct": -18.73,
+    "sharpe_ratio": -0.13,
+    "quant_score": 13.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 826800,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1037634
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 4134000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 5188170
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 8268000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 10376340
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 24804000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 31127642
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 41340000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 51879633
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115874,
+        "upper_90_yen": 196082,
+        "lower_10_yen": 70222
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 224465,
+        "upper_90_yen": 465772,
+        "lower_10_yen": 114270
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 326231,
+        "upper_90_yen": 793544,
+        "lower_10_yen": 146005
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 421600,
+        "upper_90_yen": 1173073,
+        "lower_10_yen": 170046
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 510976,
+        "upper_90_yen": 1600213,
+        "lower_10_yen": 188793
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 594734,
+        "upper_90_yen": 2071736,
+        "lower_10_yen": 203701
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 673227,
+        "upper_90_yen": 2584892,
+        "lower_10_yen": 215728
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 746787,
+        "upper_90_yen": 3137212,
+        "lower_10_yen": 225540
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 815723,
+        "upper_90_yen": 3726405,
+        "lower_10_yen": 233616
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 880327,
+        "upper_90_yen": 4350306,
+        "lower_10_yen": 240313
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイビス(9343)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイビス(9343)を1株(689円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小689円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは57.29%、幾何成長率は-7.94%",
+      "新NISAで月1万円の配当金を得るには12,000株（約8,268,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイビスは単元未満株（S株・かぶミニ等）を利用することで1株（約689円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は880,327円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.45%）です。月次95%VaR（最大想定損失率）は-18.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイビスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約689円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約8,268,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 689.0
+  }
+}

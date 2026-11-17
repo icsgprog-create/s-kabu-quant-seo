@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7173",
+    "name": "東京きらぼしフィナンシャルグループ",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1370.5,
+    "min_s_kabu_yen": 1371,
+    "unit_lot_yen": 137050,
+    "dps_yen": 25.62,
+    "dividend_yield_pct": 1.87,
+    "raw_annual_return_pct": 44.4,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 12.62,
+    "annual_volatility_pct": 38.41,
+    "max_drawdown_pct": -31.16,
+    "monthly_var_95_pct": -9.6,
+    "sharpe_ratio": 0.35,
+    "quant_score": 35.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 469,
+        "nisa_required_capital_yen": 642764,
+        "specific_required_shares": 588,
+        "specific_required_capital_yen": 805854
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2342,
+        "nisa_required_capital_yen": 3209711,
+        "specific_required_shares": 2939,
+        "specific_required_capital_yen": 4027900
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4683,
+        "nisa_required_capital_yen": 6418052,
+        "specific_required_shares": 5877,
+        "specific_required_capital_yen": 8054428
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14049,
+        "nisa_required_capital_yen": 19254154,
+        "specific_required_shares": 17631,
+        "specific_required_capital_yen": 24163286
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 23415,
+        "nisa_required_capital_yen": 32090258,
+        "specific_required_shares": 29384,
+        "specific_required_capital_yen": 40270772
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129913,
+        "upper_90_yen": 185503,
+        "lower_10_yen": 92000
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280085,
+        "upper_90_yen": 462588,
+        "lower_10_yen": 173659
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 453678,
+        "upper_90_yen": 843697,
+        "lower_10_yen": 252886
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 654343,
+        "upper_90_yen": 1351227,
+        "lower_10_yen": 332336
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 886302,
+        "upper_90_yen": 2014405,
+        "lower_10_yen": 413558
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1154436,
+        "upper_90_yen": 2869855,
+        "lower_10_yen": 497678
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1464386,
+        "upper_90_yen": 3962866,
+        "lower_10_yen": 585640
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1822674,
+        "upper_90_yen": 5349115,
+        "lower_10_yen": 678304
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2236837,
+        "upper_90_yen": 7096817,
+        "lower_10_yen": 776508
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2715591,
+        "upper_90_yen": 9289354,
+        "lower_10_yen": 881102
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東京きらぼしフィナンシャルグループ(7173)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東京きらぼしフィナンシャルグループ(7173)を1株(1,371円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,371円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは38.41%、幾何成長率は12.62%",
+      "新NISAで月1万円の配当金を得るには4,683株（約6,418,052円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東京きらぼしフィナンシャルグループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,371円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,715,591円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.62円（利回り1.87%）です。月次95%VaR（最大想定損失率）は-9.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東京きらぼしフィナンシャルグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,371円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,683株（元本目安：約6,418,052円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1370.5
+  }
+}

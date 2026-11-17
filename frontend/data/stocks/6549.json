@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6549",
+    "name": "ディーエムソリューションズ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 882.0,
+    "min_s_kabu_yen": 882,
+    "unit_lot_yen": 88200,
+    "dps_yen": 21.0,
+    "dividend_yield_pct": 2.38,
+    "raw_annual_return_pct": 8.28,
+    "capped_annual_return_pct": 8.28,
+    "geometric_growth_pct": 2.34,
+    "annual_volatility_pct": 34.47,
+    "max_drawdown_pct": -43.44,
+    "monthly_var_95_pct": -11.77,
+    "sharpe_ratio": 0.11,
+    "quant_score": 37.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 572,
+        "nisa_required_capital_yen": 504504,
+        "specific_required_shares": 718,
+        "specific_required_capital_yen": 633276
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 2520756,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 3162852
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5715,
+        "nisa_required_capital_yen": 5040630,
+        "specific_required_shares": 7172,
+        "specific_required_capital_yen": 6325704
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 15120126,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 18975348
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 28572,
+        "nisa_required_capital_yen": 25200504,
+        "specific_required_shares": 35856,
+        "specific_required_capital_yen": 31624992
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123122,
+        "upper_90_yen": 168968,
+        "lower_10_yen": 90530
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252199,
+        "upper_90_yen": 392254,
+        "lower_10_yen": 165347
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 387521,
+        "upper_90_yen": 665963,
+        "lower_10_yen": 232357
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 529389,
+        "upper_90_yen": 991836,
+        "lower_10_yen": 294190
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 678121,
+        "upper_90_yen": 1373238,
+        "lower_10_yen": 352240
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 834046,
+        "upper_90_yen": 1814475,
+        "lower_10_yen": 407382
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 997515,
+        "upper_90_yen": 2320580,
+        "lower_10_yen": 460214
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1168892,
+        "upper_90_yen": 2897242,
+        "lower_10_yen": 511172
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1348559,
+        "upper_90_yen": 3550782,
+        "lower_10_yen": 560589
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1536918,
+        "upper_90_yen": 4288166,
+        "lower_10_yen": 608724
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ディーエムソリューションズ(6549)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ディーエムソリューションズ(6549)を1株(882円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小882円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.47%、幾何成長率は2.34%",
+      "新NISAで月1万円の配当金を得るには5,715株（約5,040,630円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ディーエムソリューションズは単元未満株（S株・かぶミニ等）を利用することで1株（約882円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,536,918円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり21.0円（利回り2.38%）です。月次95%VaR（最大想定損失率）は-11.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ディーエムソリューションズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約882円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,715株（元本目安：約5,040,630円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 882.0
+  }
+}

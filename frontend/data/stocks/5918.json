@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5918",
+    "name": "瀧上工業",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7850.0,
+    "min_s_kabu_yen": 7850,
+    "unit_lot_yen": 785000,
+    "dps_yen": 120.0,
+    "dividend_yield_pct": 1.53,
+    "raw_annual_return_pct": 7.15,
+    "capped_annual_return_pct": 7.15,
+    "geometric_growth_pct": 4.18,
+    "annual_volatility_pct": 24.38,
+    "max_drawdown_pct": -30.22,
+    "monthly_var_95_pct": -9.73,
+    "sharpe_ratio": 0.19,
+    "quant_score": 42.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 100,
+        "nisa_required_capital_yen": 785000,
+        "specific_required_shares": 126,
+        "specific_required_capital_yen": 989100
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 3925000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 4929800
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 7850000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 9851750
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 23550000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 29555250
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 39250000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 49258750
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123787,
+        "upper_90_yen": 154732,
+        "lower_10_yen": 99479
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 254849,
+        "upper_90_yen": 347808,
+        "lower_10_yen": 188564
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 393613,
+        "upper_90_yen": 576155,
+        "lower_10_yen": 272957
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 540533,
+        "upper_90_yen": 840690,
+        "lower_10_yen": 354601
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 696087,
+        "upper_90_yen": 1143458,
+        "lower_10_yen": 434557
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 860784,
+        "upper_90_yen": 1487147,
+        "lower_10_yen": 513509
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1035160,
+        "upper_90_yen": 1874932,
+        "lower_10_yen": 591945
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1219784,
+        "upper_90_yen": 2310413,
+        "lower_10_yen": 670238
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1415259,
+        "upper_90_yen": 2797608,
+        "lower_10_yen": 748686
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1622222,
+        "upper_90_yen": 3340945,
+        "lower_10_yen": 827537
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "瀧上工業(5918)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "瀧上工業(5918)を1株(7,850円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,850円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.38%、幾何成長率は4.18%",
+      "新NISAで月1万円の配当金を得るには1,000株（約7,850,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "瀧上工業は単元未満株（S株・かぶミニ等）を利用することで1株（約7,850円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,622,222円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり120.0円（利回り1.53%）です。月次95%VaR（最大想定損失率）は-9.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "瀧上工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,850円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,000株（元本目安：約7,850,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7850.0
+  }
+}

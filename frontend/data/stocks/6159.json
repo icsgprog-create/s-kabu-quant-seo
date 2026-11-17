@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6159",
+    "name": "ミクロン精密",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1941.0,
+    "min_s_kabu_yen": 1941,
+    "unit_lot_yen": 194100,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 2.06,
+    "raw_annual_return_pct": 13.32,
+    "capped_annual_return_pct": 13.32,
+    "geometric_growth_pct": 6.37,
+    "annual_volatility_pct": 37.27,
+    "max_drawdown_pct": -35.23,
+    "monthly_var_95_pct": -10.4,
+    "sharpe_ratio": 0.2,
+    "quant_score": 34.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 582300,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 731757
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 2911500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 3654903
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 5823000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 7307865
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 17469000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 21923595
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 29115000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 36539325
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125647,
+        "upper_90_yen": 177181,
+        "lower_10_yen": 90046
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262351,
+        "upper_90_yen": 424599,
+        "lower_10_yen": 165813
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 411086,
+        "upper_90_yen": 743319,
+        "lower_10_yen": 235352
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 572910,
+        "upper_90_yen": 1141181,
+        "lower_10_yen": 301260
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 748976,
+        "upper_90_yen": 1628754,
+        "lower_10_yen": 364904
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 940537,
+        "upper_90_yen": 2218817,
+        "lower_10_yen": 427146
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1148956,
+        "upper_90_yen": 2926342,
+        "lower_10_yen": 488586
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1375717,
+        "upper_90_yen": 3768635,
+        "lower_10_yen": 549672
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1622434,
+        "upper_90_yen": 4765573,
+        "lower_10_yen": 610762
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1890863,
+        "upper_90_yen": 5939899,
+        "lower_10_yen": 672151
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ミクロン精密(6159)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ミクロン精密(6159)を1株(1,941円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,941円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.27%、幾何成長率は6.37%",
+      "新NISAで月1万円の配当金を得るには3,000株（約5,823,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ミクロン精密は単元未満株（S株・かぶミニ等）を利用することで1株（約1,941円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,890,863円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り2.06%）です。月次95%VaR（最大想定損失率）は-10.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ミクロン精密は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,941円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約5,823,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1941.0
+  }
+}

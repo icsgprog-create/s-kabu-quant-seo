@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7679",
+    "name": "薬王堂ホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1540.0,
+    "min_s_kabu_yen": 1540,
+    "unit_lot_yen": 154000,
+    "dps_yen": 29.0,
+    "dividend_yield_pct": 1.88,
+    "raw_annual_return_pct": -6.54,
+    "capped_annual_return_pct": -6.54,
+    "geometric_growth_pct": -10.05,
+    "annual_volatility_pct": 26.51,
+    "max_drawdown_pct": -49.19,
+    "monthly_var_95_pct": -10.9,
+    "sharpe_ratio": -0.35,
+    "quant_score": 33.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 637560,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 800800
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 3186260,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 3999380
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 6372520,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 7997220
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12414,
+        "nisa_required_capital_yen": 19117560,
+        "specific_required_shares": 15579,
+        "specific_required_capital_yen": 23991660
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 31862600,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 39986100
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114839,
+        "upper_90_yen": 145991,
+        "lower_10_yen": 90824
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 220672,
+        "upper_90_yen": 307034,
+        "lower_10_yen": 160484
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 318206,
+        "upper_90_yen": 474486,
+        "lower_10_yen": 217347
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 408091,
+        "upper_90_yen": 644705,
+        "lower_10_yen": 264844
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 490926,
+        "upper_90_yen": 815460,
+        "lower_10_yen": 305050
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 567266,
+        "upper_90_yen": 985224,
+        "lower_10_yen": 339393
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 637619,
+        "upper_90_yen": 1152890,
+        "lower_10_yen": 368924
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 702455,
+        "upper_90_yen": 1317637,
+        "lower_10_yen": 394449
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 762207,
+        "upper_90_yen": 1478846,
+        "lower_10_yen": 416601
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 817272,
+        "upper_90_yen": 1636056,
+        "lower_10_yen": 435894
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "薬王堂ホールディングス(7679)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "薬王堂ホールディングス(7679)を1株(1,540円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,540円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.51%、幾何成長率は-10.05%",
+      "新NISAで月1万円の配当金を得るには4,138株（約6,372,520円）が必要"
+    ],
+    "accumulation_strategy_analysis": "薬王堂ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,540円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は817,272円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり29.0円（利回り1.88%）です。月次95%VaR（最大想定損失率）は-10.9%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "薬王堂ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,540円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,138株（元本目安：約6,372,520円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1540.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8252",
+    "name": "丸井グループ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2928.0,
+    "min_s_kabu_yen": 2928,
+    "unit_lot_yen": 292800,
+    "dps_yen": 133.0,
+    "dividend_yield_pct": 4.54,
+    "raw_annual_return_pct": 8.12,
+    "capped_annual_return_pct": 8.12,
+    "geometric_growth_pct": 5.32,
+    "annual_volatility_pct": 23.68,
+    "max_drawdown_pct": -22.52,
+    "monthly_var_95_pct": -6.95,
+    "sharpe_ratio": 0.37,
+    "quant_score": 72.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 91,
+        "nisa_required_capital_yen": 266448,
+        "specific_required_shares": 114,
+        "specific_required_capital_yen": 333792
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 452,
+        "nisa_required_capital_yen": 1323456,
+        "specific_required_shares": 567,
+        "specific_required_capital_yen": 1660176
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 903,
+        "nisa_required_capital_yen": 2643984,
+        "specific_required_shares": 1133,
+        "specific_required_capital_yen": 3317424
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2707,
+        "nisa_required_capital_yen": 7926096,
+        "specific_required_shares": 3397,
+        "specific_required_capital_yen": 9946416
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4512,
+        "nisa_required_capital_yen": 13211136,
+        "specific_required_shares": 5662,
+        "specific_required_capital_yen": 16578336
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126634,
+        "upper_90_yen": 157399,
+        "lower_10_yen": 102317
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266392,
+        "upper_90_yen": 361106,
+        "lower_10_yen": 198321
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 420631,
+        "upper_90_yen": 611421,
+        "lower_10_yen": 293433
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 590855,
+        "upper_90_yen": 912902,
+        "lower_10_yen": 389597
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 778718,
+        "upper_90_yen": 1271767,
+        "lower_10_yen": 487983
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 986050,
+        "upper_90_yen": 1695542,
+        "lower_10_yen": 589454
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1214866,
+        "upper_90_yen": 2193034,
+        "lower_10_yen": 694727
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1467394,
+        "upper_90_yen": 2774403,
+        "lower_10_yen": 804445
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1746091,
+        "upper_90_yen": 3451293,
+        "lower_10_yen": 919219
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2053669,
+        "upper_90_yen": 4236996,
+        "lower_10_yen": 1039650
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "丸井グループ(8252)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "丸井グループ(8252)を1株(2,928円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,928円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.68%、幾何成長率は5.32%",
+      "新NISAで月1万円の配当金を得るには903株（約2,643,984円）が必要"
+    ],
+    "accumulation_strategy_analysis": "丸井グループは単元未満株（S株・かぶミニ等）を利用することで1株（約2,928円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,053,669円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり133.0円（利回り4.54%）です。月次95%VaR（最大想定損失率）は-6.95%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "丸井グループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,928円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、903株（元本目安：約2,643,984円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2928.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5998",
+    "name": "アドバネクス",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2734.0,
+    "min_s_kabu_yen": 2734,
+    "unit_lot_yen": 273400,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 1.28,
+    "raw_annual_return_pct": 20.01,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 6.6,
+    "annual_volatility_pct": 51.76,
+    "max_drawdown_pct": -57.95,
+    "monthly_var_95_pct": -20.83,
+    "sharpe_ratio": 0.13,
+    "quant_score": 18.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 937762,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 1178354
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 4688810,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 5883568
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 9374886,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 11764402
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 28121924,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 35290472
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 46868962,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 58819276
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125269,
+        "upper_90_yen": 202420,
+        "lower_10_yen": 79116
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260814,
+        "upper_90_yen": 511624,
+        "lower_10_yen": 138892
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 407481,
+        "upper_90_yen": 934517,
+        "lower_10_yen": 189942
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 566180,
+        "upper_90_yen": 1488282,
+        "lower_10_yen": 235539
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 737899,
+        "upper_90_yen": 2195109,
+        "lower_10_yen": 277341
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 923707,
+        "upper_90_yen": 3081745,
+        "lower_10_yen": 316344
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1124758,
+        "upper_90_yen": 4179749,
+        "lower_10_yen": 353209
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1342304,
+        "upper_90_yen": 5526018,
+        "lower_10_yen": 388405
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1577699,
+        "upper_90_yen": 7163463,
+        "lower_10_yen": 422281
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1832405,
+        "upper_90_yen": 9141837,
+        "lower_10_yen": 455105
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アドバネクス(5998)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アドバネクス(5998)を1株(2,734円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,734円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.76%、幾何成長率は6.6%",
+      "新NISAで月1万円の配当金を得るには3,429株（約9,374,886円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アドバネクスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,734円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,832,405円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り1.28%）です。月次95%VaR（最大想定損失率）は-20.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アドバネクスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,734円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約9,374,886円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2734.0
+  }
+}

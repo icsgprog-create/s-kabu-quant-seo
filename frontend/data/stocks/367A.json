@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "367A",
+    "name": "プリモグローバルホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2978.0,
+    "min_s_kabu_yen": 2978,
+    "unit_lot_yen": 297800,
+    "dps_yen": 120.0,
+    "dividend_yield_pct": 4.03,
+    "raw_annual_return_pct": 48.22,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.57,
+    "annual_volatility_pct": 35.87,
+    "max_drawdown_pct": -15.69,
+    "monthly_var_95_pct": -7.15,
+    "sharpe_ratio": 0.46,
+    "quant_score": 57.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 100,
+        "nisa_required_capital_yen": 297800,
+        "specific_required_shares": 126,
+        "specific_required_capital_yen": 375228
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 1489000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 1870184
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 2978000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3737390
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 8934000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 11212170
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 14890000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 18686950
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132169,
+        "upper_90_yen": 184427,
+        "lower_10_yen": 95641
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289767,
+        "upper_90_yen": 463769,
+        "lower_10_yen": 184809
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 477684,
+        "upper_90_yen": 855538,
+        "lower_10_yen": 275102
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 701756,
+        "upper_90_yen": 1388671,
+        "lower_10_yen": 369394
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 968936,
+        "upper_90_yen": 2101443,
+        "lower_10_yen": 469642
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1287519,
+        "upper_90_yen": 3042973,
+        "lower_10_yen": 577525
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1667394,
+        "upper_90_yen": 4275677,
+        "lower_10_yen": 694667
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2120353,
+        "upper_90_yen": 5878496,
+        "lower_10_yen": 822748
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2660458,
+        "upper_90_yen": 7950981,
+        "lower_10_yen": 963575
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3304473,
+        "upper_90_yen": 10618418,
+        "lower_10_yen": 1119134
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "プリモグローバルホールディングス(367A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "プリモグローバルホールディングス(367A)を1株(2,978円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,978円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.87%、幾何成長率は13.57%",
+      "新NISAで月1万円の配当金を得るには1,000株（約2,978,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "プリモグローバルホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,978円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,304,473円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり120.0円（利回り4.03%）です。月次95%VaR（最大想定損失率）は-7.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "プリモグローバルホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,978円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,000株（元本目安：約2,978,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2978.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4503",
+    "name": "アステラス製薬",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2730.0,
+    "min_s_kabu_yen": 2730,
+    "unit_lot_yen": 273000,
+    "dps_yen": 79.0,
+    "dividend_yield_pct": 2.89,
+    "raw_annual_return_pct": 10.39,
+    "capped_annual_return_pct": 10.39,
+    "geometric_growth_pct": 7.1,
+    "annual_volatility_pct": 25.66,
+    "max_drawdown_pct": -41.61,
+    "monthly_var_95_pct": -9.67,
+    "sharpe_ratio": 0.35,
+    "quant_score": 56.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 152,
+        "nisa_required_capital_yen": 414960,
+        "specific_required_shares": 191,
+        "specific_required_capital_yen": 521430
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 760,
+        "nisa_required_capital_yen": 2074800,
+        "specific_required_shares": 954,
+        "specific_required_capital_yen": 2604420
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1519,
+        "nisa_required_capital_yen": 4146870,
+        "specific_required_shares": 1907,
+        "specific_required_capital_yen": 5206110
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4557,
+        "nisa_required_capital_yen": 12440610,
+        "specific_required_shares": 5719,
+        "specific_required_capital_yen": 15612870
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7595,
+        "nisa_required_capital_yen": 20734350,
+        "specific_required_shares": 9532,
+        "specific_required_capital_yen": 26022360
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126724,
+        "upper_90_yen": 160428,
+        "lower_10_yen": 100602
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266760,
+        "upper_90_yen": 371074,
+        "lower_10_yen": 193834
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 421507,
+        "upper_90_yen": 632575,
+        "lower_10_yen": 285489
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 592510,
+        "upper_90_yen": 950239,
+        "lower_10_yen": 377601
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 781477,
+        "upper_90_yen": 1331247,
+        "lower_10_yen": 471368
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 990295,
+        "upper_90_yen": 1784298,
+        "lower_10_yen": 567654
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1221049,
+        "upper_90_yen": 2319592,
+        "lower_10_yen": 667161
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1476043,
+        "upper_90_yen": 2948938,
+        "lower_10_yen": 770509
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1757825,
+        "upper_90_yen": 3685912,
+        "lower_10_yen": 878276
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2069207,
+        "upper_90_yen": 4546073,
+        "lower_10_yen": 991024
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アステラス製薬(4503)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アステラス製薬(4503)を1株(2,730円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,730円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.66%、幾何成長率は7.1%",
+      "新NISAで月1万円の配当金を得るには1,519株（約4,146,870円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アステラス製薬は単元未満株（S株・かぶミニ等）を利用することで1株（約2,730円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,069,207円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり79.0円（利回り2.89%）です。月次95%VaR（最大想定損失率）は-9.67%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アステラス製薬は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,730円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,519株（元本目安：約4,146,870円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2730.0
+  }
+}

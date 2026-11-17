@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3863",
+    "name": "日本製紙",
+    "sector": "パルプ・紙",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1264.0,
+    "min_s_kabu_yen": 1264,
+    "unit_lot_yen": 126400,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 1.19,
+    "raw_annual_return_pct": 3.57,
+    "capped_annual_return_pct": 3.57,
+    "geometric_growth_pct": -0.71,
+    "annual_volatility_pct": 29.28,
+    "max_drawdown_pct": -41.45,
+    "monthly_var_95_pct": -11.51,
+    "sharpe_ratio": -0.02,
+    "quant_score": 29.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 1011200,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 1269056
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 5056000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 6345280
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 10112000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 12690560
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 30336000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 38070416
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 50560000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 63450272
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120309,
+        "upper_90_yen": 157191,
+        "lower_10_yen": 92686
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 241190,
+        "upper_90_yen": 349616,
+        "lower_10_yen": 168769
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 362645,
+        "upper_90_yen": 570467,
+        "lower_10_yen": 235640
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 484678,
+        "upper_90_yen": 817715,
+        "lower_10_yen": 295921
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 607291,
+        "upper_90_yen": 1090515,
+        "lower_10_yen": 351066
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 730487,
+        "upper_90_yen": 1388544,
+        "lower_10_yen": 402018
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 854269,
+        "upper_90_yen": 1711773,
+        "lower_10_yen": 449442
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 978639,
+        "upper_90_yen": 2060354,
+        "lower_10_yen": 493833
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1103601,
+        "upper_90_yen": 2434566,
+        "lower_10_yen": 535576
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1229156,
+        "upper_90_yen": 2834777,
+        "lower_10_yen": 574978
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本製紙(3863)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本製紙(3863)を1株(1,264円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,264円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.28%、幾何成長率は-0.71%",
+      "新NISAで月1万円の配当金を得るには8,000株（約10,112,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本製紙は単元未満株（S株・かぶミニ等）を利用することで1株（約1,264円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,229,156円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り1.19%）です。月次95%VaR（最大想定損失率）は-11.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本製紙は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,264円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約10,112,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1264.0
+  }
+}

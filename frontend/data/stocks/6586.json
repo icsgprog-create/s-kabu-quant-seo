@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6586",
+    "name": "マキタ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5503.0,
+    "min_s_kabu_yen": 5503,
+    "unit_lot_yen": 550300,
+    "dps_yen": 209.0,
+    "dividend_yield_pct": 3.8,
+    "raw_annual_return_pct": 2.9,
+    "capped_annual_return_pct": 2.9,
+    "geometric_growth_pct": -3.73,
+    "annual_volatility_pct": 36.43,
+    "max_drawdown_pct": -50.04,
+    "monthly_var_95_pct": -12.53,
+    "sharpe_ratio": -0.03,
+    "quant_score": 43.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 58,
+        "nisa_required_capital_yen": 319174,
+        "specific_required_shares": 73,
+        "specific_required_capital_yen": 401719
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 288,
+        "nisa_required_capital_yen": 1584864,
+        "specific_required_shares": 361,
+        "specific_required_capital_yen": 1986583
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 575,
+        "nisa_required_capital_yen": 3164225,
+        "specific_required_shares": 721,
+        "specific_required_capital_yen": 3967663
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1723,
+        "nisa_required_capital_yen": 9481669,
+        "specific_required_shares": 2162,
+        "specific_required_capital_yen": 11897486
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2871,
+        "nisa_required_capital_yen": 15799113,
+        "specific_required_shares": 3603,
+        "specific_required_capital_yen": 19827309
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120042,
+        "upper_90_yen": 167566,
+        "lower_10_yen": 86873
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 240162,
+        "upper_90_yen": 381813,
+        "lower_10_yen": 154421
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 360359,
+        "upper_90_yen": 634761,
+        "lower_10_yen": 211639
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 480634,
+        "upper_90_yen": 924322,
+        "lower_10_yen": 261661
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 600987,
+        "upper_90_yen": 1249847,
+        "lower_10_yen": 306202
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 721418,
+        "upper_90_yen": 1611333,
+        "lower_10_yen": 346357
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 841927,
+        "upper_90_yen": 2009132,
+        "lower_10_yen": 382889
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 962513,
+        "upper_90_yen": 2443821,
+        "lower_10_yen": 416361
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1083178,
+        "upper_90_yen": 2916135,
+        "lower_10_yen": 447204
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1203920,
+        "upper_90_yen": 3426924,
+        "lower_10_yen": 475759
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "マキタ(6586)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "マキタ(6586)を1株(5,503円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,503円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.43%、幾何成長率は-3.73%",
+      "新NISAで月1万円の配当金を得るには575株（約3,164,225円）が必要"
+    ],
+    "accumulation_strategy_analysis": "マキタは単元未満株（S株・かぶミニ等）を利用することで1株（約5,503円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,203,920円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり209.0円（利回り3.8%）です。月次95%VaR（最大想定損失率）は-12.53%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "マキタは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,503円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、575株（元本目安：約3,164,225円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5503.0
+  }
+}

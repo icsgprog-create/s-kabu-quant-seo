@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8706",
+    "name": "極東証券",
+    "sector": "証券、商品先物取引業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1507.0,
+    "min_s_kabu_yen": 1507,
+    "unit_lot_yen": 150700,
+    "dps_yen": 110.0,
+    "dividend_yield_pct": 7.3,
+    "raw_annual_return_pct": 20.41,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.17,
+    "annual_volatility_pct": 31.07,
+    "max_drawdown_pct": -29.75,
+    "monthly_var_95_pct": -11.17,
+    "sharpe_ratio": 0.69,
+    "quant_score": 76.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 110,
+        "nisa_required_capital_yen": 165770,
+        "specific_required_shares": 137,
+        "specific_required_capital_yen": 206459
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 822822,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 1032295
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 1644137,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 2064590
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3273,
+        "nisa_required_capital_yen": 4932411,
+        "specific_required_shares": 4108,
+        "specific_required_capital_yen": 6190756
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 8220685,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 10316922
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135817,
+        "upper_90_yen": 181364,
+        "lower_10_yen": 102447
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 305856,
+        "upper_90_yen": 460669,
+        "lower_10_yen": 206188
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 518742,
+        "upper_90_yen": 863094,
+        "lower_10_yen": 318952
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 785269,
+        "upper_90_yen": 1427990,
+        "lower_10_yen": 444821
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1118956,
+        "upper_90_yen": 2208890,
+        "lower_10_yen": 587511
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1536724,
+        "upper_90_yen": 3277196,
+        "lower_10_yen": 750979
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2059761,
+        "upper_90_yen": 4727489,
+        "lower_10_yen": 939702
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2714591,
+        "upper_90_yen": 6684618,
+        "lower_10_yen": 1158895
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3534423,
+        "upper_90_yen": 9313005,
+        "lower_10_yen": 1414710
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4560834,
+        "upper_90_yen": 12828808,
+        "lower_10_yen": 1714466
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "極東証券(8706)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "極東証券(8706)を1株(1,507円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,507円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.07%、幾何成長率は15.17%",
+      "新NISAで月1万円の配当金を得るには1,091株（約1,644,137円）が必要"
+    ],
+    "accumulation_strategy_analysis": "極東証券は単元未満株（S株・かぶミニ等）を利用することで1株（約1,507円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,560,834円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり110.0円（利回り7.3%）です。月次95%VaR（最大想定損失率）は-11.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "極東証券は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,507円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,091株（元本目安：約1,644,137円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1507.0
+  }
+}

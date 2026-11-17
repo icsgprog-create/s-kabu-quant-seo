@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7352",
+    "name": "ＴＷＯＳＴＯＮＥ＆Ｓｏｎｓ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 298.0,
+    "min_s_kabu_yen": 298,
+    "unit_lot_yen": 29800,
+    "dps_yen": 1.0,
+    "dividend_yield_pct": 0.34,
+    "raw_annual_return_pct": 6.05,
+    "capped_annual_return_pct": 6.05,
+    "geometric_growth_pct": -16.91,
+    "annual_volatility_pct": 67.77,
+    "max_drawdown_pct": -84.92,
+    "monthly_var_95_pct": -25.97,
+    "sharpe_ratio": -0.26,
+    "quant_score": 2.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 3576000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 4487880
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 17880000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 22438506
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 35760000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 44876714
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 360000,
+        "nisa_required_capital_yen": 107280000,
+        "specific_required_shares": 451779,
+        "specific_required_capital_yen": 134630142
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 600000,
+        "nisa_required_capital_yen": 178800000,
+        "specific_required_shares": 752965,
+        "specific_required_capital_yen": 224383570
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109819,
+        "upper_90_yen": 204048,
+        "lower_10_yen": 61236
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 202861,
+        "upper_90_yen": 476343,
+        "lower_10_yen": 93358
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 281689,
+        "upper_90_yen": 790196,
+        "lower_10_yen": 113279
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 348474,
+        "upper_90_yen": 1131767,
+        "lower_10_yen": 126395
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 405057,
+        "upper_90_yen": 1491186,
+        "lower_10_yen": 135334
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 452996,
+        "upper_90_yen": 1860826,
+        "lower_10_yen": 141569
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 493612,
+        "upper_90_yen": 2234619,
+        "lower_10_yen": 145992
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 528023,
+        "upper_90_yen": 2607689,
+        "lower_10_yen": 149173
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 557176,
+        "upper_90_yen": 2976125,
+        "lower_10_yen": 151484
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 581876,
+        "upper_90_yen": 3336816,
+        "lower_10_yen": 153178
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＴＷＯＳＴＯＮＥ＆Ｓｏｎｓ(7352)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＴＷＯＳＴＯＮＥ＆Ｓｏｎｓ(7352)を1株(298円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小298円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは67.77%、幾何成長率は-16.91%",
+      "新NISAで月1万円の配当金を得るには120,000株（約35,760,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＴＷＯＳＴＯＮＥ＆Ｓｏｎｓは単元未満株（S株・かぶミニ等）を利用することで1株（約298円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は581,876円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり1.0円（利回り0.34%）です。月次95%VaR（最大想定損失率）は-25.97%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＴＷＯＳＴＯＮＥ＆Ｓｏｎｓは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約298円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、120,000株（元本目安：約35,760,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 298.0
+  }
+}

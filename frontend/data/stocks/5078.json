@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5078",
+    "name": "セレコーポレーション",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4280.0,
+    "min_s_kabu_yen": 4280,
+    "unit_lot_yen": 428000,
+    "dps_yen": 135.0,
+    "dividend_yield_pct": 3.15,
+    "raw_annual_return_pct": 22.1,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.78,
+    "annual_volatility_pct": 29.04,
+    "max_drawdown_pct": -32.43,
+    "monthly_var_95_pct": -7.23,
+    "sharpe_ratio": 0.62,
+    "quant_score": 61.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 89,
+        "nisa_required_capital_yen": 380920,
+        "specific_required_shares": 112,
+        "specific_required_capital_yen": 479360
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 445,
+        "nisa_required_capital_yen": 1904600,
+        "specific_required_shares": 558,
+        "specific_required_capital_yen": 2388240
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 889,
+        "nisa_required_capital_yen": 3804920,
+        "specific_required_shares": 1116,
+        "specific_required_capital_yen": 4776480
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 11414760,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 14325160
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 19024600,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 23873840
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133160,
+        "upper_90_yen": 174318,
+        "lower_10_yen": 102367
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294080,
+        "upper_90_yen": 430097,
+        "lower_10_yen": 203799
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 488550,
+        "upper_90_yen": 782620,
+        "lower_10_yen": 311200
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 723564,
+        "upper_90_yen": 1256755,
+        "lower_10_yen": 427783
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1007574,
+        "upper_90_yen": 1885369,
+        "lower_10_yen": 556181
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1350794,
+        "upper_90_yen": 2710700,
+        "lower_10_yen": 698985
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1765570,
+        "upper_90_yen": 3786539,
+        "lower_10_yen": 858967
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2266820,
+        "upper_90_yen": 5181100,
+        "lower_10_yen": 1039200
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2872571,
+        "upper_90_yen": 6980673,
+        "lower_10_yen": 1243169
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3604610,
+        "upper_90_yen": 9294222,
+        "lower_10_yen": 1474866
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セレコーポレーション(5078)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セレコーポレーション(5078)を1株(4,280円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,280円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.04%、幾何成長率は15.78%",
+      "新NISAで月1万円の配当金を得るには889株（約3,804,920円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セレコーポレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約4,280円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,604,610円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり135.0円（利回り3.15%）です。月次95%VaR（最大想定損失率）は-7.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セレコーポレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,280円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、889株（元本目安：約3,804,920円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4280.0
+  }
+}

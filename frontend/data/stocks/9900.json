@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9900",
+    "name": "サガミホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1373.0,
+    "min_s_kabu_yen": 1373,
+    "unit_lot_yen": 137300,
+    "dps_yen": 3.0,
+    "dividend_yield_pct": 0.22,
+    "raw_annual_return_pct": 19.53,
+    "capped_annual_return_pct": 19.53,
+    "geometric_growth_pct": 17.27,
+    "annual_volatility_pct": 21.23,
+    "max_drawdown_pct": -24.21,
+    "monthly_var_95_pct": -7.77,
+    "sharpe_ratio": 0.78,
+    "quant_score": 49.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 5492000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 6892460
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 27460000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 34460927
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 54920000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 68921854
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 164760000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 206764189
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 200000,
+        "nisa_required_capital_yen": 274600000,
+        "specific_required_shares": 250989,
+        "specific_required_capital_yen": 344607897
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132093,
+        "upper_90_yen": 160701,
+        "lower_10_yen": 108947
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289436,
+        "upper_90_yen": 381415,
+        "lower_10_yen": 221227
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 476856,
+        "upper_90_yen": 670863,
+        "lower_10_yen": 342657
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 700102,
+        "upper_90_yen": 1043711,
+        "lower_10_yen": 476385
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 966023,
+        "upper_90_yen": 1518968,
+        "lower_10_yen": 625225
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1282775,
+        "upper_90_yen": 2120453,
+        "lower_10_yen": 792078
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1660075,
+        "upper_90_yen": 2877691,
+        "lower_10_yen": 980115
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2109498,
+        "upper_90_yen": 3827125,
+        "lower_10_yen": 1192897
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2644829,
+        "upper_90_yen": 5013614,
+        "lower_10_yen": 1434476
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3282491,
+        "upper_90_yen": 6492299,
+        "lower_10_yen": 1709503
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サガミホールディングス(9900)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サガミホールディングス(9900)を1株(1,373円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,373円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.23%、幾何成長率は17.27%",
+      "新NISAで月1万円の配当金を得るには40,000株（約54,920,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サガミホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,373円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,282,491円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり3.0円（利回り0.22%）です。月次95%VaR（最大想定損失率）は-7.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サガミホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,373円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、40,000株（元本目安：約54,920,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1373.0
+  }
+}

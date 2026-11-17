@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4444",
+    "name": "インフォネットグループ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 812.0,
+    "min_s_kabu_yen": 812,
+    "unit_lot_yen": 81200,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -3.34,
+    "capped_annual_return_pct": -3.34,
+    "geometric_growth_pct": -19.92,
+    "annual_volatility_pct": 57.58,
+    "max_drawdown_pct": -76.96,
+    "monthly_var_95_pct": -19.31,
+    "sharpe_ratio": -0.36,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107903,
+        "upper_90_yen": 181999,
+        "lower_10_yen": 65636
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 196319,
+        "upper_90_yen": 401861,
+        "lower_10_yen": 101457
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 268765,
+        "upper_90_yen": 635975,
+        "lower_10_yen": 123976
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 328127,
+        "upper_90_yen": 873340,
+        "lower_10_yen": 138869
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 376768,
+        "upper_90_yen": 1107189,
+        "lower_10_yen": 149012
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 416624,
+        "upper_90_yen": 1333127,
+        "lower_10_yen": 156057
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 449282,
+        "upper_90_yen": 1548308,
+        "lower_10_yen": 161022
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 476041,
+        "upper_90_yen": 1750974,
+        "lower_10_yen": 164560
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 497967,
+        "upper_90_yen": 1940144,
+        "lower_10_yen": 167105
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 515934,
+        "upper_90_yen": 2115408,
+        "lower_10_yen": 168949
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "インフォネットグループ(4444)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "インフォネットグループ(4444)を1株(812円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小812円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは57.58%、幾何成長率は-19.92%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "インフォネットグループは単元未満株（S株・かぶミニ等）を利用することで1株（約812円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は515,934円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-19.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "インフォネットグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約812円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 812.0
+  }
+}

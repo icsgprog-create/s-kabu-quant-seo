@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3193",
+    "name": "エターナルホスピタリティグループ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1389.0,
+    "min_s_kabu_yen": 1389,
+    "unit_lot_yen": 138900,
+    "dps_yen": 34.5,
+    "dividend_yield_pct": 2.48,
+    "raw_annual_return_pct": 7.91,
+    "capped_annual_return_pct": 7.91,
+    "geometric_growth_pct": 1.57,
+    "annual_volatility_pct": 35.6,
+    "max_drawdown_pct": -49.57,
+    "monthly_var_95_pct": -14.48,
+    "sharpe_ratio": 0.09,
+    "quant_score": 36.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 348,
+        "nisa_required_capital_yen": 483372,
+        "specific_required_shares": 437,
+        "specific_required_capital_yen": 606993
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1740,
+        "nisa_required_capital_yen": 2416860,
+        "specific_required_shares": 2183,
+        "specific_required_capital_yen": 3032187
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3479,
+        "nisa_required_capital_yen": 4832331,
+        "specific_required_shares": 4366,
+        "specific_required_capital_yen": 6064374
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10435,
+        "nisa_required_capital_yen": 14494215,
+        "specific_required_shares": 13096,
+        "specific_required_capital_yen": 18190344
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17392,
+        "nisa_required_capital_yen": 24157488,
+        "specific_required_shares": 21826,
+        "specific_required_capital_yen": 30316314
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122675,
+        "upper_90_yen": 170114,
+        "lower_10_yen": 89323
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 250429,
+        "upper_90_yen": 395125,
+        "lower_10_yen": 162064
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 383472,
+        "upper_90_yen": 670530,
+        "lower_10_yen": 226445
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 522025,
+        "upper_90_yen": 997614,
+        "lower_10_yen": 285207
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 666314,
+        "upper_90_yen": 1379271,
+        "lower_10_yen": 339809
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 816577,
+        "upper_90_yen": 1819294,
+        "lower_10_yen": 391162
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 973062,
+        "upper_90_yen": 2322141,
+        "lower_10_yen": 439892
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1136026,
+        "upper_90_yen": 2892845,
+        "lower_10_yen": 486453
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1305738,
+        "upper_90_yen": 3536985,
+        "lower_10_yen": 531190
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1482477,
+        "upper_90_yen": 4260683,
+        "lower_10_yen": 574372
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エターナルホスピタリティグループ(3193)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エターナルホスピタリティグループ(3193)を1株(1,389円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,389円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.6%、幾何成長率は1.57%",
+      "新NISAで月1万円の配当金を得るには3,479株（約4,832,331円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エターナルホスピタリティグループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,389円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,482,477円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり34.5円（利回り2.48%）です。月次95%VaR（最大想定損失率）は-14.48%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エターナルホスピタリティグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,389円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,479株（元本目安：約4,832,331円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1389.0
+  }
+}

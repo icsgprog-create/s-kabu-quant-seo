@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "546A",
+    "name": "ＭＩＲＡＩＮＩホールディングス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2099.0,
+    "min_s_kabu_yen": 2099,
+    "unit_lot_yen": 209900,
+    "dps_yen": 48.0,
+    "dividend_yield_pct": 2.29,
+    "raw_annual_return_pct": 28.81,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 9.44,
+    "annual_volatility_pct": 45.95,
+    "max_drawdown_pct": -23.27,
+    "monthly_var_95_pct": -15.36,
+    "sharpe_ratio": 0.23,
+    "quant_score": 29.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 250,
+        "nisa_required_capital_yen": 524750,
+        "specific_required_shares": 314,
+        "specific_required_capital_yen": 659086
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1250,
+        "nisa_required_capital_yen": 2623750,
+        "specific_required_shares": 1569,
+        "specific_required_capital_yen": 3293331
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 5247500,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 6586662
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 15742500,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 19757887
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12500,
+        "nisa_required_capital_yen": 26237500,
+        "specific_required_shares": 15687,
+        "specific_required_capital_yen": 32927013
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127945,
+        "upper_90_yen": 195976,
+        "lower_10_yen": 84876
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271815,
+        "upper_90_yen": 495282,
+        "lower_10_yen": 154358
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 433592,
+        "upper_90_yen": 909623,
+        "lower_10_yen": 217702
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 615503,
+        "upper_90_yen": 1461491,
+        "lower_10_yen": 277787
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 820057,
+        "upper_90_yen": 2180040,
+        "lower_10_yen": 336110
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1050070,
+        "upper_90_yen": 3101280,
+        "lower_10_yen": 393614
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1308711,
+        "upper_90_yen": 4269013,
+        "lower_10_yen": 450963
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1599544,
+        "upper_90_yen": 5736153,
+        "lower_10_yen": 508670
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1926576,
+        "upper_90_yen": 7566357,
+        "lower_10_yen": 567155
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2294311,
+        "upper_90_yen": 9836011,
+        "lower_10_yen": 626781
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＭＩＲＡＩＮＩホールディングス(546A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＭＩＲＡＩＮＩホールディングス(546A)を1株(2,099円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,099円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.95%、幾何成長率は9.44%",
+      "新NISAで月1万円の配当金を得るには2,500株（約5,247,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＭＩＲＡＩＮＩホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,099円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,294,311円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり48.0円（利回り2.29%）です。月次95%VaR（最大想定損失率）は-15.36%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＭＩＲＡＩＮＩホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,099円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,500株（元本目安：約5,247,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2099.0
+  }
+}

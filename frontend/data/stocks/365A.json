@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "365A",
+    "name": "伊澤タオル",
+    "sector": "繊維製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 715.0,
+    "min_s_kabu_yen": 715,
+    "unit_lot_yen": 71500,
+    "dps_yen": 61.0,
+    "dividend_yield_pct": 8.53,
+    "raw_annual_return_pct": -4.19,
+    "capped_annual_return_pct": -4.19,
+    "geometric_growth_pct": -8.08,
+    "annual_volatility_pct": 27.91,
+    "max_drawdown_pct": -31.55,
+    "monthly_var_95_pct": -11.05,
+    "sharpe_ratio": -0.02,
+    "quant_score": 61.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 197,
+        "nisa_required_capital_yen": 140855,
+        "specific_required_shares": 247,
+        "specific_required_capital_yen": 176605
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 984,
+        "nisa_required_capital_yen": 703560,
+        "specific_required_shares": 1235,
+        "specific_required_capital_yen": 883025
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1968,
+        "nisa_required_capital_yen": 1407120,
+        "specific_required_shares": 2469,
+        "specific_required_capital_yen": 1765335
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5902,
+        "nisa_required_capital_yen": 4219930,
+        "specific_required_shares": 7407,
+        "specific_required_capital_yen": 5296005
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9837,
+        "nisa_required_capital_yen": 7033455,
+        "specific_required_shares": 12344,
+        "specific_required_capital_yen": 8825960
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120291,
+        "upper_90_yen": 155194,
+        "lower_10_yen": 93795
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 241122,
+        "upper_90_yen": 343399,
+        "lower_10_yen": 171507
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 362496,
+        "upper_90_yen": 558014,
+        "lower_10_yen": 240220
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 484413,
+        "upper_90_yen": 797008,
+        "lower_10_yen": 302460
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 606878,
+        "upper_90_yen": 1059481,
+        "lower_10_yen": 359633
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 729892,
+        "upper_90_yen": 1345034,
+        "lower_10_yen": 412652
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 853458,
+        "upper_90_yen": 1653546,
+        "lower_10_yen": 462163
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 977578,
+        "upper_90_yen": 1985070,
+        "lower_10_yen": 508649
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1102255,
+        "upper_90_yen": 2339777,
+        "lower_10_yen": 552486
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1227491,
+        "upper_90_yen": 2717923,
+        "lower_10_yen": 593974
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "伊澤タオル(365A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "伊澤タオル(365A)を1株(715円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小715円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.91%、幾何成長率は-8.08%",
+      "新NISAで月1万円の配当金を得るには1,968株（約1,407,120円）が必要"
+    ],
+    "accumulation_strategy_analysis": "伊澤タオルは単元未満株（S株・かぶミニ等）を利用することで1株（約715円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,227,491円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり61.0円（利回り8.53%）です。月次95%VaR（最大想定損失率）は-11.05%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "伊澤タオルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約715円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,968株（元本目安：約1,407,120円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 715.0
+  }
+}

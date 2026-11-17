@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6626",
+    "name": "ＳＥＭＩＴＥＣ",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2225.0,
+    "min_s_kabu_yen": 2225,
+    "unit_lot_yen": 222500,
+    "dps_yen": 47.0,
+    "dividend_yield_pct": 2.11,
+    "raw_annual_return_pct": -2.39,
+    "capped_annual_return_pct": -2.39,
+    "geometric_growth_pct": -10.89,
+    "annual_volatility_pct": 41.23,
+    "max_drawdown_pct": -60.88,
+    "monthly_var_95_pct": -17.96,
+    "sharpe_ratio": -0.24,
+    "quant_score": 20.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 256,
+        "nisa_required_capital_yen": 569600,
+        "specific_required_shares": 321,
+        "specific_required_capital_yen": 714225
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1277,
+        "nisa_required_capital_yen": 2841325,
+        "specific_required_shares": 1603,
+        "specific_required_capital_yen": 3566675
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2554,
+        "nisa_required_capital_yen": 5682650,
+        "specific_required_shares": 3205,
+        "specific_required_capital_yen": 7131125
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7660,
+        "nisa_required_capital_yen": 17043500,
+        "specific_required_shares": 9613,
+        "specific_required_capital_yen": 21388925
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12766,
+        "nisa_required_capital_yen": 28404350,
+        "specific_required_shares": 16021,
+        "specific_required_capital_yen": 35646725
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114466,
+        "upper_90_yen": 166605,
+        "lower_10_yen": 79679
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 219317,
+        "upper_90_yen": 368145,
+        "lower_10_yen": 134436
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 315359,
+        "upper_90_yen": 590814,
+        "lower_10_yen": 175956
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 403332,
+        "upper_90_yen": 828352,
+        "lower_10_yen": 208591
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 483916,
+        "upper_90_yen": 1076601,
+        "lower_10_yen": 234782
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 557730,
+        "upper_90_yen": 1332453,
+        "lower_10_yen": 256100
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 625342,
+        "upper_90_yen": 1593447,
+        "lower_10_yen": 273631
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 687275,
+        "upper_90_yen": 1857572,
+        "lower_10_yen": 288164
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 744005,
+        "upper_90_yen": 2123153,
+        "lower_10_yen": 300290
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 795970,
+        "upper_90_yen": 2388781,
+        "lower_10_yen": 310462
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＳＥＭＩＴＥＣ(6626)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＳＥＭＩＴＥＣ(6626)を1株(2,225円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,225円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.23%、幾何成長率は-10.89%",
+      "新NISAで月1万円の配当金を得るには2,554株（約5,682,650円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＳＥＭＩＴＥＣは単元未満株（S株・かぶミニ等）を利用することで1株（約2,225円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は795,970円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり47.0円（利回り2.11%）です。月次95%VaR（最大想定損失率）は-17.96%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＳＥＭＩＴＥＣは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,225円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,554株（元本目安：約5,682,650円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2225.0
+  }
+}

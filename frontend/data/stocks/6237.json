@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6237",
+    "name": "イワキポンプ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3775.0,
+    "min_s_kabu_yen": 3775,
+    "unit_lot_yen": 377500,
+    "dps_yen": 87.0,
+    "dividend_yield_pct": 2.3,
+    "raw_annual_return_pct": 28.57,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.86,
+    "annual_volatility_pct": 40.35,
+    "max_drawdown_pct": -49.53,
+    "monthly_var_95_pct": -12.45,
+    "sharpe_ratio": 0.33,
+    "quant_score": 36.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 138,
+        "nisa_required_capital_yen": 520950,
+        "specific_required_shares": 174,
+        "specific_required_capital_yen": 656850
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 690,
+        "nisa_required_capital_yen": 2604750,
+        "specific_required_shares": 866,
+        "specific_required_capital_yen": 3269150
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1380,
+        "nisa_required_capital_yen": 5209500,
+        "specific_required_shares": 1731,
+        "specific_required_capital_yen": 6534525
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 15620950,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 19603575
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6897,
+        "nisa_required_capital_yen": 26036175,
+        "specific_required_shares": 8655,
+        "specific_required_capital_yen": 32672625
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129677,
+        "upper_90_yen": 188557,
+        "lower_10_yen": 90287
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 279088,
+        "upper_90_yen": 472888,
+        "lower_10_yen": 169085
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 451234,
+        "upper_90_yen": 866108,
+        "lower_10_yen": 244613
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 649576,
+        "upper_90_yen": 1391786,
+        "lower_10_yen": 319566
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 878100,
+        "upper_90_yen": 2080672,
+        "lower_10_yen": 395467
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1141400,
+        "upper_90_yen": 2971283,
+        "lower_10_yen": 473386
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1444765,
+        "upper_90_yen": 4111237,
+        "lower_10_yen": 554187
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1794295,
+        "upper_90_yen": 5559045,
+        "lower_10_yen": 638632
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2197013,
+        "upper_90_yen": 7386362,
+        "lower_10_yen": 727443
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2661013,
+        "upper_90_yen": 9680723,
+        "lower_10_yen": 821335
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "イワキポンプ(6237)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "イワキポンプ(6237)を1株(3,775円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,775円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは40.35%、幾何成長率は11.86%",
+      "新NISAで月1万円の配当金を得るには1,380株（約5,209,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "イワキポンプは単元未満株（S株・かぶミニ等）を利用することで1株（約3,775円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,661,013円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり87.0円（利回り2.3%）です。月次95%VaR（最大想定損失率）は-12.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "イワキポンプは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,775円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,380株（元本目安：約5,209,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3775.0
+  }
+}

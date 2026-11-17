@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7670",
+    "name": "オーウエル",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1294.0,
+    "min_s_kabu_yen": 1294,
+    "unit_lot_yen": 129400,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 3.86,
+    "raw_annual_return_pct": 20.77,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.29,
+    "annual_volatility_pct": 30.69,
+    "max_drawdown_pct": -41.67,
+    "monthly_var_95_pct": -10.02,
+    "sharpe_ratio": 0.59,
+    "quant_score": 65.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 310560,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 390788
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1552800,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1948764
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 3105600,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 3897528
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 9316800,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 11692584
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 15528000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 19487640
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133322,
+        "upper_90_yen": 177256,
+        "lower_10_yen": 100989
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294790,
+        "upper_90_yen": 440758,
+        "lower_10_yen": 200142
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 490349,
+        "upper_90_yen": 807428,
+        "lower_10_yen": 304572
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 727193,
+        "upper_90_yen": 1304667,
+        "lower_10_yen": 417488
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1014041,
+        "upper_90_yen": 1968826,
+        "lower_10_yen": 541464
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1361449,
+        "upper_90_yen": 2846842,
+        "lower_10_yen": 679003
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1782203,
+        "upper_90_yen": 3998785,
+        "lower_10_yen": 832761
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2291786,
+        "upper_90_yen": 5501211,
+        "lower_10_yen": 1005671
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2908954,
+        "upper_90_yen": 7451445,
+        "lower_10_yen": 1201052
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3656419,
+        "upper_90_yen": 9972981,
+        "lower_10_yen": 1422700
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オーウエル(7670)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オーウエル(7670)を1株(1,294円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,294円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.69%、幾何成長率は15.29%",
+      "新NISAで月1万円の配当金を得るには2,400株（約3,105,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オーウエルは単元未満株（S株・かぶミニ等）を利用することで1株（約1,294円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,656,419円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り3.86%）です。月次95%VaR（最大想定損失率）は-10.02%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オーウエルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,294円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約3,105,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1294.0
+  }
+}

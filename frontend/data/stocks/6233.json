@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6233",
+    "name": "ＫＬＡＳＳ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 371.0,
+    "min_s_kabu_yen": 371,
+    "unit_lot_yen": 37100,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 2.7,
+    "raw_annual_return_pct": -6.29,
+    "capped_annual_return_pct": -6.29,
+    "geometric_growth_pct": -11.2,
+    "annual_volatility_pct": 31.33,
+    "max_drawdown_pct": -49.94,
+    "monthly_var_95_pct": -9.62,
+    "sharpe_ratio": -0.3,
+    "quant_score": 35.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 445200,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 558726
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 2226000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 2793630
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 4452000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 5587260
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 13356000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 16761038
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 22260000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 27935187
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114633,
+        "upper_90_yen": 152306,
+        "lower_10_yen": 86932
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 219921,
+        "upper_90_yen": 325253,
+        "lower_10_yen": 151172
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 316627,
+        "upper_90_yen": 508447,
+        "lower_10_yen": 202289
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 405449,
+        "upper_90_yen": 697376,
+        "lower_10_yen": 244087
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 487032,
+        "upper_90_yen": 889200,
+        "lower_10_yen": 278810
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 561964,
+        "upper_90_yen": 1081909,
+        "lower_10_yen": 307964
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 630787,
+        "upper_90_yen": 1273999,
+        "lower_10_yen": 332635
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 694001,
+        "upper_90_yen": 1464316,
+        "lower_10_yen": 353641
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 752062,
+        "upper_90_yen": 1651957,
+        "lower_10_yen": 371613
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 805390,
+        "upper_90_yen": 1836213,
+        "lower_10_yen": 387053
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＫＬＡＳＳ(6233)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＫＬＡＳＳ(6233)を1株(371円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小371円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.33%、幾何成長率は-11.2%",
+      "新NISAで月1万円の配当金を得るには12,000株（約4,452,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＫＬＡＳＳは単元未満株（S株・かぶミニ等）を利用することで1株（約371円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は805,390円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り2.7%）です。月次95%VaR（最大想定損失率）は-9.62%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＫＬＡＳＳは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約371円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約4,452,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 371.0
+  }
+}

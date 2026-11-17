@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9322",
+    "name": "川西倉庫",
+    "sector": "倉庫・運輸関連業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2311.0,
+    "min_s_kabu_yen": 2311,
+    "unit_lot_yen": 231100,
+    "dps_yen": 181.0,
+    "dividend_yield_pct": 7.83,
+    "raw_annual_return_pct": 15.93,
+    "capped_annual_return_pct": 15.93,
+    "geometric_growth_pct": 13.13,
+    "annual_volatility_pct": 23.68,
+    "max_drawdown_pct": -24.03,
+    "monthly_var_95_pct": -8.18,
+    "sharpe_ratio": 0.84,
+    "quant_score": 87.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 67,
+        "nisa_required_capital_yen": 154837,
+        "specific_required_shares": 84,
+        "specific_required_capital_yen": 194124
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 332,
+        "nisa_required_capital_yen": 767252,
+        "specific_required_shares": 417,
+        "specific_required_capital_yen": 963687
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 663,
+        "nisa_required_capital_yen": 1532193,
+        "specific_required_shares": 833,
+        "specific_required_capital_yen": 1925063
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1989,
+        "nisa_required_capital_yen": 4596579,
+        "specific_required_shares": 2497,
+        "specific_required_capital_yen": 5770567
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3315,
+        "nisa_required_capital_yen": 7660965,
+        "specific_required_shares": 4161,
+        "specific_required_capital_yen": 9616071
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134670,
+        "upper_90_yen": 167723,
+        "lower_10_yen": 108588
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 300740,
+        "upper_90_yen": 410046,
+        "lower_10_yen": 222542
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 505531,
+        "upper_90_yen": 742671,
+        "lower_10_yen": 348722
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 758071,
+        "upper_90_yen": 1190244,
+        "lower_10_yen": 491292
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1069492,
+        "upper_90_yen": 1785480,
+        "lower_10_yen": 654293
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1453524,
+        "upper_90_yen": 2570824,
+        "lower_10_yen": 842148
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1927096,
+        "upper_90_yen": 3600933,
+        "lower_10_yen": 1059927
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2511086,
+        "upper_90_yen": 4945946,
+        "lower_10_yen": 1313553
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3231238,
+        "upper_90_yen": 6695684,
+        "lower_10_yen": 1610017
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4119300,
+        "upper_90_yen": 8965008,
+        "lower_10_yen": 1957614
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "川西倉庫(9322)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "川西倉庫(9322)を1株(2,311円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,311円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.68%、幾何成長率は13.13%",
+      "新NISAで月1万円の配当金を得るには663株（約1,532,193円）が必要"
+    ],
+    "accumulation_strategy_analysis": "川西倉庫は単元未満株（S株・かぶミニ等）を利用することで1株（約2,311円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,119,300円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり181.0円（利回り7.83%）です。月次95%VaR（最大想定損失率）は-8.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "川西倉庫は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,311円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、663株（元本目安：約1,532,193円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2311.0
+  }
+}

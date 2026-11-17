@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6627",
+    "name": "テラプローブ",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1316.0,
+    "min_s_kabu_yen": 1316,
+    "unit_lot_yen": 131600,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 1.67,
+    "raw_annual_return_pct": 22.62,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": -0.36,
+    "annual_volatility_pct": 63.81,
+    "max_drawdown_pct": -74.01,
+    "monthly_var_95_pct": -24.39,
+    "sharpe_ratio": 0.0,
+    "quant_score": 18.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 718536,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 901460
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 3590048,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 4504668
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 7178780,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 9009336
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 21535024,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 27025376
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 35891268,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 45041416
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120856,
+        "upper_90_yen": 218290,
+        "lower_10_yen": 69022
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 243306,
+        "upper_90_yen": 556452,
+        "lower_10_yen": 113768
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 367371,
+        "upper_90_yen": 1013833,
+        "lower_10_yen": 147606
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 493073,
+        "upper_90_yen": 1600170,
+        "lower_10_yen": 174660
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 620434,
+        "upper_90_yen": 2328479,
+        "lower_10_yen": 197000
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 749474,
+        "upper_90_yen": 3213930,
+        "lower_10_yen": 215853
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 880217,
+        "upper_90_yen": 4273524,
+        "lower_10_yen": 232019
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1012685,
+        "upper_90_yen": 5526006,
+        "lower_10_yen": 246055
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1146900,
+        "upper_90_yen": 6991877,
+        "lower_10_yen": 258364
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1282885,
+        "upper_90_yen": 8693450,
+        "lower_10_yen": 269247
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "テラプローブ(6627)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "テラプローブ(6627)を1株(1,316円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,316円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは63.81%、幾何成長率は-0.36%",
+      "新NISAで月1万円の配当金を得るには5,455株（約7,178,780円）が必要"
+    ],
+    "accumulation_strategy_analysis": "テラプローブは単元未満株（S株・かぶミニ等）を利用することで1株（約1,316円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,282,885円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り1.67%）です。月次95%VaR（最大想定損失率）は-24.39%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "テラプローブは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,316円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約7,178,780円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1316.0
+  }
+}

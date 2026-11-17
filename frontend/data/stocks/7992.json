@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7992",
+    "name": "セーラー万年筆",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 92.0,
+    "min_s_kabu_yen": 92,
+    "unit_lot_yen": 9200,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -14.24,
+    "capped_annual_return_pct": -14.24,
+    "geometric_growth_pct": -19.16,
+    "annual_volatility_pct": 31.37,
+    "max_drawdown_pct": -56.72,
+    "monthly_var_95_pct": -9.02,
+    "sharpe_ratio": -0.64,
+    "quant_score": 13.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108332,
+        "upper_90_yen": 143609,
+        "lower_10_yen": 82346
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 197771,
+        "upper_90_yen": 290399,
+        "lower_10_yen": 136962
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 271612,
+        "upper_90_yen": 430231,
+        "lower_10_yen": 176007
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 332575,
+        "upper_90_yen": 559898,
+        "lower_10_yen": 204696
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 382906,
+        "upper_90_yen": 678264,
+        "lower_10_yen": 226113
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 424459,
+        "upper_90_yen": 785171,
+        "lower_10_yen": 242274
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 458766,
+        "upper_90_yen": 880974,
+        "lower_10_yen": 254565
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 487089,
+        "upper_90_yen": 966305,
+        "lower_10_yen": 263970
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 510473,
+        "upper_90_yen": 1041937,
+        "lower_10_yen": 271203
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 529778,
+        "upper_90_yen": 1108702,
+        "lower_10_yen": 276787
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セーラー万年筆(7992)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セーラー万年筆(7992)を1株(92円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小92円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.37%、幾何成長率は-19.16%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セーラー万年筆は単元未満株（S株・かぶミニ等）を利用することで1株（約92円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は529,778円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-9.02%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セーラー万年筆は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約92円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 92.0
+  }
+}

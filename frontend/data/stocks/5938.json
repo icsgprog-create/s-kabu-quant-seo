@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5938",
+    "name": "ＬＩＸＩＬ",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1674.0,
+    "min_s_kabu_yen": 1674,
+    "unit_lot_yen": 167400,
+    "dps_yen": 90.0,
+    "dividend_yield_pct": 5.38,
+    "raw_annual_return_pct": -7.17,
+    "capped_annual_return_pct": -7.17,
+    "geometric_growth_pct": -10.17,
+    "annual_volatility_pct": 24.49,
+    "max_drawdown_pct": -44.58,
+    "monthly_var_95_pct": -10.8,
+    "sharpe_ratio": -0.24,
+    "quant_score": 60.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 134,
+        "nisa_required_capital_yen": 224316,
+        "specific_required_shares": 168,
+        "specific_required_capital_yen": 281232
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1116558,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 1401138
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 2233116,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 2802276
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 6696000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 8403480
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 11160558,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 14006358
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116935,
+        "upper_90_yen": 146024,
+        "lower_10_yen": 94072
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 228395,
+        "upper_90_yen": 310331,
+        "lower_10_yen": 169786
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 334638,
+        "upper_90_yen": 485406,
+        "lower_10_yen": 234310
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 435907,
+        "upper_90_yen": 668098,
+        "lower_10_yen": 290478
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 532436,
+        "upper_90_yen": 856426,
+        "lower_10_yen": 339976
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 624445,
+        "upper_90_yen": 1048960,
+        "lower_10_yen": 383962
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 712147,
+        "upper_90_yen": 1244598,
+        "lower_10_yen": 423290
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 795744,
+        "upper_90_yen": 1442450,
+        "lower_10_yen": 458621
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 875427,
+        "upper_90_yen": 1641779,
+        "lower_10_yen": 490483
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 951380,
+        "upper_90_yen": 1841961,
+        "lower_10_yen": 519307
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＬＩＸＩＬ(5938)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＬＩＸＩＬ(5938)を1株(1,674円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,674円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.49%、幾何成長率は-10.17%",
+      "新NISAで月1万円の配当金を得るには1,334株（約2,233,116円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＬＩＸＩＬは単元未満株（S株・かぶミニ等）を利用することで1株（約1,674円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は951,380円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり90.0円（利回り5.38%）です。月次95%VaR（最大想定損失率）は-10.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＬＩＸＩＬは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,674円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,334株（元本目安：約2,233,116円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1674.0
+  }
+}

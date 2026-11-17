@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3267",
+    "name": "フィル・カンパニー",
+    "sector": "建設業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 573.0,
+    "min_s_kabu_yen": 573,
+    "unit_lot_yen": 57300,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 3.49,
+    "raw_annual_return_pct": -30.2,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -29.34,
+    "annual_volatility_pct": 53.55,
+    "max_drawdown_pct": -81.98,
+    "monthly_var_95_pct": -24.13,
+    "sharpe_ratio": -0.5,
+    "quant_score": 27.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 343800,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 431469
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 1719000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 2157345
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3438000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 4314690
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 10314000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 12943497
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 17190000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 21572877
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 104610,
+        "upper_90_yen": 169553,
+        "lower_10_yen": 65995
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 185391,
+        "upper_90_yen": 357728,
+        "lower_10_yen": 100897
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 247771,
+        "upper_90_yen": 543210,
+        "lower_10_yen": 121958
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 295942,
+        "upper_90_yen": 717855,
+        "lower_10_yen": 135281
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 333141,
+        "upper_90_yen": 877951,
+        "lower_10_yen": 143943
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 361866,
+        "upper_90_yen": 1022066,
+        "lower_10_yen": 149678
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 384047,
+        "upper_90_yen": 1150073,
+        "lower_10_yen": 153528
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 401177,
+        "upper_90_yen": 1262597,
+        "lower_10_yen": 156139
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 414404,
+        "upper_90_yen": 1360688,
+        "lower_10_yen": 157924
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 424618,
+        "upper_90_yen": 1445605,
+        "lower_10_yen": 159154
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フィル・カンパニー(3267)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フィル・カンパニー(3267)を1株(573円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小573円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.55%、幾何成長率は-29.34%",
+      "新NISAで月1万円の配当金を得るには6,000株（約3,438,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フィル・カンパニーは単元未満株（S株・かぶミニ等）を利用することで1株（約573円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は424,618円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り3.49%）です。月次95%VaR（最大想定損失率）は-24.13%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フィル・カンパニーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約573円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約3,438,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 573.0
+  }
+}

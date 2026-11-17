@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7713",
+    "name": "シグマ光機",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2526.0,
+    "min_s_kabu_yen": 2526,
+    "unit_lot_yen": 252600,
+    "dps_yen": 42.0,
+    "dividend_yield_pct": 1.66,
+    "raw_annual_return_pct": 8.95,
+    "capped_annual_return_pct": 8.95,
+    "geometric_growth_pct": 2.9,
+    "annual_volatility_pct": 34.8,
+    "max_drawdown_pct": -36.34,
+    "monthly_var_95_pct": -10.31,
+    "sharpe_ratio": 0.1,
+    "quant_score": 31.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 286,
+        "nisa_required_capital_yen": 722436,
+        "specific_required_shares": 359,
+        "specific_required_capital_yen": 906834
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1429,
+        "nisa_required_capital_yen": 3609654,
+        "specific_required_shares": 1793,
+        "specific_required_capital_yen": 4529118
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 7219308,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 9058236
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 21652872,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 27172182
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 14286,
+        "nisa_required_capital_yen": 36086436,
+        "specific_required_shares": 17928,
+        "specific_required_capital_yen": 45286128
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123013,
+        "upper_90_yen": 169329,
+        "lower_10_yen": 90193
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251768,
+        "upper_90_yen": 393221,
+        "lower_10_yen": 164438
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 386533,
+        "upper_90_yen": 667637,
+        "lower_10_yen": 230729
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 527588,
+        "upper_90_yen": 994220,
+        "lower_10_yen": 291723
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 675227,
+        "upper_90_yen": 1376235,
+        "lower_10_yen": 348834
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 829758,
+        "upper_90_yen": 1817879,
+        "lower_10_yen": 402944
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 991502,
+        "upper_90_yen": 2324066,
+        "lower_10_yen": 454660
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1160796,
+        "upper_90_yen": 2900345,
+        "lower_10_yen": 504420
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1337992,
+        "upper_90_yen": 3552878,
+        "lower_10_yen": 552561
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1523459,
+        "upper_90_yen": 4288449,
+        "lower_10_yen": 599345
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シグマ光機(7713)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シグマ光機(7713)を1株(2,526円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,526円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.8%、幾何成長率は2.9%",
+      "新NISAで月1万円の配当金を得るには2,858株（約7,219,308円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シグマ光機は単元未満株（S株・かぶミニ等）を利用することで1株（約2,526円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,523,459円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり42.0円（利回り1.66%）です。月次95%VaR（最大想定損失率）は-10.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シグマ光機は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,526円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,858株（元本目安：約7,219,308円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2526.0
+  }
+}

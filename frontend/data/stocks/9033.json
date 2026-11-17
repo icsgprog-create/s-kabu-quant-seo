@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9033",
+    "name": "広島電鉄",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 619.0,
+    "min_s_kabu_yen": 619,
+    "unit_lot_yen": 61900,
+    "dps_yen": 8.0,
+    "dividend_yield_pct": 1.29,
+    "raw_annual_return_pct": -4.6,
+    "capped_annual_return_pct": -4.6,
+    "geometric_growth_pct": -5.18,
+    "annual_volatility_pct": 10.8,
+    "max_drawdown_pct": -32.54,
+    "monthly_var_95_pct": -4.56,
+    "sharpe_ratio": -0.45,
+    "quant_score": 40.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 928500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 1165577
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 4642500,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 5826647
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 9285000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 11652675
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 45000,
+        "nisa_required_capital_yen": 27855000,
+        "specific_required_shares": 56473,
+        "specific_required_capital_yen": 34956787
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 75000,
+        "nisa_required_capital_yen": 46425000,
+        "specific_required_shares": 94121,
+        "specific_required_capital_yen": 58260899
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117507,
+        "upper_90_yen": 129542,
+        "lower_10_yen": 106685
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 230533,
+        "upper_90_yen": 263653,
+        "lower_10_yen": 201967
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 339250,
+        "upper_90_yen": 399157,
+        "lower_10_yen": 289205
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 443821,
+        "upper_90_yen": 534807,
+        "lower_10_yen": 369827
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 544405,
+        "upper_90_yen": 669874,
+        "lower_10_yen": 444739
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 641154,
+        "upper_90_yen": 803867,
+        "lower_10_yen": 514601
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 734214,
+        "upper_90_yen": 936439,
+        "lower_10_yen": 579929
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 823725,
+        "upper_90_yen": 1067329,
+        "lower_10_yen": 641146
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 909824,
+        "upper_90_yen": 1196343,
+        "lower_10_yen": 698607
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 992639,
+        "upper_90_yen": 1323329,
+        "lower_10_yen": 752618
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "広島電鉄(9033)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "広島電鉄(9033)を1株(619円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小619円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは10.8%、幾何成長率は-5.18%",
+      "新NISAで月1万円の配当金を得るには15,000株（約9,285,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "広島電鉄は単元未満株（S株・かぶミニ等）を利用することで1株（約619円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は992,639円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり8.0円（利回り1.29%）です。月次95%VaR（最大想定損失率）は-4.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "広島電鉄は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約619円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、15,000株（元本目安：約9,285,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 619.0
+  }
+}

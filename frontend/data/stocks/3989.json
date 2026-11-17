@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3989",
+    "name": "シェアリングテクノロジー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1548.0,
+    "min_s_kabu_yen": 1548,
+    "unit_lot_yen": 154800,
+    "dps_yen": 27.5,
+    "dividend_yield_pct": 1.78,
+    "raw_annual_return_pct": 47.42,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 0.26,
+    "annual_volatility_pct": 62.83,
+    "max_drawdown_pct": -46.84,
+    "monthly_var_95_pct": -19.51,
+    "sharpe_ratio": 0.02,
+    "quant_score": 19.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 437,
+        "nisa_required_capital_yen": 676476,
+        "specific_required_shares": 548,
+        "specific_required_capital_yen": 848304
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 3377736,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 4239972
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4364,
+        "nisa_required_capital_yen": 6755472,
+        "specific_required_shares": 5477,
+        "specific_required_capital_yen": 8478396
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13091,
+        "nisa_required_capital_yen": 20264868,
+        "specific_required_shares": 16429,
+        "specific_required_capital_yen": 25432092
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21819,
+        "nisa_required_capital_yen": 33775812,
+        "specific_required_shares": 27381,
+        "specific_required_capital_yen": 42385788
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121335,
+        "upper_90_yen": 217192,
+        "lower_10_yen": 69854
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 245168,
+        "upper_90_yen": 553900,
+        "lower_10_yen": 115802
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 371553,
+        "upper_90_yen": 1010595,
+        "lower_10_yen": 150963
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 500540,
+        "upper_90_yen": 1598188,
+        "lower_10_yen": 179386
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 632185,
+        "upper_90_yen": 2331078,
+        "lower_10_yen": 203103
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 766541,
+        "upper_90_yen": 3226084,
+        "lower_10_yen": 223321
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 903664,
+        "upper_90_yen": 4302168,
+        "lower_10_yen": 240830
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1043611,
+        "upper_90_yen": 5580388,
+        "lower_10_yen": 256179
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1186442,
+        "upper_90_yen": 7083963,
+        "lower_10_yen": 269769
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1332214,
+        "upper_90_yen": 8838367,
+        "lower_10_yen": 281898
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シェアリングテクノロジー(3989)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シェアリングテクノロジー(3989)を1株(1,548円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,548円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは62.83%、幾何成長率は0.26%",
+      "新NISAで月1万円の配当金を得るには4,364株（約6,755,472円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シェアリングテクノロジーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,548円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,332,214円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり27.5円（利回り1.78%）です。月次95%VaR（最大想定損失率）は-19.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シェアリングテクノロジーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,548円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,364株（元本目安：約6,755,472円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1548.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4642",
+    "name": "オリジナル設計",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1341.0,
+    "min_s_kabu_yen": 1341,
+    "unit_lot_yen": 134100,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 2.61,
+    "raw_annual_return_pct": 6.04,
+    "capped_annual_return_pct": 6.04,
+    "geometric_growth_pct": 1.6,
+    "annual_volatility_pct": 29.8,
+    "max_drawdown_pct": -43.14,
+    "monthly_var_95_pct": -12.17,
+    "sharpe_ratio": 0.11,
+    "quant_score": 43.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 459963,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 577971
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 2299815,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 2885832
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 4598289,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 5770323
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 13793526,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 17309628
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 22988763,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 28850274
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122779,
+        "upper_90_yen": 161330,
+        "lower_10_yen": 94074
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 250839,
+        "upper_90_yen": 366978,
+        "lower_10_yen": 173979
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 384410,
+        "upper_90_yen": 612546,
+        "lower_10_yen": 246718
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 523727,
+        "upper_90_yen": 898469,
+        "lower_10_yen": 314658
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 669038,
+        "upper_90_yen": 1226488,
+        "lower_10_yen": 379073
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 820600,
+        "upper_90_yen": 1599037,
+        "lower_10_yen": 440766
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 978683,
+        "upper_90_yen": 2019036,
+        "lower_10_yen": 500295
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1143568,
+        "upper_90_yen": 2489813,
+        "lower_10_yen": 558067
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1315546,
+        "upper_90_yen": 3015065,
+        "lower_10_yen": 614396
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1494924,
+        "upper_90_yen": 3598848,
+        "lower_10_yen": 669530
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オリジナル設計(4642)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オリジナル設計(4642)を1株(1,341円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,341円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.8%、幾何成長率は1.6%",
+      "新NISAで月1万円の配当金を得るには3,429株（約4,598,289円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オリジナル設計は単元未満株（S株・かぶミニ等）を利用することで1株（約1,341円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,494,924円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り2.61%）です。月次95%VaR（最大想定損失率）は-12.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オリジナル設計は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,341円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約4,598,289円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1341.0
+  }
+}

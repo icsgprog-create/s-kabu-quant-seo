@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6022",
+    "name": "赤阪鐵工所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2308.0,
+    "min_s_kabu_yen": 2308,
+    "unit_lot_yen": 230800,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 1.3,
+    "raw_annual_return_pct": 8.8,
+    "capped_annual_return_pct": 8.8,
+    "geometric_growth_pct": -4.35,
+    "annual_volatility_pct": 51.29,
+    "max_drawdown_pct": -62.1,
+    "monthly_var_95_pct": -16.45,
+    "sharpe_ratio": -0.08,
+    "quant_score": 13.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 923200,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 1158616
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 4616000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 5793080
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 9232000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 11586160
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 27696000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 34758480
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 46160000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 57928492
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118037,
+        "upper_90_yen": 189078,
+        "lower_10_yen": 75187
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 232525,
+        "upper_90_yen": 447681,
+        "lower_10_yen": 126173
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 343571,
+        "upper_90_yen": 764227,
+        "lower_10_yen": 165266
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 451278,
+        "upper_90_yen": 1135258,
+        "lower_10_yen": 196612
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 555747,
+        "upper_90_yen": 1559223,
+        "lower_10_yen": 222405
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 657076,
+        "upper_90_yen": 2035369,
+        "lower_10_yen": 244004
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 755358,
+        "upper_90_yen": 2563344,
+        "lower_10_yen": 262324
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 850685,
+        "upper_90_yen": 3143020,
+        "lower_10_yen": 278019
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 943146,
+        "upper_90_yen": 3774397,
+        "lower_10_yen": 291573
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1032828,
+        "upper_90_yen": 4457556,
+        "lower_10_yen": 303357
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "赤阪鐵工所(6022)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "赤阪鐵工所(6022)を1株(2,308円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,308円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.29%、幾何成長率は-4.35%",
+      "新NISAで月1万円の配当金を得るには4,000株（約9,232,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "赤阪鐵工所は単元未満株（S株・かぶミニ等）を利用することで1株（約2,308円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,032,828円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り1.3%）です。月次95%VaR（最大想定損失率）は-16.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "赤阪鐵工所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,308円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約9,232,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2308.0
+  }
+}

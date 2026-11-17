@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6432",
+    "name": "竹内製作所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7240.0,
+    "min_s_kabu_yen": 7240,
+    "unit_lot_yen": 724000,
+    "dps_yen": 320.0,
+    "dividend_yield_pct": 4.42,
+    "raw_annual_return_pct": 21.26,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.65,
+    "annual_volatility_pct": 35.64,
+    "max_drawdown_pct": -46.18,
+    "monthly_var_95_pct": -13.26,
+    "sharpe_ratio": 0.48,
+    "quant_score": 61.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 38,
+        "nisa_required_capital_yen": 275120,
+        "specific_required_shares": 48,
+        "specific_required_capital_yen": 347520
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 188,
+        "nisa_required_capital_yen": 1361120,
+        "specific_required_shares": 236,
+        "specific_required_capital_yen": 1708640
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 2715000,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 3410040
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1125,
+        "nisa_required_capital_yen": 8145000,
+        "specific_required_shares": 1412,
+        "specific_required_capital_yen": 10222880
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 13575000,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 17042960
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132518,
+        "upper_90_yen": 184533,
+        "lower_10_yen": 96079
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291281,
+        "upper_90_yen": 464917,
+        "lower_10_yen": 186231
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 481487,
+        "upper_90_yen": 859593,
+        "lower_10_yen": 278053
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 709363,
+        "upper_90_yen": 1398765,
+        "lower_10_yen": 374480
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 982369,
+        "upper_90_yen": 2122493,
+        "lower_10_yen": 477562
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1309444,
+        "upper_90_yen": 3082391,
+        "lower_10_yen": 589096
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1701296,
+        "upper_90_yen": 4344339,
+        "lower_10_yen": 710851
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2170753,
+        "upper_90_yen": 5992041,
+        "lower_10_yen": 844683
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2733186,
+        "upper_90_yen": 8131544,
+        "lower_10_yen": 992610
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3407008,
+        "upper_90_yen": 10896934,
+        "lower_10_yen": 1156870
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "竹内製作所(6432)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "竹内製作所(6432)を1株(7,240円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,240円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.64%、幾何成長率は13.65%",
+      "新NISAで月1万円の配当金を得るには375株（約2,715,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "竹内製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約7,240円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,407,008円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり320.0円（利回り4.42%）です。月次95%VaR（最大想定損失率）は-13.26%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "竹内製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,240円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、375株（元本目安：約2,715,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7240.0
+  }
+}

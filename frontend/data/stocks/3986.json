@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3986",
+    "name": "ビーブレイクシステムズ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 505.0,
+    "min_s_kabu_yen": 505,
+    "unit_lot_yen": 50500,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 2.97,
+    "raw_annual_return_pct": 0.36,
+    "capped_annual_return_pct": 0.36,
+    "geometric_growth_pct": -6.49,
+    "annual_volatility_pct": 37.02,
+    "max_drawdown_pct": -50.07,
+    "monthly_var_95_pct": -11.93,
+    "sharpe_ratio": -0.12,
+    "quant_score": 33.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 404000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 507020
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 2020000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 2535100
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 4040000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 5070200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 12120000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 15210095
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 20200000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 25349990
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117741,
+        "upper_90_yen": 165077,
+        "lower_10_yen": 84864
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 231410,
+        "upper_90_yen": 369595,
+        "lower_10_yen": 148236
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 341150,
+        "upper_90_yen": 603203,
+        "lower_10_yen": 199883
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 447096,
+        "upper_90_yen": 861785,
+        "lower_10_yen": 243348
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 549379,
+        "upper_90_yen": 1142786,
+        "lower_10_yen": 280617
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 648125,
+        "upper_90_yen": 1444358,
+        "lower_10_yen": 312977
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 743458,
+        "upper_90_yen": 1765037,
+        "lower_10_yen": 341338
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 835494,
+        "upper_90_yen": 2103604,
+        "lower_10_yen": 366373
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 924349,
+        "upper_90_yen": 2459002,
+        "lower_10_yen": 388600
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1010131,
+        "upper_90_yen": 2830289,
+        "lower_10_yen": 408429
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビーブレイクシステムズ(3986)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビーブレイクシステムズ(3986)を1株(505円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小505円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.02%、幾何成長率は-6.49%",
+      "新NISAで月1万円の配当金を得るには8,000株（約4,040,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビーブレイクシステムズは単元未満株（S株・かぶミニ等）を利用することで1株（約505円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,010,131円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り2.97%）です。月次95%VaR（最大想定損失率）は-11.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビーブレイクシステムズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約505円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約4,040,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 505.0
+  }
+}

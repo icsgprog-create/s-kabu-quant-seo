@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9423",
+    "name": "フォーバル・リアルストレート",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 108.0,
+    "min_s_kabu_yen": 108,
+    "unit_lot_yen": 10800,
+    "dps_yen": 2.8,
+    "dividend_yield_pct": 2.59,
+    "raw_annual_return_pct": 3.58,
+    "capped_annual_return_pct": 3.58,
+    "geometric_growth_pct": -2.92,
+    "annual_volatility_pct": 36.07,
+    "max_drawdown_pct": -48.72,
+    "monthly_var_95_pct": -6.9,
+    "sharpe_ratio": -0.04,
+    "quant_score": 33.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 462888,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 580932
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 21429,
+        "nisa_required_capital_yen": 2314332,
+        "specific_required_shares": 26892,
+        "specific_required_capital_yen": 2904336
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 4628664,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 5808672
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 128572,
+        "nisa_required_capital_yen": 13885776,
+        "specific_required_shares": 161350,
+        "specific_required_capital_yen": 17425800
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 214286,
+        "nisa_required_capital_yen": 23142888,
+        "specific_required_shares": 268916,
+        "specific_required_capital_yen": 29042928
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119785,
+        "upper_90_yen": 166625,
+        "lower_10_yen": 86973
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239173,
+        "upper_90_yen": 378323,
+        "lower_10_yen": 154499
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 358166,
+        "upper_90_yen": 626869,
+        "lower_10_yen": 211568
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 476765,
+        "upper_90_yen": 909886,
+        "lower_10_yen": 261329
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 594972,
+        "upper_90_yen": 1226432,
+        "lower_10_yen": 305514
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 712787,
+        "upper_90_yen": 1576193,
+        "lower_10_yen": 345231
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 830213,
+        "upper_90_yen": 1959205,
+        "lower_10_yen": 381256
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 947250,
+        "upper_90_yen": 2375715,
+        "lower_10_yen": 414162
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1063899,
+        "upper_90_yen": 2826117,
+        "lower_10_yen": 444389
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1180162,
+        "upper_90_yen": 3310909,
+        "lower_10_yen": 472284
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フォーバル・リアルストレート(9423)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フォーバル・リアルストレート(9423)を1株(108円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小108円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.07%、幾何成長率は-2.92%",
+      "新NISAで月1万円の配当金を得るには42,858株（約4,628,664円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フォーバル・リアルストレートは単元未満株（S株・かぶミニ等）を利用することで1株（約108円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,180,162円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり2.8円（利回り2.59%）です。月次95%VaR（最大想定損失率）は-6.9%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フォーバル・リアルストレートは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約108円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、42,858株（元本目安：約4,628,664円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 108.0
+  }
+}

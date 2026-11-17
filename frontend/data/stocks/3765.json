@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3765",
+    "name": "ガンホー・オンライン・エンターテイメント",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2629.0,
+    "min_s_kabu_yen": 2629,
+    "unit_lot_yen": 262900,
+    "dps_yen": 90.0,
+    "dividend_yield_pct": 3.42,
+    "raw_annual_return_pct": 0.28,
+    "capped_annual_return_pct": 0.28,
+    "geometric_growth_pct": -3.83,
+    "annual_volatility_pct": 28.65,
+    "max_drawdown_pct": -34.89,
+    "monthly_var_95_pct": -11.34,
+    "sharpe_ratio": -0.05,
+    "quant_score": 47.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 134,
+        "nisa_required_capital_yen": 352286,
+        "specific_required_shares": 168,
+        "specific_required_capital_yen": 441672
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1753543,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 2200473
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 3507086,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 4400946
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 10516000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 13197580
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 17527543,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 21996843
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119737,
+        "upper_90_yen": 155508,
+        "lower_10_yen": 92775
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238988,
+        "upper_90_yen": 343432,
+        "lower_10_yen": 168588
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 357757,
+        "upper_90_yen": 556625,
+        "lower_10_yen": 234826
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 476044,
+        "upper_90_yen": 792665,
+        "lower_10_yen": 294151
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 593852,
+        "upper_90_yen": 1050300,
+        "lower_10_yen": 348054
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 711184,
+        "upper_90_yen": 1328798,
+        "lower_10_yen": 397510
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 828039,
+        "upper_90_yen": 1627708,
+        "lower_10_yen": 443214
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 944422,
+        "upper_90_yen": 1946756,
+        "lower_10_yen": 485684
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1060333,
+        "upper_90_yen": 2285780,
+        "lower_10_yen": 525326
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1175775,
+        "upper_90_yen": 2644702,
+        "lower_10_yen": 562467
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ガンホー・オンライン・エンターテイメント(3765)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ガンホー・オンライン・エンターテイメント(3765)を1株(2,629円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,629円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.65%、幾何成長率は-3.83%",
+      "新NISAで月1万円の配当金を得るには1,334株（約3,507,086円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ガンホー・オンライン・エンターテイメントは単元未満株（S株・かぶミニ等）を利用することで1株（約2,629円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,175,775円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり90.0円（利回り3.42%）です。月次95%VaR（最大想定損失率）は-11.34%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ガンホー・オンライン・エンターテイメントは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,629円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,334株（元本目安：約3,507,086円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2629.0
+  }
+}

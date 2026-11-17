@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9982",
+    "name": "タキヒヨー",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2805.0,
+    "min_s_kabu_yen": 2805,
+    "unit_lot_yen": 280500,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 1.78,
+    "raw_annual_return_pct": 11.62,
+    "capped_annual_return_pct": 11.62,
+    "geometric_growth_pct": 5.15,
+    "annual_volatility_pct": 35.99,
+    "max_drawdown_pct": -57.99,
+    "monthly_var_95_pct": -15.5,
+    "sharpe_ratio": 0.16,
+    "quant_score": 32.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 673200,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 847110
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 3366000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 4224330
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 6732000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 8448660
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 20196000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 25345980
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 33660000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 42243300
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124616,
+        "upper_90_yen": 173566,
+        "lower_10_yen": 90356
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258175,
+        "upper_90_yen": 410357,
+        "lower_10_yen": 165908
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 401321,
+        "upper_90_yen": 709121,
+        "lower_10_yen": 234612
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 554740,
+        "upper_90_yen": 1074793,
+        "lower_10_yen": 299059
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 719170,
+        "upper_90_yen": 1514444,
+        "lower_10_yen": 360616
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 895401,
+        "upper_90_yen": 2036671,
+        "lower_10_yen": 420135
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1084281,
+        "upper_90_yen": 2651467,
+        "lower_10_yen": 478202
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1286717,
+        "upper_90_yen": 3370230,
+        "lower_10_yen": 535250
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1503681,
+        "upper_90_yen": 4205855,
+        "lower_10_yen": 591613
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1736218,
+        "upper_90_yen": 5172847,
+        "lower_10_yen": 647558
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "タキヒヨー(9982)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "タキヒヨー(9982)を1株(2,805円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,805円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.99%、幾何成長率は5.15%",
+      "新NISAで月1万円の配当金を得るには2,400株（約6,732,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "タキヒヨーは単元未満株（S株・かぶミニ等）を利用することで1株（約2,805円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,736,218円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り1.78%）です。月次95%VaR（最大想定損失率）は-15.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "タキヒヨーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,805円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約6,732,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2805.0
+  }
+}

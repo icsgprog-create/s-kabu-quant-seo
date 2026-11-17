@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3991",
+    "name": "ウォンテッドリー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 774.0,
+    "min_s_kabu_yen": 774,
+    "unit_lot_yen": 77400,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 2.58,
+    "raw_annual_return_pct": -16.49,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -23.81,
+    "annual_volatility_pct": 41.98,
+    "max_drawdown_pct": -75.26,
+    "monthly_var_95_pct": -21.18,
+    "sharpe_ratio": -0.53,
+    "quant_score": 23.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 464400,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 582822
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2322000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 2914110
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 4644000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 5828220
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 13932000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 17483886
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 23220000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 29140326
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107166,
+        "upper_90_yen": 156429,
+        "lower_10_yen": 74427
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 193837,
+        "upper_90_yen": 324642,
+        "lower_10_yen": 119261
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 263933,
+        "upper_90_yen": 489374,
+        "lower_10_yen": 149158
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 320623,
+        "upper_90_yen": 645003,
+        "lower_10_yen": 169843
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 366471,
+        "upper_90_yen": 788977,
+        "lower_10_yen": 184463
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 403551,
+        "upper_90_yen": 920286,
+        "lower_10_yen": 194945
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 433539,
+        "upper_90_yen": 1038794,
+        "lower_10_yen": 202541
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 457793,
+        "upper_90_yen": 1144884,
+        "lower_10_yen": 208090
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 477408,
+        "upper_90_yen": 1239234,
+        "lower_10_yen": 212170
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 493271,
+        "upper_90_yen": 1322691,
+        "lower_10_yen": 215188
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ウォンテッドリー(3991)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ウォンテッドリー(3991)を1株(774円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小774円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.98%、幾何成長率は-23.81%",
+      "新NISAで月1万円の配当金を得るには6,000株（約4,644,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ウォンテッドリーは単元未満株（S株・かぶミニ等）を利用することで1株（約774円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は493,271円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り2.58%）です。月次95%VaR（最大想定損失率）は-21.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ウォンテッドリーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約774円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約4,644,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 774.0
+  }
+}

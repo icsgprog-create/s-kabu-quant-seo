@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9438",
+    "name": "エムティーアイ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 501.0,
+    "min_s_kabu_yen": 501,
+    "unit_lot_yen": 50100,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 3.99,
+    "raw_annual_return_pct": -2.3,
+    "capped_annual_return_pct": -2.3,
+    "geometric_growth_pct": -9.51,
+    "annual_volatility_pct": 37.97,
+    "max_drawdown_pct": -59.86,
+    "monthly_var_95_pct": -14.47,
+    "sharpe_ratio": -0.17,
+    "quant_score": 39.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 300600,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 377253
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 1503000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 1886265
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3006000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 3772530
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 9018000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 11317089
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 15030000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 18862149
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116484,
+        "upper_90_yen": 164676,
+        "lower_10_yen": 83312
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 226720,
+        "upper_90_yen": 365997,
+        "lower_10_yen": 143870
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 331044,
+        "upper_90_yen": 592411,
+        "lower_10_yen": 192032
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 429772,
+        "upper_90_yen": 838958,
+        "lower_10_yen": 231621
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 523204,
+        "upper_90_yen": 1102402,
+        "lower_10_yen": 264793
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 611624,
+        "upper_90_yen": 1380313,
+        "lower_10_yen": 292950
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 695302,
+        "upper_90_yen": 1670726,
+        "lower_10_yen": 317079
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 774492,
+        "upper_90_yen": 1971983,
+        "lower_10_yen": 337909
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 849434,
+        "upper_90_yen": 2282647,
+        "lower_10_yen": 355997
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 920357,
+        "upper_90_yen": 2601444,
+        "lower_10_yen": 371784
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エムティーアイ(9438)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エムティーアイ(9438)を1株(501円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小501円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.97%、幾何成長率は-9.51%",
+      "新NISAで月1万円の配当金を得るには6,000株（約3,006,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エムティーアイは単元未満株（S株・かぶミニ等）を利用することで1株（約501円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は920,357円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り3.99%）です。月次95%VaR（最大想定損失率）は-14.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エムティーアイは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約501円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約3,006,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 501.0
+  }
+}

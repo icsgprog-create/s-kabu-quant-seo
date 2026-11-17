@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8697",
+    "name": "日本取引所グループ",
+    "sector": "その他金融業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2166.5,
+    "min_s_kabu_yen": 2167,
+    "unit_lot_yen": 216650,
+    "dps_yen": 77.0,
+    "dividend_yield_pct": 3.55,
+    "raw_annual_return_pct": 14.48,
+    "capped_annual_return_pct": 14.48,
+    "geometric_growth_pct": 10.29,
+    "annual_volatility_pct": 28.97,
+    "max_drawdown_pct": -32.03,
+    "monthly_var_95_pct": -9.91,
+    "sharpe_ratio": 0.44,
+    "quant_score": 60.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 156,
+        "nisa_required_capital_yen": 337974,
+        "specific_required_shares": 196,
+        "specific_required_capital_yen": 424634
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 780,
+        "nisa_required_capital_yen": 1689870,
+        "specific_required_shares": 978,
+        "specific_required_capital_yen": 2118837
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1559,
+        "nisa_required_capital_yen": 3377574,
+        "specific_required_shares": 1956,
+        "specific_required_capital_yen": 4237674
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4676,
+        "nisa_required_capital_yen": 10130554,
+        "specific_required_shares": 5868,
+        "specific_required_capital_yen": 12713022
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7793,
+        "nisa_required_capital_yen": 16883534,
+        "specific_required_shares": 9779,
+        "specific_required_capital_yen": 21186204
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129445,
+        "upper_90_yen": 169149,
+        "lower_10_yen": 99691
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 278105,
+        "upper_90_yen": 405019,
+        "lower_10_yen": 193562
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 448833,
+        "upper_90_yen": 713898,
+        "lower_10_yen": 288035
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 644904,
+        "upper_90_yen": 1108617,
+        "lower_10_yen": 385509
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 870081,
+        "upper_90_yen": 1605851,
+        "lower_10_yen": 487546
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1128683,
+        "upper_90_yen": 2226150,
+        "lower_10_yen": 595413
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1425674,
+        "upper_90_yen": 2994431,
+        "lower_10_yen": 710269
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1766751,
+        "upper_90_yen": 3940698,
+        "lower_10_yen": 833255
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2158458,
+        "upper_90_yen": 5100949,
+        "lower_10_yen": 965542
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2608312,
+        "upper_90_yen": 6518277,
+        "lower_10_yen": 1108367
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本取引所グループ(8697)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本取引所グループ(8697)を1株(2,167円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,167円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.97%、幾何成長率は10.29%",
+      "新NISAで月1万円の配当金を得るには1,559株（約3,377,574円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本取引所グループは単元未満株（S株・かぶミニ等）を利用することで1株（約2,167円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,608,312円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり77.0円（利回り3.55%）です。月次95%VaR（最大想定損失率）は-9.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本取引所グループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,167円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,559株（元本目安：約3,377,574円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2166.5
+  }
+}

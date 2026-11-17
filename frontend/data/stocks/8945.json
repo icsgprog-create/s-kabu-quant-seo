@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8945",
+    "name": "サンネクスタグループ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1055.0,
+    "min_s_kabu_yen": 1055,
+    "unit_lot_yen": 105500,
+    "dps_yen": 43.0,
+    "dividend_yield_pct": 4.08,
+    "raw_annual_return_pct": 5.18,
+    "capped_annual_return_pct": 5.18,
+    "geometric_growth_pct": 3.18,
+    "annual_volatility_pct": 20.0,
+    "max_drawdown_pct": -25.04,
+    "monthly_var_95_pct": -5.5,
+    "sharpe_ratio": 0.31,
+    "quant_score": 70.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 280,
+        "nisa_required_capital_yen": 295400,
+        "specific_required_shares": 351,
+        "specific_required_capital_yen": 370305
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1396,
+        "nisa_required_capital_yen": 1472780,
+        "specific_required_shares": 1752,
+        "specific_required_capital_yen": 1848360
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 2944505,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 3695665
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8373,
+        "nisa_required_capital_yen": 8833515,
+        "specific_required_shares": 10507,
+        "specific_required_capital_yen": 11084885
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13954,
+        "nisa_required_capital_yen": 14721470,
+        "specific_required_shares": 17511,
+        "specific_required_capital_yen": 18474105
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124837,
+        "upper_90_yen": 149907,
+        "lower_10_yen": 104277
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 259070,
+        "upper_90_yen": 334379,
+        "lower_10_yen": 202040
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 403404,
+        "upper_90_yen": 551591,
+        "lower_10_yen": 297999
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 558600,
+        "upper_90_yen": 803050,
+        "lower_10_yen": 393820
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 725475,
+        "upper_90_yen": 1091276,
+        "lower_10_yen": 490466
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 904910,
+        "upper_90_yen": 1419424,
+        "lower_10_yen": 588606
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1097847,
+        "upper_90_yen": 1791169,
+        "lower_10_yen": 688762
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1305304,
+        "upper_90_yen": 2210681,
+        "lower_10_yen": 791373
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1528374,
+        "upper_90_yen": 2682626,
+        "lower_10_yen": 896826
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1768232,
+        "upper_90_yen": 3212191,
+        "lower_10_yen": 1005481
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サンネクスタグループ(8945)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サンネクスタグループ(8945)を1株(1,055円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,055円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.0%、幾何成長率は3.18%",
+      "新NISAで月1万円の配当金を得るには2,791株（約2,944,505円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サンネクスタグループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,055円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,768,232円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり43.0円（利回り4.08%）です。月次95%VaR（最大想定損失率）は-5.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サンネクスタグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,055円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,791株（元本目安：約2,944,505円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1055.0
+  }
+}

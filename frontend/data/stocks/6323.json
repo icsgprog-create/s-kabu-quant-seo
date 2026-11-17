@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6323",
+    "name": "ローツェ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3047.0,
+    "min_s_kabu_yen": 3047,
+    "unit_lot_yen": 304700,
+    "dps_yen": 17.0,
+    "dividend_yield_pct": 0.56,
+    "raw_annual_return_pct": 18.7,
+    "capped_annual_return_pct": 18.7,
+    "geometric_growth_pct": 0.08,
+    "annual_volatility_pct": 61.02,
+    "max_drawdown_pct": -69.83,
+    "monthly_var_95_pct": -22.7,
+    "sharpe_ratio": -0.01,
+    "quant_score": 9.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 706,
+        "nisa_required_capital_yen": 2151182,
+        "specific_required_shares": 886,
+        "specific_required_capital_yen": 2699642
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 10755910,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 13498210
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7059,
+        "nisa_required_capital_yen": 21508773,
+        "specific_required_shares": 8859,
+        "specific_required_capital_yen": 26993373
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 21177,
+        "nisa_required_capital_yen": 64526319,
+        "specific_required_shares": 26576,
+        "specific_required_capital_yen": 80977072
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 35295,
+        "nisa_required_capital_yen": 107543865,
+        "specific_required_shares": 44293,
+        "specific_required_capital_yen": 134960771
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120417,
+        "upper_90_yen": 211749,
+        "lower_10_yen": 70452
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 241606,
+        "upper_90_yen": 531771,
+        "lower_10_yen": 116730
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 363574,
+        "upper_90_yen": 956374,
+        "lower_10_yen": 151941
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 486324,
+        "upper_90_yen": 1491546,
+        "lower_10_yen": 180197
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 609863,
+        "upper_90_yen": 2146022,
+        "lower_10_yen": 203581
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 734194,
+        "upper_90_yen": 2930131,
+        "lower_10_yen": 223341
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 859323,
+        "upper_90_yen": 3855434,
+        "lower_10_yen": 240295
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 985256,
+        "upper_90_yen": 4934581,
+        "lower_10_yen": 255015
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1111996,
+        "upper_90_yen": 6181265,
+        "lower_10_yen": 267919
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1239551,
+        "upper_90_yen": 7610220,
+        "lower_10_yen": 279320
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ローツェ(6323)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ローツェ(6323)を1株(3,047円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,047円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは61.02%、幾何成長率は0.08%",
+      "新NISAで月1万円の配当金を得るには7,059株（約21,508,773円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ローツェは単元未満株（S株・かぶミニ等）を利用することで1株（約3,047円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,239,551円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり17.0円（利回り0.56%）です。月次95%VaR（最大想定損失率）は-22.7%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ローツェは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,047円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,059株（元本目安：約21,508,773円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3047.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7287",
+    "name": "日本精機",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2232.0,
+    "min_s_kabu_yen": 2232,
+    "unit_lot_yen": 223200,
+    "dps_yen": 85.0,
+    "dividend_yield_pct": 3.81,
+    "raw_annual_return_pct": 17.66,
+    "capped_annual_return_pct": 17.66,
+    "geometric_growth_pct": 11.85,
+    "annual_volatility_pct": 34.11,
+    "max_drawdown_pct": -38.2,
+    "monthly_var_95_pct": -14.61,
+    "sharpe_ratio": 0.43,
+    "quant_score": 57.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 142,
+        "nisa_required_capital_yen": 316944,
+        "specific_required_shares": 178,
+        "specific_required_capital_yen": 397296
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 706,
+        "nisa_required_capital_yen": 1575792,
+        "specific_required_shares": 886,
+        "specific_required_capital_yen": 1977552
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1412,
+        "nisa_required_capital_yen": 3151584,
+        "specific_required_shares": 1772,
+        "specific_required_capital_yen": 3955104
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4236,
+        "nisa_required_capital_yen": 9454752,
+        "specific_required_shares": 5316,
+        "specific_required_capital_yen": 11865312
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7059,
+        "nisa_required_capital_yen": 15755688,
+        "specific_required_shares": 8859,
+        "specific_required_capital_yen": 19773288
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130752,
+        "upper_90_yen": 179351,
+        "lower_10_yen": 96162
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 283662,
+        "upper_90_yen": 442763,
+        "lower_10_yen": 185157
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 462485,
+        "upper_90_yen": 802236,
+        "lower_10_yen": 274253
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 671613,
+        "upper_90_yen": 1278928,
+        "lower_10_yen": 366101
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 916181,
+        "upper_90_yen": 1900495,
+        "lower_10_yen": 462415
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1202195,
+        "upper_90_yen": 2701731,
+        "lower_10_yen": 564586
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1536679,
+        "upper_90_yen": 3725878,
+        "lower_10_yen": 673893
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1927847,
+        "upper_90_yen": 5026380,
+        "lower_10_yen": 791611
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2385305,
+        "upper_90_yen": 6669083,
+        "lower_10_yen": 919062
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2920287,
+        "upper_90_yen": 8734946,
+        "lower_10_yen": 1057660
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本精機(7287)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本精機(7287)を1株(2,232円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,232円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.11%、幾何成長率は11.85%",
+      "新NISAで月1万円の配当金を得るには1,412株（約3,151,584円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本精機は単元未満株（S株・かぶミニ等）を利用することで1株（約2,232円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,920,287円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり85.0円（利回り3.81%）です。月次95%VaR（最大想定損失率）は-14.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本精機は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,232円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,412株（元本目安：約3,151,584円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2232.0
+  }
+}

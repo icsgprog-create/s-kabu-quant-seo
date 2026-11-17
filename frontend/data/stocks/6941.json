@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6941",
+    "name": "山一電機",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6290.0,
+    "min_s_kabu_yen": 6290,
+    "unit_lot_yen": 629000,
+    "dps_yen": 178.0,
+    "dividend_yield_pct": 2.83,
+    "raw_annual_return_pct": 24.37,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 6.99,
+    "annual_volatility_pct": 51.0,
+    "max_drawdown_pct": -52.74,
+    "monthly_var_95_pct": -18.4,
+    "sharpe_ratio": 0.17,
+    "quant_score": 32.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 68,
+        "nisa_required_capital_yen": 427720,
+        "specific_required_shares": 85,
+        "specific_required_capital_yen": 534650
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 338,
+        "nisa_required_capital_yen": 2126020,
+        "specific_required_shares": 424,
+        "specific_required_capital_yen": 2666960
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 675,
+        "nisa_required_capital_yen": 4245750,
+        "specific_required_shares": 847,
+        "specific_required_capital_yen": 5327630
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2023,
+        "nisa_required_capital_yen": 12724670,
+        "specific_required_shares": 2539,
+        "specific_required_capital_yen": 15970310
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3371,
+        "nisa_required_capital_yen": 21203590,
+        "specific_required_shares": 4231,
+        "specific_required_capital_yen": 26612990
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126609,
+        "upper_90_yen": 203280,
+        "lower_10_yen": 80426
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266287,
+        "upper_90_yen": 518209,
+        "lower_10_yen": 142738
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 420383,
+        "upper_90_yen": 955829,
+        "lower_10_yen": 197188
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 590386,
+        "upper_90_yen": 1538443,
+        "lower_10_yen": 246918
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 777938,
+        "upper_90_yen": 2294799,
+        "lower_10_yen": 293516
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 984850,
+        "upper_90_yen": 3260028,
+        "lower_10_yen": 337941
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1213119,
+        "upper_90_yen": 4476340,
+        "lower_10_yen": 380839
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1464953,
+        "upper_90_yen": 5994063,
+        "lower_10_yen": 422675
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1742781,
+        "upper_90_yen": 7872948,
+        "lower_10_yen": 463799
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2049289,
+        "upper_90_yen": 10183719,
+        "lower_10_yen": 504493
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "山一電機(6941)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "山一電機(6941)を1株(6,290円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,290円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.0%、幾何成長率は6.99%",
+      "新NISAで月1万円の配当金を得るには675株（約4,245,750円）が必要"
+    ],
+    "accumulation_strategy_analysis": "山一電機は単元未満株（S株・かぶミニ等）を利用することで1株（約6,290円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,049,289円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり178.0円（利回り2.83%）です。月次95%VaR（最大想定損失率）は-18.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "山一電機は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,290円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、675株（元本目安：約4,245,750円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6290.0
+  }
+}

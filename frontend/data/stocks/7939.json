@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7939",
+    "name": "研創",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 600.0,
+    "min_s_kabu_yen": 600,
+    "unit_lot_yen": 60000,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 3.67,
+    "raw_annual_return_pct": 10.05,
+    "capped_annual_return_pct": 10.05,
+    "geometric_growth_pct": 8.93,
+    "annual_volatility_pct": 14.95,
+    "max_drawdown_pct": -11.21,
+    "monthly_var_95_pct": -3.8,
+    "sharpe_ratio": 0.78,
+    "quant_score": 83.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 327600,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 411000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 1636800,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 2053800
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 3273000,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 4107600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 9818400,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 12321600
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 16363800,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 20535600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128561,
+        "upper_90_yen": 147450,
+        "lower_10_yen": 112281
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274385,
+        "upper_90_yen": 332426,
+        "lower_10_yen": 227297
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 439791,
+        "upper_90_yen": 556966,
+        "lower_10_yen": 349179
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 627408,
+        "upper_90_yen": 826101,
+        "lower_10_yen": 479998
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 840220,
+        "upper_90_yen": 1146302,
+        "lower_10_yen": 621460
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1081609,
+        "upper_90_yen": 1525345,
+        "lower_10_yen": 775207
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1355413,
+        "upper_90_yen": 1972381,
+        "lower_10_yen": 942928
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1665984,
+        "upper_90_yen": 2498086,
+        "lower_10_yen": 1126422
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2018260,
+        "upper_90_yen": 3114871,
+        "lower_10_yen": 1327643
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2417842,
+        "upper_90_yen": 3837122,
+        "lower_10_yen": 1548726
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "研創(7939)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "研創(7939)を1株(600円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小600円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは14.95%、幾何成長率は8.93%",
+      "新NISAで月1万円の配当金を得るには5,455株（約3,273,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "研創は単元未満株（S株・かぶミニ等）を利用することで1株（約600円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,417,842円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り3.67%）です。月次95%VaR（最大想定損失率）は-3.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "研創は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約600円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約3,273,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 600.0
+  }
+}

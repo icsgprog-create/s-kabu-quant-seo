@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3196",
+    "name": "ホットランドホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1585.0,
+    "min_s_kabu_yen": 1585,
+    "unit_lot_yen": 158500,
+    "dps_yen": 13.0,
+    "dividend_yield_pct": 0.82,
+    "raw_annual_return_pct": 3.67,
+    "capped_annual_return_pct": 3.67,
+    "geometric_growth_pct": 1.14,
+    "annual_volatility_pct": 22.5,
+    "max_drawdown_pct": -41.34,
+    "monthly_var_95_pct": -9.0,
+    "sharpe_ratio": 0.04,
+    "quant_score": 35.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 1464540,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 1837015
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 7316360,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 9181905
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 14631135,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 18362225
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 27693,
+        "nisa_required_capital_yen": 43893405,
+        "specific_required_shares": 34753,
+        "specific_required_capital_yen": 55083505
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 46154,
+        "nisa_required_capital_yen": 73154090,
+        "specific_required_shares": 57921,
+        "specific_required_capital_yen": 91804785
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121282,
+        "upper_90_yen": 148901,
+        "lower_10_yen": 99169
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 244963,
+        "upper_90_yen": 325682,
+        "lower_10_yen": 185798
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 371091,
+        "upper_90_yen": 525372,
+        "lower_10_yen": 265516
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 499713,
+        "upper_90_yen": 746663,
+        "lower_10_yen": 340313
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 630880,
+        "upper_90_yen": 989161,
+        "lower_10_yen": 411288
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 764641,
+        "upper_90_yen": 1252887,
+        "lower_10_yen": 479153
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 901049,
+        "upper_90_yen": 1538097,
+        "lower_10_yen": 544410
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1040155,
+        "upper_90_yen": 1845203,
+        "lower_10_yen": 607433
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1182012,
+        "upper_90_yen": 2174729,
+        "lower_10_yen": 668513
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1326676,
+        "upper_90_yen": 2527286,
+        "lower_10_yen": 727883
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ホットランドホールディングス(3196)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ホットランドホールディングス(3196)を1株(1,585円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,585円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.5%、幾何成長率は1.14%",
+      "新NISAで月1万円の配当金を得るには9,231株（約14,631,135円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ホットランドホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,585円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,326,676円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり13.0円（利回り0.82%）です。月次95%VaR（最大想定損失率）は-9.0%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ホットランドホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,585円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、9,231株（元本目安：約14,631,135円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1585.0
+  }
+}

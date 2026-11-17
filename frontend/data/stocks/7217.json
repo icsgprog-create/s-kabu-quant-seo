@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7217",
+    "name": "テイン",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 429.0,
+    "min_s_kabu_yen": 429,
+    "unit_lot_yen": 42900,
+    "dps_yen": 16.0,
+    "dividend_yield_pct": 3.73,
+    "raw_annual_return_pct": -2.98,
+    "capped_annual_return_pct": -2.98,
+    "geometric_growth_pct": -6.13,
+    "annual_volatility_pct": 25.1,
+    "max_drawdown_pct": -33.29,
+    "monthly_var_95_pct": -11.48,
+    "sharpe_ratio": -0.14,
+    "quant_score": 51.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 321750,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 404118
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 1608750,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 2019303
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 3217500,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 4038177
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22500,
+        "nisa_required_capital_yen": 9652500,
+        "specific_required_shares": 28237,
+        "specific_required_capital_yen": 12113673
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 37500,
+        "nisa_required_capital_yen": 16087500,
+        "specific_required_shares": 47061,
+        "specific_required_capital_yen": 20189169
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118454,
+        "upper_90_yen": 148833,
+        "lower_10_yen": 94733
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 234102,
+        "upper_90_yen": 321040,
+        "lower_10_yen": 172508
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 347010,
+        "upper_90_yen": 509502,
+        "lower_10_yen": 240209
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 457244,
+        "upper_90_yen": 711389,
+        "lower_10_yen": 300434
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 564865,
+        "upper_90_yen": 924969,
+        "lower_10_yen": 354689
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 669937,
+        "upper_90_yen": 1149010,
+        "lower_10_yen": 403985
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 772519,
+        "upper_90_yen": 1382559,
+        "lower_10_yen": 449058
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 872671,
+        "upper_90_yen": 1624840,
+        "lower_10_yen": 490469
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 970450,
+        "upper_90_yen": 1875198,
+        "lower_10_yen": 528667
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1065913,
+        "upper_90_yen": 2133067,
+        "lower_10_yen": 564015
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "テイン(7217)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "テイン(7217)を1株(429円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小429円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.1%、幾何成長率は-6.13%",
+      "新NISAで月1万円の配当金を得るには7,500株（約3,217,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "テインは単元未満株（S株・かぶミニ等）を利用することで1株（約429円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,065,913円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.0円（利回り3.73%）です。月次95%VaR（最大想定損失率）は-11.48%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "テインは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約429円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,500株（元本目安：約3,217,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 429.0
+  }
+}

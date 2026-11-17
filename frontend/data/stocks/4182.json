@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4182",
+    "name": "三菱瓦斯化学",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3130.0,
+    "min_s_kabu_yen": 3130,
+    "unit_lot_yen": 313000,
+    "dps_yen": 105.0,
+    "dividend_yield_pct": 3.35,
+    "raw_annual_return_pct": 12.08,
+    "capped_annual_return_pct": 12.08,
+    "geometric_growth_pct": 5.1,
+    "annual_volatility_pct": 37.37,
+    "max_drawdown_pct": -45.28,
+    "monthly_var_95_pct": -13.67,
+    "sharpe_ratio": 0.2,
+    "quant_score": 44.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 115,
+        "nisa_required_capital_yen": 359950,
+        "specific_required_shares": 144,
+        "specific_required_capital_yen": 450720
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 572,
+        "nisa_required_capital_yen": 1790360,
+        "specific_required_shares": 718,
+        "specific_required_capital_yen": 2247340
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1143,
+        "nisa_required_capital_yen": 3577590,
+        "specific_required_shares": 1435,
+        "specific_required_capital_yen": 4491550
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 10732770,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 13468390
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5715,
+        "nisa_required_capital_yen": 17887950,
+        "specific_required_shares": 7172,
+        "specific_required_capital_yen": 22448360
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125661,
+        "upper_90_yen": 177368,
+        "lower_10_yen": 89977
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262411,
+        "upper_90_yen": 425262,
+        "lower_10_yen": 165650
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 411227,
+        "upper_90_yen": 744807,
+        "lower_10_yen": 235086
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 573175,
+        "upper_90_yen": 1143931,
+        "lower_10_yen": 300886
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 749412,
+        "upper_90_yen": 1633310,
+        "lower_10_yen": 364420
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 941200,
+        "upper_90_yen": 2225855,
+        "lower_10_yen": 426549
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1149912,
+        "upper_90_yen": 2936690,
+        "lower_10_yen": 487874
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1377040,
+        "upper_90_yen": 3783309,
+        "lower_10_yen": 548845
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1624209,
+        "upper_90_yen": 4785807,
+        "lower_10_yen": 609819
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1893188,
+        "upper_90_yen": 5967186,
+        "lower_10_yen": 671092
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三菱瓦斯化学(4182)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三菱瓦斯化学(4182)を1株(3,130円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,130円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.37%、幾何成長率は5.1%",
+      "新NISAで月1万円の配当金を得るには1,143株（約3,577,590円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三菱瓦斯化学は単元未満株（S株・かぶミニ等）を利用することで1株（約3,130円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,893,188円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり105.0円（利回り3.35%）です。月次95%VaR（最大想定損失率）は-13.67%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三菱瓦斯化学は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,130円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,143株（元本目安：約3,577,590円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3130.0
+  }
+}

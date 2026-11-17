@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6360",
+    "name": "東京自働機械製作所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5330.0,
+    "min_s_kabu_yen": 5330,
+    "unit_lot_yen": 533000,
+    "dps_yen": 160.0,
+    "dividend_yield_pct": 3.0,
+    "raw_annual_return_pct": 28.01,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.15,
+    "annual_volatility_pct": 31.16,
+    "max_drawdown_pct": -38.51,
+    "monthly_var_95_pct": -11.25,
+    "sharpe_ratio": 0.55,
+    "quant_score": 56.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 75,
+        "nisa_required_capital_yen": 399750,
+        "specific_required_shares": 95,
+        "specific_required_capital_yen": 506350
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 1998750,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 2510430
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 3997500,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 5020860
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2250,
+        "nisa_required_capital_yen": 11992500,
+        "specific_required_shares": 2824,
+        "specific_required_capital_yen": 15051920
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 19987500,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 25088310
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132576,
+        "upper_90_yen": 176998,
+        "lower_10_yen": 100032
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291534,
+        "upper_90_yen": 438310,
+        "lower_10_yen": 196936
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 482123,
+        "upper_90_yen": 799064,
+        "lower_10_yen": 297757
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 710639,
+        "upper_90_yen": 1284221,
+        "lower_10_yen": 405491
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 984627,
+        "upper_90_yen": 1926713,
+        "lower_10_yen": 522417
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1313137,
+        "upper_90_yen": 2768707,
+        "lower_10_yen": 650664
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1707019,
+        "upper_90_yen": 3863664,
+        "lower_10_yen": 792424
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2179280,
+        "upper_90_yen": 5279064,
+        "lower_10_yen": 950067
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2745518,
+        "upper_90_yen": 7099859,
+        "lower_10_yen": 1126226
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3424433,
+        "upper_90_yen": 9432788,
+        "lower_10_yen": 1323868
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東京自働機械製作所(6360)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東京自働機械製作所(6360)を1株(5,330円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,330円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.16%、幾何成長率は15.15%",
+      "新NISAで月1万円の配当金を得るには750株（約3,997,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東京自働機械製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約5,330円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,424,433円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり160.0円（利回り3.0%）です。月次95%VaR（最大想定損失率）は-11.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東京自働機械製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,330円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、750株（元本目安：約3,997,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5330.0
+  }
+}

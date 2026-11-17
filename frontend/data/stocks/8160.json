@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8160",
+    "name": "木曽路",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2603.0,
+    "min_s_kabu_yen": 2603,
+    "unit_lot_yen": 260300,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 1.15,
+    "raw_annual_return_pct": 4.61,
+    "capped_annual_return_pct": 4.61,
+    "geometric_growth_pct": 3.29,
+    "annual_volatility_pct": 16.26,
+    "max_drawdown_pct": -24.38,
+    "monthly_var_95_pct": -7.34,
+    "sharpe_ratio": 0.21,
+    "quant_score": 48.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 1041200,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 1306706
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 5206000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 6533530
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 10412000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 13067060
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 31236000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 39201180
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 52060000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 65332697
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122932,
+        "upper_90_yen": 142567,
+        "lower_10_yen": 106216
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251448,
+        "upper_90_yen": 308938,
+        "lower_10_yen": 205549
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 385801,
+        "upper_90_yen": 496205,
+        "lower_10_yen": 301973
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 526256,
+        "upper_90_yen": 704096,
+        "lower_10_yen": 396891
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 673091,
+        "upper_90_yen": 933024,
+        "lower_10_yen": 491090
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 826594,
+        "upper_90_yen": 1183735,
+        "lower_10_yen": 585091
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 987070,
+        "upper_90_yen": 1457194,
+        "lower_10_yen": 679277
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1154834,
+        "upper_90_yen": 1754530,
+        "lower_10_yen": 773945
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1330219,
+        "upper_90_yen": 2077008,
+        "lower_10_yen": 869340
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1513569,
+        "upper_90_yen": 2426024,
+        "lower_10_yen": 965669
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "木曽路(8160)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "木曽路(8160)を1株(2,603円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,603円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは16.26%、幾何成長率は3.29%",
+      "新NISAで月1万円の配当金を得るには4,000株（約10,412,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "木曽路は単元未満株（S株・かぶミニ等）を利用することで1株（約2,603円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,513,569円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り1.15%）です。月次95%VaR（最大想定損失率）は-7.34%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "木曽路は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,603円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約10,412,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2603.0
+  }
+}

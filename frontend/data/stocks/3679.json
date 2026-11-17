@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3679",
+    "name": "じげん",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 450.0,
+    "min_s_kabu_yen": 450,
+    "unit_lot_yen": 45000,
+    "dps_yen": 11.0,
+    "dividend_yield_pct": 2.44,
+    "raw_annual_return_pct": 5.77,
+    "capped_annual_return_pct": 5.77,
+    "geometric_growth_pct": -1.33,
+    "annual_volatility_pct": 37.68,
+    "max_drawdown_pct": -53.44,
+    "monthly_var_95_pct": -12.61,
+    "sharpe_ratio": 0.0,
+    "quant_score": 32.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 490950,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 616500
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 2454750,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 3080700
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 4909500,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 6160950
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 32728,
+        "nisa_required_capital_yen": 14727600,
+        "specific_required_shares": 41071,
+        "specific_required_capital_yen": 18481950
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 54546,
+        "nisa_required_capital_yen": 24545700,
+        "specific_required_shares": 68452,
+        "specific_required_capital_yen": 30803400
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120730,
+        "upper_90_yen": 170542,
+        "lower_10_yen": 86399
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242818,
+        "upper_90_yen": 392700,
+        "lower_10_yen": 153707
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 366280,
+        "upper_90_yen": 659256,
+        "lower_10_yen": 211001
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 491131,
+        "upper_90_yen": 969041,
+        "lower_10_yen": 261387
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 617386,
+        "upper_90_yen": 1322390,
+        "lower_10_yen": 306548
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 745062,
+        "upper_90_yen": 1720340,
+        "lower_10_yen": 347546
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 874174,
+        "upper_90_yen": 2164343,
+        "lower_10_yen": 385118
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1004738,
+        "upper_90_yen": 2656137,
+        "lower_10_yen": 419803
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1136771,
+        "upper_90_yen": 3197681,
+        "lower_10_yen": 452013
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1270290,
+        "upper_90_yen": 3791118,
+        "lower_10_yen": 482068
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "じげん(3679)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "じげん(3679)を1株(450円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小450円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.68%、幾何成長率は-1.33%",
+      "新NISAで月1万円の配当金を得るには10,910株（約4,909,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "じげんは単元未満株（S株・かぶミニ等）を利用することで1株（約450円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,270,290円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり11.0円（利回り2.44%）です。月次95%VaR（最大想定損失率）は-12.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "じげんは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約450円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,910株（元本目安：約4,909,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 450.0
+  }
+}

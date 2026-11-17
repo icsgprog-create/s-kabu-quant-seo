@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9955",
+    "name": "ヨンキュウ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2667.0,
+    "min_s_kabu_yen": 2667,
+    "unit_lot_yen": 266700,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 0.94,
+    "raw_annual_return_pct": 5.73,
+    "capped_annual_return_pct": 5.73,
+    "geometric_growth_pct": 4.48,
+    "annual_volatility_pct": 15.83,
+    "max_drawdown_pct": -35.59,
+    "monthly_var_95_pct": -7.47,
+    "sharpe_ratio": 0.28,
+    "quant_score": 48.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 1280160,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 1608201
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 6400800,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 8033004
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 12801600,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 16066008
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 38404800,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 48198024
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 64008000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 80327373
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123589,
+        "upper_90_yen": 142782,
+        "lower_10_yen": 107179
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 254057,
+        "upper_90_yen": 310545,
+        "lower_10_yen": 208702
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 391789,
+        "upper_90_yen": 500856,
+        "lower_10_yen": 308414
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 537188,
+        "upper_90_yen": 713860,
+        "lower_10_yen": 407690
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 690682,
+        "upper_90_yen": 950391,
+        "lower_10_yen": 507316
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 852721,
+        "upper_90_yen": 1211648,
+        "lower_10_yen": 607832
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1023780,
+        "upper_90_yen": 1499081,
+        "lower_10_yen": 709647
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1204362,
+        "upper_90_yen": 1814347,
+        "lower_10_yen": 813095
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1394997,
+        "upper_90_yen": 2159290,
+        "lower_10_yen": 918461
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1596244,
+        "upper_90_yen": 2535934,
+        "lower_10_yen": 1026001
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヨンキュウ(9955)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヨンキュウ(9955)を1株(2,667円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,667円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは15.83%、幾何成長率は4.48%",
+      "新NISAで月1万円の配当金を得るには4,800株（約12,801,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヨンキュウは単元未満株（S株・かぶミニ等）を利用することで1株（約2,667円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,596,244円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り0.94%）です。月次95%VaR（最大想定損失率）は-7.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヨンキュウは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,667円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約12,801,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2667.0
+  }
+}

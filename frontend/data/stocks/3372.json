@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3372",
+    "name": "関門海",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 211.0,
+    "min_s_kabu_yen": 211,
+    "unit_lot_yen": 21100,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -6.52,
+    "capped_annual_return_pct": -6.52,
+    "geometric_growth_pct": -9.2,
+    "annual_volatility_pct": 23.14,
+    "max_drawdown_pct": -42.2,
+    "monthly_var_95_pct": -10.58,
+    "sharpe_ratio": -0.44,
+    "quant_score": 21.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114205,
+        "upper_90_yen": 140761,
+        "lower_10_yen": 93042
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 218368,
+        "upper_90_yen": 291010,
+        "lower_10_yen": 165342
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 313374,
+        "upper_90_yen": 443287,
+        "lower_10_yen": 224659
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 400026,
+        "upper_90_yen": 594593,
+        "lower_10_yen": 274310
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 479060,
+        "upper_90_yen": 743205,
+        "lower_10_yen": 316358
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 551145,
+        "upper_90_yen": 888033,
+        "lower_10_yen": 352249
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 616892,
+        "upper_90_yen": 1028358,
+        "lower_10_yen": 383062
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 676858,
+        "upper_90_yen": 1163714,
+        "lower_10_yen": 409635
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 731553,
+        "upper_90_yen": 1293805,
+        "lower_10_yen": 432635
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 781438,
+        "upper_90_yen": 1418463,
+        "lower_10_yen": 452602
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "関門海(3372)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "関門海(3372)を1株(211円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小211円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.14%、幾何成長率は-9.2%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "関門海は単元未満株（S株・かぶミニ等）を利用することで1株（約211円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は781,438円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-10.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "関門海は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約211円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 211.0
+  }
+}

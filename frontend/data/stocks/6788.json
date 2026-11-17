@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6788",
+    "name": "日本トリム",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5310.0,
+    "min_s_kabu_yen": 5310,
+    "unit_lot_yen": 531000,
+    "dps_yen": 130.0,
+    "dividend_yield_pct": 2.45,
+    "raw_annual_return_pct": 11.62,
+    "capped_annual_return_pct": 11.62,
+    "geometric_growth_pct": 7.95,
+    "annual_volatility_pct": 27.09,
+    "max_drawdown_pct": -36.17,
+    "monthly_var_95_pct": -9.91,
+    "sharpe_ratio": 0.35,
+    "quant_score": 51.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 93,
+        "nisa_required_capital_yen": 493830,
+        "specific_required_shares": 116,
+        "specific_required_capital_yen": 615960
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 2453220,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 3079800
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 4906440,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 6154290
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2770,
+        "nisa_required_capital_yen": 14708700,
+        "specific_required_shares": 3476,
+        "specific_required_capital_yen": 18457560
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 24510960,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 30760830
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127011,
+        "upper_90_yen": 162968,
+        "lower_10_yen": 99540
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 267942,
+        "upper_90_yen": 379887,
+        "lower_10_yen": 191253
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 424320,
+        "upper_90_yen": 652047,
+        "lower_10_yen": 281193
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 597837,
+        "upper_90_yen": 985781,
+        "lower_10_yen": 371473
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 790371,
+        "upper_90_yen": 1389560,
+        "lower_10_yen": 463330
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1004008,
+        "upper_90_yen": 1873648,
+        "lower_10_yen": 557654
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1241059,
+        "upper_90_yen": 2450125,
+        "lower_10_yen": 655168
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1504092,
+        "upper_90_yen": 3133046,
+        "lower_10_yen": 756511
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1795953,
+        "upper_90_yen": 3938665,
+        "lower_10_yen": 862277
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2119803,
+        "upper_90_yen": 4885714,
+        "lower_10_yen": 973049
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本トリム(6788)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本トリム(6788)を1株(5,310円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,310円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.09%、幾何成長率は7.95%",
+      "新NISAで月1万円の配当金を得るには924株（約4,906,440円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本トリムは単元未満株（S株・かぶミニ等）を利用することで1株（約5,310円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,119,803円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり130.0円（利回り2.45%）です。月次95%VaR（最大想定損失率）は-9.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本トリムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,310円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、924株（元本目安：約4,906,440円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5310.0
+  }
+}

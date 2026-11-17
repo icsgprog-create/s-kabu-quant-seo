@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "417A",
+    "name": "ブルーゾーンホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1991.5,
+    "min_s_kabu_yen": 1992,
+    "unit_lot_yen": 199150,
+    "dps_yen": 113.5,
+    "dividend_yield_pct": 5.7,
+    "raw_annual_return_pct": 9.19,
+    "capped_annual_return_pct": 9.19,
+    "geometric_growth_pct": 7.34,
+    "annual_volatility_pct": 19.25,
+    "max_drawdown_pct": -22.29,
+    "monthly_var_95_pct": -6.94,
+    "sharpe_ratio": 0.63,
+    "quant_score": 86.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 106,
+        "nisa_required_capital_yen": 211099,
+        "specific_required_shares": 133,
+        "specific_required_capital_yen": 264870
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 529,
+        "nisa_required_capital_yen": 1053504,
+        "specific_required_shares": 664,
+        "specific_required_capital_yen": 1322356
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1058,
+        "nisa_required_capital_yen": 2107007,
+        "specific_required_shares": 1327,
+        "specific_required_capital_yen": 2642720
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3172,
+        "nisa_required_capital_yen": 6317038,
+        "specific_required_shares": 3981,
+        "specific_required_capital_yen": 7928162
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5287,
+        "nisa_required_capital_yen": 10529060,
+        "specific_required_shares": 6635,
+        "specific_required_capital_yen": 13213602
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128873,
+        "upper_90_yen": 153814,
+        "lower_10_yen": 108278
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275694,
+        "upper_90_yen": 353276,
+        "lower_10_yen": 216441
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 442963,
+        "upper_90_yen": 601248,
+        "lower_10_yen": 329329
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 633529,
+        "upper_90_yen": 904547,
+        "lower_10_yen": 449106
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 850636,
+        "upper_90_yen": 1271993,
+        "lower_10_yen": 577420
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1097981,
+        "upper_90_yen": 1714275,
+        "lower_10_yen": 715778
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1379774,
+        "upper_90_yen": 2244096,
+        "lower_10_yen": 865683
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1700814,
+        "upper_90_yen": 2876432,
+        "lower_10_yen": 1028703
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2066566,
+        "upper_90_yen": 3628862,
+        "lower_10_yen": 1206520
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2483258,
+        "upper_90_yen": 4521977,
+        "lower_10_yen": 1400958
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブルーゾーンホールディングス(417A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブルーゾーンホールディングス(417A)を1株(1,992円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,992円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.25%、幾何成長率は7.34%",
+      "新NISAで月1万円の配当金を得るには1,058株（約2,107,007円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブルーゾーンホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,992円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,483,258円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり113.5円（利回り5.7%）です。月次95%VaR（最大想定損失率）は-6.94%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブルーゾーンホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,992円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,058株（元本目安：約2,107,007円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1991.5
+  }
+}

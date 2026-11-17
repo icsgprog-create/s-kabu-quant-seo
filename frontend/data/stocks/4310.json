@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4310",
+    "name": "ドリームインキュベータ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2232.0,
+    "min_s_kabu_yen": 2232,
+    "unit_lot_yen": 223200,
+    "dps_yen": 137.0,
+    "dividend_yield_pct": 6.14,
+    "raw_annual_return_pct": 26.7,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 9.72,
+    "annual_volatility_pct": 45.34,
+    "max_drawdown_pct": -48.63,
+    "monthly_var_95_pct": -18.9,
+    "sharpe_ratio": 0.33,
+    "quant_score": 53.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 88,
+        "nisa_required_capital_yen": 196416,
+        "specific_required_shares": 110,
+        "specific_required_capital_yen": 245520
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 438,
+        "nisa_required_capital_yen": 977616,
+        "specific_required_shares": 550,
+        "specific_required_capital_yen": 1227600
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 876,
+        "nisa_required_capital_yen": 1955232,
+        "specific_required_shares": 1100,
+        "specific_required_capital_yen": 2455200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2628,
+        "nisa_required_capital_yen": 5865696,
+        "specific_required_shares": 3298,
+        "specific_required_capital_yen": 7361136
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4380,
+        "nisa_required_capital_yen": 9776160,
+        "specific_required_shares": 5497,
+        "specific_required_capital_yen": 12269304
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130901,
+        "upper_90_yen": 199635,
+        "lower_10_yen": 87173
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 284302,
+        "upper_90_yen": 515919,
+        "lower_10_yen": 161916
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 464069,
+        "upper_90_yen": 970887,
+        "lower_10_yen": 233142
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 674734,
+        "upper_90_yen": 1600943,
+        "lower_10_yen": 303718
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 921608,
+        "upper_90_yen": 2454169,
+        "lower_10_yen": 375259
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1210914,
+        "upper_90_yen": 3592168,
+        "lower_10_yen": 448900
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1549946,
+        "upper_90_yen": 5093040,
+        "lower_10_yen": 525566
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1947249,
+        "upper_90_yen": 7055299,
+        "lower_10_yen": 606083
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2412841,
+        "upper_90_yen": 9602790,
+        "lower_10_yen": 691247
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2958458,
+        "upper_90_yen": 12890826,
+        "lower_10_yen": 781853
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ドリームインキュベータ(4310)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ドリームインキュベータ(4310)を1株(2,232円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,232円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.34%、幾何成長率は9.72%",
+      "新NISAで月1万円の配当金を得るには876株（約1,955,232円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ドリームインキュベータは単元未満株（S株・かぶミニ等）を利用することで1株（約2,232円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,958,458円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり137.0円（利回り6.14%）です。月次95%VaR（最大想定損失率）は-18.9%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ドリームインキュベータは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,232円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、876株（元本目安：約1,955,232円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2232.0
+  }
+}

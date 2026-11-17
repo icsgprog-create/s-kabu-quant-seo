@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3486",
+    "name": "グローバル・リンク・マネジメント",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1967.0,
+    "min_s_kabu_yen": 1967,
+    "unit_lot_yen": 196700,
+    "dps_yen": 80.5,
+    "dividend_yield_pct": 4.09,
+    "raw_annual_return_pct": 32.02,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 12.67,
+    "annual_volatility_pct": 38.29,
+    "max_drawdown_pct": -54.29,
+    "monthly_var_95_pct": -14.45,
+    "sharpe_ratio": 0.41,
+    "quant_score": 54.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 150,
+        "nisa_required_capital_yen": 295050,
+        "specific_required_shares": 188,
+        "specific_required_capital_yen": 369796
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 746,
+        "nisa_required_capital_yen": 1467382,
+        "specific_required_shares": 936,
+        "specific_required_capital_yen": 1841112
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1491,
+        "nisa_required_capital_yen": 2932797,
+        "specific_required_shares": 1871,
+        "specific_required_capital_yen": 3680257
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4473,
+        "nisa_required_capital_yen": 8798391,
+        "specific_required_shares": 5613,
+        "specific_required_capital_yen": 11040771
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7454,
+        "nisa_required_capital_yen": 14662018,
+        "specific_required_shares": 9354,
+        "specific_required_capital_yen": 18399318
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131557,
+        "upper_90_yen": 187767,
+        "lower_10_yen": 93198
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287119,
+        "upper_90_yen": 474360,
+        "lower_10_yen": 177914
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 471067,
+        "upper_90_yen": 877342,
+        "lower_10_yen": 262045
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 688581,
+        "upper_90_yen": 1426048,
+        "lower_10_yen": 348392
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 945784,
+        "upper_90_yen": 2159181,
+        "lower_10_yen": 438724
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1249919,
+        "upper_90_yen": 3126216,
+        "lower_10_yen": 534462
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1609550,
+        "upper_90_yen": 4389735,
+        "lower_10_yen": 636900
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2034803,
+        "upper_90_yen": 6028512,
+        "lower_10_yen": 747324
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2537652,
+        "upper_90_yen": 8141397,
+        "lower_10_yen": 867067
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3132257,
+        "upper_90_yen": 10852166,
+        "lower_10_yen": 997561
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "グローバル・リンク・マネジメント(3486)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "グローバル・リンク・マネジメント(3486)を1株(1,967円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,967円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは38.29%、幾何成長率は12.67%",
+      "新NISAで月1万円の配当金を得るには1,491株（約2,932,797円）が必要"
+    ],
+    "accumulation_strategy_analysis": "グローバル・リンク・マネジメントは単元未満株（S株・かぶミニ等）を利用することで1株（約1,967円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,132,257円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり80.5円（利回り4.09%）です。月次95%VaR（最大想定損失率）は-14.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "グローバル・リンク・マネジメントは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,967円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,491株（元本目安：約2,932,797円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1967.0
+  }
+}

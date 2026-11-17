@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6074",
+    "name": "ジェイエスエス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 477.0,
+    "min_s_kabu_yen": 477,
+    "unit_lot_yen": 47700,
+    "dps_yen": 20.5,
+    "dividend_yield_pct": 4.3,
+    "raw_annual_return_pct": 3.87,
+    "capped_annual_return_pct": 3.87,
+    "geometric_growth_pct": 0.4,
+    "annual_volatility_pct": 26.34,
+    "max_drawdown_pct": -32.92,
+    "monthly_var_95_pct": -9.39,
+    "sharpe_ratio": 0.14,
+    "quant_score": 61.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 586,
+        "nisa_required_capital_yen": 279522,
+        "specific_required_shares": 735,
+        "specific_required_capital_yen": 350595
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2927,
+        "nisa_required_capital_yen": 1396179,
+        "specific_required_shares": 3673,
+        "specific_required_capital_yen": 1752021
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5854,
+        "nisa_required_capital_yen": 2792358,
+        "specific_required_shares": 7346,
+        "specific_required_capital_yen": 3504042
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 17561,
+        "nisa_required_capital_yen": 8376597,
+        "specific_required_shares": 22038,
+        "specific_required_capital_yen": 10512126
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 29269,
+        "nisa_required_capital_yen": 13961313,
+        "specific_required_shares": 36730,
+        "specific_required_capital_yen": 17520210
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123107,
+        "upper_90_yen": 156668,
+        "lower_10_yen": 97248
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252141,
+        "upper_90_yen": 352765,
+        "lower_10_yen": 182287
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 387388,
+        "upper_90_yen": 584411,
+        "lower_10_yen": 261324
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 529147,
+        "upper_90_yen": 852007,
+        "lower_10_yen": 336471
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 677731,
+        "upper_90_yen": 1157112,
+        "lower_10_yen": 408868
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 833469,
+        "upper_90_yen": 1501907,
+        "lower_10_yen": 479242
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 996706,
+        "upper_90_yen": 1889012,
+        "lower_10_yen": 548101
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1167801,
+        "upper_90_yen": 2321415,
+        "lower_10_yen": 615823
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1347135,
+        "upper_90_yen": 2802438,
+        "lower_10_yen": 682700
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1535103,
+        "upper_90_yen": 3335736,
+        "lower_10_yen": 748968
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ジェイエスエス(6074)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ジェイエスエス(6074)を1株(477円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小477円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.34%、幾何成長率は0.4%",
+      "新NISAで月1万円の配当金を得るには5,854株（約2,792,358円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ジェイエスエスは単元未満株（S株・かぶミニ等）を利用することで1株（約477円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,535,103円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.5円（利回り4.3%）です。月次95%VaR（最大想定損失率）は-9.39%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ジェイエスエスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約477円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,854株（元本目安：約2,792,358円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 477.0
+  }
+}

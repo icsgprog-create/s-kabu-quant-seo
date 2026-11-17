@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3773",
+    "name": "アドバンスト・メディア",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1117.0,
+    "min_s_kabu_yen": 1117,
+    "unit_lot_yen": 111700,
+    "dps_yen": 33.5,
+    "dividend_yield_pct": 3.0,
+    "raw_annual_return_pct": 10.78,
+    "capped_annual_return_pct": 10.78,
+    "geometric_growth_pct": 0.95,
+    "annual_volatility_pct": 44.32,
+    "max_drawdown_pct": -64.71,
+    "monthly_var_95_pct": -15.76,
+    "sharpe_ratio": 0.07,
+    "quant_score": 31.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 359,
+        "nisa_required_capital_yen": 401003,
+        "specific_required_shares": 450,
+        "specific_required_capital_yen": 502650
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1792,
+        "nisa_required_capital_yen": 2001664,
+        "specific_required_shares": 2248,
+        "specific_required_capital_yen": 2511016
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3583,
+        "nisa_required_capital_yen": 4002211,
+        "specific_required_shares": 4496,
+        "specific_required_capital_yen": 5022032
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10747,
+        "nisa_required_capital_yen": 12004399,
+        "specific_required_shares": 13486,
+        "specific_required_capital_yen": 15063862
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17911,
+        "nisa_required_capital_yen": 20006587,
+        "specific_required_shares": 22477,
+        "specific_required_capital_yen": 25106809
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122604,
+        "upper_90_yen": 184449,
+        "lower_10_yen": 82724
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 250150,
+        "upper_90_yen": 442611,
+        "lower_10_yen": 146016
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 382836,
+        "upper_90_yen": 770946,
+        "lower_10_yen": 199779
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 520870,
+        "upper_90_yen": 1173192,
+        "lower_10_yen": 247237
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 664468,
+        "upper_90_yen": 1655286,
+        "lower_10_yen": 290072
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 813854,
+        "upper_90_yen": 2224514,
+        "lower_10_yen": 329324
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 969261,
+        "upper_90_yen": 2889271,
+        "lower_10_yen": 365692
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1130931,
+        "upper_90_yen": 3658978,
+        "lower_10_yen": 399679
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1299118,
+        "upper_90_yen": 4544081,
+        "lower_10_yen": 431663
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1474083,
+        "upper_90_yen": 5556084,
+        "lower_10_yen": 461934
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アドバンスト・メディア(3773)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アドバンスト・メディア(3773)を1株(1,117円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,117円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.32%、幾何成長率は0.95%",
+      "新NISAで月1万円の配当金を得るには3,583株（約4,002,211円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アドバンスト・メディアは単元未満株（S株・かぶミニ等）を利用することで1株（約1,117円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,474,083円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり33.5円（利回り3.0%）です。月次95%VaR（最大想定損失率）は-15.76%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アドバンスト・メディアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,117円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,583株（元本目安：約4,002,211円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1117.0
+  }
+}

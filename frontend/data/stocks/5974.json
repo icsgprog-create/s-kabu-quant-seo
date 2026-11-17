@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5974",
+    "name": "中国工業",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 702.0,
+    "min_s_kabu_yen": 702,
+    "unit_lot_yen": 70200,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 3.28,
+    "raw_annual_return_pct": 3.06,
+    "capped_annual_return_pct": 3.06,
+    "geometric_growth_pct": 0.31,
+    "annual_volatility_pct": 23.45,
+    "max_drawdown_pct": -35.87,
+    "monthly_var_95_pct": -9.68,
+    "sharpe_ratio": 0.11,
+    "quant_score": 55.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 366444,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 459810
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 1831518,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 2298348
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 3663036,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 4596696
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 10988406,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 13789386
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 18313074,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 22982076
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122363,
+        "upper_90_yen": 151593,
+        "lower_10_yen": 99184
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 249199,
+        "upper_90_yen": 335676,
+        "lower_10_yen": 186684
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 380672,
+        "upper_90_yen": 547939,
+        "lower_10_yen": 268177
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 516951,
+        "upper_90_yen": 787867,
+        "lower_10_yen": 345624
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 658211,
+        "upper_90_yen": 1055923,
+        "lower_10_yen": 420096
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 804635,
+        "upper_90_yen": 1353043,
+        "lower_10_yen": 492280
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 956412,
+        "upper_90_yen": 1680461,
+        "lower_10_yen": 562658
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1113738,
+        "upper_90_yen": 2039637,
+        "lower_10_yen": 631586
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1276814,
+        "upper_90_yen": 2432214,
+        "lower_10_yen": 699342
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1445852,
+        "upper_90_yen": 2860003,
+        "lower_10_yen": 766150
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "中国工業(5974)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "中国工業(5974)を1株(702円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小702円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.45%、幾何成長率は0.31%",
+      "新NISAで月1万円の配当金を得るには5,218株（約3,663,036円）が必要"
+    ],
+    "accumulation_strategy_analysis": "中国工業は単元未満株（S株・かぶミニ等）を利用することで1株（約702円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,445,852円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り3.28%）です。月次95%VaR（最大想定損失率）は-9.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "中国工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約702円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約3,663,036円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 702.0
+  }
+}

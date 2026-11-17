@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7003",
+    "name": "三井Ｅ＆Ｓ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3360.0,
+    "min_s_kabu_yen": 3360,
+    "unit_lot_yen": 336000,
+    "dps_yen": 72.0,
+    "dividend_yield_pct": 2.14,
+    "raw_annual_return_pct": 43.01,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 2.23,
+    "annual_volatility_pct": 59.62,
+    "max_drawdown_pct": -67.44,
+    "monthly_var_95_pct": -21.36,
+    "sharpe_ratio": 0.06,
+    "quant_score": 23.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 167,
+        "nisa_required_capital_yen": 561120,
+        "specific_required_shares": 210,
+        "specific_required_capital_yen": 705600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 834,
+        "nisa_required_capital_yen": 2802240,
+        "specific_required_shares": 1046,
+        "specific_required_capital_yen": 3514560
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1667,
+        "nisa_required_capital_yen": 5601120,
+        "specific_required_shares": 2092,
+        "specific_required_capital_yen": 7029120
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 16800000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 21084000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8334,
+        "nisa_required_capital_yen": 28002240,
+        "specific_required_shares": 10458,
+        "specific_required_capital_yen": 35138880
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122884,
+        "upper_90_yen": 213600,
+        "lower_10_yen": 72633
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251256,
+        "upper_90_yen": 545393,
+        "lower_10_yen": 122698
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 385363,
+        "upper_90_yen": 999371,
+        "lower_10_yen": 162503
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 525459,
+        "upper_90_yen": 1590190,
+        "lower_10_yen": 195837
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 671812,
+        "upper_90_yen": 2336776,
+        "lower_10_yen": 224603
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 824703,
+        "upper_90_yen": 3261478,
+        "lower_10_yen": 249937
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 984422,
+        "upper_90_yen": 4389982,
+        "lower_10_yen": 272584
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1151276,
+        "upper_90_yen": 5751471,
+        "lower_10_yen": 293065
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1325582,
+        "upper_90_yen": 7378901,
+        "lower_10_yen": 311761
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1507673,
+        "upper_90_yen": 9309339,
+        "lower_10_yen": 328959
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三井Ｅ＆Ｓ(7003)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三井Ｅ＆Ｓ(7003)を1株(3,360円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,360円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは59.62%、幾何成長率は2.23%",
+      "新NISAで月1万円の配当金を得るには1,667株（約5,601,120円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三井Ｅ＆Ｓは単元未満株（S株・かぶミニ等）を利用することで1株（約3,360円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,507,673円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり72.0円（利回り2.14%）です。月次95%VaR（最大想定損失率）は-21.36%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三井Ｅ＆Ｓは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,360円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,667株（元本目安：約5,601,120円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3360.0
+  }
+}

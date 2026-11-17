@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7180",
+    "name": "九州フィナンシャルグループ",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1424.5,
+    "min_s_kabu_yen": 1425,
+    "unit_lot_yen": 142450,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 2.46,
+    "raw_annual_return_pct": 28.11,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.68,
+    "annual_volatility_pct": 35.54,
+    "max_drawdown_pct": -52.98,
+    "monthly_var_95_pct": -12.68,
+    "sharpe_ratio": 0.43,
+    "quant_score": 44.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 488604,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 613960
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 2443018,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 3065524
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 4884610,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 6129624
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 14652407,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 18387446
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 24420204,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 30646693
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131105,
+        "upper_90_yen": 182306,
+        "lower_10_yen": 95186
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285174,
+        "upper_90_yen": 453906,
+        "lower_10_yen": 182831
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 466230,
+        "upper_90_yen": 828777,
+        "lower_10_yen": 270426
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 678999,
+        "upper_90_yen": 1330953,
+        "lower_10_yen": 360684
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 929037,
+        "upper_90_yen": 1991955,
+        "lower_10_yen": 455356
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1222872,
+        "upper_90_yen": 2851690,
+        "lower_10_yen": 555859
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1568174,
+        "upper_90_yen": 3960101,
+        "lower_10_yen": 663501
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1973960,
+        "upper_90_yen": 5379371,
+        "lower_10_yen": 779586
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2450824,
+        "upper_90_yen": 7186678,
+        "lower_10_yen": 905471
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3011214,
+        "upper_90_yen": 9477612,
+        "lower_10_yen": 1042611
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "九州フィナンシャルグループ(7180)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "九州フィナンシャルグループ(7180)を1株(1,425円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,425円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.54%、幾何成長率は13.68%",
+      "新NISAで月1万円の配当金を得るには3,429株（約4,884,610円）が必要"
+    ],
+    "accumulation_strategy_analysis": "九州フィナンシャルグループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,425円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,011,214円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り2.46%）です。月次95%VaR（最大想定損失率）は-12.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "九州フィナンシャルグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,425円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約4,884,610円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1424.5
+  }
+}

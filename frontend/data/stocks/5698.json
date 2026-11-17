@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5698",
+    "name": "エンビプロ・ホールディングス",
+    "sector": "鉄鋼",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 612.0,
+    "min_s_kabu_yen": 612,
+    "unit_lot_yen": 61200,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 4.08,
+    "raw_annual_return_pct": -8.7,
+    "capped_annual_return_pct": -8.7,
+    "geometric_growth_pct": -19.81,
+    "annual_volatility_pct": 47.14,
+    "max_drawdown_pct": -66.15,
+    "monthly_var_95_pct": -19.28,
+    "sharpe_ratio": -0.35,
+    "quant_score": 32.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 293760,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 369036
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 1468800,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 1843344
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 2937600,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 3686688
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 8812800,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 11060064
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 14688000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 18432828
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 110314,
+        "upper_90_yen": 169194,
+        "lower_10_yen": 73170
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 204576,
+        "upper_90_yen": 367977,
+        "lower_10_yen": 118092
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 285122,
+        "upper_90_yen": 578481,
+        "lower_10_yen": 149004
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 353946,
+        "upper_90_yen": 792618,
+        "lower_10_yen": 171172
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 412756,
+        "upper_90_yen": 1005389,
+        "lower_10_yen": 187454
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 463008,
+        "upper_90_yen": 1213455,
+        "lower_10_yen": 199607
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 505948,
+        "upper_90_yen": 1414542,
+        "lower_10_yen": 208787
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 542639,
+        "upper_90_yen": 1607119,
+        "lower_10_yen": 215785
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 573991,
+        "upper_90_yen": 1790194,
+        "lower_10_yen": 221159
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 600781,
+        "upper_90_yen": 1963179,
+        "lower_10_yen": 225311
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エンビプロ・ホールディングス(5698)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エンビプロ・ホールディングス(5698)を1株(612円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小612円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは47.14%、幾何成長率は-19.81%",
+      "新NISAで月1万円の配当金を得るには4,800株（約2,937,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エンビプロ・ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約612円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は600,781円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り4.08%）です。月次95%VaR（最大想定損失率）は-19.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エンビプロ・ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約612円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約2,937,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 612.0
+  }
+}

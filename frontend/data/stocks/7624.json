@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7624",
+    "name": "ＮａＩＴＯ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 154.0,
+    "min_s_kabu_yen": 154,
+    "unit_lot_yen": 15400,
+    "dps_yen": 4.0,
+    "dividend_yield_pct": 2.6,
+    "raw_annual_return_pct": -1.1,
+    "capped_annual_return_pct": -1.1,
+    "geometric_growth_pct": -3.12,
+    "annual_volatility_pct": 20.09,
+    "max_drawdown_pct": -32.71,
+    "monthly_var_95_pct": -7.17,
+    "sharpe_ratio": -0.08,
+    "quant_score": 48.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 462000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 579810
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 2310000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 2899050
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 4620000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 5797946
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 90000,
+        "nisa_required_capital_yen": 13860000,
+        "specific_required_shares": 112945,
+        "specific_required_capital_yen": 17393530
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 150000,
+        "nisa_required_capital_yen": 23100000,
+        "specific_required_shares": 188242,
+        "specific_required_capital_yen": 28989268
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119662,
+        "upper_90_yen": 143634,
+        "lower_10_yen": 99999
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238702,
+        "upper_90_yen": 307345,
+        "lower_10_yen": 186636
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 357123,
+        "upper_90_yen": 485787,
+        "lower_10_yen": 265267
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 474929,
+        "upper_90_yen": 676984,
+        "lower_10_yen": 337882
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 592123,
+        "upper_90_yen": 879806,
+        "lower_10_yen": 405618
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 708707,
+        "upper_90_yen": 1093505,
+        "lower_10_yen": 469238
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 824686,
+        "upper_90_yen": 1317539,
+        "lower_10_yen": 529290
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 940062,
+        "upper_90_yen": 1551498,
+        "lower_10_yen": 586198
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1054838,
+        "upper_90_yen": 1795057,
+        "lower_10_yen": 640294
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1169018,
+        "upper_90_yen": 2047955,
+        "lower_10_yen": 691852
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＮａＩＴＯ(7624)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＮａＩＴＯ(7624)を1株(154円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小154円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.09%、幾何成長率は-3.12%",
+      "新NISAで月1万円の配当金を得るには30,000株（約4,620,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＮａＩＴＯは単元未満株（S株・かぶミニ等）を利用することで1株（約154円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,169,018円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり4.0円（利回り2.6%）です。月次95%VaR（最大想定損失率）は-7.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＮａＩＴＯは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約154円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、30,000株（元本目安：約4,620,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 154.0
+  }
+}

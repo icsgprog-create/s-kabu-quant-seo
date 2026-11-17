@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6180",
+    "name": "ＧＭＯメディア",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3475.0,
+    "min_s_kabu_yen": 3475,
+    "unit_lot_yen": 347500,
+    "dps_yen": 241.0,
+    "dividend_yield_pct": 6.94,
+    "raw_annual_return_pct": 15.8,
+    "capped_annual_return_pct": 15.8,
+    "geometric_growth_pct": 8.9,
+    "annual_volatility_pct": 37.16,
+    "max_drawdown_pct": -44.18,
+    "monthly_var_95_pct": -15.74,
+    "sharpe_ratio": 0.4,
+    "quant_score": 62.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 50,
+        "nisa_required_capital_yen": 173750,
+        "specific_required_shares": 63,
+        "specific_required_capital_yen": 218925
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 249,
+        "nisa_required_capital_yen": 865275,
+        "specific_required_shares": 313,
+        "specific_required_capital_yen": 1087675
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 498,
+        "nisa_required_capital_yen": 1730550,
+        "specific_required_shares": 625,
+        "specific_required_capital_yen": 2171875
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1494,
+        "nisa_required_capital_yen": 5191650,
+        "specific_required_shares": 1875,
+        "specific_required_capital_yen": 6515625
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2490,
+        "nisa_required_capital_yen": 8652750,
+        "specific_required_shares": 3125,
+        "specific_required_capital_yen": 10859375
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130883,
+        "upper_90_yen": 184769,
+        "lower_10_yen": 93682
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 284221,
+        "upper_90_yen": 462144,
+        "lower_10_yen": 178713
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 463868,
+        "upper_90_yen": 846611,
+        "lower_10_yen": 262811
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 674338,
+        "upper_90_yen": 1363131,
+        "lower_10_yen": 348686
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 920918,
+        "upper_90_yen": 2044442,
+        "lower_10_yen": 438020
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1209805,
+        "upper_90_yen": 2931969,
+        "lower_10_yen": 532132
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1548257,
+        "upper_90_yen": 4077534,
+        "lower_10_yen": 632197
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1944778,
+        "upper_90_yen": 5545614,
+        "lower_10_yen": 739363
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2409332,
+        "upper_90_yen": 7416183,
+        "lower_10_yen": 854797
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2953590,
+        "upper_90_yen": 9788221,
+        "lower_10_yen": 979737
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＧＭＯメディア(6180)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＧＭＯメディア(6180)を1株(3,475円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,475円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.16%、幾何成長率は8.9%",
+      "新NISAで月1万円の配当金を得るには498株（約1,730,550円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＧＭＯメディアは単元未満株（S株・かぶミニ等）を利用することで1株（約3,475円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,953,590円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり241.0円（利回り6.94%）です。月次95%VaR（最大想定損失率）は-15.74%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＧＭＯメディアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,475円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、498株（元本目安：約1,730,550円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3475.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3682",
+    "name": "エンカレッジ・テクノロジ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 588.0,
+    "min_s_kabu_yen": 588,
+    "unit_lot_yen": 58800,
+    "dps_yen": 26.0,
+    "dividend_yield_pct": 4.42,
+    "raw_annual_return_pct": 1.18,
+    "capped_annual_return_pct": 1.18,
+    "geometric_growth_pct": -1.83,
+    "annual_volatility_pct": 24.55,
+    "max_drawdown_pct": -25.01,
+    "monthly_var_95_pct": -7.83,
+    "sharpe_ratio": 0.06,
+    "quant_score": 62.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 271656,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 341040
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 1357104,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 1703436
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 2714208,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 3406284
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13847,
+        "nisa_required_capital_yen": 8142036,
+        "specific_required_shares": 17377,
+        "specific_required_capital_yen": 10217676
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 23077,
+        "nisa_required_capital_yen": 13569276,
+        "specific_required_shares": 28961,
+        "specific_required_capital_yen": 17029068
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121697,
+        "upper_90_yen": 152272,
+        "lower_10_yen": 97709
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 246583,
+        "upper_90_yen": 336696,
+        "lower_10_yen": 182393
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 374743,
+        "upper_90_yen": 548283,
+        "lower_10_yen": 260083
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 506262,
+        "upper_90_yen": 786025,
+        "lower_10_yen": 332882
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 641227,
+        "upper_90_yen": 1049910,
+        "lower_10_yen": 401942
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 779730,
+        "upper_90_yen": 1340398,
+        "lower_10_yen": 468004
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 921863,
+        "upper_90_yen": 1658222,
+        "lower_10_yen": 531586
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1067722,
+        "upper_90_yen": 2004310,
+        "lower_10_yen": 593075
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1217403,
+        "upper_90_yen": 2379737,
+        "lower_10_yen": 652766
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1371007,
+        "upper_90_yen": 2785703,
+        "lower_10_yen": 710898
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エンカレッジ・テクノロジ(3682)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エンカレッジ・テクノロジ(3682)を1株(588円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小588円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.55%、幾何成長率は-1.83%",
+      "新NISAで月1万円の配当金を得るには4,616株（約2,714,208円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エンカレッジ・テクノロジは単元未満株（S株・かぶミニ等）を利用することで1株（約588円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,371,007円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり26.0円（利回り4.42%）です。月次95%VaR（最大想定損失率）は-7.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エンカレッジ・テクノロジは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約588円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,616株（元本目安：約2,714,208円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 588.0
+  }
+}

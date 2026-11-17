@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7305",
+    "name": "新家工業",
+    "sector": "鉄鋼",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2598.0,
+    "min_s_kabu_yen": 2598,
+    "unit_lot_yen": 259800,
+    "dps_yen": 160.0,
+    "dividend_yield_pct": 6.16,
+    "raw_annual_return_pct": 26.18,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.68,
+    "annual_volatility_pct": 29.4,
+    "max_drawdown_pct": -26.98,
+    "monthly_var_95_pct": -8.52,
+    "sharpe_ratio": 0.71,
+    "quant_score": 78.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 75,
+        "nisa_required_capital_yen": 194850,
+        "specific_required_shares": 95,
+        "specific_required_capital_yen": 246810
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 974250,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 1223658
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 1948500,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 2447316
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2250,
+        "nisa_required_capital_yen": 5845500,
+        "specific_required_shares": 2824,
+        "specific_required_capital_yen": 7336752
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 9742500,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 12228786
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135333,
+        "upper_90_yen": 177880,
+        "lower_10_yen": 103633
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 303692,
+        "upper_90_yen": 447125,
+        "lower_10_yen": 209110
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 513135,
+        "upper_90_yen": 829714,
+        "lower_10_yen": 323900
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 773688,
+        "upper_90_yen": 1360102,
+        "lower_10_yen": 452003
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1097824,
+        "upper_90_yen": 2084792,
+        "lower_10_yen": 597074
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1501058,
+        "upper_90_yen": 3065242,
+        "lower_10_yen": 763002
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2002694,
+        "upper_90_yen": 4382091,
+        "lower_10_yen": 954179
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2626744,
+        "upper_90_yen": 6140781,
+        "lower_10_yen": 1175702
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3403080,
+        "upper_90_yen": 8478868,
+        "lower_10_yen": 1433564
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4368865,
+        "upper_90_yen": 11575503,
+        "lower_10_yen": 1734868
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "新家工業(7305)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "新家工業(7305)を1株(2,598円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,598円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.4%、幾何成長率は15.68%",
+      "新NISAで月1万円の配当金を得るには750株（約1,948,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "新家工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,598円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,368,865円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり160.0円（利回り6.16%）です。月次95%VaR（最大想定損失率）は-8.52%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "新家工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,598円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、750株（元本目安：約1,948,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2598.0
+  }
+}

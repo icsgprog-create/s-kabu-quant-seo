@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4174",
+    "name": "アピリッツ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 953.0,
+    "min_s_kabu_yen": 953,
+    "unit_lot_yen": 95300,
+    "dps_yen": 28.5,
+    "dividend_yield_pct": 2.99,
+    "raw_annual_return_pct": 12.04,
+    "capped_annual_return_pct": 12.04,
+    "geometric_growth_pct": -1.83,
+    "annual_volatility_pct": 52.65,
+    "max_drawdown_pct": -57.32,
+    "monthly_var_95_pct": -18.33,
+    "sharpe_ratio": 0.0,
+    "quant_score": 29.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 422,
+        "nisa_required_capital_yen": 402166,
+        "specific_required_shares": 529,
+        "specific_required_capital_yen": 504137
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2106,
+        "nisa_required_capital_yen": 2007018,
+        "specific_required_shares": 2642,
+        "specific_required_capital_yen": 2517826
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4211,
+        "nisa_required_capital_yen": 4013083,
+        "specific_required_shares": 5284,
+        "specific_required_capital_yen": 5035652
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12632,
+        "nisa_required_capital_yen": 12038296,
+        "specific_required_shares": 15852,
+        "specific_required_capital_yen": 15106956
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21053,
+        "nisa_required_capital_yen": 20063509,
+        "specific_required_shares": 26420,
+        "specific_required_capital_yen": 25178260
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120760,
+        "upper_90_yen": 196256,
+        "lower_10_yen": 75895
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242936,
+        "upper_90_yen": 478535,
+        "lower_10_yen": 129104
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 366543,
+        "upper_90_yen": 841086,
+        "lower_10_yen": 171404
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 491599,
+        "upper_90_yen": 1286519,
+        "lower_10_yen": 206607
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 618120,
+        "upper_90_yen": 1819693,
+        "lower_10_yen": 236693
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 746123,
+        "upper_90_yen": 2446679,
+        "lower_10_yen": 262870
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 875627,
+        "upper_90_yen": 3174405,
+        "lower_10_yen": 285950
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1006648,
+        "upper_90_yen": 4010523,
+        "lower_10_yen": 306507
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1139205,
+        "upper_90_yen": 4963343,
+        "lower_10_yen": 324968
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1273315,
+        "upper_90_yen": 6041810,
+        "lower_10_yen": 341662
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アピリッツ(4174)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アピリッツ(4174)を1株(953円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小953円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは52.65%、幾何成長率は-1.83%",
+      "新NISAで月1万円の配当金を得るには4,211株（約4,013,083円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アピリッツは単元未満株（S株・かぶミニ等）を利用することで1株（約953円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,273,315円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり28.5円（利回り2.99%）です。月次95%VaR（最大想定損失率）は-18.33%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アピリッツは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約953円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,211株（元本目安：約4,013,083円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 953.0
+  }
+}

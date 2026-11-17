@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6537",
+    "name": "ＷＡＳＨハウス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 215.0,
+    "min_s_kabu_yen": 215,
+    "unit_lot_yen": 21500,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -14.43,
+    "capped_annual_return_pct": -14.43,
+    "geometric_growth_pct": -30.97,
+    "annual_volatility_pct": 57.53,
+    "max_drawdown_pct": -68.5,
+    "monthly_var_95_pct": -18.12,
+    "sharpe_ratio": -0.56,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 101868,
+        "upper_90_yen": 170890,
+        "lower_10_yen": 62308
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 176602,
+        "upper_90_yen": 356068,
+        "lower_10_yen": 92694
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 231429,
+        "upper_90_yen": 532680,
+        "lower_10_yen": 109790
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 271652,
+        "upper_90_yen": 693024,
+        "lower_10_yen": 119913
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 301161,
+        "upper_90_yen": 834466,
+        "lower_10_yen": 126084
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 322810,
+        "upper_90_yen": 956820,
+        "lower_10_yen": 129922
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 338692,
+        "upper_90_yen": 1061151,
+        "lower_10_yen": 132344
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 350344,
+        "upper_90_yen": 1149126,
+        "lower_10_yen": 133890
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 358892,
+        "upper_90_yen": 1222645,
+        "lower_10_yen": 134885
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 365163,
+        "upper_90_yen": 1283628,
+        "lower_10_yen": 135531
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＷＡＳＨハウス(6537)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＷＡＳＨハウス(6537)を1株(215円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小215円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは57.53%、幾何成長率は-30.97%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＷＡＳＨハウスは単元未満株（S株・かぶミニ等）を利用することで1株（約215円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は365,163円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-18.12%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＷＡＳＨハウスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約215円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 215.0
+  }
+}

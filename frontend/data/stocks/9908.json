@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9908",
+    "name": "日本電計",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2621.0,
+    "min_s_kabu_yen": 2621,
+    "unit_lot_yen": 262100,
+    "dps_yen": 108.0,
+    "dividend_yield_pct": 4.12,
+    "raw_annual_return_pct": 18.87,
+    "capped_annual_return_pct": 18.87,
+    "geometric_growth_pct": 16.44,
+    "annual_volatility_pct": 22.05,
+    "max_drawdown_pct": -30.93,
+    "monthly_var_95_pct": -7.59,
+    "sharpe_ratio": 0.89,
+    "quant_score": 83.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 112,
+        "nisa_required_capital_yen": 293552,
+        "specific_required_shares": 140,
+        "specific_required_capital_yen": 366940
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 556,
+        "nisa_required_capital_yen": 1457276,
+        "specific_required_shares": 698,
+        "specific_required_capital_yen": 1829458
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1112,
+        "nisa_required_capital_yen": 2914552,
+        "specific_required_shares": 1395,
+        "specific_required_capital_yen": 3656295
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 8738414,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 10966264
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5556,
+        "nisa_required_capital_yen": 14562276,
+        "specific_required_shares": 6972,
+        "specific_required_capital_yen": 18273612
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134374,
+        "upper_90_yen": 164820,
+        "lower_10_yen": 109952
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 299424,
+        "upper_90_yen": 399477,
+        "lower_10_yen": 226170
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 502156,
+        "upper_90_yen": 717968,
+        "lower_10_yen": 355300
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 751170,
+        "upper_90_yen": 1142291,
+        "lower_10_yen": 501503
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1057035,
+        "upper_90_yen": 1701482,
+        "lower_10_yen": 668865
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1432727,
+        "upper_90_yen": 2432965,
+        "lower_10_yen": 861879
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1894189,
+        "upper_90_yen": 3384612,
+        "lower_10_yen": 1085703
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2461003,
+        "upper_90_yen": 4617439,
+        "lower_10_yen": 1346362
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3157218,
+        "upper_90_yen": 6209066,
+        "lower_10_yen": 1650962
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4012378,
+        "upper_90_yen": 8258096,
+        "lower_10_yen": 2007923
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本電計(9908)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本電計(9908)を1株(2,621円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,621円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.05%、幾何成長率は16.44%",
+      "新NISAで月1万円の配当金を得るには1,112株（約2,914,552円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本電計は単元未満株（S株・かぶミニ等）を利用することで1株（約2,621円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,012,378円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり108.0円（利回り4.12%）です。月次95%VaR（最大想定損失率）は-7.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本電計は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,621円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,112株（元本目安：約2,914,552円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2621.0
+  }
+}

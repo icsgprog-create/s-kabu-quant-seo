@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3907",
+    "name": "シリコンスタジオ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 995.0,
+    "min_s_kabu_yen": 995,
+    "unit_lot_yen": 99500,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.01,
+    "raw_annual_return_pct": -4.02,
+    "capped_annual_return_pct": -4.02,
+    "geometric_growth_pct": -26.4,
+    "annual_volatility_pct": 66.9,
+    "max_drawdown_pct": -68.83,
+    "monthly_var_95_pct": -26.1,
+    "sharpe_ratio": -0.39,
+    "quant_score": 8.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1194000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1498470
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 5970000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 7492350
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 11940000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 14984700
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 35820000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 44952110
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 59700000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 74920515
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 104857,
+        "upper_90_yen": 192369,
+        "lower_10_yen": 59174
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 186197,
+        "upper_90_yen": 426551,
+        "lower_10_yen": 87712
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 249295,
+        "upper_90_yen": 672867,
+        "lower_10_yen": 103973
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 298241,
+        "upper_90_yen": 917599,
+        "lower_10_yen": 113804
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 336210,
+        "upper_90_yen": 1152777,
+        "lower_10_yen": 119955
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 365663,
+        "upper_90_yen": 1373712,
+        "lower_10_yen": 123892
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 388511,
+        "upper_90_yen": 1577830,
+        "lower_10_yen": 126456
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 406234,
+        "upper_90_yen": 1763983,
+        "lower_10_yen": 128146
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 419983,
+        "upper_90_yen": 1931988,
+        "lower_10_yen": 129273
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 430648,
+        "upper_90_yen": 2082310,
+        "lower_10_yen": 130031
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シリコンスタジオ(3907)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シリコンスタジオ(3907)を1株(995円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小995円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは66.9%、幾何成長率は-26.4%",
+      "新NISAで月1万円の配当金を得るには12,000株（約11,940,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シリコンスタジオは単元未満株（S株・かぶミニ等）を利用することで1株（約995円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は430,648円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.01%）です。月次95%VaR（最大想定損失率）は-26.1%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シリコンスタジオは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約995円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約11,940,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 995.0
+  }
+}

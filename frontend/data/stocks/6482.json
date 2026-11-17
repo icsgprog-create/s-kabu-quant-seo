@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6482",
+    "name": "ＹＵＳＨＩＮ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 691.0,
+    "min_s_kabu_yen": 691,
+    "unit_lot_yen": 69100,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 2.89,
+    "raw_annual_return_pct": 1.28,
+    "capped_annual_return_pct": 1.28,
+    "geometric_growth_pct": -1.76,
+    "annual_volatility_pct": 24.63,
+    "max_drawdown_pct": -27.01,
+    "monthly_var_95_pct": -8.99,
+    "sharpe_ratio": 0.01,
+    "quant_score": 48.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 414600,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 520323
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2073000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 2601615
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 4146000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 5203230
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 12438000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 15608999
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 20730000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 26015459
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120743,
+        "upper_90_yen": 151150,
+        "lower_10_yen": 96902
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242870,
+        "upper_90_yen": 331704,
+        "lower_10_yen": 179621
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 366396,
+        "upper_90_yen": 535955,
+        "lower_10_yen": 254387
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 491337,
+        "upper_90_yen": 762226,
+        "lower_10_yen": 323416
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 617709,
+        "upper_90_yen": 1009836,
+        "lower_10_yen": 387942
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 745529,
+        "upper_90_yen": 1278553,
+        "lower_10_yen": 448764
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 874813,
+        "upper_90_yen": 1568395,
+        "lower_10_yen": 506450
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1005579,
+        "upper_90_yen": 1879538,
+        "lower_10_yen": 561422
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1137842,
+        "upper_90_yen": 2212267,
+        "lower_10_yen": 614011
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1271621,
+        "upper_90_yen": 2566952,
+        "lower_10_yen": 664480
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＹＵＳＨＩＮ(6482)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＹＵＳＨＩＮ(6482)を1株(691円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小691円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.63%、幾何成長率は-1.76%",
+      "新NISAで月1万円の配当金を得るには6,000株（約4,146,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＹＵＳＨＩＮは単元未満株（S株・かぶミニ等）を利用することで1株（約691円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,271,621円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り2.89%）です。月次95%VaR（最大想定損失率）は-8.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＹＵＳＨＩＮは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約691円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約4,146,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 691.0
+  }
+}

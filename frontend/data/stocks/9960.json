@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9960",
+    "name": "東テク",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4195.0,
+    "min_s_kabu_yen": 4195,
+    "unit_lot_yen": 419500,
+    "dps_yen": 135.0,
+    "dividend_yield_pct": 3.22,
+    "raw_annual_return_pct": 36.25,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.14,
+    "annual_volatility_pct": 34.22,
+    "max_drawdown_pct": -37.79,
+    "monthly_var_95_pct": -9.56,
+    "sharpe_ratio": 0.48,
+    "quant_score": 53.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 89,
+        "nisa_required_capital_yen": 373355,
+        "specific_required_shares": 112,
+        "specific_required_capital_yen": 469840
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 445,
+        "nisa_required_capital_yen": 1866775,
+        "specific_required_shares": 558,
+        "specific_required_capital_yen": 2340810
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 889,
+        "nisa_required_capital_yen": 3729355,
+        "specific_required_shares": 1116,
+        "specific_required_capital_yen": 4681620
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 11188065,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 14040665
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 18646775,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 23399710
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131997,
+        "upper_90_yen": 181342,
+        "lower_10_yen": 96931
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289022,
+        "upper_90_yen": 452421,
+        "lower_10_yen": 188127
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 475818,
+        "upper_90_yen": 828908,
+        "lower_10_yen": 280953
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 698032,
+        "upper_90_yen": 1336963,
+        "lower_10_yen": 378254
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 962378,
+        "upper_90_yen": 2011073,
+        "lower_10_yen": 482006
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1276844,
+        "upper_90_yen": 2895287,
+        "lower_10_yen": 593924
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1650934,
+        "upper_90_yen": 4045300,
+        "lower_10_yen": 715687
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2095953,
+        "upper_90_yen": 5531188,
+        "lower_10_yen": 849039
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2625347,
+        "upper_90_yen": 7440871,
+        "lower_10_yen": 995864
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3255117,
+        "upper_90_yen": 9884439,
+        "lower_10_yen": 1158239
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東テク(9960)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東テク(9960)を1株(4,195円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,195円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.22%、幾何成長率は14.14%",
+      "新NISAで月1万円の配当金を得るには889株（約3,729,355円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東テクは単元未満株（S株・かぶミニ等）を利用することで1株（約4,195円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,255,117円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり135.0円（利回り3.22%）です。月次95%VaR（最大想定損失率）は-9.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東テクは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,195円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、889株（元本目安：約3,729,355円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4195.0
+  }
+}

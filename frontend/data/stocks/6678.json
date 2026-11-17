@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6678",
+    "name": "テクノメディカ",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2146.0,
+    "min_s_kabu_yen": 2146,
+    "unit_lot_yen": 214600,
+    "dps_yen": 129.0,
+    "dividend_yield_pct": 6.01,
+    "raw_annual_return_pct": 9.11,
+    "capped_annual_return_pct": 9.11,
+    "geometric_growth_pct": 6.1,
+    "annual_volatility_pct": 24.53,
+    "max_drawdown_pct": -35.43,
+    "monthly_var_95_pct": -9.74,
+    "sharpe_ratio": 0.45,
+    "quant_score": 76.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 94,
+        "nisa_required_capital_yen": 201724,
+        "specific_required_shares": 117,
+        "specific_required_capital_yen": 251082
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 466,
+        "nisa_required_capital_yen": 1000036,
+        "specific_required_shares": 584,
+        "specific_required_capital_yen": 1253264
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 931,
+        "nisa_required_capital_yen": 1997926,
+        "specific_required_shares": 1168,
+        "specific_required_capital_yen": 2506528
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 5989486,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 7517438
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4652,
+        "nisa_required_capital_yen": 9983192,
+        "specific_required_shares": 5837,
+        "specific_required_capital_yen": 12526202
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128217,
+        "upper_90_yen": 160692,
+        "lower_10_yen": 102772
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 272948,
+        "upper_90_yen": 374568,
+        "lower_10_yen": 200844
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 436319,
+        "upper_90_yen": 644390,
+        "lower_10_yen": 299842
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 620732,
+        "upper_90_yen": 977807,
+        "lower_10_yen": 401900
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 828897,
+        "upper_90_yen": 1384829,
+        "lower_10_yen": 508410
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1063873,
+        "upper_90_yen": 1877619,
+        "lower_10_yen": 620495
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1329113,
+        "upper_90_yen": 2470625,
+        "lower_10_yen": 739169
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1628516,
+        "upper_90_yen": 3180863,
+        "lower_10_yen": 865416
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1966480,
+        "upper_90_yen": 4028269,
+        "lower_10_yen": 1000236
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2347972,
+        "upper_90_yen": 5036145,
+        "lower_10_yen": 1144666
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "テクノメディカ(6678)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "テクノメディカ(6678)を1株(2,146円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,146円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.53%、幾何成長率は6.1%",
+      "新NISAで月1万円の配当金を得るには931株（約1,997,926円）が必要"
+    ],
+    "accumulation_strategy_analysis": "テクノメディカは単元未満株（S株・かぶミニ等）を利用することで1株（約2,146円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,347,972円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり129.0円（利回り6.01%）です。月次95%VaR（最大想定損失率）は-9.74%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "テクノメディカは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,146円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、931株（元本目安：約1,997,926円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2146.0
+  }
+}

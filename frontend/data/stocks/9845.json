@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9845",
+    "name": "パーカーコーポレーション",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1312.0,
+    "min_s_kabu_yen": 1312,
+    "unit_lot_yen": 131200,
+    "dps_yen": 63.0,
+    "dividend_yield_pct": 4.8,
+    "raw_annual_return_pct": 23.59,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.75,
+    "annual_volatility_pct": 29.16,
+    "max_drawdown_pct": -33.99,
+    "monthly_var_95_pct": -9.88,
+    "sharpe_ratio": 0.67,
+    "quant_score": 76.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 191,
+        "nisa_required_capital_yen": 250592,
+        "specific_required_shares": 240,
+        "specific_required_capital_yen": 314880
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 953,
+        "nisa_required_capital_yen": 1250336,
+        "specific_required_shares": 1196,
+        "specific_required_capital_yen": 1569152
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1905,
+        "nisa_required_capital_yen": 2499360,
+        "specific_required_shares": 2391,
+        "specific_required_capital_yen": 3136992
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5715,
+        "nisa_required_capital_yen": 7498080,
+        "specific_required_shares": 7172,
+        "specific_required_capital_yen": 9409664
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9524,
+        "nisa_required_capital_yen": 12495488,
+        "specific_required_shares": 11952,
+        "specific_required_capital_yen": 15681024
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134364,
+        "upper_90_yen": 176150,
+        "lower_10_yen": 103148
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 299383,
+        "upper_90_yen": 438980,
+        "lower_10_yen": 206951
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 502049,
+        "upper_90_yen": 807292,
+        "lower_10_yen": 318597
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 750954,
+        "upper_90_yen": 1310924,
+        "lower_10_yen": 441711
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1056644,
+        "upper_90_yen": 1989749,
+        "lower_10_yen": 579457
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1432076,
+        "upper_90_yen": 2895795,
+        "lower_10_yen": 735103
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1893160,
+        "upper_90_yen": 4096416,
+        "lower_10_yen": 912256
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2459439,
+        "upper_90_yen": 5678479,
+        "lower_10_yen": 1115025
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3154911,
+        "upper_90_yen": 7753757,
+        "lower_10_yen": 1348172
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4009052,
+        "upper_90_yen": 10465820,
+        "lower_10_yen": 1617257
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "パーカーコーポレーション(9845)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "パーカーコーポレーション(9845)を1株(1,312円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,312円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.16%、幾何成長率は15.75%",
+      "新NISAで月1万円の配当金を得るには1,905株（約2,499,360円）が必要"
+    ],
+    "accumulation_strategy_analysis": "パーカーコーポレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約1,312円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,009,052円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり63.0円（利回り4.8%）です。月次95%VaR（最大想定損失率）は-9.88%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "パーカーコーポレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,312円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,905株（元本目安：約2,499,360円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1312.0
+  }
+}

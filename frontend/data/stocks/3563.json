@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3563",
+    "name": "ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6244.0,
+    "min_s_kabu_yen": 6244,
+    "unit_lot_yen": 624400,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 0.32,
+    "raw_annual_return_pct": 18.34,
+    "capped_annual_return_pct": 18.34,
+    "geometric_growth_pct": 9.73,
+    "annual_volatility_pct": 41.51,
+    "max_drawdown_pct": -60.75,
+    "monthly_var_95_pct": -14.99,
+    "sharpe_ratio": 0.22,
+    "quant_score": 16.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 3746400,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 4701732
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 18732000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 23508660
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 37464000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 47017320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 112392000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 141045716
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 187320000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 235080356
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126767,
+        "upper_90_yen": 186106,
+        "lower_10_yen": 87483
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266937,
+        "upper_90_yen": 457645,
+        "lower_10_yen": 160119
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 421927,
+        "upper_90_yen": 819981,
+        "lower_10_yen": 226569
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 593303,
+        "upper_90_yen": 1286872,
+        "lower_10_yen": 289579
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 782800,
+        "upper_90_yen": 1876263,
+        "lower_10_yen": 350583
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 992331,
+        "upper_90_yen": 2609980,
+        "lower_10_yen": 410483
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1224017,
+        "upper_90_yen": 3514011,
+        "lower_10_yen": 469913
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1480198,
+        "upper_90_yen": 4619014,
+        "lower_10_yen": 529351
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1763464,
+        "upper_90_yen": 5960985,
+        "lower_10_yen": 589185
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2076681,
+        "upper_90_yen": 7582053,
+        "lower_10_yen": 649741
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳ(3563)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳ(3563)を1株(6,244円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,244円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.51%、幾何成長率は9.73%",
+      "新NISAで月1万円の配当金を得るには6,000株（約37,464,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳは単元未満株（S株・かぶミニ等）を利用することで1株（約6,244円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,076,681円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り0.32%）です。月次95%VaR（最大想定損失率）は-14.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,244円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約37,464,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6244.0
+  }
+}

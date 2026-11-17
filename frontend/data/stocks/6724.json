@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6724",
+    "name": "セイコーエプソン",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2729.5,
+    "min_s_kabu_yen": 2730,
+    "unit_lot_yen": 272950,
+    "dps_yen": 77.0,
+    "dividend_yield_pct": 2.82,
+    "raw_annual_return_pct": 10.3,
+    "capped_annual_return_pct": 10.3,
+    "geometric_growth_pct": 5.52,
+    "annual_volatility_pct": 30.91,
+    "max_drawdown_pct": -36.83,
+    "monthly_var_95_pct": -10.7,
+    "sharpe_ratio": 0.24,
+    "quant_score": 47.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 156,
+        "nisa_required_capital_yen": 425802,
+        "specific_required_shares": 196,
+        "specific_required_capital_yen": 534982
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 780,
+        "nisa_required_capital_yen": 2129010,
+        "specific_required_shares": 978,
+        "specific_required_capital_yen": 2669451
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1559,
+        "nisa_required_capital_yen": 4255290,
+        "specific_required_shares": 1956,
+        "specific_required_capital_yen": 5338902
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4676,
+        "nisa_required_capital_yen": 12763142,
+        "specific_required_shares": 5868,
+        "specific_required_capital_yen": 16016706
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7793,
+        "nisa_required_capital_yen": 21270994,
+        "specific_required_shares": 9779,
+        "specific_required_capital_yen": 26691780
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125586,
+        "upper_90_yen": 166894,
+        "lower_10_yen": 95190
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262102,
+        "upper_90_yen": 390159,
+        "lower_10_yen": 178842
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 410501,
+        "upper_90_yen": 669383,
+        "lower_10_yen": 257813
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 571817,
+        "upper_90_yen": 1009582,
+        "lower_10_yen": 334377
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 747174,
+        "upper_90_yen": 1417767,
+        "lower_10_yen": 409764
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 937795,
+        "upper_90_yen": 1902450,
+        "lower_10_yen": 484777
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1145007,
+        "upper_90_yen": 2473567,
+        "lower_10_yen": 559995
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1370255,
+        "upper_90_yen": 3142530,
+        "lower_10_yen": 635872
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1615109,
+        "upper_90_yen": 3922343,
+        "lower_10_yen": 712782
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1881275,
+        "upper_90_yen": 4827763,
+        "lower_10_yen": 791054
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セイコーエプソン(6724)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セイコーエプソン(6724)を1株(2,730円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,730円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.91%、幾何成長率は5.52%",
+      "新NISAで月1万円の配当金を得るには1,559株（約4,255,290円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セイコーエプソンは単元未満株（S株・かぶミニ等）を利用することで1株（約2,730円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,881,275円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり77.0円（利回り2.82%）です。月次95%VaR（最大想定損失率）は-10.7%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セイコーエプソンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,730円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,559株（元本目安：約4,255,290円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2729.5
+  }
+}

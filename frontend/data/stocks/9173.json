@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9173",
+    "name": "東海汽船",
+    "sector": "海運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2838.0,
+    "min_s_kabu_yen": 2838,
+    "unit_lot_yen": 283800,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 0.35,
+    "raw_annual_return_pct": 3.92,
+    "capped_annual_return_pct": 3.92,
+    "geometric_growth_pct": 3.45,
+    "annual_volatility_pct": 9.63,
+    "max_drawdown_pct": -17.24,
+    "monthly_var_95_pct": -3.44,
+    "sharpe_ratio": 0.29,
+    "quant_score": 45.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 3405600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 4274028
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 17028000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 21370140
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 34056000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 42740280
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 102168000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 128215164
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 170280000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 213692886
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122508,
+        "upper_90_yen": 133713,
+        "lower_10_yen": 112321
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 249769,
+        "upper_90_yen": 281998,
+        "lower_10_yen": 221563
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 381969,
+        "upper_90_yen": 442938,
+        "lower_10_yen": 330168
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 519299,
+        "upper_90_yen": 616183,
+        "lower_10_yen": 439038
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 661958,
+        "upper_90_yen": 801782,
+        "lower_10_yen": 548699
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 810153,
+        "upper_90_yen": 999969,
+        "lower_10_yen": 659518
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 964098,
+        "upper_90_yen": 1211089,
+        "lower_10_yen": 771778
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1124017,
+        "upper_90_yen": 1435568,
+        "lower_10_yen": 885710
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1290142,
+        "upper_90_yen": 1673895,
+        "lower_10_yen": 1001511
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1462713,
+        "upper_90_yen": 1926607,
+        "lower_10_yen": 1119360
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東海汽船(9173)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東海汽船(9173)を1株(2,838円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,838円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは9.63%、幾何成長率は3.45%",
+      "新NISAで月1万円の配当金を得るには12,000株（約34,056,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東海汽船は単元未満株（S株・かぶミニ等）を利用することで1株（約2,838円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,462,713円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り0.35%）です。月次95%VaR（最大想定損失率）は-3.44%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東海汽船は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,838円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約34,056,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2838.0
+  }
+}

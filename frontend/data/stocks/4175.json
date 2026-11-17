@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4175",
+    "name": "ｃｏｌｙ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2580.0,
+    "min_s_kabu_yen": 2580,
+    "unit_lot_yen": 258000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -7.8,
+    "capped_annual_return_pct": -7.8,
+    "geometric_growth_pct": -24.24,
+    "annual_volatility_pct": 57.33,
+    "max_drawdown_pct": -77.21,
+    "monthly_var_95_pct": -26.17,
+    "sharpe_ratio": -0.44,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105493,
+        "upper_90_yen": 177179,
+        "lower_10_yen": 64432
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 188280,
+        "upper_90_yen": 382010,
+        "lower_10_yen": 98141
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 253250,
+        "upper_90_yen": 590718,
+        "lower_10_yen": 118455
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 304236,
+        "upper_90_yen": 793222,
+        "lower_10_yen": 131333
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 344249,
+        "upper_90_yen": 984160,
+        "lower_10_yen": 139739
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 375649,
+        "upper_90_yen": 1160727,
+        "lower_10_yen": 145334
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 400292,
+        "upper_90_yen": 1321686,
+        "lower_10_yen": 149113
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 419631,
+        "upper_90_yen": 1466795,
+        "lower_10_yen": 151695
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 434807,
+        "upper_90_yen": 1596449,
+        "lower_10_yen": 153473
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 446717,
+        "upper_90_yen": 1711438,
+        "lower_10_yen": 154708
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ｃｏｌｙ(4175)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ｃｏｌｙ(4175)を1株(2,580円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,580円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは57.33%、幾何成長率は-24.24%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ｃｏｌｙは単元未満株（S株・かぶミニ等）を利用することで1株（約2,580円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は446,717円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-26.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ｃｏｌｙは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,580円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2580.0
+  }
+}

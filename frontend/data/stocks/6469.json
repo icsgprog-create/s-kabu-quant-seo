@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6469",
+    "name": "放電精密加工研究所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1982.0,
+    "min_s_kabu_yen": 1982,
+    "unit_lot_yen": 198200,
+    "dps_yen": 18.0,
+    "dividend_yield_pct": 0.91,
+    "raw_annual_return_pct": 19.55,
+    "capped_annual_return_pct": 19.55,
+    "geometric_growth_pct": 3.52,
+    "annual_volatility_pct": 56.62,
+    "max_drawdown_pct": -66.46,
+    "monthly_var_95_pct": -20.28,
+    "sharpe_ratio": 0.06,
+    "quant_score": 13.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1321994,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 1658934
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 6607988,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 8292688
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 13213994,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 16583394
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 39640000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 49746218
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 33334,
+        "nisa_required_capital_yen": 66067988,
+        "specific_required_shares": 41832,
+        "specific_required_capital_yen": 82911024
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122924,
+        "upper_90_yen": 207682,
+        "lower_10_yen": 74554
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251416,
+        "upper_90_yen": 524221,
+        "lower_10_yen": 127088
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 385727,
+        "upper_90_yen": 951772,
+        "lower_10_yen": 169463
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 526122,
+        "upper_90_yen": 1502422,
+        "lower_10_yen": 205369
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 672876,
+        "upper_90_yen": 2192039,
+        "lower_10_yen": 236674
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 826277,
+        "upper_90_yen": 3039406,
+        "lower_10_yen": 264499
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 986626,
+        "upper_90_yen": 4066091,
+        "lower_10_yen": 289584
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1154238,
+        "upper_90_yen": 5296537,
+        "lower_10_yen": 312449
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1329441,
+        "upper_90_yen": 6758267,
+        "lower_10_yen": 333476
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1512580,
+        "upper_90_yen": 8482138,
+        "lower_10_yen": 352955
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "放電精密加工研究所(6469)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "放電精密加工研究所(6469)を1株(1,982円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,982円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは56.62%、幾何成長率は3.52%",
+      "新NISAで月1万円の配当金を得るには6,667株（約13,213,994円）が必要"
+    ],
+    "accumulation_strategy_analysis": "放電精密加工研究所は単元未満株（S株・かぶミニ等）を利用することで1株（約1,982円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,512,580円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり18.0円（利回り0.91%）です。月次95%VaR（最大想定損失率）は-20.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "放電精密加工研究所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,982円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,667株（元本目安：約13,213,994円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1982.0
+  }
+}

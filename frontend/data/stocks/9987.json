@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9987",
+    "name": "スズケン",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2907.5,
+    "min_s_kabu_yen": 2908,
+    "unit_lot_yen": 290750,
+    "dps_yen": 55.0,
+    "dividend_yield_pct": 1.89,
+    "raw_annual_return_pct": 14.09,
+    "capped_annual_return_pct": 14.09,
+    "geometric_growth_pct": 11.18,
+    "annual_volatility_pct": 24.15,
+    "max_drawdown_pct": -26.64,
+    "monthly_var_95_pct": -9.22,
+    "sharpe_ratio": 0.5,
+    "quant_score": 53.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 219,
+        "nisa_required_capital_yen": 636742,
+        "specific_required_shares": 274,
+        "specific_required_capital_yen": 796655
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 3172082,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 3983275
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 6344165,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 7963642
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6546,
+        "nisa_required_capital_yen": 19032495,
+        "specific_required_shares": 8215,
+        "specific_required_capital_yen": 23885112
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 31720825,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 39806582
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128893,
+        "upper_90_yen": 161004,
+        "lower_10_yen": 103643
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275780,
+        "upper_90_yen": 376788,
+        "lower_10_yen": 203760
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 443172,
+        "upper_90_yen": 651151,
+        "lower_10_yen": 305969
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 633932,
+        "upper_90_yen": 992945,
+        "lower_10_yen": 412495
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 851323,
+        "upper_90_yen": 1413680,
+        "lower_10_yen": 524868
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1099063,
+        "upper_90_yen": 1927392,
+        "lower_10_yen": 644384
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1381387,
+        "upper_90_yen": 2550879,
+        "lower_10_yen": 772263
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1703123,
+        "upper_90_yen": 3304084,
+        "lower_10_yen": 909731
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2069775,
+        "upper_90_yen": 4210584,
+        "lower_10_yen": 1058065
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2487612,
+        "upper_90_yen": 5298191,
+        "lower_10_yen": 1218623
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "スズケン(9987)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "スズケン(9987)を1株(2,908円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,908円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.15%、幾何成長率は11.18%",
+      "新NISAで月1万円の配当金を得るには2,182株（約6,344,165円）が必要"
+    ],
+    "accumulation_strategy_analysis": "スズケンは単元未満株（S株・かぶミニ等）を利用することで1株（約2,908円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,487,612円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり55.0円（利回り1.89%）です。月次95%VaR（最大想定損失率）は-9.22%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "スズケンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,908円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,182株（元本目安：約6,344,165円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2907.5
+  }
+}

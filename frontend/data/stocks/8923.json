@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8923",
+    "name": "トーセイ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1922.0,
+    "min_s_kabu_yen": 1922,
+    "unit_lot_yen": 192200,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 2.6,
+    "raw_annual_return_pct": 29.12,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.1,
+    "annual_volatility_pct": 27.93,
+    "max_drawdown_pct": -24.88,
+    "monthly_var_95_pct": -7.91,
+    "sharpe_ratio": 0.63,
+    "quant_score": 58.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 461280,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 580444
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2306400,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 2894532
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 4612800,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 5789064
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 13838400,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 17367192
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 23064000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 28945320
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132984,
+        "upper_90_yen": 172278,
+        "lower_10_yen": 103257
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 293313,
+        "upper_90_yen": 422628,
+        "lower_10_yen": 206114
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 486610,
+        "upper_90_yen": 765136,
+        "lower_10_yen": 315316
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 719654,
+        "upper_90_yen": 1222842,
+        "lower_10_yen": 434061
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1000618,
+        "upper_90_yen": 1826102,
+        "lower_10_yen": 564994
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1339355,
+        "upper_90_yen": 2613779,
+        "lower_10_yen": 710736
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1747745,
+        "upper_90_yen": 3635152,
+        "lower_10_yen": 874095
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2240111,
+        "upper_90_yen": 4952451,
+        "lower_10_yen": 1058191
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2833721,
+        "upper_90_yen": 6644064,
+        "lower_10_yen": 1266561
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3549392,
+        "upper_90_yen": 8808559,
+        "lower_10_yen": 1503257
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "トーセイ(8923)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "トーセイ(8923)を1株(1,922円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,922円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.93%、幾何成長率は16.1%",
+      "新NISAで月1万円の配当金を得るには2,400株（約4,612,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "トーセイは単元未満株（S株・かぶミニ等）を利用することで1株（約1,922円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,549,392円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り2.6%）です。月次95%VaR（最大想定損失率）は-7.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "トーセイは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,922円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約4,612,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1922.0
+  }
+}

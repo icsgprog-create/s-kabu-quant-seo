@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9823",
+    "name": "マミーマートホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1061.0,
+    "min_s_kabu_yen": 1061,
+    "unit_lot_yen": 106100,
+    "dps_yen": 22.1,
+    "dividend_yield_pct": 2.08,
+    "raw_annual_return_pct": 19.04,
+    "capped_annual_return_pct": 19.04,
+    "geometric_growth_pct": 14.16,
+    "annual_volatility_pct": 31.23,
+    "max_drawdown_pct": -48.42,
+    "monthly_var_95_pct": -14.32,
+    "sharpe_ratio": 0.49,
+    "quant_score": 47.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 543,
+        "nisa_required_capital_yen": 576123,
+        "specific_required_shares": 682,
+        "specific_required_capital_yen": 723602
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2715,
+        "nisa_required_capital_yen": 2880615,
+        "specific_required_shares": 3408,
+        "specific_required_capital_yen": 3615888
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5430,
+        "nisa_required_capital_yen": 5761230,
+        "specific_required_shares": 6815,
+        "specific_required_capital_yen": 7230715
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16290,
+        "nisa_required_capital_yen": 17283690,
+        "specific_required_shares": 20443,
+        "specific_required_capital_yen": 21690023
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27150,
+        "nisa_required_capital_yen": 28806150,
+        "specific_required_shares": 34071,
+        "specific_required_capital_yen": 36149331
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131179,
+        "upper_90_yen": 175177,
+        "lower_10_yen": 98957
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285493,
+        "upper_90_yen": 429099,
+        "lower_10_yen": 192941
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 467021,
+        "upper_90_yen": 773169,
+        "lower_10_yen": 288839
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 680563,
+        "upper_90_yen": 1227294,
+        "lower_10_yen": 389346
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 931765,
+        "upper_90_yen": 1817494,
+        "lower_10_yen": 496342
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1227269,
+        "upper_90_yen": 2576530,
+        "lower_10_yen": 611454
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1574888,
+        "upper_90_yen": 3545175,
+        "lower_10_yen": 736268
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1983812,
+        "upper_90_yen": 4773896,
+        "lower_10_yen": 872420
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2464854,
+        "upper_90_yen": 6324981,
+        "lower_10_yen": 1021664
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3030732,
+        "upper_90_yen": 8275150,
+        "lower_10_yen": 1185921
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "マミーマートホールディングス(9823)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "マミーマートホールディングス(9823)を1株(1,061円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,061円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.23%、幾何成長率は14.16%",
+      "新NISAで月1万円の配当金を得るには5,430株（約5,761,230円）が必要"
+    ],
+    "accumulation_strategy_analysis": "マミーマートホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,061円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,030,732円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.1円（利回り2.08%）です。月次95%VaR（最大想定損失率）は-14.32%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "マミーマートホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,061円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,430株（元本目安：約5,761,230円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1061.0
+  }
+}

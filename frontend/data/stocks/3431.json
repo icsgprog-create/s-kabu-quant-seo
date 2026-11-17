@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3431",
+    "name": "宮地エンジニアリンググループ",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1383.0,
+    "min_s_kabu_yen": 1383,
+    "unit_lot_yen": 138300,
+    "dps_yen": 82.0,
+    "dividend_yield_pct": 5.93,
+    "raw_annual_return_pct": 19.45,
+    "capped_annual_return_pct": 19.45,
+    "geometric_growth_pct": 15.55,
+    "annual_volatility_pct": 27.95,
+    "max_drawdown_pct": -38.31,
+    "monthly_var_95_pct": -8.91,
+    "sharpe_ratio": 0.73,
+    "quant_score": 80.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 147,
+        "nisa_required_capital_yen": 203301,
+        "specific_required_shares": 184,
+        "specific_required_capital_yen": 254472
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 732,
+        "nisa_required_capital_yen": 1012356,
+        "specific_required_shares": 919,
+        "specific_required_capital_yen": 1270977
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1464,
+        "nisa_required_capital_yen": 2024712,
+        "specific_required_shares": 1837,
+        "specific_required_capital_yen": 2540571
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4391,
+        "nisa_required_capital_yen": 6072753,
+        "specific_required_shares": 5510,
+        "specific_required_capital_yen": 7620330
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7318,
+        "nisa_required_capital_yen": 10120794,
+        "specific_required_shares": 9183,
+        "specific_required_capital_yen": 12700089
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135060,
+        "upper_90_yen": 175103,
+        "lower_10_yen": 104788
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 302474,
+        "upper_90_yen": 436681,
+        "lower_10_yen": 212122
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 509993,
+        "upper_90_yen": 804624,
+        "lower_10_yen": 329284
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 767222,
+        "upper_90_yen": 1310170,
+        "lower_10_yen": 460264
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1086071,
+        "upper_90_yen": 1995257,
+        "lower_10_yen": 608748
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1481301,
+        "upper_90_yen": 2914976,
+        "lower_10_yen": 778670
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1971208,
+        "upper_90_yen": 4141169,
+        "lower_10_yen": 974484
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2578472,
+        "upper_90_yen": 5767188,
+        "lower_10_yen": 1201357
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3331208,
+        "upper_90_yen": 7914069,
+        "lower_10_yen": 1465362
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4264261,
+        "upper_90_yen": 10738488,
+        "lower_10_yen": 1773684
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "宮地エンジニアリンググループ(3431)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "宮地エンジニアリンググループ(3431)を1株(1,383円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,383円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.95%、幾何成長率は15.55%",
+      "新NISAで月1万円の配当金を得るには1,464株（約2,024,712円）が必要"
+    ],
+    "accumulation_strategy_analysis": "宮地エンジニアリンググループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,383円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,264,261円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり82.0円（利回り5.93%）です。月次95%VaR（最大想定損失率）は-8.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "宮地エンジニアリンググループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,383円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,464株（元本目安：約2,024,712円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1383.0
+  }
+}

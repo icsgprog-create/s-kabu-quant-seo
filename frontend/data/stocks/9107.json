@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9107",
+    "name": "川崎汽船",
+    "sector": "海運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3050.0,
+    "min_s_kabu_yen": 3050,
+    "unit_lot_yen": 305000,
+    "dps_yen": 120.0,
+    "dividend_yield_pct": 3.93,
+    "raw_annual_return_pct": 42.05,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 9.45,
+    "annual_volatility_pct": 45.94,
+    "max_drawdown_pct": -41.87,
+    "monthly_var_95_pct": -16.7,
+    "sharpe_ratio": 0.27,
+    "quant_score": 43.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 100,
+        "nisa_required_capital_yen": 305000,
+        "specific_required_shares": 126,
+        "specific_required_capital_yen": 384300
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 1525000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 1915400
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 3050000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3827750
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 9150000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 11483250
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 15250000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 19138750
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129115,
+        "upper_90_yen": 197876,
+        "lower_10_yen": 85603
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 276715,
+        "upper_90_yen": 505025,
+        "lower_10_yen": 156867
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 445446,
+        "upper_90_yen": 937256,
+        "lower_10_yen": 222922
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 638333,
+        "upper_90_yen": 1522494,
+        "lower_10_yen": 286624
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 858834,
+        "upper_90_yen": 2297135,
+        "lower_10_yen": 349489
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1110903,
+        "upper_90_yen": 3306777,
+        "lower_10_yen": 412502
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1399058,
+        "upper_90_yen": 4607819,
+        "lower_10_yen": 476393
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1728467,
+        "upper_90_yen": 6269597,
+        "lower_10_yen": 541753
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2105035,
+        "upper_90_yen": 8377043,
+        "lower_10_yen": 609096
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2535513,
+        "upper_90_yen": 11033926,
+        "lower_10_yen": 678896
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "川崎汽船(9107)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "川崎汽船(9107)を1株(3,050円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,050円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.94%、幾何成長率は9.45%",
+      "新NISAで月1万円の配当金を得るには1,000株（約3,050,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "川崎汽船は単元未満株（S株・かぶミニ等）を利用することで1株（約3,050円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,535,513円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり120.0円（利回り3.93%）です。月次95%VaR（最大想定損失率）は-16.7%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "川崎汽船は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,050円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,000株（元本目安：約3,050,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3050.0
+  }
+}

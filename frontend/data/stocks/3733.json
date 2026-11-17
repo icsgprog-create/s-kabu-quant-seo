@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3733",
+    "name": "ソフトウェア・サービス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 11800.0,
+    "min_s_kabu_yen": 11800,
+    "unit_lot_yen": 1180000,
+    "dps_yen": 170.0,
+    "dividend_yield_pct": 1.44,
+    "raw_annual_return_pct": 13.21,
+    "capped_annual_return_pct": 13.21,
+    "geometric_growth_pct": 6.9,
+    "annual_volatility_pct": 35.54,
+    "max_drawdown_pct": -38.99,
+    "monthly_var_95_pct": -13.06,
+    "sharpe_ratio": 0.21,
+    "quant_score": 31.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 71,
+        "nisa_required_capital_yen": 837800,
+        "specific_required_shares": 89,
+        "specific_required_capital_yen": 1050200
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 353,
+        "nisa_required_capital_yen": 4165400,
+        "specific_required_shares": 443,
+        "specific_required_capital_yen": 5227400
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 706,
+        "nisa_required_capital_yen": 8330800,
+        "specific_required_shares": 886,
+        "specific_required_capital_yen": 10454800
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2118,
+        "nisa_required_capital_yen": 24992400,
+        "specific_required_shares": 2658,
+        "specific_required_capital_yen": 31364400
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 41654000,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 52274000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125579,
+        "upper_90_yen": 174239,
+        "lower_10_yen": 91381
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262076,
+        "upper_90_yen": 414552,
+        "lower_10_yen": 169130
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 410440,
+        "upper_90_yen": 721412,
+        "lower_10_yen": 240984
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 571703,
+        "upper_90_yen": 1101665,
+        "lower_10_yen": 309458
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 746986,
+        "upper_90_yen": 1564642,
+        "lower_10_yen": 375883
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 937509,
+        "upper_90_yen": 2121635,
+        "lower_10_yen": 441103
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1144595,
+        "upper_90_yen": 2785851,
+        "lower_10_yen": 505710
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1369686,
+        "upper_90_yen": 3572520,
+        "lower_10_yen": 570152
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1614346,
+        "upper_90_yen": 4499084,
+        "lower_10_yen": 634787
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1880276,
+        "upper_90_yen": 5585436,
+        "lower_10_yen": 699914
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ソフトウェア・サービス(3733)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ソフトウェア・サービス(3733)を1株(11,800円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小11,800円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.54%、幾何成長率は6.9%",
+      "新NISAで月1万円の配当金を得るには706株（約8,330,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ソフトウェア・サービスは単元未満株（S株・かぶミニ等）を利用することで1株（約11,800円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,880,276円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり170.0円（利回り1.44%）です。月次95%VaR（最大想定損失率）は-13.06%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ソフトウェア・サービスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約11,800円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、706株（元本目安：約8,330,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 11800.0
+  }
+}

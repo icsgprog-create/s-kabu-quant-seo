@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5857",
+    "name": "ＡＲＥホールディングス",
+    "sector": "非鉄金属",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3375.0,
+    "min_s_kabu_yen": 3375,
+    "unit_lot_yen": 337500,
+    "dps_yen": 140.0,
+    "dividend_yield_pct": 4.15,
+    "raw_annual_return_pct": 14.45,
+    "capped_annual_return_pct": 14.45,
+    "geometric_growth_pct": 9.28,
+    "annual_volatility_pct": 32.17,
+    "max_drawdown_pct": -38.15,
+    "monthly_var_95_pct": -10.85,
+    "sharpe_ratio": 0.39,
+    "quant_score": 60.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 86,
+        "nisa_required_capital_yen": 290250,
+        "specific_required_shares": 108,
+        "specific_required_capital_yen": 364500
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 1447875,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 1815750
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 2895750,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 3631500
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2572,
+        "nisa_required_capital_yen": 8680500,
+        "specific_required_shares": 3227,
+        "specific_required_capital_yen": 10891125
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 14465250,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 18154125
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129147,
+        "upper_90_yen": 173865,
+        "lower_10_yen": 96684
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 276848,
+        "upper_90_yen": 420478,
+        "lower_10_yen": 185349
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 445768,
+        "upper_90_yen": 746763,
+        "lower_10_yen": 272922
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 638956,
+        "upper_90_yen": 1166912,
+        "lower_10_yen": 361840
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 859899,
+        "upper_90_yen": 1699382,
+        "lower_10_yen": 453589
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1112584,
+        "upper_90_yen": 2366941,
+        "lower_10_yen": 549296
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1401571,
+        "upper_90_yen": 3197210,
+        "lower_10_yen": 649936
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1732075,
+        "upper_90_yen": 4223463,
+        "lower_10_yen": 756424
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2110061,
+        "upper_90_yen": 5485639,
+        "lower_10_yen": 869667
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2542351,
+        "upper_90_yen": 7031557,
+        "lower_10_yen": 990594
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＡＲＥホールディングス(5857)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＡＲＥホールディングス(5857)を1株(3,375円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,375円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.17%、幾何成長率は9.28%",
+      "新NISAで月1万円の配当金を得るには858株（約2,895,750円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＡＲＥホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,375円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,542,351円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり140.0円（利回り4.15%）です。月次95%VaR（最大想定損失率）は-10.85%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＡＲＥホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,375円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、858株（元本目安：約2,895,750円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3375.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5368",
+    "name": "日本インシュレーション",
+    "sector": "ガラス・土石製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 917.0,
+    "min_s_kabu_yen": 917,
+    "unit_lot_yen": 91700,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 4.36,
+    "raw_annual_return_pct": 2.34,
+    "capped_annual_return_pct": 2.34,
+    "geometric_growth_pct": 0.06,
+    "annual_volatility_pct": 21.38,
+    "max_drawdown_pct": -30.88,
+    "monthly_var_95_pct": -8.28,
+    "sharpe_ratio": 0.16,
+    "quant_score": 67.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 275100,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 345709
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 1375500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 1726711
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2751000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 3452505
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 8253000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 10357515
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 13755000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 17262525
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122918,
+        "upper_90_yen": 149422,
+        "lower_10_yen": 101469
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251393,
+        "upper_90_yen": 329850,
+        "lower_10_yen": 193043
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 385675,
+        "upper_90_yen": 537668,
+        "lower_10_yen": 279863
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 526027,
+        "upper_90_yen": 772727,
+        "lower_10_yen": 363703
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 672723,
+        "upper_90_yen": 1035785,
+        "lower_10_yen": 445537
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 826050,
+        "upper_90_yen": 1328060,
+        "lower_10_yen": 525995
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 986308,
+        "upper_90_yen": 1651074,
+        "lower_10_yen": 605523
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1153809,
+        "upper_90_yen": 2006590,
+        "lower_10_yen": 684458
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1328883,
+        "upper_90_yen": 2396576,
+        "lower_10_yen": 763066
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1511870,
+        "upper_90_yen": 2823198,
+        "lower_10_yen": 841566
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本インシュレーション(5368)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本インシュレーション(5368)を1株(917円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小917円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.38%、幾何成長率は0.06%",
+      "新NISAで月1万円の配当金を得るには3,000株（約2,751,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本インシュレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約917円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,511,870円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り4.36%）です。月次95%VaR（最大想定損失率）は-8.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本インシュレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約917円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約2,751,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 917.0
+  }
+}

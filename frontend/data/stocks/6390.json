@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6390",
+    "name": "加藤製作所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1161.0,
+    "min_s_kabu_yen": 1161,
+    "unit_lot_yen": 116100,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 6.03,
+    "raw_annual_return_pct": 10.91,
+    "capped_annual_return_pct": 10.91,
+    "geometric_growth_pct": 4.85,
+    "annual_volatility_pct": 34.81,
+    "max_drawdown_pct": -44.12,
+    "monthly_var_95_pct": -13.04,
+    "sharpe_ratio": 0.28,
+    "quant_score": 62.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 199692,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 250776
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 996138,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 1249236
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 1991115,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 2498472
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 5971023,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 7493094
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 9952092,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 12488877
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127348,
+        "upper_90_yen": 175621,
+        "lower_10_yen": 93195
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 269335,
+        "upper_90_yen": 422822,
+        "lower_10_yen": 174971
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 427644,
+        "upper_90_yen": 745527,
+        "lower_10_yen": 252760
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 604152,
+        "upper_90_yen": 1154610,
+        "lower_10_yen": 329006
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 800950,
+        "upper_90_yen": 1664334,
+        "lower_10_yen": 405057
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1020372,
+        "upper_90_yen": 2292060,
+        "lower_10_yen": 481812
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1265016,
+        "upper_90_yen": 3058458,
+        "lower_10_yen": 559955
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1537784,
+        "upper_90_yen": 3987903,
+        "lower_10_yen": 640049
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1841908,
+        "upper_90_yen": 5109002,
+        "lower_10_yen": 722590
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2180993,
+        "upper_90_yen": 6455225,
+        "lower_10_yen": 808035
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "加藤製作所(6390)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "加藤製作所(6390)を1株(1,161円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,161円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.81%、幾何成長率は4.85%",
+      "新NISAで月1万円の配当金を得るには1,715株（約1,991,115円）が必要"
+    ],
+    "accumulation_strategy_analysis": "加藤製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約1,161円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,180,993円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り6.03%）です。月次95%VaR（最大想定損失率）は-13.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "加藤製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,161円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約1,991,115円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1161.0
+  }
+}

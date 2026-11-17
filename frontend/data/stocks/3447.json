@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3447",
+    "name": "信和",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 891.0,
+    "min_s_kabu_yen": 891,
+    "unit_lot_yen": 89100,
+    "dps_yen": 36.0,
+    "dividend_yield_pct": 4.04,
+    "raw_annual_return_pct": 7.6,
+    "capped_annual_return_pct": 7.6,
+    "geometric_growth_pct": 5.77,
+    "annual_volatility_pct": 19.1,
+    "max_drawdown_pct": -21.67,
+    "monthly_var_95_pct": -6.59,
+    "sharpe_ratio": 0.46,
+    "quant_score": 74.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 334,
+        "nisa_required_capital_yen": 297594,
+        "specific_required_shares": 419,
+        "specific_required_capital_yen": 373329
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1667,
+        "nisa_required_capital_yen": 1485297,
+        "specific_required_shares": 2092,
+        "specific_required_capital_yen": 1863972
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 2970594,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 3727944
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 8910000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 11182050
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16667,
+        "nisa_required_capital_yen": 14850297,
+        "specific_required_shares": 20916,
+        "specific_required_capital_yen": 18636156
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126602,
+        "upper_90_yen": 150822,
+        "lower_10_yen": 106565
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266257,
+        "upper_90_yen": 340047,
+        "lower_10_yen": 209721
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 420313,
+        "upper_90_yen": 567683,
+        "lower_10_yen": 314032
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 590254,
+        "upper_90_yen": 837130,
+        "lower_10_yen": 421251
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 777717,
+        "upper_90_yen": 1153057,
+        "lower_10_yen": 532517
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 984509,
+        "upper_90_yen": 1521105,
+        "lower_10_yen": 648732
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1212624,
+        "upper_90_yen": 1947842,
+        "lower_10_yen": 770695
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1464260,
+        "upper_90_yen": 2440807,
+        "lower_10_yen": 899165
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1741843,
+        "upper_90_yen": 3008588,
+        "lower_10_yen": 1034892
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2048047,
+        "upper_90_yen": 3660932,
+        "lower_10_yen": 1178640
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "信和(3447)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "信和(3447)を1株(891円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小891円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.1%、幾何成長率は5.77%",
+      "新NISAで月1万円の配当金を得るには3,334株（約2,970,594円）が必要"
+    ],
+    "accumulation_strategy_analysis": "信和は単元未満株（S株・かぶミニ等）を利用することで1株（約891円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,048,047円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.0円（利回り4.04%）です。月次95%VaR（最大想定損失率）は-6.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "信和は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約891円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,334株（元本目安：約2,970,594円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 891.0
+  }
+}

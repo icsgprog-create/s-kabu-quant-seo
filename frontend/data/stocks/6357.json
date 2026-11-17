@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6357",
+    "name": "三精テクノロジーズ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2215.0,
+    "min_s_kabu_yen": 2215,
+    "unit_lot_yen": 221500,
+    "dps_yen": 107.5,
+    "dividend_yield_pct": 4.85,
+    "raw_annual_return_pct": 25.08,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.25,
+    "annual_volatility_pct": 36.73,
+    "max_drawdown_pct": -41.21,
+    "monthly_var_95_pct": -11.85,
+    "sharpe_ratio": 0.47,
+    "quant_score": 63.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 112,
+        "nisa_required_capital_yen": 248080,
+        "specific_required_shares": 141,
+        "specific_required_capital_yen": 312315
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 559,
+        "nisa_required_capital_yen": 1238185,
+        "specific_required_shares": 701,
+        "specific_required_capital_yen": 1552715
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1117,
+        "nisa_required_capital_yen": 2474155,
+        "specific_required_shares": 1401,
+        "specific_required_capital_yen": 3103215
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3349,
+        "nisa_required_capital_yen": 7418035,
+        "specific_required_shares": 4203,
+        "specific_required_capital_yen": 9309645
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5582,
+        "nisa_required_capital_yen": 12364130,
+        "specific_required_shares": 7005,
+        "specific_required_capital_yen": 15516075
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132546,
+        "upper_90_yen": 186485,
+        "lower_10_yen": 95170
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291403,
+        "upper_90_yen": 471984,
+        "lower_10_yen": 183827
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 481793,
+        "upper_90_yen": 875998,
+        "lower_10_yen": 273711
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 709977,
+        "upper_90_yen": 1430359,
+        "lower_10_yen": 367756
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 983457,
+        "upper_90_yen": 2177353,
+        "lower_10_yen": 467980
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1311222,
+        "upper_90_yen": 3171579,
+        "lower_10_yen": 576124
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1704051,
+        "upper_90_yen": 4482880,
+        "lower_10_yen": 693886
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2174858,
+        "upper_90_yen": 6200193,
+        "lower_10_yen": 823038
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2739121,
+        "upper_90_yen": 8436442,
+        "lower_10_yen": 965492
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3415393,
+        "upper_90_yen": 11334712,
+        "lower_10_yen": 1123367
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三精テクノロジーズ(6357)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三精テクノロジーズ(6357)を1株(2,215円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,215円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.73%、幾何成長率は13.25%",
+      "新NISAで月1万円の配当金を得るには1,117株（約2,474,155円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三精テクノロジーズは単元未満株（S株・かぶミニ等）を利用することで1株（約2,215円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,415,393円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり107.5円（利回り4.85%）です。月次95%VaR（最大想定損失率）は-11.85%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三精テクノロジーズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,215円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,117株（元本目安：約2,474,155円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2215.0
+  }
+}

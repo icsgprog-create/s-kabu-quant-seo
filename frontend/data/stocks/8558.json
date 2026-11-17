@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8558",
+    "name": "東和銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1243.0,
+    "min_s_kabu_yen": 1243,
+    "unit_lot_yen": 124300,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 2.82,
+    "raw_annual_return_pct": 22.77,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.77,
+    "annual_volatility_pct": 32.35,
+    "max_drawdown_pct": -27.75,
+    "monthly_var_95_pct": -10.08,
+    "sharpe_ratio": 0.51,
+    "quant_score": 53.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 426349,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 535733
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 2131745,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 2674936
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 4262247,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 5348629
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 12785498,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 16044644
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 21308749,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 26741902
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132161,
+        "upper_90_yen": 178400,
+        "lower_10_yen": 98681
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289731,
+        "upper_90_yen": 442380,
+        "lower_10_yen": 192954
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 477594,
+        "upper_90_yen": 806724,
+        "lower_10_yen": 289957
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 701576,
+        "upper_90_yen": 1296095,
+        "lower_10_yen": 392574
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 968618,
+        "upper_90_yen": 1942976,
+        "lower_10_yen": 502900
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1287002,
+        "upper_90_yen": 2788824,
+        "lower_10_yen": 622819
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1666596,
+        "upper_90_yen": 3886008,
+        "lower_10_yen": 754219
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2119170,
+        "upper_90_yen": 5300372,
+        "lower_10_yen": 899103
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2658754,
+        "upper_90_yen": 7114476,
+        "lower_10_yen": 1059663
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3302075,
+        "upper_90_yen": 9431634,
+        "lower_10_yen": 1238337
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東和銀行(8558)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東和銀行(8558)を1株(1,243円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,243円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.35%、幾何成長率は14.77%",
+      "新NISAで月1万円の配当金を得るには3,429株（約4,262,247円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東和銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約1,243円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,302,075円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り2.82%）です。月次95%VaR（最大想定損失率）は-10.08%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東和銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,243円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約4,262,247円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1243.0
+  }
+}

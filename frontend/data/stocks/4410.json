@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4410",
+    "name": "ハリマ化成グループ",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1301.0,
+    "min_s_kabu_yen": 1301,
+    "unit_lot_yen": 130100,
+    "dps_yen": 46.0,
+    "dividend_yield_pct": 3.54,
+    "raw_annual_return_pct": 13.52,
+    "capped_annual_return_pct": 13.52,
+    "geometric_growth_pct": 10.04,
+    "annual_volatility_pct": 26.41,
+    "max_drawdown_pct": -19.53,
+    "monthly_var_95_pct": -7.39,
+    "sharpe_ratio": 0.48,
+    "quant_score": 63.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 261,
+        "nisa_required_capital_yen": 339561,
+        "specific_required_shares": 328,
+        "specific_required_capital_yen": 426728
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1305,
+        "nisa_required_capital_yen": 1697805,
+        "specific_required_shares": 1637,
+        "specific_required_capital_yen": 2129737
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 3394309,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 4259474
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7827,
+        "nisa_required_capital_yen": 10182927,
+        "specific_required_shares": 9822,
+        "specific_required_capital_yen": 12778422
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13044,
+        "nisa_required_capital_yen": 16970244,
+        "specific_required_shares": 16369,
+        "specific_required_capital_yen": 21296069
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129252,
+        "upper_90_yen": 164897,
+        "lower_10_yen": 101848
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 277290,
+        "upper_90_yen": 390361,
+        "lower_10_yen": 199201
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 446846,
+        "upper_90_yen": 681429,
+        "lower_10_yen": 298065
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 641047,
+        "upper_90_yen": 1048903,
+        "lower_10_yen": 400763
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 863475,
+        "upper_90_yen": 1506814,
+        "lower_10_yen": 508863
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1118232,
+        "upper_90_yen": 2072368,
+        "lower_10_yen": 623669
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1410018,
+        "upper_90_yen": 2766306,
+        "lower_10_yen": 746403
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1744216,
+        "upper_90_yen": 3613451,
+        "lower_10_yen": 878285
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2126988,
+        "upper_90_yen": 4643388,
+        "lower_10_yen": 1020581
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2565396,
+        "upper_90_yen": 5891311,
+        "lower_10_yen": 1174636
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ハリマ化成グループ(4410)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ハリマ化成グループ(4410)を1株(1,301円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,301円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.41%、幾何成長率は10.04%",
+      "新NISAで月1万円の配当金を得るには2,609株（約3,394,309円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ハリマ化成グループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,301円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,565,396円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり46.0円（利回り3.54%）です。月次95%VaR（最大想定損失率）は-7.39%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ハリマ化成グループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,301円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,609株（元本目安：約3,394,309円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1301.0
+  }
+}

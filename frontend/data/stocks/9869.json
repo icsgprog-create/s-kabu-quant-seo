@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9869",
+    "name": "加藤産業",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6800.0,
+    "min_s_kabu_yen": 6800,
+    "unit_lot_yen": 680000,
+    "dps_yen": 160.0,
+    "dividend_yield_pct": 2.35,
+    "raw_annual_return_pct": 17.9,
+    "capped_annual_return_pct": 17.9,
+    "geometric_growth_pct": 15.61,
+    "annual_volatility_pct": 21.39,
+    "max_drawdown_pct": -25.59,
+    "monthly_var_95_pct": -7.28,
+    "sharpe_ratio": 0.79,
+    "quant_score": 67.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 75,
+        "nisa_required_capital_yen": 510000,
+        "specific_required_shares": 95,
+        "specific_required_capital_yen": 646000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 2550000,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 3202800
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 5100000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 6405600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2250,
+        "nisa_required_capital_yen": 15300000,
+        "specific_required_shares": 2824,
+        "specific_required_capital_yen": 19203200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 25500000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 32007600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132440,
+        "upper_90_yen": 161375,
+        "lower_10_yen": 109069
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 290943,
+        "upper_90_yen": 384289,
+        "lower_10_yen": 221886
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 480636,
+        "upper_90_yen": 678214,
+        "lower_10_yen": 344386
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 707658,
+        "upper_90_yen": 1058838,
+        "lower_10_yen": 479852
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 979354,
+        "upper_90_yen": 1546548,
+        "lower_10_yen": 631262
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1304517,
+        "upper_90_yen": 2166989,
+        "lower_10_yen": 801721
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1693666,
+        "upper_90_yen": 2952111,
+        "lower_10_yen": 994651
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2159394,
+        "upper_90_yen": 3941536,
+        "lower_10_yen": 1213917
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2716770,
+        "upper_90_yen": 5184291,
+        "lower_10_yen": 1463946
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3383830,
+        "upper_90_yen": 6740947,
+        "lower_10_yen": 1749841
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "加藤産業(9869)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "加藤産業(9869)を1株(6,800円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,800円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.39%、幾何成長率は15.61%",
+      "新NISAで月1万円の配当金を得るには750株（約5,100,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "加藤産業は単元未満株（S株・かぶミニ等）を利用することで1株（約6,800円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,383,830円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり160.0円（利回り2.35%）です。月次95%VaR（最大想定損失率）は-7.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "加藤産業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,800円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、750株（元本目安：約5,100,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6800.0
+  }
+}

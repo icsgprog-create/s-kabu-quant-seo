@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4396",
+    "name": "システムサポートホールディングス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1292.0,
+    "min_s_kabu_yen": 1292,
+    "unit_lot_yen": 129200,
+    "dps_yen": 32.0,
+    "dividend_yield_pct": 2.48,
+    "raw_annual_return_pct": 15.68,
+    "capped_annual_return_pct": 15.68,
+    "geometric_growth_pct": 8.75,
+    "annual_volatility_pct": 37.23,
+    "max_drawdown_pct": -44.17,
+    "monthly_var_95_pct": -12.95,
+    "sharpe_ratio": 0.27,
+    "quant_score": 39.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 484500,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 608532
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 2422500,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 3041368
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 4845000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 6081444
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11250,
+        "nisa_required_capital_yen": 14535000,
+        "specific_required_shares": 14119,
+        "specific_required_capital_yen": 18241748
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18750,
+        "nisa_required_capital_yen": 24225000,
+        "specific_required_shares": 23531,
+        "specific_required_capital_yen": 30402052
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127592,
+        "upper_90_yen": 180015,
+        "lower_10_yen": 91389
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 270346,
+        "upper_90_yen": 438368,
+        "lower_10_yen": 170514
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 430063,
+        "upper_90_yen": 780523,
+        "lower_10_yen": 245209
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 608761,
+        "upper_90_yen": 1219667,
+        "lower_10_yen": 318022
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 808694,
+        "upper_90_yen": 1773004,
+        "lower_10_yen": 390337
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1032386,
+        "upper_90_yen": 2461553,
+        "lower_10_yen": 463071
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1282660,
+        "upper_90_yen": 3310476,
+        "lower_10_yen": 536908
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1562675,
+        "upper_90_yen": 4349642,
+        "lower_10_yen": 612408
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1875965,
+        "upper_90_yen": 5614346,
+        "lower_10_yen": 690059
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2226484,
+        "upper_90_yen": 7146175,
+        "lower_10_yen": 770305
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "システムサポートホールディングス(4396)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "システムサポートホールディングス(4396)を1株(1,292円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,292円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.23%、幾何成長率は8.75%",
+      "新NISAで月1万円の配当金を得るには3,750株（約4,845,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "システムサポートホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,292円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,226,484円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり32.0円（利回り2.48%）です。月次95%VaR（最大想定損失率）は-12.95%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "システムサポートホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,292円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,750株（元本目安：約4,845,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1292.0
+  }
+}

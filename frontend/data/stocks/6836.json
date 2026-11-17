@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6836",
+    "name": "ぷらっとホーム",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 781.0,
+    "min_s_kabu_yen": 781,
+    "unit_lot_yen": 78100,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 18.3,
+    "capped_annual_return_pct": 18.3,
+    "geometric_growth_pct": -12.3,
+    "annual_volatility_pct": 78.23,
+    "max_drawdown_pct": -64.09,
+    "monthly_var_95_pct": -23.2,
+    "sharpe_ratio": -0.17,
+    "quant_score": 0.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112333,
+        "upper_90_yen": 230958,
+        "lower_10_yen": 57269
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 211661,
+        "upper_90_yen": 574902,
+        "lower_10_yen": 86351
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 299489,
+        "upper_90_yen": 1008502,
+        "lower_10_yen": 104288
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 377148,
+        "upper_90_yen": 1520254,
+        "lower_10_yen": 116142
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 445816,
+        "upper_90_yen": 2101276,
+        "lower_10_yen": 124295
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 506535,
+        "upper_90_yen": 2743779,
+        "lower_10_yen": 130055
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 560223,
+        "upper_90_yen": 3440589,
+        "lower_10_yen": 134205
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 607696,
+        "upper_90_yen": 4184964,
+        "lower_10_yen": 137241
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 649672,
+        "upper_90_yen": 4970527,
+        "lower_10_yen": 139489
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 686789,
+        "upper_90_yen": 5791233,
+        "lower_10_yen": 141171
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ぷらっとホーム(6836)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ぷらっとホーム(6836)を1株(781円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小781円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは78.23%、幾何成長率は-12.3%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ぷらっとホームは単元未満株（S株・かぶミニ等）を利用することで1株（約781円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は686,789円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-23.2%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ぷらっとホームは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約781円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 781.0
+  }
+}

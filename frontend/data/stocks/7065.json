@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7065",
+    "name": "ユーピーアール",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 736.0,
+    "min_s_kabu_yen": 736,
+    "unit_lot_yen": 73600,
+    "dps_yen": 37.0,
+    "dividend_yield_pct": 5.03,
+    "raw_annual_return_pct": -26.56,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -26.69,
+    "annual_volatility_pct": 48.35,
+    "max_drawdown_pct": -79.69,
+    "monthly_var_95_pct": -25.47,
+    "sharpe_ratio": -0.47,
+    "quant_score": 40.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 325,
+        "nisa_required_capital_yen": 239200,
+        "specific_required_shares": 408,
+        "specific_required_capital_yen": 300288
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 1193792,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 1498496
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3244,
+        "nisa_required_capital_yen": 2387584,
+        "specific_required_shares": 4071,
+        "specific_required_capital_yen": 2996256
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9730,
+        "nisa_required_capital_yen": 7161280,
+        "specific_required_shares": 12211,
+        "specific_required_capital_yen": 8987296
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16217,
+        "nisa_required_capital_yen": 11935712,
+        "specific_required_shares": 20351,
+        "specific_required_capital_yen": 14978336
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106921,
+        "upper_90_yen": 165467,
+        "lower_10_yen": 70353
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 193016,
+        "upper_90_yen": 350323,
+        "lower_10_yen": 110662
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 262341,
+        "upper_90_yen": 535859,
+        "lower_10_yen": 136647
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 318164,
+        "upper_90_yen": 714539,
+        "lower_10_yen": 154126
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 363113,
+        "upper_90_yen": 882507,
+        "lower_10_yen": 166176
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 399307,
+        "upper_90_yen": 1037839,
+        "lower_10_yen": 174622
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 428452,
+        "upper_90_yen": 1179761,
+        "lower_10_yen": 180614
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 451919,
+        "upper_90_yen": 1308221,
+        "lower_10_yen": 184906
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 470816,
+        "upper_90_yen": 1423622,
+        "lower_10_yen": 188003
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 486032,
+        "upper_90_yen": 1526645,
+        "lower_10_yen": 190252
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ユーピーアール(7065)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ユーピーアール(7065)を1株(736円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小736円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは48.35%、幾何成長率は-26.69%",
+      "新NISAで月1万円の配当金を得るには3,244株（約2,387,584円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ユーピーアールは単元未満株（S株・かぶミニ等）を利用することで1株（約736円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は486,032円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり37.0円（利回り5.03%）です。月次95%VaR（最大想定損失率）は-25.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ユーピーアールは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約736円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,244株（元本目安：約2,387,584円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 736.0
+  }
+}

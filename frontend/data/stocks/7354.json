@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7354",
+    "name": "ダイレクトマーケティングミックス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 325.0,
+    "min_s_kabu_yen": 325,
+    "unit_lot_yen": 32500,
+    "dps_yen": 7.0,
+    "dividend_yield_pct": 2.15,
+    "raw_annual_return_pct": -35.48,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -26.15,
+    "annual_volatility_pct": 47.22,
+    "max_drawdown_pct": -92.43,
+    "monthly_var_95_pct": -28.55,
+    "sharpe_ratio": -0.53,
+    "quant_score": 17.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 557375,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 699400
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 2785900,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 3496025
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 5571475,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 6992050
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 51429,
+        "nisa_required_capital_yen": 16714425,
+        "specific_required_shares": 64540,
+        "specific_required_capital_yen": 20975500
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 85715,
+        "nisa_required_capital_yen": 27857375,
+        "specific_required_shares": 107567,
+        "specific_required_capital_yen": 34959275
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105626,
+        "upper_90_yen": 161624,
+        "lower_10_yen": 70234
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 188719,
+        "upper_90_yen": 336769,
+        "lower_10_yen": 109853
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 254085,
+        "upper_90_yen": 507643,
+        "lower_10_yen": 134934
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 305508,
+        "upper_90_yen": 667749,
+        "lower_10_yen": 151485
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 345960,
+        "upper_90_yen": 814262,
+        "lower_10_yen": 162673
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 377783,
+        "upper_90_yen": 946205,
+        "lower_10_yen": 170358
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 402817,
+        "upper_90_yen": 1063634,
+        "lower_10_yen": 175701
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 422510,
+        "upper_90_yen": 1167193,
+        "lower_10_yen": 179450
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 438002,
+        "upper_90_yen": 1257849,
+        "lower_10_yen": 182100
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 450190,
+        "upper_90_yen": 1336726,
+        "lower_10_yen": 183985
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ダイレクトマーケティングミックス(7354)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ダイレクトマーケティングミックス(7354)を1株(325円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小325円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは47.22%、幾何成長率は-26.15%",
+      "新NISAで月1万円の配当金を得るには17,143株（約5,571,475円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ダイレクトマーケティングミックスは単元未満株（S株・かぶミニ等）を利用することで1株（約325円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は450,190円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.0円（利回り2.15%）です。月次95%VaR（最大想定損失率）は-28.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ダイレクトマーケティングミックスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約325円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、17,143株（元本目安：約5,571,475円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 325.0
+  }
+}

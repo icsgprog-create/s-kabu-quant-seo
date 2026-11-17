@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7762",
+    "name": "シチズン時計",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1935.5,
+    "min_s_kabu_yen": 1936,
+    "unit_lot_yen": 193550,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 2.58,
+    "raw_annual_return_pct": 31.0,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.4,
+    "annual_volatility_pct": 33.47,
+    "max_drawdown_pct": -33.34,
+    "monthly_var_95_pct": -10.75,
+    "sharpe_ratio": 0.48,
+    "quant_score": 49.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 464520,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 584521
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2322600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 2914863
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 4645200,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 5829726
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 13935600,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 17489178
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 23226000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 29148630
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131718,
+        "upper_90_yen": 179669,
+        "lower_10_yen": 97384
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287815,
+        "upper_90_yen": 445918,
+        "lower_10_yen": 189129
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 472802,
+        "upper_90_yen": 813051,
+        "lower_10_yen": 282479
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 692027,
+        "upper_90_yen": 1305244,
+        "lower_10_yen": 380227
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 951826,
+        "upper_90_yen": 1954273,
+        "lower_10_yen": 484309
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1259708,
+        "upper_90_yen": 2800544,
+        "lower_10_yen": 596397
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1624574,
+        "upper_90_yen": 3894885,
+        "lower_10_yen": 718118
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2056969,
+        "upper_90_yen": 5300920,
+        "lower_10_yen": 851158
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2569392,
+        "upper_90_yen": 7098062,
+        "lower_10_yen": 997332
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3176654,
+        "upper_90_yen": 9385232,
+        "lower_10_yen": 1158629
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シチズン時計(7762)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シチズン時計(7762)を1株(1,936円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,936円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.47%、幾何成長率は14.4%",
+      "新NISAで月1万円の配当金を得るには2,400株（約4,645,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シチズン時計は単元未満株（S株・かぶミニ等）を利用することで1株（約1,936円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,176,654円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り2.58%）です。月次95%VaR（最大想定損失率）は-10.75%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シチズン時計は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,936円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約4,645,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1935.5
+  }
+}

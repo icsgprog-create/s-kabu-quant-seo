@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3854",
+    "name": "アイル",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2292.0,
+    "min_s_kabu_yen": 2292,
+    "unit_lot_yen": 229200,
+    "dps_yen": 67.0,
+    "dividend_yield_pct": 2.92,
+    "raw_annual_return_pct": 8.52,
+    "capped_annual_return_pct": 8.52,
+    "geometric_growth_pct": 1.32,
+    "annual_volatility_pct": 37.95,
+    "max_drawdown_pct": -50.77,
+    "monthly_var_95_pct": -16.6,
+    "sharpe_ratio": 0.09,
+    "quant_score": 37.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 180,
+        "nisa_required_capital_yen": 412560,
+        "specific_required_shares": 225,
+        "specific_required_capital_yen": 515700
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 896,
+        "nisa_required_capital_yen": 2053632,
+        "specific_required_shares": 1124,
+        "specific_required_capital_yen": 2576208
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1792,
+        "nisa_required_capital_yen": 4107264,
+        "specific_required_shares": 2248,
+        "specific_required_capital_yen": 5152416
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5374,
+        "nisa_required_capital_yen": 12317208,
+        "specific_required_shares": 6743,
+        "specific_required_capital_yen": 15454956
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8956,
+        "nisa_required_capital_yen": 20527152,
+        "specific_required_shares": 11239,
+        "specific_required_capital_yen": 25759788
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122801,
+        "upper_90_yen": 174069,
+        "lower_10_yen": 87589
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 250929,
+        "upper_90_yen": 408353,
+        "lower_10_yen": 157887
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 384614,
+        "upper_90_yen": 698714,
+        "lower_10_yen": 219557
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 524098,
+        "upper_90_yen": 1047214,
+        "lower_10_yen": 275461
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 669632,
+        "upper_90_yen": 1457692,
+        "lower_10_yen": 327116
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 821479,
+        "upper_90_yen": 1935027,
+        "lower_10_yen": 375463
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 979912,
+        "upper_90_yen": 2484901,
+        "lower_10_yen": 421146
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1145217,
+        "upper_90_yen": 3113715,
+        "lower_10_yen": 464630
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1317692,
+        "upper_90_yen": 3828567,
+        "lower_10_yen": 506268
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1497649,
+        "upper_90_yen": 4637266,
+        "lower_10_yen": 546333
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイル(3854)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイル(3854)を1株(2,292円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,292円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.95%、幾何成長率は1.32%",
+      "新NISAで月1万円の配当金を得るには1,792株（約4,107,264円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイルは単元未満株（S株・かぶミニ等）を利用することで1株（約2,292円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,497,649円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり67.0円（利回り2.92%）です。月次95%VaR（最大想定損失率）は-16.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,292円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,792株（元本目安：約4,107,264円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2292.0
+  }
+}

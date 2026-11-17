@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6155",
+    "name": "高松機械工業",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 547.0,
+    "min_s_kabu_yen": 547,
+    "unit_lot_yen": 54700,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.83,
+    "raw_annual_return_pct": -3.76,
+    "capped_annual_return_pct": -3.76,
+    "geometric_growth_pct": -6.04,
+    "annual_volatility_pct": 21.36,
+    "max_drawdown_pct": -39.71,
+    "monthly_var_95_pct": -6.66,
+    "sharpe_ratio": -0.24,
+    "quant_score": 38.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 656400,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 823782
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3282000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 4118910
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 6564000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 8237820
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 19692000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 24712366
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 32820000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 41187459
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117299,
+        "upper_90_yen": 142363,
+        "lower_10_yen": 96986
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 229754,
+        "upper_90_yen": 300125,
+        "lower_10_yen": 177228
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 337566,
+        "upper_90_yen": 466817,
+        "lower_10_yen": 247001
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 440927,
+        "upper_90_yen": 639761,
+        "lower_10_yen": 308802
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 540019,
+        "upper_90_yen": 817290,
+        "lower_10_yen": 364132
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 635020,
+        "upper_90_yen": 998213,
+        "lower_10_yen": 414030
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 726098,
+        "upper_90_yen": 1181615,
+        "lower_10_yen": 459271
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 813415,
+        "upper_90_yen": 1366764,
+        "lower_10_yen": 500458
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 897127,
+        "upper_90_yen": 1553054,
+        "lower_10_yen": 538082
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 977383,
+        "upper_90_yen": 1739977,
+        "lower_10_yen": 572546
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "高松機械工業(6155)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "高松機械工業(6155)を1株(547円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小547円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.36%、幾何成長率は-6.04%",
+      "新NISAで月1万円の配当金を得るには12,000株（約6,564,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "高松機械工業は単元未満株（S株・かぶミニ等）を利用することで1株（約547円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は977,383円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.83%）です。月次95%VaR（最大想定損失率）は-6.66%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "高松機械工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約547円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約6,564,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 547.0
+  }
+}

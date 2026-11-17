@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "code": "8129",
+    "name": "東邦ホールディングス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3980.0,
+    "min_s_kabu_yen": 3980,
+    "unit_lot_yen": 398000,
+    "dps_yen": 210.0,
+    "dividend_yield_pct": 5.28,
+    "raw_annual_return_pct": 18.57,
+    "capped_annual_return_pct": 18.57,
+    "geometric_growth_pct": 15.61,
+    "annual_volatility_pct": 24.31,
+    "max_drawdown_pct": -34.41,
+    "monthly_var_95_pct": -9.27,
+    "sharpe_ratio": 0.82,
+    "quant_score": 86.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 58,
+        "nisa_required_capital_yen": 230840,
+        "specific_required_shares": 72,
+        "specific_required_capital_yen": 286560
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 286,
+        "nisa_required_capital_yen": 1138280,
+        "specific_required_shares": 359,
+        "specific_required_capital_yen": 1428820
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 572,
+        "nisa_required_capital_yen": 2276560,
+        "specific_required_shares": 718,
+        "specific_required_capital_yen": 2857640
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 6825700,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 8564960
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 11374840,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 14272280
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134619,
+        "upper_90_yen": 168650,
+        "lower_10_yen": 107933
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 300513,
+        "upper_90_yen": 413169,
+        "lower_10_yen": 220632
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 504946,
+        "upper_90_yen": 749538,
+        "lower_10_yen": 344977
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 756873,
+        "upper_90_yen": 1202892,
+        "lower_10_yen": 485052
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1067328,
+        "upper_90_yen": 1806619,
+        "lower_10_yen": 644767
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1449906,
+        "upper_90_yen": 2604059,
+        "lower_10_yen": 828379
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1921365,
+        "upper_90_yen": 3651041,
+        "lower_10_yen": 1040743
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2502351,
+        "upper_90_yen": 5019236,
+        "lower_10_yen": 1287517
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3218312,
+        "upper_90_yen": 6800456,
+        "lower_10_yen": 1575364
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4100602,
+        "upper_90_yen": 9112142,
+        "lower_10_yen": 1912175
+      }
+    ]
+  },
+  "seo": {
+    "code": "8129",
+    "seo_title": "東邦ホールディングス(8129)の1株投資・新NISA積立シミュレーションと配当利回り分析",
+    "meta_description": "東邦ホールディングス(8129)の単元未満株(S株)投資や新NISAでの積立シミュレーション。配当利回り5.28%、年間配当210円、年率ボラティリティ24.31%などの客観的データを基にリスクとリターンを解説。",
+    "summary_points": [
+      "単元未満株（1株）の投資額は3,980円から取引可能",
+      "予想配当利回りは5.28%（年間配当210.0円）と高水準",
+      "10年積立シミュレーションの中央値評価額は約410万円"
+    ],
+    "accumulation_strategy_analysis": "東邦ホールディングスは最低投資金額3,980円から単元未満株で購入可能です。月1万円を継続的に積み立てた場合、投資元本2,276,560円に対して累計572株の取得となり、過去データに基づく10年積立シミュレーションの中央値は4,100,602円となっています。幾何平均成長率は年率15.61%であり、ドルコスト平均法を活用することで価格変動リスクを平準化しながら積み上げることが可能です。",
+    "dividend_and_risk_commentary": "現在の配当利回りは5.28%、1株当たり配当金は210.0円となっています。一方で、年率ボラティリティは24.31%、月次VaR（95%信頼水準）は-9.27%となっており、月間で約9%の下落が生じる統計的リスクが想定されます。医薬品卸売業の事業環境や業績推移を確認しつつ、分散投資を考慮することが重要です。",
+    "faqs": [
+      {
+        "question": "1株単位での積立投資は可能ですか？",
+        "answer": "はい、単元未満株サービスに対応している証券口座を利用することで、3,980円から1株単位での購入が可能です。"
+      },
+      {
+        "question": "10年間毎月1万円を積み立てた場合の想定株数はどれくらいですか？",
+        "answer": "試算では約572株、累計元本は約2,276,560円となります。ただし株価変動により実際の取得株数は変動します。"
+      }
+    ],
+    "is_ai_generated": true,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3980.0
+  }
+}

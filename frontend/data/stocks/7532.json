@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7532",
+    "name": "パン・パシフィック・インターナショナルホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 824.4,
+    "min_s_kabu_yen": 825,
+    "unit_lot_yen": 82440,
+    "dps_yen": 9.5,
+    "dividend_yield_pct": 1.15,
+    "raw_annual_return_pct": 13.34,
+    "capped_annual_return_pct": 13.34,
+    "geometric_growth_pct": 8.44,
+    "annual_volatility_pct": 31.32,
+    "max_drawdown_pct": -37.91,
+    "monthly_var_95_pct": -11.85,
+    "sharpe_ratio": 0.27,
+    "quant_score": 34.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1264,
+        "nisa_required_capital_yen": 1042042,
+        "specific_required_shares": 1586,
+        "specific_required_capital_yen": 1307498
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 5206911,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 6534195
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12632,
+        "nisa_required_capital_yen": 10413821,
+        "specific_required_shares": 15852,
+        "specific_required_capital_yen": 13068389
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 37895,
+        "nisa_required_capital_yen": 31240639,
+        "specific_required_shares": 47556,
+        "specific_required_capital_yen": 39205168
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 63158,
+        "nisa_required_capital_yen": 52067457,
+        "specific_required_shares": 79260,
+        "specific_required_capital_yen": 65341946
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126448,
+        "upper_90_yen": 168720,
+        "lower_10_yen": 95475
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265626,
+        "upper_90_yen": 397835,
+        "lower_10_yen": 180205
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 418815,
+        "upper_90_yen": 688484,
+        "lower_10_yen": 261051
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 587427,
+        "upper_90_yen": 1047567,
+        "lower_10_yen": 340299
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 773013,
+        "upper_90_yen": 1484366,
+        "lower_10_yen": 419209
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 977282,
+        "upper_90_yen": 2010126,
+        "lower_10_yen": 498620
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1202117,
+        "upper_90_yen": 2638066,
+        "lower_10_yen": 579163
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1449586,
+        "upper_90_yen": 3383529,
+        "lower_10_yen": 661351
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1721968,
+        "upper_90_yen": 4264209,
+        "lower_10_yen": 745628
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2021773,
+        "upper_90_yen": 5300446,
+        "lower_10_yen": 832398
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "パン・パシフィック・インターナショナルホールディングス(7532)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "パン・パシフィック・インターナショナルホールディングス(7532)を1株(825円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小825円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.32%、幾何成長率は8.44%",
+      "新NISAで月1万円の配当金を得るには12,632株（約10,413,821円）が必要"
+    ],
+    "accumulation_strategy_analysis": "パン・パシフィック・インターナショナルホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約825円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,021,773円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり9.5円（利回り1.15%）です。月次95%VaR（最大想定損失率）は-11.85%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "パン・パシフィック・インターナショナルホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約825円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,632株（元本目安：約10,413,821円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 824.4
+  }
+}

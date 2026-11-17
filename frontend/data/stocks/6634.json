@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6634",
+    "name": "ＪＮグループ",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 57.0,
+    "min_s_kabu_yen": 57,
+    "unit_lot_yen": 5700,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -21.1,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -39.59,
+    "annual_volatility_pct": 70.13,
+    "max_drawdown_pct": -77.88,
+    "monthly_var_95_pct": -20.2,
+    "sharpe_ratio": -0.58,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 97467,
+        "upper_90_yen": 182873,
+        "lower_10_yen": 53980
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 163070,
+        "upper_90_yen": 380849,
+        "lower_10_yen": 75959
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 207224,
+        "upper_90_yen": 564361,
+        "lower_10_yen": 86654
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 236944,
+        "upper_90_yen": 724543,
+        "lower_10_yen": 92194
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 256947,
+        "upper_90_yen": 859532,
+        "lower_10_yen": 95169
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 270410,
+        "upper_90_yen": 970611,
+        "lower_10_yen": 96805
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 279472,
+        "upper_90_yen": 1060424,
+        "lower_10_yen": 97722
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 285571,
+        "upper_90_yen": 1132061,
+        "lower_10_yen": 98242
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 289676,
+        "upper_90_yen": 1188576,
+        "lower_10_yen": 98541
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 292439,
+        "upper_90_yen": 1232759,
+        "lower_10_yen": 98714
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＪＮグループ(6634)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＪＮグループ(6634)を1株(57円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小57円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは70.13%、幾何成長率は-39.59%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＪＮグループは単元未満株（S株・かぶミニ等）を利用することで1株（約57円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は292,439円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-20.2%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＪＮグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約57円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 57.0
+  }
+}

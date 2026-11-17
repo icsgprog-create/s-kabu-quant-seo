@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3912",
+    "name": "モバイルファクトリー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1081.0,
+    "min_s_kabu_yen": 1081,
+    "unit_lot_yen": 108100,
+    "dps_yen": 49.0,
+    "dividend_yield_pct": 4.53,
+    "raw_annual_return_pct": -0.04,
+    "capped_annual_return_pct": -0.04,
+    "geometric_growth_pct": -5.44,
+    "annual_volatility_pct": 32.84,
+    "max_drawdown_pct": -52.79,
+    "monthly_var_95_pct": -10.95,
+    "sharpe_ratio": -0.06,
+    "quant_score": 52.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 245,
+        "nisa_required_capital_yen": 264845,
+        "specific_required_shares": 308,
+        "specific_required_capital_yen": 332948
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1225,
+        "nisa_required_capital_yen": 1324225,
+        "specific_required_shares": 1537,
+        "specific_required_capital_yen": 1661497
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2449,
+        "nisa_required_capital_yen": 2647369,
+        "specific_required_shares": 3074,
+        "specific_required_capital_yen": 3322994
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7347,
+        "nisa_required_capital_yen": 7942107,
+        "specific_required_shares": 9220,
+        "specific_required_capital_yen": 9966820
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12245,
+        "nisa_required_capital_yen": 13236845,
+        "specific_required_shares": 15367,
+        "specific_required_capital_yen": 16611727
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119415,
+        "upper_90_yen": 161190,
+        "lower_10_yen": 89200
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 237757,
+        "upper_90_yen": 360510,
+        "lower_10_yen": 159633
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 355035,
+        "upper_90_yen": 589820,
+        "lower_10_yen": 219701
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 471260,
+        "upper_90_yen": 846379,
+        "lower_10_yen": 272407
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 586440,
+        "upper_90_yen": 1128774,
+        "lower_10_yen": 319423
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 700584,
+        "upper_90_yen": 1436180,
+        "lower_10_yen": 361835
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 813703,
+        "upper_90_yen": 1768087,
+        "lower_10_yen": 400409
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 925806,
+        "upper_90_yen": 2124182,
+        "lower_10_yen": 435717
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1036901,
+        "upper_90_yen": 2504278,
+        "lower_10_yen": 468202
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1146997,
+        "upper_90_yen": 2908277,
+        "lower_10_yen": 498217
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "モバイルファクトリー(3912)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "モバイルファクトリー(3912)を1株(1,081円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,081円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.84%、幾何成長率は-5.44%",
+      "新NISAで月1万円の配当金を得るには2,449株（約2,647,369円）が必要"
+    ],
+    "accumulation_strategy_analysis": "モバイルファクトリーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,081円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,146,997円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり49.0円（利回り4.53%）です。月次95%VaR（最大想定損失率）は-10.95%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "モバイルファクトリーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,081円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,449株（元本目安：約2,647,369円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1081.0
+  }
+}

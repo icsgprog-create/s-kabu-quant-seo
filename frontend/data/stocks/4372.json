@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4372",
+    "name": "ユミルリンク",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 984.0,
+    "min_s_kabu_yen": 984,
+    "unit_lot_yen": 98400,
+    "dps_yen": 19.0,
+    "dividend_yield_pct": 1.93,
+    "raw_annual_return_pct": -3.26,
+    "capped_annual_return_pct": -3.26,
+    "geometric_growth_pct": -10.16,
+    "annual_volatility_pct": 37.13,
+    "max_drawdown_pct": -38.25,
+    "monthly_var_95_pct": -14.01,
+    "sharpe_ratio": -0.25,
+    "quant_score": 23.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 632,
+        "nisa_required_capital_yen": 621888,
+        "specific_required_shares": 793,
+        "specific_required_capital_yen": 780312
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 3107472,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 3899592
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 6214944,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 7799184
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18948,
+        "nisa_required_capital_yen": 18644832,
+        "specific_required_shares": 23778,
+        "specific_required_capital_yen": 23397552
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 31579,
+        "nisa_required_capital_yen": 31073736,
+        "specific_required_shares": 39630,
+        "specific_required_capital_yen": 38995920
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114802,
+        "upper_90_yen": 160916,
+        "lower_10_yen": 82776
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 220537,
+        "upper_90_yen": 351373,
+        "lower_10_yen": 141659
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 317922,
+        "upper_90_yen": 559063,
+        "lower_10_yen": 187407
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 407616,
+        "upper_90_yen": 778497,
+        "lower_10_yen": 224118
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 490226,
+        "upper_90_yen": 1006089,
+        "lower_10_yen": 254134
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 566311,
+        "upper_90_yen": 1239196,
+        "lower_10_yen": 278989
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 636388,
+        "upper_90_yen": 1475753,
+        "lower_10_yen": 299763
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 700930,
+        "upper_90_yen": 1714093,
+        "lower_10_yen": 317252
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 760375,
+        "upper_90_yen": 1952842,
+        "lower_10_yen": 332061
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 815125,
+        "upper_90_yen": 2190858,
+        "lower_10_yen": 344662
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ユミルリンク(4372)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ユミルリンク(4372)を1株(984円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小984円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.13%、幾何成長率は-10.16%",
+      "新NISAで月1万円の配当金を得るには6,316株（約6,214,944円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ユミルリンクは単元未満株（S株・かぶミニ等）を利用することで1株（約984円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は815,125円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり19.0円（利回り1.93%）です。月次95%VaR（最大想定損失率）は-14.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ユミルリンクは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約984円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,316株（元本目安：約6,214,944円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 984.0
+  }
+}

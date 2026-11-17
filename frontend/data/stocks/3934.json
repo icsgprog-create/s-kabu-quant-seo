@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3934",
+    "name": "ベネフィットジャパン",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2285.0,
+    "min_s_kabu_yen": 2285,
+    "unit_lot_yen": 228500,
+    "dps_yen": 85.0,
+    "dividend_yield_pct": 3.72,
+    "raw_annual_return_pct": -2.38,
+    "capped_annual_return_pct": -2.38,
+    "geometric_growth_pct": -7.76,
+    "annual_volatility_pct": 32.78,
+    "max_drawdown_pct": -66.14,
+    "monthly_var_95_pct": -14.73,
+    "sharpe_ratio": -0.15,
+    "quant_score": 43.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 142,
+        "nisa_required_capital_yen": 324470,
+        "specific_required_shares": 178,
+        "specific_required_capital_yen": 406730
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 706,
+        "nisa_required_capital_yen": 1613210,
+        "specific_required_shares": 886,
+        "specific_required_capital_yen": 2024510
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1412,
+        "nisa_required_capital_yen": 3226420,
+        "specific_required_shares": 1772,
+        "specific_required_capital_yen": 4049020
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4236,
+        "nisa_required_capital_yen": 9679260,
+        "specific_required_shares": 5316,
+        "specific_required_capital_yen": 12147060
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7059,
+        "nisa_required_capital_yen": 16129815,
+        "specific_required_shares": 8859,
+        "specific_required_capital_yen": 20242815
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117413,
+        "upper_90_yen": 158272,
+        "lower_10_yen": 87822
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 230181,
+        "upper_90_yen": 347938,
+        "lower_10_yen": 155032
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 338489,
+        "upper_90_yen": 559374,
+        "lower_10_yen": 210593
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 442512,
+        "upper_90_yen": 788598,
+        "lower_10_yen": 257848
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 542420,
+        "upper_90_yen": 1033083,
+        "lower_10_yen": 298708
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 638376,
+        "upper_90_yen": 1290973,
+        "lower_10_yen": 334435
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 730536,
+        "upper_90_yen": 1560790,
+        "lower_10_yen": 365931
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 819050,
+        "upper_90_yen": 1841304,
+        "lower_10_yen": 393875
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 904064,
+        "upper_90_yen": 2131452,
+        "lower_10_yen": 418794
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 985714,
+        "upper_90_yen": 2430298,
+        "lower_10_yen": 441111
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ベネフィットジャパン(3934)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ベネフィットジャパン(3934)を1株(2,285円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,285円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.78%、幾何成長率は-7.76%",
+      "新NISAで月1万円の配当金を得るには1,412株（約3,226,420円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ベネフィットジャパンは単元未満株（S株・かぶミニ等）を利用することで1株（約2,285円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は985,714円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり85.0円（利回り3.72%）です。月次95%VaR（最大想定損失率）は-14.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ベネフィットジャパンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,285円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,412株（元本目安：約3,226,420円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2285.0
+  }
+}

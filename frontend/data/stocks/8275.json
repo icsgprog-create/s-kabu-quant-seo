@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8275",
+    "name": "フォーバル",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1008.0,
+    "min_s_kabu_yen": 1008,
+    "unit_lot_yen": 100800,
+    "dps_yen": 31.0,
+    "dividend_yield_pct": 3.08,
+    "raw_annual_return_pct": 0.27,
+    "capped_annual_return_pct": 0.27,
+    "geometric_growth_pct": -6.08,
+    "annual_volatility_pct": 35.64,
+    "max_drawdown_pct": -40.62,
+    "monthly_var_95_pct": -11.99,
+    "sharpe_ratio": -0.11,
+    "quant_score": 36.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 388,
+        "nisa_required_capital_yen": 391104,
+        "specific_required_shares": 486,
+        "specific_required_capital_yen": 489888
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1936,
+        "nisa_required_capital_yen": 1951488,
+        "specific_required_shares": 2429,
+        "specific_required_capital_yen": 2448432
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3871,
+        "nisa_required_capital_yen": 3901968,
+        "specific_required_shares": 4858,
+        "specific_required_capital_yen": 4896864
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11613,
+        "nisa_required_capital_yen": 11705904,
+        "specific_required_shares": 14574,
+        "specific_required_capital_yen": 14690592
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 19355,
+        "nisa_required_capital_yen": 19509840,
+        "specific_required_shares": 24290,
+        "specific_required_capital_yen": 24484320
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118067,
+        "upper_90_yen": 163460,
+        "lower_10_yen": 86114
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 232639,
+        "upper_90_yen": 365150,
+        "lower_10_yen": 151384
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 343820,
+        "upper_90_yen": 595273,
+        "lower_10_yen": 205191
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 451710,
+        "upper_90_yen": 850008,
+        "lower_10_yen": 250942
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 556406,
+        "upper_90_yen": 1127034,
+        "lower_10_yen": 290548
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 658004,
+        "upper_90_yen": 1424695,
+        "lower_10_yen": 325252
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 756593,
+        "upper_90_yen": 1741706,
+        "lower_10_yen": 355933
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 852265,
+        "upper_90_yen": 2077005,
+        "lower_10_yen": 383247
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 945104,
+        "upper_90_yen": 2429685,
+        "lower_10_yen": 407699
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1035196,
+        "upper_90_yen": 2798944,
+        "lower_10_yen": 429689
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フォーバル(8275)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フォーバル(8275)を1株(1,008円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,008円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.64%、幾何成長率は-6.08%",
+      "新NISAで月1万円の配当金を得るには3,871株（約3,901,968円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フォーバルは単元未満株（S株・かぶミニ等）を利用することで1株（約1,008円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,035,196円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり31.0円（利回り3.08%）です。月次95%VaR（最大想定損失率）は-11.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フォーバルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,008円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,871株（元本目安：約3,901,968円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1008.0
+  }
+}

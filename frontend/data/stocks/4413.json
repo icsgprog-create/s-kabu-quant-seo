@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4413",
+    "name": "ボードルア",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2939.0,
+    "min_s_kabu_yen": 2939,
+    "unit_lot_yen": 293900,
+    "dps_yen": 7.58,
+    "dividend_yield_pct": 0.26,
+    "raw_annual_return_pct": 33.51,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 6.57,
+    "annual_volatility_pct": 51.82,
+    "max_drawdown_pct": -49.79,
+    "monthly_var_95_pct": -16.85,
+    "sharpe_ratio": 0.11,
+    "quant_score": 9.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1584,
+        "nisa_required_capital_yen": 4655376,
+        "specific_required_shares": 1987,
+        "specific_required_capital_yen": 5839793
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 7916,
+        "nisa_required_capital_yen": 23265124,
+        "specific_required_shares": 9934,
+        "specific_required_capital_yen": 29196026
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 15832,
+        "nisa_required_capital_yen": 46530248,
+        "specific_required_shares": 19868,
+        "specific_required_capital_yen": 58392052
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 47494,
+        "nisa_required_capital_yen": 139584866,
+        "specific_required_shares": 59602,
+        "specific_required_capital_yen": 175170278
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 79156,
+        "nisa_required_capital_yen": 232639484,
+        "specific_required_shares": 99336,
+        "specific_required_capital_yen": 291948504
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124548,
+        "upper_90_yen": 201286,
+        "lower_10_yen": 78653
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 257901,
+        "upper_90_yen": 505712,
+        "lower_10_yen": 137421
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 400683,
+        "upper_90_yen": 917841,
+        "lower_10_yen": 187066
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 553559,
+        "upper_90_yen": 1451987,
+        "lower_10_yen": 230934
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 717245,
+        "upper_90_yen": 2126770,
+        "lower_10_yen": 270720
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 892503,
+        "upper_90_yen": 2964493,
+        "lower_10_yen": 307445
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1080152,
+        "upper_90_yen": 3991223,
+        "lower_10_yen": 341789
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1281068,
+        "upper_90_yen": 5237100,
+        "lower_10_yen": 374229
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1496190,
+        "upper_90_yen": 6736774,
+        "lower_10_yen": 405120
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1726520,
+        "upper_90_yen": 8529940,
+        "lower_10_yen": 434734
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ボードルア(4413)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ボードルア(4413)を1株(2,939円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,939円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.82%、幾何成長率は6.57%",
+      "新NISAで月1万円の配当金を得るには15,832株（約46,530,248円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ボードルアは単元未満株（S株・かぶミニ等）を利用することで1株（約2,939円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,726,520円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.58円（利回り0.26%）です。月次95%VaR（最大想定損失率）は-16.85%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ボードルアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,939円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、15,832株（元本目安：約46,530,248円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2939.0
+  }
+}

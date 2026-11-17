@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7079",
+    "name": "ＷＤＢココ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2523.0,
+    "min_s_kabu_yen": 2523,
+    "unit_lot_yen": 252300,
+    "dps_yen": 95.0,
+    "dividend_yield_pct": 3.77,
+    "raw_annual_return_pct": -18.5,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -20.47,
+    "annual_volatility_pct": 33.08,
+    "max_drawdown_pct": -61.23,
+    "monthly_var_95_pct": -15.38,
+    "sharpe_ratio": -0.54,
+    "quant_score": 42.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 127,
+        "nisa_required_capital_yen": 320421,
+        "specific_required_shares": 159,
+        "specific_required_capital_yen": 401157
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 632,
+        "nisa_required_capital_yen": 1594536,
+        "specific_required_shares": 793,
+        "specific_required_capital_yen": 2000739
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1264,
+        "nisa_required_capital_yen": 3189072,
+        "specific_required_shares": 1586,
+        "specific_required_capital_yen": 4001478
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3790,
+        "nisa_required_capital_yen": 9562170,
+        "specific_required_shares": 4756,
+        "specific_required_capital_yen": 11999388
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 15935268,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 19997298
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109745,
+        "upper_90_yen": 147857,
+        "lower_10_yen": 82150
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 202607,
+        "upper_90_yen": 304495,
+        "lower_10_yen": 137338
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 281183,
+        "upper_90_yen": 458603,
+        "lower_10_yen": 177461
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 347671,
+        "upper_90_yen": 605988,
+        "lower_10_yen": 207486
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 403931,
+        "upper_90_yen": 744631,
+        "lower_10_yen": 230335
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 451535,
+        "upper_90_yen": 873595,
+        "lower_10_yen": 247918
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 491816,
+        "upper_90_yen": 992570,
+        "lower_10_yen": 261564
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 525900,
+        "upper_90_yen": 1101627,
+        "lower_10_yen": 272222
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 554741,
+        "upper_90_yen": 1201079,
+        "lower_10_yen": 280589
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 579145,
+        "upper_90_yen": 1291384,
+        "lower_10_yen": 287186
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＷＤＢココ(7079)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＷＤＢココ(7079)を1株(2,523円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,523円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.08%、幾何成長率は-20.47%",
+      "新NISAで月1万円の配当金を得るには1,264株（約3,189,072円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＷＤＢココは単元未満株（S株・かぶミニ等）を利用することで1株（約2,523円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は579,145円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり95.0円（利回り3.77%）です。月次95%VaR（最大想定損失率）は-15.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＷＤＢココは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,523円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,264株（元本目安：約3,189,072円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2523.0
+  }
+}

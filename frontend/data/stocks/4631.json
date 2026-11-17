@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4631",
+    "name": "ＤＩＣ",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4926.0,
+    "min_s_kabu_yen": 4926,
+    "unit_lot_yen": 492600,
+    "dps_yen": 220.0,
+    "dividend_yield_pct": 4.47,
+    "raw_annual_return_pct": 13.46,
+    "capped_annual_return_pct": 13.46,
+    "geometric_growth_pct": 9.24,
+    "annual_volatility_pct": 29.06,
+    "max_drawdown_pct": -31.88,
+    "monthly_var_95_pct": -11.38,
+    "sharpe_ratio": 0.44,
+    "quant_score": 67.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 55,
+        "nisa_required_capital_yen": 270930,
+        "specific_required_shares": 69,
+        "specific_required_capital_yen": 339894
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 273,
+        "nisa_required_capital_yen": 1344798,
+        "specific_required_shares": 343,
+        "specific_required_capital_yen": 1689618
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 2689596,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 3374310
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1637,
+        "nisa_required_capital_yen": 8063862,
+        "specific_required_shares": 2054,
+        "specific_required_capital_yen": 10118004
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 13438128,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 16861698
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129349,
+        "upper_90_yen": 169160,
+        "lower_10_yen": 99540
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 277698,
+        "upper_90_yen": 404872,
+        "lower_10_yen": 193083
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 447840,
+        "upper_90_yen": 713253,
+        "lower_10_yen": 287061
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 642975,
+        "upper_90_yen": 1106938,
+        "lower_10_yen": 383861
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 866776,
+        "upper_90_yen": 1602345,
+        "lower_10_yen": 485027
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1123452,
+        "upper_90_yen": 2219692,
+        "lower_10_yen": 591801
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1417833,
+        "upper_90_yen": 2983466,
+        "lower_10_yen": 705314
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1755459,
+        "upper_90_yen": 3923121,
+        "lower_10_yen": 826672
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2142681,
+        "upper_90_yen": 5073949,
+        "lower_10_yen": 957006
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2586786,
+        "upper_90_yen": 6478144,
+        "lower_10_yen": 1097505
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＤＩＣ(4631)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＤＩＣ(4631)を1株(4,926円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,926円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.06%、幾何成長率は9.24%",
+      "新NISAで月1万円の配当金を得るには546株（約2,689,596円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＤＩＣは単元未満株（S株・かぶミニ等）を利用することで1株（約4,926円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,586,786円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり220.0円（利回り4.47%）です。月次95%VaR（最大想定損失率）は-11.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＤＩＣは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,926円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、546株（元本目安：約2,689,596円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4926.0
+  }
+}

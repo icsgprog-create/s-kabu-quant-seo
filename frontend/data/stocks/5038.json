@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5038",
+    "name": "ｅＷｅＬＬ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2132.0,
+    "min_s_kabu_yen": 2132,
+    "unit_lot_yen": 213200,
+    "dps_yen": 16.0,
+    "dividend_yield_pct": 0.75,
+    "raw_annual_return_pct": 2.06,
+    "capped_annual_return_pct": 2.06,
+    "geometric_growth_pct": -11.42,
+    "annual_volatility_pct": 51.94,
+    "max_drawdown_pct": -61.99,
+    "monthly_var_95_pct": -17.6,
+    "sharpe_ratio": -0.22,
+    "quant_score": 6.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 1599000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 2008344
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 7995000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 10035324
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 15990000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 20068516
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22500,
+        "nisa_required_capital_yen": 47970000,
+        "specific_required_shares": 28237,
+        "specific_required_capital_yen": 60201284
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 37500,
+        "nisa_required_capital_yen": 79950000,
+        "specific_required_shares": 47061,
+        "specific_required_capital_yen": 100334052
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113313,
+        "upper_90_yen": 182055,
+        "lower_10_yen": 72007
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 215156,
+        "upper_90_yen": 414076,
+        "lower_10_yen": 116981
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 306690,
+        "upper_90_yen": 678114,
+        "lower_10_yen": 148829
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 388958,
+        "upper_90_yen": 965632,
+        "lower_10_yen": 172430
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 462899,
+        "upper_90_yen": 1270733,
+        "lower_10_yen": 190385
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 529355,
+        "upper_90_yen": 1588860,
+        "lower_10_yen": 204291
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 589083,
+        "upper_90_yen": 1916308,
+        "lower_10_yen": 215201
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 642766,
+        "upper_90_yen": 2249981,
+        "lower_10_yen": 223848
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 691015,
+        "upper_90_yen": 2587257,
+        "lower_10_yen": 230758
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 734380,
+        "upper_90_yen": 2925897,
+        "lower_10_yen": 236316
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ｅＷｅＬＬ(5038)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ｅＷｅＬＬ(5038)を1株(2,132円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,132円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.94%、幾何成長率は-11.42%",
+      "新NISAで月1万円の配当金を得るには7,500株（約15,990,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ｅＷｅＬＬは単元未満株（S株・かぶミニ等）を利用することで1株（約2,132円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は734,380円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.0円（利回り0.75%）です。月次95%VaR（最大想定損失率）は-17.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ｅＷｅＬＬは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,132円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,500株（元本目安：約15,990,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2132.0
+  }
+}

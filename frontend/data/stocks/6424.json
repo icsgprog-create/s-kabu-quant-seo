@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6424",
+    "name": "高見沢サイバネティックス",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 845.0,
+    "min_s_kabu_yen": 845,
+    "unit_lot_yen": 84500,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 2.72,
+    "raw_annual_return_pct": 1.82,
+    "capped_annual_return_pct": 1.82,
+    "geometric_growth_pct": -4.84,
+    "annual_volatility_pct": 36.48,
+    "max_drawdown_pct": -53.43,
+    "monthly_var_95_pct": -12.24,
+    "sharpe_ratio": -0.09,
+    "quant_score": 33.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 441090,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 553475
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 2204605,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 2766530
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 4409210,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 5533060
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 13226785,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 16598335
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 22043515,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 27663610
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118635,
+        "upper_90_yen": 165580,
+        "lower_10_yen": 85871
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 234787,
+        "upper_90_yen": 372849,
+        "lower_10_yen": 151156
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 348508,
+        "upper_90_yen": 612358,
+        "lower_10_yen": 205249
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 459849,
+        "upper_90_yen": 880683,
+        "lower_10_yen": 251508
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 568859,
+        "upper_90_yen": 1175887,
+        "lower_10_yen": 291803
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 675588,
+        "upper_90_yen": 1496687,
+        "lower_10_yen": 327340
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 780083,
+        "upper_90_yen": 1842152,
+        "lower_10_yen": 358969
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 882391,
+        "upper_90_yen": 2211564,
+        "lower_10_yen": 387320
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 982557,
+        "upper_90_yen": 2604345,
+        "lower_10_yen": 412878
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1080627,
+        "upper_90_yen": 3020012,
+        "lower_10_yen": 436027
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "高見沢サイバネティックス(6424)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "高見沢サイバネティックス(6424)を1株(845円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小845円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.48%、幾何成長率は-4.84%",
+      "新NISAで月1万円の配当金を得るには5,218株（約4,409,210円）が必要"
+    ],
+    "accumulation_strategy_analysis": "高見沢サイバネティックスは単元未満株（S株・かぶミニ等）を利用することで1株（約845円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,080,627円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り2.72%）です。月次95%VaR（最大想定損失率）は-12.24%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "高見沢サイバネティックスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約845円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約4,409,210円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 845.0
+  }
+}

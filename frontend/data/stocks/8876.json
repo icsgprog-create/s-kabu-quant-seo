@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8876",
+    "name": "リログループ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2336.0,
+    "min_s_kabu_yen": 2336,
+    "unit_lot_yen": 233600,
+    "dps_yen": 103.5,
+    "dividend_yield_pct": 4.43,
+    "raw_annual_return_pct": 2.47,
+    "capped_annual_return_pct": 2.47,
+    "geometric_growth_pct": -2.45,
+    "annual_volatility_pct": 31.36,
+    "max_drawdown_pct": -51.63,
+    "monthly_var_95_pct": -12.42,
+    "sharpe_ratio": 0.03,
+    "quant_score": 54.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 116,
+        "nisa_required_capital_yen": 270976,
+        "specific_required_shares": 146,
+        "specific_required_capital_yen": 341056
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 580,
+        "nisa_required_capital_yen": 1354880,
+        "specific_required_shares": 728,
+        "specific_required_capital_yen": 1700608
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1160,
+        "nisa_required_capital_yen": 2709760,
+        "specific_required_shares": 1456,
+        "specific_required_capital_yen": 3401216
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3479,
+        "nisa_required_capital_yen": 8126944,
+        "specific_required_shares": 4366,
+        "specific_required_capital_yen": 10198976
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5798,
+        "nisa_required_capital_yen": 13544128,
+        "specific_required_shares": 7276,
+        "specific_required_capital_yen": 16996736
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121297,
+        "upper_90_yen": 161616,
+        "lower_10_yen": 91723
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 245023,
+        "upper_90_yen": 365230,
+        "lower_10_yen": 167071
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 371226,
+        "upper_90_yen": 604704,
+        "lower_10_yen": 233668
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 499956,
+        "upper_90_yen": 878963,
+        "lower_10_yen": 294148
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 631263,
+        "upper_90_yen": 1188201,
+        "lower_10_yen": 349943
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 765198,
+        "upper_90_yen": 1533209,
+        "lower_10_yen": 401970
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 901816,
+        "upper_90_yen": 1915134,
+        "lower_10_yen": 450864
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1041168,
+        "upper_90_yen": 2335375,
+        "lower_10_yen": 497094
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1183310,
+        "upper_90_yen": 2795522,
+        "lower_10_yen": 541020
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1328298,
+        "upper_90_yen": 3297333,
+        "lower_10_yen": 582926
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "リログループ(8876)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "リログループ(8876)を1株(2,336円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,336円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.36%、幾何成長率は-2.45%",
+      "新NISAで月1万円の配当金を得るには1,160株（約2,709,760円）が必要"
+    ],
+    "accumulation_strategy_analysis": "リログループは単元未満株（S株・かぶミニ等）を利用することで1株（約2,336円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,328,298円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり103.5円（利回り4.43%）です。月次95%VaR（最大想定損失率）は-12.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "リログループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,336円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,160株（元本目安：約2,709,760円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2336.0
+  }
+}

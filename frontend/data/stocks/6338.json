@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6338",
+    "name": "タカトリ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1225.0,
+    "min_s_kabu_yen": 1225,
+    "unit_lot_yen": 122500,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 2.45,
+    "raw_annual_return_pct": -5.75,
+    "capped_annual_return_pct": -5.75,
+    "geometric_growth_pct": -23.89,
+    "annual_volatility_pct": 60.24,
+    "max_drawdown_pct": -88.71,
+    "monthly_var_95_pct": -25.44,
+    "sharpe_ratio": -0.37,
+    "quant_score": 19.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 490000,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 614950
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 2450000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 3074750
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 4900000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 6149500
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 14700000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 18448500
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 24500000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 30746275
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107044,
+        "upper_90_yen": 184947,
+        "lower_10_yen": 63721
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 193428,
+        "upper_90_yen": 408954,
+        "lower_10_yen": 97306
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 263139,
+        "upper_90_yen": 646743,
+        "lower_10_yen": 117843
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 319396,
+        "upper_90_yen": 886541,
+        "lower_10_yen": 131087
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 364794,
+        "upper_90_yen": 1121206,
+        "lower_10_yen": 139893
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 401431,
+        "upper_90_yen": 1346214,
+        "lower_10_yen": 145872
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 430997,
+        "upper_90_yen": 1558743,
+        "lower_10_yen": 149993
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 454856,
+        "upper_90_yen": 1757157,
+        "lower_10_yen": 152866
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 474110,
+        "upper_90_yen": 1940661,
+        "lower_10_yen": 154890
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 489648,
+        "upper_90_yen": 2109058,
+        "lower_10_yen": 156325
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "タカトリ(6338)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "タカトリ(6338)を1株(1,225円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,225円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは60.24%、幾何成長率は-23.89%",
+      "新NISAで月1万円の配当金を得るには4,000株（約4,900,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "タカトリは単元未満株（S株・かぶミニ等）を利用することで1株（約1,225円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は489,648円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り2.45%）です。月次95%VaR（最大想定損失率）は-25.44%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "タカトリは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,225円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約4,900,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1225.0
+  }
+}

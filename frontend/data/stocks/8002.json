@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8002",
+    "name": "丸紅",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4980.0,
+    "min_s_kabu_yen": 4980,
+    "unit_lot_yen": 498000,
+    "dps_yen": 120.0,
+    "dividend_yield_pct": 2.41,
+    "raw_annual_return_pct": 35.75,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.72,
+    "annual_volatility_pct": 32.49,
+    "max_drawdown_pct": -37.33,
+    "monthly_var_95_pct": -10.98,
+    "sharpe_ratio": 0.5,
+    "quant_score": 49.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 100,
+        "nisa_required_capital_yen": 498000,
+        "specific_required_shares": 126,
+        "specific_required_capital_yen": 627480
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 2490000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 3127440
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 4980000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 6249900
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 14940000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 18749700
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 24900000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 31249500
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131828,
+        "upper_90_yen": 178176,
+        "lower_10_yen": 98316
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288289,
+        "upper_90_yen": 440898,
+        "lower_10_yen": 191714
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 473987,
+        "upper_90_yen": 802109,
+        "lower_10_yen": 287316
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 694383,
+        "upper_90_yen": 1285339,
+        "lower_10_yen": 387938
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 955963,
+        "upper_90_yen": 1921513,
+        "lower_10_yen": 495579
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1266421,
+        "upper_90_yen": 2749943,
+        "lower_10_yen": 611999
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1634891,
+        "upper_90_yen": 3820082,
+        "lower_10_yen": 738940
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2072212,
+        "upper_90_yen": 5193827,
+        "lower_10_yen": 878224
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2591251,
+        "upper_90_yen": 6948440,
+        "lower_10_yen": 1031827
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3207276,
+        "upper_90_yen": 9180165,
+        "lower_10_yen": 1201933
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "丸紅(8002)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "丸紅(8002)を1株(4,980円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,980円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.49%、幾何成長率は14.72%",
+      "新NISAで月1万円の配当金を得るには1,000株（約4,980,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "丸紅は単元未満株（S株・かぶミニ等）を利用することで1株（約4,980円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,207,276円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり120.0円（利回り2.41%）です。月次95%VaR（最大想定損失率）は-10.98%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "丸紅は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,980円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,000株（元本目安：約4,980,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4980.0
+  }
+}

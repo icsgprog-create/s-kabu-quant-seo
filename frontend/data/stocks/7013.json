@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7013",
+    "name": "ＩＨＩ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2300.0,
+    "min_s_kabu_yen": 2300,
+    "unit_lot_yen": 230000,
+    "dps_yen": 21.5,
+    "dividend_yield_pct": 0.93,
+    "raw_annual_return_pct": 38.43,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 9.75,
+    "annual_volatility_pct": 45.28,
+    "max_drawdown_pct": -48.71,
+    "monthly_var_95_pct": -14.76,
+    "sharpe_ratio": 0.21,
+    "quant_score": 17.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 559,
+        "nisa_required_capital_yen": 1285700,
+        "specific_required_shares": 701,
+        "specific_required_capital_yen": 1612300
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 6419300,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 8056900
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5582,
+        "nisa_required_capital_yen": 12838600,
+        "specific_required_shares": 7005,
+        "specific_required_capital_yen": 16111500
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16745,
+        "nisa_required_capital_yen": 38513500,
+        "specific_required_shares": 21013,
+        "specific_required_capital_yen": 48329900
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27907,
+        "nisa_required_capital_yen": 64186100,
+        "specific_required_shares": 35022,
+        "specific_required_capital_yen": 80550600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127210,
+        "upper_90_yen": 193549,
+        "lower_10_yen": 84917
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 268765,
+        "upper_90_yen": 484837,
+        "lower_10_yen": 154023
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 426281,
+        "upper_90_yen": 882696,
+        "lower_10_yen": 216558
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 601560,
+        "upper_90_yen": 1405818,
+        "lower_10_yen": 275403
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 796604,
+        "upper_90_yen": 2078422,
+        "lower_10_yen": 332049
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1013641,
+        "upper_90_yen": 2930162,
+        "lower_10_yen": 387423
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1255152,
+        "upper_90_yen": 3996710,
+        "lower_10_yen": 442170
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1523897,
+        "upper_90_yen": 5320638,
+        "lower_10_yen": 496773
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1822947,
+        "upper_90_yen": 6952542,
+        "lower_10_yen": 551619
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2155718,
+        "upper_90_yen": 8952372,
+        "lower_10_yen": 607032
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＩＨＩ(7013)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＩＨＩ(7013)を1株(2,300円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,300円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.28%、幾何成長率は9.75%",
+      "新NISAで月1万円の配当金を得るには5,582株（約12,838,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＩＨＩは単元未満株（S株・かぶミニ等）を利用することで1株（約2,300円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,155,718円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり21.5円（利回り0.93%）です。月次95%VaR（最大想定損失率）は-14.76%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＩＨＩは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,300円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,582株（元本目安：約12,838,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2300.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3904",
+    "name": "カヤック",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 394.0,
+    "min_s_kabu_yen": 394,
+    "unit_lot_yen": 39400,
+    "dps_yen": 3.9,
+    "dividend_yield_pct": 0.99,
+    "raw_annual_return_pct": -13.6,
+    "capped_annual_return_pct": -13.6,
+    "geometric_growth_pct": -23.42,
+    "annual_volatility_pct": 44.33,
+    "max_drawdown_pct": -77.55,
+    "monthly_var_95_pct": -17.61,
+    "sharpe_ratio": -0.53,
+    "quant_score": 8.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 3077,
+        "nisa_required_capital_yen": 1212338,
+        "specific_required_shares": 3862,
+        "specific_required_capital_yen": 1521628
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 15385,
+        "nisa_required_capital_yen": 6061690,
+        "specific_required_shares": 19307,
+        "specific_required_capital_yen": 7606958
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 30770,
+        "nisa_required_capital_yen": 12123380,
+        "specific_required_shares": 38614,
+        "specific_required_capital_yen": 15213916
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 92308,
+        "nisa_required_capital_yen": 36369352,
+        "specific_required_shares": 115841,
+        "specific_required_capital_yen": 45641354
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 153847,
+        "nisa_required_capital_yen": 60615718,
+        "specific_required_shares": 193068,
+        "specific_required_capital_yen": 76068792
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106491,
+        "upper_90_yen": 158778,
+        "lower_10_yen": 72519
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 191582,
+        "upper_90_yen": 330174,
+        "lower_10_yen": 114950
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 259573,
+        "upper_90_yen": 497802,
+        "lower_10_yen": 142602
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 313902,
+        "upper_90_yen": 655640,
+        "lower_10_yen": 161337
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 357313,
+        "upper_90_yen": 800999,
+        "lower_10_yen": 174321
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 392000,
+        "upper_90_yen": 932868,
+        "lower_10_yen": 183456
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 419717,
+        "upper_90_yen": 1051181,
+        "lower_10_yen": 189956
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 441864,
+        "upper_90_yen": 1156424,
+        "lower_10_yen": 194620
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 459560,
+        "upper_90_yen": 1249393,
+        "lower_10_yen": 197992
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 473701,
+        "upper_90_yen": 1331051,
+        "lower_10_yen": 200442
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "カヤック(3904)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "カヤック(3904)を1株(394円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小394円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.33%、幾何成長率は-23.42%",
+      "新NISAで月1万円の配当金を得るには30,770株（約12,123,380円）が必要"
+    ],
+    "accumulation_strategy_analysis": "カヤックは単元未満株（S株・かぶミニ等）を利用することで1株（約394円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は473,701円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり3.9円（利回り0.99%）です。月次95%VaR（最大想定損失率）は-17.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "カヤックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約394円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、30,770株（元本目安：約12,123,380円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 394.0
+  }
+}

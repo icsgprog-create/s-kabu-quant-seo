@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9890",
+    "name": "マキヤ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1389.0,
+    "min_s_kabu_yen": 1389,
+    "unit_lot_yen": 138900,
+    "dps_yen": 34.0,
+    "dividend_yield_pct": 2.45,
+    "raw_annual_return_pct": 14.53,
+    "capped_annual_return_pct": 14.53,
+    "geometric_growth_pct": 11.73,
+    "annual_volatility_pct": 23.69,
+    "max_drawdown_pct": -28.11,
+    "monthly_var_95_pct": -5.8,
+    "sharpe_ratio": 0.56,
+    "quant_score": 59.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 353,
+        "nisa_required_capital_yen": 490317,
+        "specific_required_shares": 443,
+        "specific_required_capital_yen": 615327
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1765,
+        "nisa_required_capital_yen": 2451585,
+        "specific_required_shares": 2215,
+        "specific_required_capital_yen": 3076635
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 4903170,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 6153270
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10589,
+        "nisa_required_capital_yen": 14708121,
+        "specific_required_shares": 13288,
+        "specific_required_capital_yen": 18457032
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17648,
+        "nisa_required_capital_yen": 24513072,
+        "specific_required_shares": 22147,
+        "specific_required_capital_yen": 30762183
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129685,
+        "upper_90_yen": 161331,
+        "lower_10_yen": 104690
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 279121,
+        "upper_90_yen": 379270,
+        "lower_10_yen": 207283
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 451315,
+        "upper_90_yen": 658866,
+        "lower_10_yen": 313412
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 649734,
+        "upper_90_yen": 1010457,
+        "lower_10_yen": 425449
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 878372,
+        "upper_90_yen": 1447422,
+        "lower_10_yen": 545132
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1141830,
+        "upper_90_yen": 1986181,
+        "lower_10_yen": 674010
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1445413,
+        "upper_90_yen": 2646551,
+        "lower_10_yen": 813613
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1795231,
+        "upper_90_yen": 3452296,
+        "lower_10_yen": 965526
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2198324,
+        "upper_90_yen": 4431806,
+        "lower_10_yen": 1131446
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2662808,
+        "upper_90_yen": 5618927,
+        "lower_10_yen": 1313221
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "マキヤ(9890)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "マキヤ(9890)を1株(1,389円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,389円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.69%、幾何成長率は11.73%",
+      "新NISAで月1万円の配当金を得るには3,530株（約4,903,170円）が必要"
+    ],
+    "accumulation_strategy_analysis": "マキヤは単元未満株（S株・かぶミニ等）を利用することで1株（約1,389円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,662,808円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり34.0円（利回り2.45%）です。月次95%VaR（最大想定損失率）は-5.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "マキヤは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,389円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,530株（元本目安：約4,903,170円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1389.0
+  }
+}

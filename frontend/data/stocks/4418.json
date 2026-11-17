@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4418",
+    "name": "ＪＤＳＣ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1173.0,
+    "min_s_kabu_yen": 1173,
+    "unit_lot_yen": 117300,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -11.72,
+    "capped_annual_return_pct": -11.72,
+    "geometric_growth_pct": -34.52,
+    "annual_volatility_pct": 67.52,
+    "max_drawdown_pct": -81.5,
+    "monthly_var_95_pct": -31.42,
+    "sharpe_ratio": -0.53,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 100027,
+        "upper_90_yen": 183699,
+        "lower_10_yen": 56434
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 170854,
+        "upper_90_yen": 389100,
+        "lower_10_yen": 81108
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 221005,
+        "upper_90_yen": 586979,
+        "lower_10_yen": 93897
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 256517,
+        "upper_90_yen": 766913,
+        "lower_10_yen": 100936
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 281662,
+        "upper_90_yen": 925092,
+        "lower_10_yen": 104947
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 299466,
+        "upper_90_yen": 1060995,
+        "lower_10_yen": 107286
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 312073,
+        "upper_90_yen": 1175805,
+        "lower_10_yen": 108674
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 321000,
+        "upper_90_yen": 1271532,
+        "lower_10_yen": 109508
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 327321,
+        "upper_90_yen": 1350511,
+        "lower_10_yen": 110015
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 331797,
+        "upper_90_yen": 1415105,
+        "lower_10_yen": 110325
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＪＤＳＣ(4418)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＪＤＳＣ(4418)を1株(1,173円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,173円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは67.52%、幾何成長率は-34.52%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＪＤＳＣは単元未満株（S株・かぶミニ等）を利用することで1株（約1,173円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は331,797円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-31.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＪＤＳＣは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,173円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1173.0
+  }
+}

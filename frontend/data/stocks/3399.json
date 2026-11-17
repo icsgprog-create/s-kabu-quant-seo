@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3399",
+    "name": "丸千代山岡家",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5760.0,
+    "min_s_kabu_yen": 5760,
+    "unit_lot_yen": 576000,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 0.4,
+    "raw_annual_return_pct": 64.42,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 9.97,
+    "annual_volatility_pct": 44.78,
+    "max_drawdown_pct": -39.88,
+    "monthly_var_95_pct": -17.78,
+    "sharpe_ratio": 0.21,
+    "quant_score": 13.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 3006720,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 3772800
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 15027840,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 18858240
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 30055680,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 37716480
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 90161280,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 113143680
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 150261120,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 188570880
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126992,
+        "upper_90_yen": 192292,
+        "lower_10_yen": 85151
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 267865,
+        "upper_90_yen": 479863,
+        "lower_10_yen": 154471
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 424136,
+        "upper_90_yen": 870551,
+        "lower_10_yen": 217146
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 597488,
+        "upper_90_yen": 1381715,
+        "lower_10_yen": 276049
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 789788,
+        "upper_90_yen": 2035866,
+        "lower_10_yen": 332664
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1003106,
+        "upper_90_yen": 2860494,
+        "lower_10_yen": 387914
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1239742,
+        "upper_90_yen": 3888549,
+        "lower_10_yen": 442439
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1502243,
+        "upper_90_yen": 5159206,
+        "lower_10_yen": 496717
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1793436,
+        "upper_90_yen": 6718825,
+        "lower_10_yen": 551128
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2116457,
+        "upper_90_yen": 8622116,
+        "lower_10_yen": 605990
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "丸千代山岡家(3399)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "丸千代山岡家(3399)を1株(5,760円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,760円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.78%、幾何成長率は9.97%",
+      "新NISAで月1万円の配当金を得るには5,218株（約30,055,680円）が必要"
+    ],
+    "accumulation_strategy_analysis": "丸千代山岡家は単元未満株（S株・かぶミニ等）を利用することで1株（約5,760円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,116,457円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り0.4%）です。月次95%VaR（最大想定損失率）は-17.78%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "丸千代山岡家は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,760円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約30,055,680円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5760.0
+  }
+}

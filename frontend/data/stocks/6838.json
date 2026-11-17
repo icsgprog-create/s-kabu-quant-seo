@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6838",
+    "name": "多摩川ホールディングス",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 935.0,
+    "min_s_kabu_yen": 935,
+    "unit_lot_yen": 93500,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.07,
+    "raw_annual_return_pct": -2.94,
+    "capped_annual_return_pct": -2.94,
+    "geometric_growth_pct": -18.38,
+    "annual_volatility_pct": 55.58,
+    "max_drawdown_pct": -61.95,
+    "monthly_var_95_pct": -18.3,
+    "sharpe_ratio": -0.33,
+    "quant_score": 8.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1122000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1408110
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 5610000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 7040550
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 11220000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 14081100
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 33660000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 42241430
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 56100000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 70402695
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109396,
+        "upper_90_yen": 181316,
+        "lower_10_yen": 67597
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 201405,
+        "upper_90_yen": 403079,
+        "lower_10_yen": 106037
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 278789,
+        "upper_90_yen": 643239,
+        "lower_10_yen": 131076
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 343875,
+        "upper_90_yen": 891314,
+        "lower_10_yen": 148203
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 398616,
+        "upper_90_yen": 1140563,
+        "lower_10_yen": 160253
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 444656,
+        "upper_90_yen": 1386327,
+        "lower_10_yen": 168895
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 483379,
+        "upper_90_yen": 1625321,
+        "lower_10_yen": 175179
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 515947,
+        "upper_90_yen": 1855245,
+        "lower_10_yen": 179798
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 543339,
+        "upper_90_yen": 2074533,
+        "lower_10_yen": 183224
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 566377,
+        "upper_90_yen": 2282182,
+        "lower_10_yen": 185783
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "多摩川ホールディングス(6838)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "多摩川ホールディングス(6838)を1株(935円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小935円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは55.58%、幾何成長率は-18.38%",
+      "新NISAで月1万円の配当金を得るには12,000株（約11,220,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "多摩川ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約935円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は566,377円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.07%）です。月次95%VaR（最大想定損失率）は-18.3%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "多摩川ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約935円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約11,220,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 935.0
+  }
+}

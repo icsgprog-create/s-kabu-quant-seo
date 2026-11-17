@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6343",
+    "name": "フリージア・マクロス",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 140.0,
+    "min_s_kabu_yen": 140,
+    "unit_lot_yen": 14000,
+    "dps_yen": 0.6,
+    "dividend_yield_pct": 0.43,
+    "raw_annual_return_pct": 3.06,
+    "capped_annual_return_pct": 3.06,
+    "geometric_growth_pct": -1.64,
+    "annual_volatility_pct": 30.64,
+    "max_drawdown_pct": -39.51,
+    "monthly_var_95_pct": -9.8,
+    "sharpe_ratio": -0.07,
+    "quant_score": 21.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 2800000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 3513860
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 100000,
+        "nisa_required_capital_yen": 14000000,
+        "specific_required_shares": 125495,
+        "specific_required_capital_yen": 17569300
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 200000,
+        "nisa_required_capital_yen": 28000000,
+        "specific_required_shares": 250989,
+        "specific_required_capital_yen": 35138460
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 600000,
+        "nisa_required_capital_yen": 84000000,
+        "specific_required_shares": 752965,
+        "specific_required_capital_yen": 105415100
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1000000,
+        "nisa_required_capital_yen": 140000000,
+        "specific_required_shares": 1254942,
+        "specific_required_capital_yen": 175691880
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119218,
+        "upper_90_yen": 157672,
+        "lower_10_yen": 90793
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 237006,
+        "upper_90_yen": 349228,
+        "lower_10_yen": 163373
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 353379,
+        "upper_90_yen": 566759,
+        "lower_10_yen": 225708
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 468356,
+        "upper_90_yen": 807439,
+        "lower_10_yen": 280684
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 581952,
+        "upper_90_yen": 1069701,
+        "lower_10_yen": 329922
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 694185,
+        "upper_90_yen": 1352540,
+        "lower_10_yen": 374483
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 805071,
+        "upper_90_yen": 1655251,
+        "lower_10_yen": 415121
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 914626,
+        "upper_90_yen": 1977318,
+        "lower_10_yen": 452403
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1022866,
+        "upper_90_yen": 2318347,
+        "lower_10_yen": 486771
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1129806,
+        "upper_90_yen": 2678030,
+        "lower_10_yen": 518577
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フリージア・マクロス(6343)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フリージア・マクロス(6343)を1株(140円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小140円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.64%、幾何成長率は-1.64%",
+      "新NISAで月1万円の配当金を得るには200,000株（約28,000,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フリージア・マクロスは単元未満株（S株・かぶミニ等）を利用することで1株（約140円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,129,806円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.6円（利回り0.43%）です。月次95%VaR（最大想定損失率）は-9.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フリージア・マクロスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約140円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、200,000株（元本目安：約28,000,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 140.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3474",
+    "name": "Ｇ－ＦＡＣＴＯＲＹ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 759.0,
+    "min_s_kabu_yen": 759,
+    "unit_lot_yen": 75900,
+    "dps_yen": 5.0,
+    "dividend_yield_pct": 0.66,
+    "raw_annual_return_pct": 10.07,
+    "capped_annual_return_pct": 10.07,
+    "geometric_growth_pct": 4.05,
+    "annual_volatility_pct": 34.7,
+    "max_drawdown_pct": -37.72,
+    "monthly_var_95_pct": -15.12,
+    "sharpe_ratio": 0.11,
+    "quant_score": 23.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 1821600,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 2286108
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 9108000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 11430540
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 18216000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 22860321
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 72000,
+        "nisa_required_capital_yen": 54648000,
+        "specific_required_shares": 90356,
+        "specific_required_capital_yen": 68580204
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 91080000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 114300087
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123110,
+        "upper_90_yen": 169316,
+        "lower_10_yen": 90338
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252151,
+        "upper_90_yen": 393365,
+        "lower_10_yen": 164861
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 387411,
+        "upper_90_yen": 668247,
+        "lower_10_yen": 231525
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 529189,
+        "upper_90_yen": 995738,
+        "lower_10_yen": 292975
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 677799,
+        "upper_90_yen": 1379249,
+        "lower_10_yen": 350613
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 833569,
+        "upper_90_yen": 1823138,
+        "lower_10_yen": 405316
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 996846,
+        "upper_90_yen": 2332502,
+        "lower_10_yen": 457687
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1167990,
+        "upper_90_yen": 2913097,
+        "lower_10_yen": 508163
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1347381,
+        "upper_90_yen": 3571321,
+        "lower_10_yen": 557078
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1535416,
+        "upper_90_yen": 4314223,
+        "lower_10_yen": 604692
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｇ－ＦＡＣＴＯＲＹ(3474)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｇ－ＦＡＣＴＯＲＹ(3474)を1株(759円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小759円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.7%、幾何成長率は4.05%",
+      "新NISAで月1万円の配当金を得るには24,000株（約18,216,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｇ－ＦＡＣＴＯＲＹは単元未満株（S株・かぶミニ等）を利用することで1株（約759円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,535,416円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.0円（利回り0.66%）です。月次95%VaR（最大想定損失率）は-15.12%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｇ－ＦＡＣＴＯＲＹは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約759円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、24,000株（元本目安：約18,216,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 759.0
+  }
+}

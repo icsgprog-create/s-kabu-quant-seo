@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4362",
+    "name": "日本精化",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2438.0,
+    "min_s_kabu_yen": 2438,
+    "unit_lot_yen": 243800,
+    "dps_yen": 103.0,
+    "dividend_yield_pct": 4.22,
+    "raw_annual_return_pct": 6.98,
+    "capped_annual_return_pct": 6.98,
+    "geometric_growth_pct": 2.17,
+    "annual_volatility_pct": 31.03,
+    "max_drawdown_pct": -39.16,
+    "monthly_var_95_pct": -12.19,
+    "sharpe_ratio": 0.17,
+    "quant_score": 57.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 117,
+        "nisa_required_capital_yen": 285246,
+        "specific_required_shares": 147,
+        "specific_required_capital_yen": 358386
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 583,
+        "nisa_required_capital_yen": 1421354,
+        "specific_required_shares": 732,
+        "specific_required_capital_yen": 1784616
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1166,
+        "nisa_required_capital_yen": 2842708,
+        "specific_required_shares": 1463,
+        "specific_required_capital_yen": 3566794
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3496,
+        "nisa_required_capital_yen": 8523248,
+        "specific_required_shares": 4387,
+        "specific_required_capital_yen": 10695506
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5826,
+        "nisa_required_capital_yen": 14203788,
+        "specific_required_shares": 7311,
+        "specific_required_capital_yen": 17824218
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124249,
+        "upper_90_yen": 165213,
+        "lower_10_yen": 94128
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 256699,
+        "upper_90_yen": 382158,
+        "lower_10_yen": 175167
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 397892,
+        "upper_90_yen": 648379,
+        "lower_10_yen": 250147
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 548404,
+        "upper_90_yen": 966601,
+        "lower_10_yen": 321402
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 708852,
+        "upper_90_yen": 1341170,
+        "lower_10_yen": 390180
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 879891,
+        "upper_90_yen": 1777479,
+        "lower_10_yen": 457269
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1062220,
+        "upper_90_yen": 2281799,
+        "lower_10_yen": 523220
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1256584,
+        "upper_90_yen": 2861254,
+        "lower_10_yen": 588443
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1463778,
+        "upper_90_yen": 3523831,
+        "lower_10_yen": 653260
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1684648,
+        "upper_90_yen": 4278429,
+        "lower_10_yen": 717930
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本精化(4362)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本精化(4362)を1株(2,438円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,438円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.03%、幾何成長率は2.17%",
+      "新NISAで月1万円の配当金を得るには1,166株（約2,842,708円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本精化は単元未満株（S株・かぶミニ等）を利用することで1株（約2,438円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,684,648円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり103.0円（利回り4.22%）です。月次95%VaR（最大想定損失率）は-12.19%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本精化は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,438円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,166株（元本目安：約2,842,708円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2438.0
+  }
+}

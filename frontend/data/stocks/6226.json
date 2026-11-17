@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6226",
+    "name": "守谷輸送機工業",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1925.0,
+    "min_s_kabu_yen": 1925,
+    "unit_lot_yen": 192500,
+    "dps_yen": 38.5,
+    "dividend_yield_pct": 2.0,
+    "raw_annual_return_pct": 37.2,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 7.52,
+    "annual_volatility_pct": 49.97,
+    "max_drawdown_pct": -52.97,
+    "monthly_var_95_pct": -20.76,
+    "sharpe_ratio": 0.17,
+    "quant_score": 25.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 312,
+        "nisa_required_capital_yen": 600600,
+        "specific_required_shares": 392,
+        "specific_required_capital_yen": 754600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1559,
+        "nisa_required_capital_yen": 3001075,
+        "specific_required_shares": 1956,
+        "specific_required_capital_yen": 3765300
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3117,
+        "nisa_required_capital_yen": 6000225,
+        "specific_required_shares": 3912,
+        "specific_required_capital_yen": 7530600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9351,
+        "nisa_required_capital_yen": 18000675,
+        "specific_required_shares": 11735,
+        "specific_required_capital_yen": 22589875
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15585,
+        "nisa_required_capital_yen": 30001125,
+        "specific_required_shares": 19558,
+        "specific_required_capital_yen": 37649150
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126396,
+        "upper_90_yen": 200932,
+        "lower_10_yen": 81028
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265413,
+        "upper_90_yen": 509193,
+        "lower_10_yen": 144072
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 418310,
+        "upper_90_yen": 934252,
+        "lower_10_yen": 199255
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 586475,
+        "upper_90_yen": 1496272,
+        "lower_10_yen": 249693
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 771431,
+        "upper_90_yen": 2221266,
+        "lower_10_yen": 296967
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 974855,
+        "upper_90_yen": 3140921,
+        "lower_10_yen": 342032
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1198592,
+        "upper_90_yen": 4293145,
+        "lower_10_yen": 385533
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1444668,
+        "upper_90_yen": 5722923,
+        "lower_10_yen": 427933
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1715316,
+        "upper_90_yen": 7483398,
+        "lower_10_yen": 469582
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2012988,
+        "upper_90_yen": 9637160,
+        "lower_10_yen": 510760
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "守谷輸送機工業(6226)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "守谷輸送機工業(6226)を1株(1,925円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,925円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは49.97%、幾何成長率は7.52%",
+      "新NISAで月1万円の配当金を得るには3,117株（約6,000,225円）が必要"
+    ],
+    "accumulation_strategy_analysis": "守谷輸送機工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,925円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,012,988円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり38.5円（利回り2.0%）です。月次95%VaR（最大想定損失率）は-20.76%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "守谷輸送機工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,925円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,117株（元本目安：約6,000,225円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1925.0
+  }
+}

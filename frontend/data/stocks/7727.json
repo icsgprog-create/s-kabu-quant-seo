@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7727",
+    "name": "オーバル",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 816.0,
+    "min_s_kabu_yen": 816,
+    "unit_lot_yen": 81600,
+    "dps_yen": 24.0,
+    "dividend_yield_pct": 2.94,
+    "raw_annual_return_pct": 25.72,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 8.61,
+    "annual_volatility_pct": 47.73,
+    "max_drawdown_pct": -57.48,
+    "monthly_var_95_pct": -14.26,
+    "sharpe_ratio": 0.22,
+    "quant_score": 34.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 408000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 512448
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 2040000,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 2560608
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 4080000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 5120400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 12240000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 15361200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 25000,
+        "nisa_required_capital_yen": 20400000,
+        "specific_required_shares": 31374,
+        "specific_required_capital_yen": 25601184
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127817,
+        "upper_90_yen": 199099,
+        "lower_10_yen": 83483
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271281,
+        "upper_90_yen": 506199,
+        "lower_10_yen": 150845
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 432307,
+        "upper_90_yen": 933985,
+        "lower_10_yen": 211644
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 613046,
+        "upper_90_yen": 1506472,
+        "lower_10_yen": 268830
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 815911,
+        "upper_90_yen": 2254759,
+        "lower_10_yen": 323922
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1043610,
+        "upper_90_yen": 3217271,
+        "lower_10_yen": 377863
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1299184,
+        "upper_90_yen": 4440781,
+        "lower_10_yen": 431312
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1586044,
+        "upper_90_yen": 5981828,
+        "lower_10_yen": 484765
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1908021,
+        "upper_90_yen": 7908486,
+        "lower_10_yen": 538621
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2269414,
+        "upper_90_yen": 10302495,
+        "lower_10_yen": 593221
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オーバル(7727)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オーバル(7727)を1株(816円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小816円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは47.73%、幾何成長率は8.61%",
+      "新NISAで月1万円の配当金を得るには5,000株（約4,080,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オーバルは単元未満株（S株・かぶミニ等）を利用することで1株（約816円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,269,414円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり24.0円（利回り2.94%）です。月次95%VaR（最大想定損失率）は-14.26%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オーバルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約816円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,000株（元本目安：約4,080,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 816.0
+  }
+}

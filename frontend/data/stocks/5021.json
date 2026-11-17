@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5021",
+    "name": "コスモエネルギーホールディングス",
+    "sector": "石油・石炭製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3373.0,
+    "min_s_kabu_yen": 3373,
+    "unit_lot_yen": 337300,
+    "dps_yen": 165.0,
+    "dividend_yield_pct": 4.89,
+    "raw_annual_return_pct": 25.71,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.33,
+    "annual_volatility_pct": 33.67,
+    "max_drawdown_pct": -37.22,
+    "monthly_var_95_pct": -12.21,
+    "sharpe_ratio": 0.54,
+    "quant_score": 69.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 73,
+        "nisa_required_capital_yen": 246229,
+        "specific_required_shares": 92,
+        "specific_required_capital_yen": 310316
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 364,
+        "nisa_required_capital_yen": 1227772,
+        "specific_required_shares": 457,
+        "specific_required_capital_yen": 1541461
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 728,
+        "nisa_required_capital_yen": 2455544,
+        "specific_required_shares": 913,
+        "specific_required_capital_yen": 3079549
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 7359886,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 9238647
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3637,
+        "nisa_required_capital_yen": 12267601,
+        "specific_required_shares": 4564,
+        "specific_required_capital_yen": 15394372
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133373,
+        "upper_90_yen": 182365,
+        "lower_10_yen": 98378
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 295017,
+        "upper_90_yen": 459023,
+        "lower_10_yen": 193061
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 490923,
+        "upper_90_yen": 849478,
+        "lower_10_yen": 291504
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 728355,
+        "upper_90_yen": 1385174,
+        "lower_10_yen": 396853
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1016113,
+        "upper_90_yen": 2108023,
+        "lower_10_yen": 511504
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1364866,
+        "upper_90_yen": 3072448,
+        "lower_10_yen": 637707
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1787543,
+        "upper_90_yen": 4348498,
+        "lower_10_yen": 777796
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2299811,
+        "upper_90_yen": 6025959,
+        "lower_10_yen": 934314
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2920663,
+        "upper_90_yen": 8219611,
+        "lower_10_yen": 1110107
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3673112,
+        "upper_90_yen": 11075901,
+        "lower_10_yen": 1308409
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コスモエネルギーホールディングス(5021)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コスモエネルギーホールディングス(5021)を1株(3,373円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,373円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.67%、幾何成長率は14.33%",
+      "新NISAで月1万円の配当金を得るには728株（約2,455,544円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コスモエネルギーホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,373円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,673,112円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり165.0円（利回り4.89%）です。月次95%VaR（最大想定損失率）は-12.21%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コスモエネルギーホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,373円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、728株（元本目安：約2,455,544円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3373.0
+  }
+}

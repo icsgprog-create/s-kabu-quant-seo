@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8214",
+    "name": "ＡＯＫＩホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1751.0,
+    "min_s_kabu_yen": 1751,
+    "unit_lot_yen": 175100,
+    "dps_yen": 90.0,
+    "dividend_yield_pct": 5.14,
+    "raw_annual_return_pct": 23.95,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.23,
+    "annual_volatility_pct": 27.46,
+    "max_drawdown_pct": -25.99,
+    "monthly_var_95_pct": -8.15,
+    "sharpe_ratio": 0.74,
+    "quant_score": 81.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 134,
+        "nisa_required_capital_yen": 234634,
+        "specific_required_shares": 168,
+        "specific_required_capital_yen": 294168
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1167917,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 1465587
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 2335834,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 2931174
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 7004000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 8790020
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 11673917,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 14650617
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134982,
+        "upper_90_yen": 174183,
+        "lower_10_yen": 105196
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 302124,
+        "upper_90_yen": 433268,
+        "lower_10_yen": 213205
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 509089,
+        "upper_90_yen": 796512,
+        "lower_10_yen": 331247
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 765366,
+        "upper_90_yen": 1294171,
+        "lower_10_yen": 463316
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1082703,
+        "upper_90_yen": 1966804,
+        "lower_10_yen": 613114
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1475648,
+        "upper_90_yen": 2867588,
+        "lower_10_yen": 784606
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1962216,
+        "upper_90_yen": 4065735,
+        "lower_10_yen": 982279
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2564714,
+        "upper_90_yen": 5651008,
+        "lower_10_yen": 1211341
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3310762,
+        "upper_90_yen": 7739569,
+        "lower_10_yen": 1477914
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4234562,
+        "upper_90_yen": 10481502,
+        "lower_10_yen": 1789241
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＡＯＫＩホールディングス(8214)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＡＯＫＩホールディングス(8214)を1株(1,751円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,751円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.46%、幾何成長率は16.23%",
+      "新NISAで月1万円の配当金を得るには1,334株（約2,335,834円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＡＯＫＩホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,751円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,234,562円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり90.0円（利回り5.14%）です。月次95%VaR（最大想定損失率）は-8.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＡＯＫＩホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,751円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,334株（元本目安：約2,335,834円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1751.0
+  }
+}

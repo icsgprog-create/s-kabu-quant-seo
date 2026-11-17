@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5915",
+    "name": "駒井ハルテック",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2069.0,
+    "min_s_kabu_yen": 2069,
+    "unit_lot_yen": 206900,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 3.38,
+    "raw_annual_return_pct": 8.61,
+    "capped_annual_return_pct": 8.61,
+    "geometric_growth_pct": 4.24,
+    "annual_volatility_pct": 29.58,
+    "max_drawdown_pct": -40.07,
+    "monthly_var_95_pct": -11.98,
+    "sharpe_ratio": 0.22,
+    "quant_score": 53.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 355868,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 446904
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 1775202,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 2226244
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 3548335,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 4452488
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 10640867,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 13353326
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 17735468,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 22256233
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125089,
+        "upper_90_yen": 164153,
+        "lower_10_yen": 95957
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260087,
+        "upper_90_yen": 380262,
+        "lower_10_yen": 180452
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 405778,
+        "upper_90_yen": 646980,
+        "lower_10_yen": 260128
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 563011,
+        "upper_90_yen": 968023,
+        "lower_10_yen": 337198
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 732698,
+        "upper_90_yen": 1348826,
+        "lower_10_yen": 412861
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 915828,
+        "upper_90_yen": 1796034,
+        "lower_10_yen": 487892
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1113463,
+        "upper_90_yen": 2317382,
+        "lower_10_yen": 562847
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1326755,
+        "upper_90_yen": 2921703,
+        "lower_10_yen": 638157
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1556942,
+        "upper_90_yen": 3618985,
+        "lower_10_yen": 714173
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1805363,
+        "upper_90_yen": 4420468,
+        "lower_10_yen": 791195
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "駒井ハルテック(5915)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "駒井ハルテック(5915)を1株(2,069円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,069円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.58%、幾何成長率は4.24%",
+      "新NISAで月1万円の配当金を得るには1,715株（約3,548,335円）が必要"
+    ],
+    "accumulation_strategy_analysis": "駒井ハルテックは単元未満株（S株・かぶミニ等）を利用することで1株（約2,069円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,805,363円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り3.38%）です。月次95%VaR（最大想定損失率）は-11.98%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "駒井ハルテックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,069円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約3,548,335円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2069.0
+  }
+}

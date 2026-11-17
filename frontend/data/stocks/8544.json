@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8544",
+    "name": "京葉銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2179.0,
+    "min_s_kabu_yen": 2179,
+    "unit_lot_yen": 217900,
+    "dps_yen": 56.0,
+    "dividend_yield_pct": 2.57,
+    "raw_annual_return_pct": 35.74,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.52,
+    "annual_volatility_pct": 33.09,
+    "max_drawdown_pct": -29.43,
+    "monthly_var_95_pct": -10.8,
+    "sharpe_ratio": 0.49,
+    "quant_score": 49.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 215,
+        "nisa_required_capital_yen": 468485,
+        "specific_required_shares": 269,
+        "specific_required_capital_yen": 586151
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1072,
+        "nisa_required_capital_yen": 2335888,
+        "specific_required_shares": 1345,
+        "specific_required_capital_yen": 2930755
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2143,
+        "nisa_required_capital_yen": 4669597,
+        "specific_required_shares": 2690,
+        "specific_required_capital_yen": 5861510
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6429,
+        "nisa_required_capital_yen": 14008791,
+        "specific_required_shares": 8068,
+        "specific_required_capital_yen": 17580172
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10715,
+        "nisa_required_capital_yen": 23347985,
+        "specific_required_shares": 13446,
+        "specific_required_capital_yen": 29298834
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131801,
+        "upper_90_yen": 179147,
+        "lower_10_yen": 97772
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288172,
+        "upper_90_yen": 444255,
+        "lower_10_yen": 190231
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 473694,
+        "upper_90_yen": 809602,
+        "lower_10_yen": 284577
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 693802,
+        "upper_90_yen": 1299267,
+        "lower_10_yen": 383621
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 954941,
+        "upper_90_yen": 1944912,
+        "lower_10_yen": 489328
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1264762,
+        "upper_90_yen": 2786809,
+        "lower_10_yen": 603420
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1632340,
+        "upper_90_yen": 3875647,
+        "lower_10_yen": 727581
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2068442,
+        "upper_90_yen": 5274910,
+        "lower_10_yen": 863565
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2585843,
+        "upper_90_yen": 7063885,
+        "lower_10_yen": 1013271
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3199697,
+        "upper_90_yen": 9341391,
+        "lower_10_yen": 1178787
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "京葉銀行(8544)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "京葉銀行(8544)を1株(2,179円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,179円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.09%、幾何成長率は14.52%",
+      "新NISAで月1万円の配当金を得るには2,143株（約4,669,597円）が必要"
+    ],
+    "accumulation_strategy_analysis": "京葉銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約2,179円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,199,697円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり56.0円（利回り2.57%）です。月次95%VaR（最大想定損失率）は-10.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "京葉銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,179円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,143株（元本目安：約4,669,597円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2179.0
+  }
+}

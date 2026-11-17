@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9404",
+    "name": "日本テレビホールディングス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2991.0,
+    "min_s_kabu_yen": 2991,
+    "unit_lot_yen": 299100,
+    "dps_yen": 45.0,
+    "dividend_yield_pct": 1.5,
+    "raw_annual_return_pct": 18.93,
+    "capped_annual_return_pct": 18.93,
+    "geometric_growth_pct": 15.0,
+    "annual_volatility_pct": 28.06,
+    "max_drawdown_pct": -34.04,
+    "monthly_var_95_pct": -9.0,
+    "sharpe_ratio": 0.55,
+    "quant_score": 47.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 267,
+        "nisa_required_capital_yen": 798597,
+        "specific_required_shares": 335,
+        "specific_required_capital_yen": 1001985
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 3989994,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 5006934
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 7976997,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 10010877
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 23928000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 30029640
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 39881994,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 50048403
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131369,
+        "upper_90_yen": 170300,
+        "lower_10_yen": 101940
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 286307,
+        "upper_90_yen": 412645,
+        "lower_10_yen": 201172
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 469046,
+        "upper_90_yen": 737194,
+        "lower_10_yen": 304172
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 684571,
+        "upper_90_yen": 1161677,
+        "lower_10_yen": 413685
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 938767,
+        "upper_90_yen": 1709216,
+        "lower_10_yen": 531765
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1238571,
+        "upper_90_yen": 2408853,
+        "lower_10_yen": 660297
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1592166,
+        "upper_90_yen": 3296642,
+        "lower_10_yen": 801187
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2009203,
+        "upper_90_yen": 4417108,
+        "lower_10_yen": 956463
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2501067,
+        "upper_90_yen": 5825084,
+        "lower_10_yen": 1128345
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3081181,
+        "upper_90_yen": 7587967,
+        "lower_10_yen": 1319297
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本テレビホールディングス(9404)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本テレビホールディングス(9404)を1株(2,991円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,991円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.06%、幾何成長率は15.0%",
+      "新NISAで月1万円の配当金を得るには2,667株（約7,976,997円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本テレビホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,991円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,081,181円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり45.0円（利回り1.5%）です。月次95%VaR（最大想定損失率）は-9.0%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本テレビホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,991円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,667株（元本目安：約7,976,997円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2991.0
+  }
+}

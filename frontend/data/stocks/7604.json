@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7604",
+    "name": "梅の花グループ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 896.0,
+    "min_s_kabu_yen": 896,
+    "unit_lot_yen": 89600,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.12,
+    "raw_annual_return_pct": -3.54,
+    "capped_annual_return_pct": -3.54,
+    "geometric_growth_pct": -4.44,
+    "annual_volatility_pct": 13.4,
+    "max_drawdown_pct": -32.62,
+    "monthly_var_95_pct": -6.6,
+    "sharpe_ratio": -0.32,
+    "quant_score": 38.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1075200,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1349376
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 5376000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 6746880
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 10752000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 13493760
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 32256000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 40479488
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 53760000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 67466112
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117865,
+        "upper_90_yen": 133043,
+        "lower_10_yen": 104562
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 231877,
+        "upper_90_yen": 274011,
+        "lower_10_yen": 196810
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 342162,
+        "upper_90_yen": 418950,
+        "lower_10_yen": 280748
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 448843,
+        "upper_90_yen": 566273,
+        "lower_10_yen": 358012
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 552037,
+        "upper_90_yen": 715021,
+        "lower_10_yen": 429612
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 651858,
+        "upper_90_yen": 864529,
+        "lower_10_yen": 496266
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 748417,
+        "upper_90_yen": 1014299,
+        "lower_10_yen": 558524
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 841819,
+        "upper_90_yen": 1163943,
+        "lower_10_yen": 616827
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 932168,
+        "upper_90_yen": 1313149,
+        "lower_10_yen": 671541
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1019564,
+        "upper_90_yen": 1461661,
+        "lower_10_yen": 722975
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "梅の花グループ(7604)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "梅の花グループ(7604)を1株(896円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小896円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは13.4%、幾何成長率は-4.44%",
+      "新NISAで月1万円の配当金を得るには12,000株（約10,752,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "梅の花グループは単元未満株（S株・かぶミニ等）を利用することで1株（約896円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,019,564円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.12%）です。月次95%VaR（最大想定損失率）は-6.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "梅の花グループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約896円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約10,752,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 896.0
+  }
+}

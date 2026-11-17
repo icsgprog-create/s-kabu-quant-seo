@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8285",
+    "name": "三谷産業",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 667.0,
+    "min_s_kabu_yen": 667,
+    "unit_lot_yen": 66700,
+    "dps_yen": 14.0,
+    "dividend_yield_pct": 2.1,
+    "raw_annual_return_pct": 16.95,
+    "capped_annual_return_pct": 16.95,
+    "geometric_growth_pct": 13.59,
+    "annual_volatility_pct": 25.93,
+    "max_drawdown_pct": -28.5,
+    "monthly_var_95_pct": -9.2,
+    "sharpe_ratio": 0.57,
+    "quant_score": 55.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 572286,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 717692
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 2858762,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 3587793
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 5717524,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 7174919
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 25715,
+        "nisa_required_capital_yen": 17151905,
+        "specific_required_shares": 32270,
+        "specific_required_capital_yen": 21524090
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 28586286,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 35873928
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130777,
+        "upper_90_yen": 166171,
+        "lower_10_yen": 103445
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 283768,
+        "upper_90_yen": 397461,
+        "lower_10_yen": 204796
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 462746,
+        "upper_90_yen": 701766,
+        "lower_10_yen": 310158
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 672127,
+        "upper_90_yen": 1093475,
+        "lower_10_yen": 422151
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 917074,
+        "upper_90_yen": 1591262,
+        "lower_10_yen": 542743
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1203630,
+        "upper_90_yen": 2218361,
+        "lower_10_yen": 673740
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1538860,
+        "upper_90_yen": 3003300,
+        "lower_10_yen": 816959
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1931035,
+        "upper_90_yen": 3980909,
+        "lower_10_yen": 974331
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2389826,
+        "upper_90_yen": 5193583,
+        "lower_10_yen": 1147951
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2926549,
+        "upper_90_yen": 6692832,
+        "lower_10_yen": 1340141
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三谷産業(8285)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三谷産業(8285)を1株(667円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小667円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.93%、幾何成長率は13.59%",
+      "新NISAで月1万円の配当金を得るには8,572株（約5,717,524円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三谷産業は単元未満株（S株・かぶミニ等）を利用することで1株（約667円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,926,549円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.0円（利回り2.1%）です。月次95%VaR（最大想定損失率）は-9.2%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三谷産業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約667円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,572株（元本目安：約5,717,524円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 667.0
+  }
+}

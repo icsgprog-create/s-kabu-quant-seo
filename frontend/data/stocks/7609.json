@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7609",
+    "name": "ダイトロン",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3540.0,
+    "min_s_kabu_yen": 3540,
+    "unit_lot_yen": 354000,
+    "dps_yen": 115.0,
+    "dividend_yield_pct": 3.25,
+    "raw_annual_return_pct": 28.73,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.27,
+    "annual_volatility_pct": 33.84,
+    "max_drawdown_pct": -32.49,
+    "monthly_var_95_pct": -11.24,
+    "sharpe_ratio": 0.49,
+    "quant_score": 54.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 105,
+        "nisa_required_capital_yen": 371700,
+        "specific_required_shares": 131,
+        "specific_required_capital_yen": 463740
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 1847880,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 2318700
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1044,
+        "nisa_required_capital_yen": 3695760,
+        "specific_required_shares": 1310,
+        "specific_required_capital_yen": 4637400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3131,
+        "nisa_required_capital_yen": 11083740,
+        "specific_required_shares": 3929,
+        "specific_required_capital_yen": 13908660
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 18471720,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 23179920
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132115,
+        "upper_90_yen": 180861,
+        "lower_10_yen": 97344
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289532,
+        "upper_90_yen": 450969,
+        "lower_10_yen": 189320
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 477096,
+        "upper_90_yen": 826062,
+        "lower_10_yen": 283255
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 700581,
+        "upper_90_yen": 1332335,
+        "lower_10_yen": 382016
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 966866,
+        "upper_90_yen": 2004340,
+        "lower_10_yen": 487623
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1284148,
+        "upper_90_yen": 2886247,
+        "lower_10_yen": 601851
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1662194,
+        "upper_90_yen": 4033957,
+        "lower_10_yen": 726450
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2112639,
+        "upper_90_yen": 5517880,
+        "lower_10_yen": 863254
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2649350,
+        "upper_90_yen": 7426453,
+        "lower_10_yen": 1014251
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3288849,
+        "upper_90_yen": 9870532,
+        "lower_10_yen": 1181645
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ダイトロン(7609)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ダイトロン(7609)を1株(3,540円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,540円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.84%、幾何成長率は14.27%",
+      "新NISAで月1万円の配当金を得るには1,044株（約3,695,760円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ダイトロンは単元未満株（S株・かぶミニ等）を利用することで1株（約3,540円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,288,849円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり115.0円（利回り3.25%）です。月次95%VaR（最大想定損失率）は-11.24%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ダイトロンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,540円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,044株（元本目安：約3,695,760円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3540.0
+  }
+}

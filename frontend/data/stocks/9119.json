@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9119",
+    "name": "飯野海運",
+    "sector": "海運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1602.0,
+    "min_s_kabu_yen": 1602,
+    "unit_lot_yen": 160200,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 4.06,
+    "raw_annual_return_pct": 28.15,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.58,
+    "annual_volatility_pct": 35.84,
+    "max_drawdown_pct": -33.51,
+    "monthly_var_95_pct": -13.12,
+    "sharpe_ratio": 0.46,
+    "quant_score": 58.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 296370,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 371664
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 1480248,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 1856718
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 2958894,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 3711834
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 8873478,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 11135502
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 14788062,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 18559170
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132198,
+        "upper_90_yen": 184413,
+        "lower_10_yen": 95689
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289893,
+        "upper_90_yen": 463784,
+        "lower_10_yen": 184957
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 478000,
+        "upper_90_yen": 855689,
+        "lower_10_yen": 275401
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 702387,
+        "upper_90_yen": 1389155,
+        "lower_10_yen": 369898
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 970048,
+        "upper_90_yen": 2102580,
+        "lower_10_yen": 470416
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1289331,
+        "upper_90_yen": 3045258,
+        "lower_10_yen": 578641
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1670192,
+        "upper_90_yen": 4279847,
+        "lower_10_yen": 696212
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2124506,
+        "upper_90_yen": 5885626,
+        "lower_10_yen": 824823
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2666440,
+        "upper_90_yen": 7962606,
+        "lower_10_yen": 966298
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3312891,
+        "upper_90_yen": 10636700,
+        "lower_10_yen": 1122647
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "飯野海運(9119)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "飯野海運(9119)を1株(1,602円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,602円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.84%、幾何成長率は13.58%",
+      "新NISAで月1万円の配当金を得るには1,847株（約2,958,894円）が必要"
+    ],
+    "accumulation_strategy_analysis": "飯野海運は単元未満株（S株・かぶミニ等）を利用することで1株（約1,602円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,312,891円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり65.0円（利回り4.06%）です。月次95%VaR（最大想定損失率）は-13.12%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "飯野海運は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,602円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,847株（元本目安：約2,958,894円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1602.0
+  }
+}

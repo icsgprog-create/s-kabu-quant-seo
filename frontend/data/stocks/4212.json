@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4212",
+    "name": "積水樹脂",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2738.0,
+    "min_s_kabu_yen": 2738,
+    "unit_lot_yen": 273800,
+    "dps_yen": 92.0,
+    "dividend_yield_pct": 3.36,
+    "raw_annual_return_pct": 8.89,
+    "capped_annual_return_pct": 8.89,
+    "geometric_growth_pct": 5.93,
+    "annual_volatility_pct": 24.32,
+    "max_drawdown_pct": -36.67,
+    "monthly_var_95_pct": -8.11,
+    "sharpe_ratio": 0.34,
+    "quant_score": 61.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 131,
+        "nisa_required_capital_yen": 358678,
+        "specific_required_shares": 164,
+        "specific_required_capital_yen": 449032
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 653,
+        "nisa_required_capital_yen": 1787914,
+        "specific_required_shares": 819,
+        "specific_required_capital_yen": 2242422
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1305,
+        "nisa_required_capital_yen": 3573090,
+        "specific_required_shares": 1637,
+        "specific_required_capital_yen": 4482106
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3914,
+        "nisa_required_capital_yen": 10716532,
+        "specific_required_shares": 4911,
+        "specific_required_capital_yen": 13446318
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6522,
+        "nisa_required_capital_yen": 17857236,
+        "specific_required_shares": 8185,
+        "specific_required_capital_yen": 22410530
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126239,
+        "upper_90_yen": 157816,
+        "lower_10_yen": 101434
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 264769,
+        "upper_90_yen": 361773,
+        "lower_10_yen": 195650
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 416787,
+        "upper_90_yen": 611692,
+        "lower_10_yen": 288191
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 583606,
+        "upper_90_yen": 911690,
+        "lower_10_yen": 381006
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 766667,
+        "upper_90_yen": 1267485,
+        "lower_10_yen": 475236
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 967552,
+        "upper_90_yen": 1686008,
+        "lower_10_yen": 571692
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1187995,
+        "upper_90_yen": 2175355,
+        "lower_10_yen": 671029
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1429903,
+        "upper_90_yen": 2744832,
+        "lower_10_yen": 773816
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1695363,
+        "upper_90_yen": 3405059,
+        "lower_10_yen": 880576
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1986669,
+        "upper_90_yen": 4168104,
+        "lower_10_yen": 991811
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "積水樹脂(4212)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "積水樹脂(4212)を1株(2,738円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,738円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.32%、幾何成長率は5.93%",
+      "新NISAで月1万円の配当金を得るには1,305株（約3,573,090円）が必要"
+    ],
+    "accumulation_strategy_analysis": "積水樹脂は単元未満株（S株・かぶミニ等）を利用することで1株（約2,738円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,986,669円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり92.0円（利回り3.36%）です。月次95%VaR（最大想定損失率）は-8.11%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "積水樹脂は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,738円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,305株（元本目安：約3,573,090円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2738.0
+  }
+}

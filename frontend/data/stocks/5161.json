@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5161",
+    "name": "西川ゴム工業",
+    "sector": "ゴム製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3385.0,
+    "min_s_kabu_yen": 3385,
+    "unit_lot_yen": 338500,
+    "dps_yen": 185.0,
+    "dividend_yield_pct": 5.47,
+    "raw_annual_return_pct": 34.11,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.11,
+    "annual_volatility_pct": 34.31,
+    "max_drawdown_pct": -37.18,
+    "monthly_var_95_pct": -9.82,
+    "sharpe_ratio": 0.54,
+    "quant_score": 69.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 65,
+        "nisa_required_capital_yen": 220025,
+        "specific_required_shares": 82,
+        "specific_required_capital_yen": 277570
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 325,
+        "nisa_required_capital_yen": 1100125,
+        "specific_required_shares": 408,
+        "specific_required_capital_yen": 1381080
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 649,
+        "nisa_required_capital_yen": 2196865,
+        "specific_required_shares": 815,
+        "specific_required_capital_yen": 2758775
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1946,
+        "nisa_required_capital_yen": 6587210,
+        "specific_required_shares": 2443,
+        "specific_required_capital_yen": 8269555
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3244,
+        "nisa_required_capital_yen": 10980940,
+        "specific_required_shares": 4071,
+        "specific_required_capital_yen": 13780335
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133638,
+        "upper_90_yen": 183852,
+        "lower_10_yen": 98001
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 296178,
+        "upper_90_yen": 464934,
+        "lower_10_yen": 192240
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 493872,
+        "upper_90_yen": 864194,
+        "lower_10_yen": 290283
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 734322,
+        "upper_90_yen": 1415215,
+        "lower_10_yen": 395327
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1026776,
+        "upper_90_yen": 2162915,
+        "lower_10_yen": 509818
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1382481,
+        "upper_90_yen": 3165878,
+        "lower_10_yen": 636061
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1815117,
+        "upper_90_yen": 4499867,
+        "lower_10_yen": 776458
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2341321,
+        "upper_90_yen": 6262459,
+        "lower_10_yen": 933634
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2981330,
+        "upper_90_yen": 8578993,
+        "lower_10_yen": 1110537
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3759758,
+        "upper_90_yen": 11610156,
+        "lower_10_yen": 1310528
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "西川ゴム工業(5161)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "西川ゴム工業(5161)を1株(3,385円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,385円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.31%、幾何成長率は14.11%",
+      "新NISAで月1万円の配当金を得るには649株（約2,196,865円）が必要"
+    ],
+    "accumulation_strategy_analysis": "西川ゴム工業は単元未満株（S株・かぶミニ等）を利用することで1株（約3,385円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,759,758円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり185.0円（利回り5.47%）です。月次95%VaR（最大想定損失率）は-9.82%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "西川ゴム工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,385円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、649株（元本目安：約2,196,865円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3385.0
+  }
+}

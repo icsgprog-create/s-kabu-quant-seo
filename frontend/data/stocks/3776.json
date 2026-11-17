@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3776",
+    "name": "ブロードバンドタワー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 221.0,
+    "min_s_kabu_yen": 221,
+    "unit_lot_yen": 22100,
+    "dps_yen": 3.0,
+    "dividend_yield_pct": 1.36,
+    "raw_annual_return_pct": 1.55,
+    "capped_annual_return_pct": 1.55,
+    "geometric_growth_pct": -12.52,
+    "annual_volatility_pct": 53.06,
+    "max_drawdown_pct": -59.38,
+    "monthly_var_95_pct": -15.55,
+    "sharpe_ratio": -0.23,
+    "quant_score": 10.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 884000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 1109420
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 4420000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 5546879
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 8840000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 11093758
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 26520000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 33281053
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 200000,
+        "nisa_required_capital_yen": 44200000,
+        "specific_required_shares": 250989,
+        "specific_required_capital_yen": 55468569
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113015,
+        "upper_90_yen": 183446,
+        "lower_10_yen": 71150
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 214090,
+        "upper_90_yen": 417833,
+        "lower_10_yen": 115013
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 304485,
+        "upper_90_yen": 684602,
+        "lower_10_yen": 145760
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 385329,
+        "upper_90_yen": 974863,
+        "lower_10_yen": 168338
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 457632,
+        "upper_90_yen": 1282456,
+        "lower_10_yen": 185369
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 522295,
+        "upper_90_yen": 1602625,
+        "lower_10_yen": 198452
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 580126,
+        "upper_90_yen": 1931512,
+        "lower_10_yen": 208635
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 631847,
+        "upper_90_yen": 2265904,
+        "lower_10_yen": 216645
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 678103,
+        "upper_90_yen": 2603094,
+        "lower_10_yen": 222998
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 719472,
+        "upper_90_yen": 2940786,
+        "lower_10_yen": 228071
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブロードバンドタワー(3776)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブロードバンドタワー(3776)を1株(221円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小221円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.06%、幾何成長率は-12.52%",
+      "新NISAで月1万円の配当金を得るには40,000株（約8,840,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブロードバンドタワーは単元未満株（S株・かぶミニ等）を利用することで1株（約221円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は719,472円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり3.0円（利回り1.36%）です。月次95%VaR（最大想定損失率）は-15.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブロードバンドタワーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約221円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、40,000株（元本目安：約8,840,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 221.0
+  }
+}

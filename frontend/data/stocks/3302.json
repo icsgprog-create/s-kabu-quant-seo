@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3302",
+    "name": "帝国繊維",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2808.0,
+    "min_s_kabu_yen": 2808,
+    "unit_lot_yen": 280800,
+    "dps_yen": 55.0,
+    "dividend_yield_pct": 1.96,
+    "raw_annual_return_pct": 8.82,
+    "capped_annual_return_pct": 8.82,
+    "geometric_growth_pct": 5.3,
+    "annual_volatility_pct": 26.52,
+    "max_drawdown_pct": -39.68,
+    "monthly_var_95_pct": -9.53,
+    "sharpe_ratio": 0.24,
+    "quant_score": 45.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 219,
+        "nisa_required_capital_yen": 614952,
+        "specific_required_shares": 274,
+        "specific_required_capital_yen": 769392
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 3063528,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 3846960
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 6127056,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 7691112
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6546,
+        "nisa_required_capital_yen": 18381168,
+        "specific_required_shares": 8215,
+        "specific_required_capital_yen": 23067720
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 30635280,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 38444328
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124842,
+        "upper_90_yen": 159233,
+        "lower_10_yen": 98404
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 259089,
+        "upper_90_yen": 363913,
+        "lower_10_yen": 186594
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 403450,
+        "upper_90_yen": 612162,
+        "lower_10_yen": 270621
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 558685,
+        "upper_90_yen": 906565,
+        "lower_10_yen": 352530
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 725615,
+        "upper_90_yen": 1251138,
+        "lower_10_yen": 433443
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 905120,
+        "upper_90_yen": 1650840,
+        "lower_10_yen": 514093
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1098147,
+        "upper_90_yen": 2111445,
+        "lower_10_yen": 595015
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1305716,
+        "upper_90_yen": 2639523,
+        "lower_10_yen": 676629
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1528922,
+        "upper_90_yen": 3242464,
+        "lower_10_yen": 759282
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1768943,
+        "upper_90_yen": 3928534,
+        "lower_10_yen": 843274
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "帝国繊維(3302)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "帝国繊維(3302)を1株(2,808円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,808円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.52%、幾何成長率は5.3%",
+      "新NISAで月1万円の配当金を得るには2,182株（約6,127,056円）が必要"
+    ],
+    "accumulation_strategy_analysis": "帝国繊維は単元未満株（S株・かぶミニ等）を利用することで1株（約2,808円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,768,943円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり55.0円（利回り1.96%）です。月次95%VaR（最大想定損失率）は-9.53%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "帝国繊維は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,808円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,182株（元本目安：約6,127,056円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2808.0
+  }
+}

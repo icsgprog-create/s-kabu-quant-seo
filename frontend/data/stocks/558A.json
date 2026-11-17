@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "558A",
+    "name": "ＳＱＵＥＥＺＥ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6110.0,
+    "min_s_kabu_yen": 6110,
+    "unit_lot_yen": 611000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 115.1,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 2.0,
+    "annual_volatility_pct": 60.01,
+    "max_drawdown_pct": -23.62,
+    "monthly_var_95_pct": -11.73,
+    "sharpe_ratio": 0.02,
+    "quant_score": 5.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121306,
+        "upper_90_yen": 211404,
+        "lower_10_yen": 71544
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 245056,
+        "upper_90_yen": 533041,
+        "lower_10_yen": 119543
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 371300,
+        "upper_90_yen": 963605,
+        "lower_10_yen": 156738
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 500089,
+        "upper_90_yen": 1511623,
+        "lower_10_yen": 187109
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 631472,
+        "upper_90_yen": 2188741,
+        "lower_10_yen": 212671
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 765503,
+        "upper_90_yen": 3008655,
+        "lower_10_yen": 234629
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 902236,
+        "upper_90_yen": 3986806,
+        "lower_10_yen": 253778
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1041723,
+        "upper_90_yen": 5140312,
+        "lower_10_yen": 270673
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1184022,
+        "upper_90_yen": 6487978,
+        "lower_10_yen": 285720
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1329188,
+        "upper_90_yen": 8050362,
+        "lower_10_yen": 299225
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＳＱＵＥＥＺＥ(558A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＳＱＵＥＥＺＥ(558A)を1株(6,110円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,110円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは60.01%、幾何成長率は2.0%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＳＱＵＥＥＺＥは単元未満株（S株・かぶミニ等）を利用することで1株（約6,110円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,329,188円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-11.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＳＱＵＥＥＺＥは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,110円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6110.0
+  }
+}

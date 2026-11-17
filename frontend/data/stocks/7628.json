@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7628",
+    "name": "オーハシテクニカ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1103.0,
+    "min_s_kabu_yen": 1103,
+    "unit_lot_yen": 110300,
+    "dps_yen": 41.0,
+    "dividend_yield_pct": 3.72,
+    "raw_annual_return_pct": 10.73,
+    "capped_annual_return_pct": 10.73,
+    "geometric_growth_pct": 7.6,
+    "annual_volatility_pct": 25.0,
+    "max_drawdown_pct": -22.47,
+    "monthly_var_95_pct": -8.14,
+    "sharpe_ratio": 0.41,
+    "quant_score": 65.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 293,
+        "nisa_required_capital_yen": 323179,
+        "specific_required_shares": 368,
+        "specific_required_capital_yen": 405904
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1464,
+        "nisa_required_capital_yen": 1614792,
+        "specific_required_shares": 1837,
+        "specific_required_capital_yen": 2026211
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2927,
+        "nisa_required_capital_yen": 3228481,
+        "specific_required_shares": 3673,
+        "specific_required_capital_yen": 4051319
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8781,
+        "nisa_required_capital_yen": 9685443,
+        "specific_required_shares": 11019,
+        "specific_required_capital_yen": 12153957
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 14635,
+        "nisa_required_capital_yen": 16142405,
+        "specific_required_shares": 18365,
+        "specific_required_capital_yen": 20256595
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127657,
+        "upper_90_yen": 160666,
+        "lower_10_yen": 101911
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 270615,
+        "upper_90_yen": 373496,
+        "lower_10_yen": 198071
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 430710,
+        "upper_90_yen": 640446,
+        "lower_10_yen": 294163
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 609996,
+        "upper_90_yen": 968277,
+        "lower_10_yen": 392270
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 810772,
+        "upper_90_yen": 1365913,
+        "lower_10_yen": 493694
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1035614,
+        "upper_90_yen": 1844175,
+        "lower_10_yen": 599439
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1287409,
+        "upper_90_yen": 2415849,
+        "lower_10_yen": 710378
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1569385,
+        "upper_90_yen": 3095896,
+        "lower_10_yen": 827330
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1885161,
+        "upper_90_yen": 3901720,
+        "lower_10_yen": 951104
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2238790,
+        "upper_90_yen": 4853514,
+        "lower_10_yen": 1082519
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オーハシテクニカ(7628)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オーハシテクニカ(7628)を1株(1,103円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,103円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.0%、幾何成長率は7.6%",
+      "新NISAで月1万円の配当金を得るには2,927株（約3,228,481円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オーハシテクニカは単元未満株（S株・かぶミニ等）を利用することで1株（約1,103円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,238,790円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり41.0円（利回り3.72%）です。月次95%VaR（最大想定損失率）は-8.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オーハシテクニカは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,103円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,927株（元本目安：約3,228,481円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1103.0
+  }
+}

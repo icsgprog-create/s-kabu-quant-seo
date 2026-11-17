@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4571",
+    "name": "ＮＡＮＯホールディングス",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 70.0,
+    "min_s_kabu_yen": 70,
+    "unit_lot_yen": 7000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -30.01,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -30.02,
+    "annual_volatility_pct": 54.81,
+    "max_drawdown_pct": -78.53,
+    "monthly_var_95_pct": -21.55,
+    "sharpe_ratio": -0.57,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 102371,
+        "upper_90_yen": 167562,
+        "lower_10_yen": 64022
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 178193,
+        "upper_90_yen": 347565,
+        "lower_10_yen": 96177
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 234352,
+        "upper_90_yen": 518753,
+        "lower_10_yen": 114674
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 275946,
+        "upper_90_yen": 674091,
+        "lower_10_yen": 125844
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 306754,
+        "upper_90_yen": 811230,
+        "lower_10_yen": 132780
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 329572,
+        "upper_90_yen": 930069,
+        "lower_10_yen": 137170
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 346472,
+        "upper_90_yen": 1031649,
+        "lower_10_yen": 139986
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 358989,
+        "upper_90_yen": 1117558,
+        "lower_10_yen": 141812
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 368261,
+        "upper_90_yen": 1189594,
+        "lower_10_yen": 143007
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 375127,
+        "upper_90_yen": 1249569,
+        "lower_10_yen": 143794
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＮＡＮＯホールディングス(4571)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＮＡＮＯホールディングス(4571)を1株(70円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小70円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは54.81%、幾何成長率は-30.02%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＮＡＮＯホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約70円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は375,127円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-21.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＮＡＮＯホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約70円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 70.0
+  }
+}

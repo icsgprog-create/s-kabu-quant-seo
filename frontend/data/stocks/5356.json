@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5356",
+    "name": "美濃窯業",
+    "sector": "ガラス・土石製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1168.0,
+    "min_s_kabu_yen": 1168,
+    "unit_lot_yen": 116800,
+    "dps_yen": 47.0,
+    "dividend_yield_pct": 4.02,
+    "raw_annual_return_pct": 17.6,
+    "capped_annual_return_pct": 17.6,
+    "geometric_growth_pct": 14.28,
+    "annual_volatility_pct": 25.77,
+    "max_drawdown_pct": -19.94,
+    "monthly_var_95_pct": -8.92,
+    "sharpe_ratio": 0.67,
+    "quant_score": 73.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 256,
+        "nisa_required_capital_yen": 299008,
+        "specific_required_shares": 321,
+        "specific_required_capital_yen": 374928
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1277,
+        "nisa_required_capital_yen": 1491536,
+        "specific_required_shares": 1603,
+        "specific_required_capital_yen": 1872304
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2554,
+        "nisa_required_capital_yen": 2983072,
+        "specific_required_shares": 3205,
+        "specific_required_capital_yen": 3743440
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7660,
+        "nisa_required_capital_yen": 8946880,
+        "specific_required_shares": 9613,
+        "specific_required_capital_yen": 11227984
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12766,
+        "nisa_required_capital_yen": 14910688,
+        "specific_required_shares": 16021,
+        "specific_required_capital_yen": 18712528
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132694,
+        "upper_90_yen": 168438,
+        "lower_10_yen": 105060
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 292049,
+        "upper_90_yen": 408789,
+        "lower_10_yen": 210870
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 483420,
+        "upper_90_yen": 733147,
+        "lower_10_yen": 323879
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 713241,
+        "upper_90_yen": 1161477,
+        "lower_10_yen": 447268
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 989236,
+        "upper_90_yen": 1719947,
+        "lower_10_yen": 583732
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1320682,
+        "upper_90_yen": 2441816,
+        "lower_10_yen": 735978
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1718721,
+        "upper_90_yen": 3368954,
+        "lower_10_yen": 906922
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2196732,
+        "upper_90_yen": 4553833,
+        "lower_10_yen": 1099822
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2770781,
+        "upper_90_yen": 6062057,
+        "lower_10_yen": 1318370
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3460166,
+        "upper_90_yen": 7975509,
+        "lower_10_yen": 1566803
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "美濃窯業(5356)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "美濃窯業(5356)を1株(1,168円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,168円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.77%、幾何成長率は14.28%",
+      "新NISAで月1万円の配当金を得るには2,554株（約2,983,072円）が必要"
+    ],
+    "accumulation_strategy_analysis": "美濃窯業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,168円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,460,166円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり47.0円（利回り4.02%）です。月次95%VaR（最大想定損失率）は-8.92%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "美濃窯業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,168円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,554株（元本目安：約2,983,072円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1168.0
+  }
+}

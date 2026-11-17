@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9994",
+    "name": "やまや",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1851.0,
+    "min_s_kabu_yen": 1851,
+    "unit_lot_yen": 185100,
+    "dps_yen": 74.0,
+    "dividend_yield_pct": 4.0,
+    "raw_annual_return_pct": -2.98,
+    "capped_annual_return_pct": -2.98,
+    "geometric_growth_pct": -4.57,
+    "annual_volatility_pct": 17.82,
+    "max_drawdown_pct": -41.02,
+    "monthly_var_95_pct": -7.43,
+    "sharpe_ratio": -0.09,
+    "quant_score": 62.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 163,
+        "nisa_required_capital_yen": 301713,
+        "specific_required_shares": 204,
+        "specific_required_capital_yen": 377604
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 811,
+        "nisa_required_capital_yen": 1501161,
+        "specific_required_shares": 1018,
+        "specific_required_capital_yen": 1884318
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 3002322,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 3768636
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4865,
+        "nisa_required_capital_yen": 9005115,
+        "specific_required_shares": 6106,
+        "specific_required_capital_yen": 11302206
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8109,
+        "nisa_required_capital_yen": 15009759,
+        "specific_required_shares": 10176,
+        "specific_required_capital_yen": 18835776
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119628,
+        "upper_90_yen": 140637,
+        "lower_10_yen": 102005
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238573,
+        "upper_90_yen": 298422,
+        "lower_10_yen": 191734
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 356837,
+        "upper_90_yen": 468551,
+        "lower_10_yen": 273981
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 474426,
+        "upper_90_yen": 649224,
+        "lower_10_yen": 350535
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 591343,
+        "upper_90_yen": 839399,
+        "lower_10_yen": 422431
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 707592,
+        "upper_90_yen": 1038371,
+        "lower_10_yen": 490362
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 823176,
+        "upper_90_yen": 1245625,
+        "lower_10_yen": 554833
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 938100,
+        "upper_90_yen": 1460765,
+        "lower_10_yen": 616232
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1052366,
+        "upper_90_yen": 1683470,
+        "lower_10_yen": 674868
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1165980,
+        "upper_90_yen": 1913477,
+        "lower_10_yen": 730995
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "やまや(9994)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "やまや(9994)を1株(1,851円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,851円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.82%、幾何成長率は-4.57%",
+      "新NISAで月1万円の配当金を得るには1,622株（約3,002,322円）が必要"
+    ],
+    "accumulation_strategy_analysis": "やまやは単元未満株（S株・かぶミニ等）を利用することで1株（約1,851円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,165,980円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり74.0円（利回り4.0%）です。月次95%VaR（最大想定損失率）は-7.43%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "やまやは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,851円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,622株（元本目安：約3,002,322円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1851.0
+  }
+}

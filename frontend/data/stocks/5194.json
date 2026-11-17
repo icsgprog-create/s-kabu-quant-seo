@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5194",
+    "name": "相模ゴム工業",
+    "sector": "ゴム製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 593.0,
+    "min_s_kabu_yen": 593,
+    "unit_lot_yen": 59300,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.69,
+    "raw_annual_return_pct": -10.26,
+    "capped_annual_return_pct": -10.26,
+    "geometric_growth_pct": -14.73,
+    "annual_volatility_pct": 29.92,
+    "max_drawdown_pct": -44.87,
+    "monthly_var_95_pct": -10.66,
+    "sharpe_ratio": -0.47,
+    "quant_score": 28.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 711600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 893058
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3558000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 4465290
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 7116000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 8930580
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 21348000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 26790554
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 35580000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 44651121
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111891,
+        "upper_90_yen": 146593,
+        "lower_10_yen": 85996
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 210096,
+        "upper_90_yen": 304239,
+        "lower_10_yen": 147295
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 296288,
+        "upper_90_yen": 462808,
+        "lower_10_yen": 194203
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 371938,
+        "upper_90_yen": 618276,
+        "lower_10_yen": 231045
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 438334,
+        "upper_90_yen": 768441,
+        "lower_10_yen": 260422
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 496609,
+        "upper_90_yen": 912022,
+        "lower_10_yen": 284087
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 547755,
+        "upper_90_yen": 1048284,
+        "lower_10_yen": 303294
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 592646,
+        "upper_90_yen": 1176854,
+        "lower_10_yen": 318974
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 632046,
+        "upper_90_yen": 1297601,
+        "lower_10_yen": 331835
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 666626,
+        "upper_90_yen": 1410564,
+        "lower_10_yen": 342424
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "相模ゴム工業(5194)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "相模ゴム工業(5194)を1株(593円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小593円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.92%、幾何成長率は-14.73%",
+      "新NISAで月1万円の配当金を得るには12,000株（約7,116,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "相模ゴム工業は単元未満株（S株・かぶミニ等）を利用することで1株（約593円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は666,626円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.69%）です。月次95%VaR（最大想定損失率）は-10.66%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "相模ゴム工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約593円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約7,116,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 593.0
+  }
+}

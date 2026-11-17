@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8165",
+    "name": "千趣会",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 71.0,
+    "min_s_kabu_yen": 71,
+    "unit_lot_yen": 7100,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -34.52,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -18.25,
+    "annual_volatility_pct": 25.49,
+    "max_drawdown_pct": -83.53,
+    "monthly_var_95_pct": -19.37,
+    "sharpe_ratio": -0.76,
+    "quant_score": 19.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108856,
+        "upper_90_yen": 136820,
+        "lower_10_yen": 87045
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 199556,
+        "upper_90_yen": 272460,
+        "lower_10_yen": 147782
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 275127,
+        "upper_90_yen": 399414,
+        "lower_10_yen": 192806
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 338094,
+        "upper_90_yen": 515665,
+        "lower_10_yen": 226933
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 390557,
+        "upper_90_yen": 620765,
+        "lower_10_yen": 253135
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 434271,
+        "upper_90_yen": 714963,
+        "lower_10_yen": 273428
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 470693,
+        "upper_90_yen": 798856,
+        "lower_10_yen": 289246
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 501040,
+        "upper_90_yen": 873201,
+        "lower_10_yen": 301637
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 526325,
+        "upper_90_yen": 938824,
+        "lower_10_yen": 311382
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 547393,
+        "upper_90_yen": 996558,
+        "lower_10_yen": 319072
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "千趣会(8165)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "千趣会(8165)を1株(71円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小71円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.49%、幾何成長率は-18.25%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "千趣会は単元未満株（S株・かぶミニ等）を利用することで1株（約71円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は547,393円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-19.37%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "千趣会は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約71円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 71.0
+  }
+}

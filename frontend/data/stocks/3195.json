@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3195",
+    "name": "ジェネレーションパス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 388.0,
+    "min_s_kabu_yen": 388,
+    "unit_lot_yen": 38800,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -1.57,
+    "capped_annual_return_pct": -1.57,
+    "geometric_growth_pct": -17.71,
+    "annual_volatility_pct": 56.8,
+    "max_drawdown_pct": -69.52,
+    "monthly_var_95_pct": -24.5,
+    "sharpe_ratio": -0.33,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109167,
+        "upper_90_yen": 182978,
+        "lower_10_yen": 66775
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 200620,
+        "upper_90_yen": 407710,
+        "lower_10_yen": 104262
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 277233,
+        "upper_90_yen": 651473,
+        "lower_10_yen": 128445
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 341413,
+        "upper_90_yen": 903410,
+        "lower_10_yen": 144846
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 395180,
+        "upper_90_yen": 1156527,
+        "lower_10_yen": 156295
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 440221,
+        "upper_90_yen": 1405988,
+        "lower_10_yen": 164443
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 477954,
+        "upper_90_yen": 1648392,
+        "lower_10_yen": 170326
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 509564,
+        "upper_90_yen": 1881361,
+        "lower_10_yen": 174622
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 536044,
+        "upper_90_yen": 2103287,
+        "lower_10_yen": 177785
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 558228,
+        "upper_90_yen": 2313149,
+        "lower_10_yen": 180133
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ジェネレーションパス(3195)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ジェネレーションパス(3195)を1株(388円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小388円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは56.8%、幾何成長率は-17.71%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ジェネレーションパスは単元未満株（S株・かぶミニ等）を利用することで1株（約388円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は558,228円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-24.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ジェネレーションパスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約388円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 388.0
+  }
+}

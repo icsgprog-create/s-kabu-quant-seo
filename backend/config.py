@@ -18,13 +18,13 @@ CACHE_DIR = BASE_DIR / "backend" / ".cache"
 STOCKS_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-2.5-flash")
+GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-3.8-flash")
 AI_BATCH_SIZE = 10
 AI_REQUEST_INTERVAL_SEC = 5.0
 MAX_AI_CALLS_PER_RUN = 100
 AI_CACHE_EXPIRE_DAYS = 30
 AI_REGENERATE_CHANGE_THRESHOLD = 0.10
-JPX_LISTED_COMPANIES_URL = "https://www.jpx.co.jp/markets/statistics-equities/misc/tvdivq0000001vg2-att/data_j.xls"
+JPX_LISTED_COMPANIES_URL = "https://www.jpx.co.jp/markets/statistics-equities/misc/01.html"
 
 DEFAULT_TARGET_TICKERS = [
     {"code": "7203", "name": "トヨタ自動車", "sector": "輸送用機器"},

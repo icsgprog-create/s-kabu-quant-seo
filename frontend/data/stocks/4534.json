@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4534",
+    "name": "持田製薬",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3370.0,
+    "min_s_kabu_yen": 3370,
+    "unit_lot_yen": 337000,
+    "dps_yen": 82.5,
+    "dividend_yield_pct": 2.45,
+    "raw_annual_return_pct": 2.26,
+    "capped_annual_return_pct": 2.26,
+    "geometric_growth_pct": -0.45,
+    "annual_volatility_pct": 23.3,
+    "max_drawdown_pct": -23.57,
+    "monthly_var_95_pct": -8.15,
+    "sharpe_ratio": 0.04,
+    "quant_score": 47.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 146,
+        "nisa_required_capital_yen": 492020,
+        "specific_required_shares": 183,
+        "specific_required_capital_yen": 616710
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 728,
+        "nisa_required_capital_yen": 2453360,
+        "specific_required_shares": 913,
+        "specific_required_capital_yen": 3076810
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1455,
+        "nisa_required_capital_yen": 4903350,
+        "specific_required_shares": 1826,
+        "specific_required_capital_yen": 6153620
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4364,
+        "nisa_required_capital_yen": 14706680,
+        "specific_required_shares": 5477,
+        "specific_required_capital_yen": 18457490
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7273,
+        "nisa_required_capital_yen": 24510010,
+        "specific_required_shares": 9127,
+        "specific_required_capital_yen": 30757990
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121307,
+        "upper_90_yen": 150038,
+        "lower_10_yen": 98485
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 245060,
+        "upper_90_yen": 329198,
+        "lower_10_yen": 184071
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 371309,
+        "upper_90_yen": 532389,
+        "lower_10_yen": 262570
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 500104,
+        "upper_90_yen": 758315,
+        "lower_10_yen": 336031
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 631496,
+        "upper_90_yen": 1006622,
+        "lower_10_yen": 405586
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 765538,
+        "upper_90_yen": 1277388,
+        "lower_10_yen": 471965
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 902283,
+        "upper_90_yen": 1570938,
+        "lower_10_yen": 535684
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1041786,
+        "upper_90_yen": 1887757,
+        "lower_10_yen": 597125
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1184102,
+        "upper_90_yen": 2228452,
+        "lower_10_yen": 656587
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1329288,
+        "upper_90_yen": 2593722,
+        "lower_10_yen": 714306
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "持田製薬(4534)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "持田製薬(4534)を1株(3,370円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,370円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.3%、幾何成長率は-0.45%",
+      "新NISAで月1万円の配当金を得るには1,455株（約4,903,350円）が必要"
+    ],
+    "accumulation_strategy_analysis": "持田製薬は単元未満株（S株・かぶミニ等）を利用することで1株（約3,370円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,329,288円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり82.5円（利回り2.45%）です。月次95%VaR（最大想定損失率）は-8.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "持田製薬は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,370円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,455株（元本目安：約4,903,350円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3370.0
+  }
+}

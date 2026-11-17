@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6402",
+    "name": "兼松エンジニアリング",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1508.0,
+    "min_s_kabu_yen": 1508,
+    "unit_lot_yen": 150800,
+    "dps_yen": 74.0,
+    "dividend_yield_pct": 4.91,
+    "raw_annual_return_pct": 7.59,
+    "capped_annual_return_pct": 7.59,
+    "geometric_growth_pct": 5.07,
+    "annual_volatility_pct": 22.49,
+    "max_drawdown_pct": -34.82,
+    "monthly_var_95_pct": -5.46,
+    "sharpe_ratio": 0.4,
+    "quant_score": 76.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 163,
+        "nisa_required_capital_yen": 245804,
+        "specific_required_shares": 204,
+        "specific_required_capital_yen": 307632
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 811,
+        "nisa_required_capital_yen": 1222988,
+        "specific_required_shares": 1018,
+        "specific_required_capital_yen": 1535144
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 2445976,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 3070288
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4865,
+        "nisa_required_capital_yen": 7336420,
+        "specific_required_shares": 6106,
+        "specific_required_capital_yen": 9207848
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8109,
+        "nisa_required_capital_yen": 12228372,
+        "specific_required_shares": 10176,
+        "specific_required_capital_yen": 15345408
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126713,
+        "upper_90_yen": 155769,
+        "lower_10_yen": 103473
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266715,
+        "upper_90_yen": 355995,
+        "lower_10_yen": 201477
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 421400,
+        "upper_90_yen": 600983,
+        "lower_10_yen": 299210
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 592308,
+        "upper_90_yen": 895087,
+        "lower_10_yen": 398575
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 781139,
+        "upper_90_yen": 1244235,
+        "lower_10_yen": 500741
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 989775,
+        "upper_90_yen": 1655599,
+        "lower_10_yen": 606589
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1220291,
+        "upper_90_yen": 2137566,
+        "lower_10_yen": 716870
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1474983,
+        "upper_90_yen": 2699807,
+        "lower_10_yen": 832270
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1756385,
+        "upper_90_yen": 3353402,
+        "lower_10_yen": 953451
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2067300,
+        "upper_90_yen": 4110997,
+        "lower_10_yen": 1081073
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "兼松エンジニアリング(6402)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "兼松エンジニアリング(6402)を1株(1,508円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,508円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.49%、幾何成長率は5.07%",
+      "新NISAで月1万円の配当金を得るには1,622株（約2,445,976円）が必要"
+    ],
+    "accumulation_strategy_analysis": "兼松エンジニアリングは単元未満株（S株・かぶミニ等）を利用することで1株（約1,508円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,067,300円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり74.0円（利回り4.91%）です。月次95%VaR（最大想定損失率）は-5.46%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "兼松エンジニアリングは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,508円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,622株（元本目安：約2,445,976円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1508.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3320",
+    "name": "クロスプラス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1260.0,
+    "min_s_kabu_yen": 1260,
+    "unit_lot_yen": 126000,
+    "dps_yen": 57.0,
+    "dividend_yield_pct": 4.52,
+    "raw_annual_return_pct": 12.01,
+    "capped_annual_return_pct": 12.01,
+    "geometric_growth_pct": 8.11,
+    "annual_volatility_pct": 27.93,
+    "max_drawdown_pct": -36.08,
+    "monthly_var_95_pct": -9.67,
+    "sharpe_ratio": 0.42,
+    "quant_score": 68.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 211,
+        "nisa_required_capital_yen": 265860,
+        "specific_required_shares": 265,
+        "specific_required_capital_yen": 333900
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1053,
+        "nisa_required_capital_yen": 1326780,
+        "specific_required_shares": 1321,
+        "specific_required_capital_yen": 1664460
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2106,
+        "nisa_required_capital_yen": 2653560,
+        "specific_required_shares": 2642,
+        "specific_required_capital_yen": 3328920
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 7958160,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 9986760
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10527,
+        "nisa_required_capital_yen": 13264020,
+        "specific_required_shares": 13210,
+        "specific_required_capital_yen": 16644600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128585,
+        "upper_90_yen": 166357,
+        "lower_10_yen": 99978
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 274487,
+        "upper_90_yen": 394002,
+        "lower_10_yen": 193653
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 440039,
+        "upper_90_yen": 687164,
+        "lower_10_yen": 287240
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 627887,
+        "upper_90_yen": 1055897,
+        "lower_10_yen": 383009
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 841034,
+        "upper_90_yen": 1513312,
+        "lower_10_yen": 482389
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1082886,
+        "upper_90_yen": 2075428,
+        "lower_10_yen": 586497
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1357310,
+        "upper_90_yen": 2761439,
+        "lower_10_yen": 696319
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1668693,
+        "upper_90_yen": 3594156,
+        "lower_10_yen": 812797
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2022011,
+        "upper_90_yen": 4600575,
+        "lower_10_yen": 936873
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2422913,
+        "upper_90_yen": 5812560,
+        "lower_10_yen": 1069520
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クロスプラス(3320)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クロスプラス(3320)を1株(1,260円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,260円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.93%、幾何成長率は8.11%",
+      "新NISAで月1万円の配当金を得るには2,106株（約2,653,560円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クロスプラスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,260円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,422,913円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり57.0円（利回り4.52%）です。月次95%VaR（最大想定損失率）は-9.67%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クロスプラスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,260円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,106株（元本目安：約2,653,560円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1260.0
+  }
+}

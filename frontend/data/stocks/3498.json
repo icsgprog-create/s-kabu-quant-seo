@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3498",
+    "name": "霞ヶ関キャピタル",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6830.0,
+    "min_s_kabu_yen": 6830,
+    "unit_lot_yen": 683000,
+    "dps_yen": 165.0,
+    "dividend_yield_pct": 2.42,
+    "raw_annual_return_pct": 19.44,
+    "capped_annual_return_pct": 19.44,
+    "geometric_growth_pct": 0.67,
+    "annual_volatility_pct": 61.26,
+    "max_drawdown_pct": -68.65,
+    "monthly_var_95_pct": -22.31,
+    "sharpe_ratio": 0.03,
+    "quant_score": 25.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 73,
+        "nisa_required_capital_yen": 498590,
+        "specific_required_shares": 92,
+        "specific_required_capital_yen": 628360
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 364,
+        "nisa_required_capital_yen": 2486120,
+        "specific_required_shares": 457,
+        "specific_required_capital_yen": 3121310
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 728,
+        "nisa_required_capital_yen": 4972240,
+        "specific_required_shares": 913,
+        "specific_required_capital_yen": 6235790
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 14903060,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 18707370
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3637,
+        "nisa_required_capital_yen": 24840710,
+        "specific_required_shares": 4564,
+        "specific_required_capital_yen": 31172120
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122027,
+        "upper_90_yen": 215315,
+        "lower_10_yen": 71163
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 247878,
+        "upper_90_yen": 549135,
+        "lower_10_yen": 119009
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 377673,
+        "upper_90_yen": 1003437,
+        "lower_10_yen": 156280
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 511535,
+        "upper_90_yen": 1590690,
+        "lower_10_yen": 186903
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 649591,
+        "upper_90_yen": 2327162,
+        "lower_10_yen": 212856
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 791974,
+        "upper_90_yen": 3231943,
+        "lower_10_yen": 235314
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 938818,
+        "upper_90_yen": 4326734,
+        "lower_10_yen": 255048
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1090264,
+        "upper_90_yen": 5635890,
+        "lower_10_yen": 272598
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1246456,
+        "upper_90_yen": 7186549,
+        "lower_10_yen": 288354
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1407541,
+        "upper_90_yen": 9008829,
+        "lower_10_yen": 302612
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "霞ヶ関キャピタル(3498)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "霞ヶ関キャピタル(3498)を1株(6,830円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,830円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは61.26%、幾何成長率は0.67%",
+      "新NISAで月1万円の配当金を得るには728株（約4,972,240円）が必要"
+    ],
+    "accumulation_strategy_analysis": "霞ヶ関キャピタルは単元未満株（S株・かぶミニ等）を利用することで1株（約6,830円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,407,541円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり165.0円（利回り2.42%）です。月次95%VaR（最大想定損失率）は-22.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "霞ヶ関キャピタルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,830円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、728株（元本目安：約4,972,240円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6830.0
+  }
+}

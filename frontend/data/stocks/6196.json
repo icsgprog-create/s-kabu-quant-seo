@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6196",
+    "name": "ストライクグループ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1794.0,
+    "min_s_kabu_yen": 1794,
+    "unit_lot_yen": 179400,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 3.62,
+    "raw_annual_return_pct": 0.96,
+    "capped_annual_return_pct": 0.96,
+    "geometric_growth_pct": -8.51,
+    "annual_volatility_pct": 43.53,
+    "max_drawdown_pct": -57.98,
+    "monthly_var_95_pct": -16.45,
+    "sharpe_ratio": -0.14,
+    "quant_score": 32.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 331890,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 416208
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 1657656,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 2079246
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 3313518,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 4156698
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 9936966,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 12470094
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 16560414,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 20783490
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116875,
+        "upper_90_yen": 174006,
+        "lower_10_yen": 79651
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 228173,
+        "upper_90_yen": 396074,
+        "lower_10_yen": 135670
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 334160,
+        "upper_90_yen": 653774,
+        "lower_10_yen": 179372
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 435090,
+        "upper_90_yen": 941985,
+        "lower_10_yen": 214781
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 531204,
+        "upper_90_yen": 1257417,
+        "lower_10_yen": 244109
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 622731,
+        "upper_90_yen": 1597606,
+        "lower_10_yen": 268763
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 709891,
+        "upper_90_yen": 1960543,
+        "lower_10_yen": 289715
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 792891,
+        "upper_90_yen": 2344504,
+        "lower_10_yen": 307673
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 871931,
+        "upper_90_yen": 2747964,
+        "lower_10_yen": 323169
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 947200,
+        "upper_90_yen": 3169537,
+        "lower_10_yen": 336617
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ストライクグループ(6196)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ストライクグループ(6196)を1株(1,794円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,794円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.53%、幾何成長率は-8.51%",
+      "新NISAで月1万円の配当金を得るには1,847株（約3,313,518円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ストライクグループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,794円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は947,200円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり65.0円（利回り3.62%）です。月次95%VaR（最大想定損失率）は-16.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ストライクグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,794円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,847株（元本目安：約3,313,518円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1794.0
+  }
+}

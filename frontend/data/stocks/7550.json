@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7550",
+    "name": "ゼンショーホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 13385.0,
+    "min_s_kabu_yen": 13385,
+    "unit_lot_yen": 1338500,
+    "dps_yen": 80.0,
+    "dividend_yield_pct": 0.6,
+    "raw_annual_return_pct": 32.71,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.5,
+    "annual_volatility_pct": 33.18,
+    "max_drawdown_pct": -41.27,
+    "monthly_var_95_pct": -11.51,
+    "sharpe_ratio": 0.42,
+    "quant_score": 32.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 150,
+        "nisa_required_capital_yen": 2007750,
+        "specific_required_shares": 189,
+        "specific_required_capital_yen": 2529765
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 10038750,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 12608670
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 20077500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 25203955
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4500,
+        "nisa_required_capital_yen": 60232500,
+        "specific_required_shares": 5648,
+        "specific_required_capital_yen": 75598480
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 100387500,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 125993005
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130346,
+        "upper_90_yen": 177221,
+        "lower_10_yen": 96669
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281927,
+        "upper_90_yen": 434489,
+        "lower_10_yen": 186200
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 458203,
+        "upper_90_yen": 782164,
+        "lower_10_yen": 275707
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 663199,
+        "upper_90_yen": 1239074,
+        "lower_10_yen": 367776
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 901591,
+        "upper_90_yen": 1829770,
+        "lower_10_yen": 464066
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1178823,
+        "upper_90_yen": 2584955,
+        "lower_10_yen": 565907
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1501220,
+        "upper_90_yen": 3542526,
+        "lower_10_yen": 674515
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1876142,
+        "upper_90_yen": 4748983,
+        "lower_10_yen": 791084
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2312145,
+        "upper_90_yen": 6261202,
+        "lower_10_yen": 916848
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2819181,
+        "upper_90_yen": 8148599,
+        "lower_10_yen": 1053113
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ゼンショーホールディングス(7550)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ゼンショーホールディングス(7550)を1株(13,385円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小13,385円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.18%、幾何成長率は14.5%",
+      "新NISAで月1万円の配当金を得るには1,500株（約20,077,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ゼンショーホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約13,385円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,819,181円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり80.0円（利回り0.6%）です。月次95%VaR（最大想定損失率）は-11.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ゼンショーホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約13,385円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,500株（元本目安：約20,077,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 13385.0
+  }
+}

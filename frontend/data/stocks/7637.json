@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7637",
+    "name": "白銅",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3400.0,
+    "min_s_kabu_yen": 3400,
+    "unit_lot_yen": 340000,
+    "dps_yen": 139.0,
+    "dividend_yield_pct": 4.09,
+    "raw_annual_return_pct": 10.52,
+    "capped_annual_return_pct": 10.52,
+    "geometric_growth_pct": 6.06,
+    "annual_volatility_pct": 29.87,
+    "max_drawdown_pct": -35.23,
+    "monthly_var_95_pct": -10.74,
+    "sharpe_ratio": 0.31,
+    "quant_score": 60.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 87,
+        "nisa_required_capital_yen": 295800,
+        "specific_required_shares": 109,
+        "specific_required_capital_yen": 370600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 432,
+        "nisa_required_capital_yen": 1468800,
+        "specific_required_shares": 542,
+        "specific_required_capital_yen": 1842800
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 864,
+        "nisa_required_capital_yen": 2937600,
+        "specific_required_shares": 1084,
+        "specific_required_capital_yen": 3685600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2590,
+        "nisa_required_capital_yen": 8806000,
+        "specific_required_shares": 3251,
+        "specific_required_capital_yen": 11053400
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4317,
+        "nisa_required_capital_yen": 14677800,
+        "specific_required_shares": 5418,
+        "specific_required_capital_yen": 18421200
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126833,
+        "upper_90_yen": 166994,
+        "lower_10_yen": 96984
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 267208,
+        "upper_90_yen": 392839,
+        "lower_10_yen": 184410
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 422572,
+        "upper_90_yen": 679051,
+        "lower_10_yen": 268847
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 594525,
+        "upper_90_yen": 1032724,
+        "lower_10_yen": 352521
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 784838,
+        "upper_90_yen": 1463338,
+        "lower_10_yen": 436687
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 995472,
+        "upper_90_yen": 1982384,
+        "lower_10_yen": 522211
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1228596,
+        "upper_90_yen": 2603399,
+        "lower_10_yen": 609765
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1486612,
+        "upper_90_yen": 3342147,
+        "lower_10_yen": 699916
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1772178,
+        "upper_90_yen": 4216876,
+        "lower_10_yen": 793175
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2088234,
+        "upper_90_yen": 5248637,
+        "lower_10_yen": 890023
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "白銅(7637)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "白銅(7637)を1株(3,400円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,400円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.87%、幾何成長率は6.06%",
+      "新NISAで月1万円の配当金を得るには864株（約2,937,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "白銅は単元未満株（S株・かぶミニ等）を利用することで1株（約3,400円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,088,234円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり139.0円（利回り4.09%）です。月次95%VaR（最大想定損失率）は-10.74%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "白銅は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,400円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、864株（元本目安：約2,937,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3400.0
+  }
+}

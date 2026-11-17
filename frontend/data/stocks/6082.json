@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6082",
+    "name": "ライドオンエクスプレスホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 976.0,
+    "min_s_kabu_yen": 976,
+    "unit_lot_yen": 97600,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 1.54,
+    "raw_annual_return_pct": -8.06,
+    "capped_annual_return_pct": -8.06,
+    "geometric_growth_pct": -9.67,
+    "annual_volatility_pct": 17.95,
+    "max_drawdown_pct": -42.26,
+    "monthly_var_95_pct": -8.91,
+    "sharpe_ratio": -0.51,
+    "quant_score": 39.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 780800,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 979904
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 3904000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 4899520
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 7808000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 9799040
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 23424000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 29396144
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 39040000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 48993248
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114857,
+        "upper_90_yen": 135043,
+        "lower_10_yen": 97931
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 220738,
+        "upper_90_yen": 275702,
+        "lower_10_yen": 177691
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 318345,
+        "upper_90_yen": 416417,
+        "lower_10_yen": 245424
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 408323,
+        "upper_90_yen": 555042,
+        "lower_10_yen": 303846
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 491270,
+        "upper_90_yen": 690388,
+        "lower_10_yen": 354692
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 567735,
+        "upper_90_yen": 821732,
+        "lower_10_yen": 399216
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 638224,
+        "upper_90_yen": 948621,
+        "lower_10_yen": 438381
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 703204,
+        "upper_90_yen": 1070783,
+        "lower_10_yen": 472950
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 763106,
+        "upper_90_yen": 1188064,
+        "lower_10_yen": 503549
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 818327,
+        "upper_90_yen": 1300398,
+        "lower_10_yen": 530698
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ライドオンエクスプレスホールディングス(6082)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ライドオンエクスプレスホールディングス(6082)を1株(976円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小976円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.95%、幾何成長率は-9.67%",
+      "新NISAで月1万円の配当金を得るには8,000株（約7,808,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ライドオンエクスプレスホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約976円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は818,327円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り1.54%）です。月次95%VaR（最大想定損失率）は-8.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ライドオンエクスプレスホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約976円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約7,808,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 976.0
+  }
+}

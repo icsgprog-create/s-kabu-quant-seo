@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7297",
+    "name": "カーメイト",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 832.0,
+    "min_s_kabu_yen": 832,
+    "unit_lot_yen": 83200,
+    "dps_yen": 18.0,
+    "dividend_yield_pct": 2.16,
+    "raw_annual_return_pct": -0.03,
+    "capped_annual_return_pct": -0.03,
+    "geometric_growth_pct": -2.19,
+    "annual_volatility_pct": 20.81,
+    "max_drawdown_pct": -18.59,
+    "monthly_var_95_pct": -4.89,
+    "sharpe_ratio": -0.05,
+    "quant_score": 45.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 554944,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 696384
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 2773888,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 3481088
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 5546944,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 6961344
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 16640000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 20882368
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 33334,
+        "nisa_required_capital_yen": 27733888,
+        "specific_required_shares": 41832,
+        "specific_required_capital_yen": 34804224
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119982,
+        "upper_90_yen": 144986,
+        "lower_10_yen": 99619
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239930,
+        "upper_90_yen": 311857,
+        "lower_10_yen": 185923
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 359846,
+        "upper_90_yen": 495241,
+        "lower_10_yen": 264382
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 479727,
+        "upper_90_yen": 693230,
+        "lower_10_yen": 337000
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 599576,
+        "upper_90_yen": 904783,
+        "lower_10_yen": 404918
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 719391,
+        "upper_90_yen": 1129245,
+        "lower_10_yen": 468891
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 839172,
+        "upper_90_yen": 1366172,
+        "lower_10_yen": 529462
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 958920,
+        "upper_90_yen": 1615252,
+        "lower_10_yen": 587044
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1078635,
+        "upper_90_yen": 1876261,
+        "lower_10_yen": 641962
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1198317,
+        "upper_90_yen": 2149036,
+        "lower_10_yen": 694481
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "カーメイト(7297)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "カーメイト(7297)を1株(832円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小832円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.81%、幾何成長率は-2.19%",
+      "新NISAで月1万円の配当金を得るには6,667株（約5,546,944円）が必要"
+    ],
+    "accumulation_strategy_analysis": "カーメイトは単元未満株（S株・かぶミニ等）を利用することで1株（約832円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,198,317円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり18.0円（利回り2.16%）です。月次95%VaR（最大想定損失率）は-4.89%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "カーメイトは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約832円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,667株（元本目安：約5,546,944円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 832.0
+  }
+}

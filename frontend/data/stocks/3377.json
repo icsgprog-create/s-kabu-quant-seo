@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3377",
+    "name": "バイク王＆カンパニー",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 478.0,
+    "min_s_kabu_yen": 478,
+    "unit_lot_yen": 47800,
+    "dps_yen": 11.0,
+    "dividend_yield_pct": 2.3,
+    "raw_annual_return_pct": -14.5,
+    "capped_annual_return_pct": -14.5,
+    "geometric_growth_pct": -21.71,
+    "annual_volatility_pct": 37.99,
+    "max_drawdown_pct": -73.48,
+    "monthly_var_95_pct": -18.03,
+    "sharpe_ratio": -0.54,
+    "quant_score": 25.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 521498,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 654860
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 2607490,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 3272388
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 5214980,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 6544298
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 32728,
+        "nisa_required_capital_yen": 15643984,
+        "specific_required_shares": 41071,
+        "specific_required_capital_yen": 19631938
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 54546,
+        "nisa_required_capital_yen": 26072988,
+        "specific_required_shares": 68452,
+        "specific_required_capital_yen": 32720056
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108191,
+        "upper_90_yen": 152346,
+        "lower_10_yen": 77698
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 197294,
+        "upper_90_yen": 314738,
+        "lower_10_yen": 126746
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 270675,
+        "upper_90_yen": 473763,
+        "lower_10_yen": 160673
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 331108,
+        "upper_90_yen": 624507,
+        "lower_10_yen": 184935
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 380879,
+        "upper_90_yen": 764713,
+        "lower_10_yen": 202622
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 421868,
+        "upper_90_yen": 893446,
+        "lower_10_yen": 215684
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 455625,
+        "upper_90_yen": 1010530,
+        "lower_10_yen": 225424
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 483426,
+        "upper_90_yen": 1116237,
+        "lower_10_yen": 232741
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 506322,
+        "upper_90_yen": 1211108,
+        "lower_10_yen": 238269
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 525178,
+        "upper_90_yen": 1295837,
+        "lower_10_yen": 242468
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "バイク王＆カンパニー(3377)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "バイク王＆カンパニー(3377)を1株(478円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小478円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.99%、幾何成長率は-21.71%",
+      "新NISAで月1万円の配当金を得るには10,910株（約5,214,980円）が必要"
+    ],
+    "accumulation_strategy_analysis": "バイク王＆カンパニーは単元未満株（S株・かぶミニ等）を利用することで1株（約478円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は525,178円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり11.0円（利回り2.3%）です。月次95%VaR（最大想定損失率）は-18.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "バイク王＆カンパニーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約478円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,910株（元本目安：約5,214,980円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 478.0
+  }
+}

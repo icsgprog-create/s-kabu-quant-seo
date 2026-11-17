@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6532",
+    "name": "ベイカレント",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 12780.0,
+    "min_s_kabu_yen": 12780,
+    "unit_lot_yen": 1278000,
+    "dps_yen": 115.0,
+    "dividend_yield_pct": 0.9,
+    "raw_annual_return_pct": 19.01,
+    "capped_annual_return_pct": 19.01,
+    "geometric_growth_pct": 6.29,
+    "annual_volatility_pct": 50.45,
+    "max_drawdown_pct": -57.45,
+    "monthly_var_95_pct": -21.23,
+    "sharpe_ratio": 0.12,
+    "quant_score": 15.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 105,
+        "nisa_required_capital_yen": 1341900,
+        "specific_required_shares": 131,
+        "specific_required_capital_yen": 1674180
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 6671160,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 8370900
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1044,
+        "nisa_required_capital_yen": 13342320,
+        "specific_required_shares": 1310,
+        "specific_required_capital_yen": 16741800
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3131,
+        "nisa_required_capital_yen": 40014180,
+        "specific_required_shares": 3929,
+        "specific_required_capital_yen": 50212620
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 66686040,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 83683440
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124789,
+        "upper_90_yen": 199109,
+        "lower_10_yen": 79737
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258874,
+        "upper_90_yen": 498595,
+        "lower_10_yen": 140112
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 402948,
+        "upper_90_yen": 902961,
+        "lower_10_yen": 191620
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 557755,
+        "upper_90_yen": 1426256,
+        "lower_10_yen": 237529
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 724094,
+        "upper_90_yen": 2086776,
+        "lower_10_yen": 279498
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 902824,
+        "upper_90_yen": 2906483,
+        "lower_10_yen": 318530
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1094869,
+        "upper_90_yen": 3911096,
+        "lower_10_yen": 355290
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1301221,
+        "upper_90_yen": 5130410,
+        "lower_10_yen": 390253
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1522944,
+        "upper_90_yen": 6598755,
+        "lower_10_yen": 423767
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1761185,
+        "upper_90_yen": 8355542,
+        "lower_10_yen": 456105
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ベイカレント(6532)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ベイカレント(6532)を1株(12,780円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小12,780円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは50.45%、幾何成長率は6.29%",
+      "新NISAで月1万円の配当金を得るには1,044株（約13,342,320円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ベイカレントは単元未満株（S株・かぶミニ等）を利用することで1株（約12,780円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,761,185円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり115.0円（利回り0.9%）です。月次95%VaR（最大想定損失率）は-21.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ベイカレントは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約12,780円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,044株（元本目安：約13,342,320円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 12780.0
+  }
+}

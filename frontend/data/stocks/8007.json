@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8007",
+    "name": "高島",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 733.0,
+    "min_s_kabu_yen": 733,
+    "unit_lot_yen": 73300,
+    "dps_yen": 45.5,
+    "dividend_yield_pct": 6.21,
+    "raw_annual_return_pct": 26.08,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.58,
+    "annual_volatility_pct": 26.15,
+    "max_drawdown_pct": -44.58,
+    "monthly_var_95_pct": -7.87,
+    "sharpe_ratio": 0.83,
+    "quant_score": 84.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 264,
+        "nisa_required_capital_yen": 193512,
+        "specific_required_shares": 331,
+        "specific_required_capital_yen": 242623
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1319,
+        "nisa_required_capital_yen": 966827,
+        "specific_required_shares": 1655,
+        "specific_required_capital_yen": 1213115
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2638,
+        "nisa_required_capital_yen": 1933654,
+        "specific_required_shares": 3310,
+        "specific_required_capital_yen": 2426230
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7913,
+        "nisa_required_capital_yen": 5800229,
+        "specific_required_shares": 9930,
+        "specific_required_capital_yen": 7278690
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13187,
+        "nisa_required_capital_yen": 9666071,
+        "specific_required_shares": 16549,
+        "specific_required_capital_yen": 12130417
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 136057,
+        "upper_90_yen": 173482,
+        "lower_10_yen": 107254
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 306936,
+        "upper_90_yen": 432927,
+        "lower_10_yen": 219972
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 521549,
+        "upper_90_yen": 799686,
+        "lower_10_yen": 345670
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 791089,
+        "upper_90_yen": 1306884,
+        "lower_10_yen": 489006
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1129615,
+        "upper_90_yen": 1999299,
+        "lower_10_yen": 654597
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1554780,
+        "upper_90_yen": 2936308,
+        "lower_10_yen": 847596
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2088761,
+        "upper_90_yen": 4196129,
+        "lower_10_yen": 1074006
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2759407,
+        "upper_90_yen": 5881471,
+        "lower_10_yen": 1340957
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3601695,
+        "upper_90_yen": 8126929,
+        "lower_10_yen": 1656992
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4659555,
+        "upper_90_yen": 11108609,
+        "lower_10_yen": 2032397
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "高島(8007)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "高島(8007)を1株(733円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小733円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.15%、幾何成長率は16.58%",
+      "新NISAで月1万円の配当金を得るには2,638株（約1,933,654円）が必要"
+    ],
+    "accumulation_strategy_analysis": "高島は単元未満株（S株・かぶミニ等）を利用することで1株（約733円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,659,555円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり45.5円（利回り6.21%）です。月次95%VaR（最大想定損失率）は-7.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "高島は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約733円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,638株（元本目安：約1,933,654円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 733.0
+  }
+}

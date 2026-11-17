@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4361",
+    "name": "川口化学工業",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1742.0,
+    "min_s_kabu_yen": 1742,
+    "unit_lot_yen": 174200,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 3.44,
+    "raw_annual_return_pct": 5.48,
+    "capped_annual_return_pct": 5.48,
+    "geometric_growth_pct": 0.64,
+    "annual_volatility_pct": 31.12,
+    "max_drawdown_pct": -36.14,
+    "monthly_var_95_pct": -14.07,
+    "sharpe_ratio": 0.1,
+    "quant_score": 48.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 348400,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 437242
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1742000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2186210
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 3484000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 4372420
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 10452000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 13117260
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 17420000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 21862100
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122694,
+        "upper_90_yen": 163190,
+        "lower_10_yen": 92930
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 250505,
+        "upper_90_yen": 372770,
+        "lower_10_yen": 171044
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 383647,
+        "upper_90_yen": 624208,
+        "lower_10_yen": 241638
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 522341,
+        "upper_90_yen": 918016,
+        "lower_10_yen": 307171
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 666820,
+        "upper_90_yen": 1256068,
+        "lower_10_yen": 368964
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 817325,
+        "upper_90_yen": 1640967,
+        "lower_10_yen": 427850
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 974107,
+        "upper_90_yen": 2075830,
+        "lower_10_yen": 484403
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1137427,
+        "upper_90_yen": 2564198,
+        "lower_10_yen": 539044
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1307559,
+        "upper_90_yen": 3110005,
+        "lower_10_yen": 592096
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1484787,
+        "upper_90_yen": 3717566,
+        "lower_10_yen": 643812
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "川口化学工業(4361)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "川口化学工業(4361)を1株(1,742円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,742円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.12%、幾何成長率は0.64%",
+      "新NISAで月1万円の配当金を得るには2,000株（約3,484,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "川口化学工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,742円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,484,787円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り3.44%）です。月次95%VaR（最大想定損失率）は-14.07%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "川口化学工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,742円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約3,484,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1742.0
+  }
+}

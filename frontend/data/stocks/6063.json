@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6063",
+    "name": "日本エマージェンシーアシスタンス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 915.0,
+    "min_s_kabu_yen": 915,
+    "unit_lot_yen": 91500,
+    "dps_yen": 9.0,
+    "dividend_yield_pct": 0.98,
+    "raw_annual_return_pct": -4.64,
+    "capped_annual_return_pct": -4.64,
+    "geometric_growth_pct": -13.74,
+    "annual_volatility_pct": 42.66,
+    "max_drawdown_pct": -62.75,
+    "monthly_var_95_pct": -13.18,
+    "sharpe_ratio": -0.32,
+    "quant_score": 10.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 1220610,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 1531710
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 6100305,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 7655805
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 12200610,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 15310695
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 36600000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 45931170
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 66667,
+        "nisa_required_capital_yen": 61000305,
+        "specific_required_shares": 83663,
+        "specific_required_capital_yen": 76551645
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112066,
+        "upper_90_yen": 165077,
+        "lower_10_yen": 77154
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 210715,
+        "upper_90_yen": 358931,
+        "lower_10_yen": 127561
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 297554,
+        "upper_90_yen": 566132,
+        "lower_10_yen": 164044
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 373996,
+        "upper_90_yen": 779696,
+        "lower_10_yen": 191453
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 441285,
+        "upper_90_yen": 995185,
+        "lower_10_yen": 212494
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 500519,
+        "upper_90_yen": 1209499,
+        "lower_10_yen": 228884
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 552660,
+        "upper_90_yen": 1420390,
+        "lower_10_yen": 241788
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 598559,
+        "upper_90_yen": 1626206,
+        "lower_10_yen": 252032
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 638963,
+        "upper_90_yen": 1825737,
+        "lower_10_yen": 260219
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 674530,
+        "upper_90_yen": 2018111,
+        "lower_10_yen": 266799
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本エマージェンシーアシスタンス(6063)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本エマージェンシーアシスタンス(6063)を1株(915円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小915円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.66%、幾何成長率は-13.74%",
+      "新NISAで月1万円の配当金を得るには13,334株（約12,200,610円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本エマージェンシーアシスタンスは単元未満株（S株・かぶミニ等）を利用することで1株（約915円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は674,530円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり9.0円（利回り0.98%）です。月次95%VaR（最大想定損失率）は-13.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本エマージェンシーアシスタンスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約915円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、13,334株（元本目安：約12,200,610円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 915.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6315",
+    "name": "ＴＯＷＡ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2047.0,
+    "min_s_kabu_yen": 2047,
+    "unit_lot_yen": 204700,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 0.98,
+    "raw_annual_return_pct": 11.93,
+    "capped_annual_return_pct": 11.93,
+    "geometric_growth_pct": -8.65,
+    "annual_volatility_pct": 64.16,
+    "max_drawdown_pct": -77.85,
+    "monthly_var_95_pct": -24.19,
+    "sharpe_ratio": -0.14,
+    "quant_score": 9.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 1228200,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 1541391
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 6141000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 7706955
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 12282000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 15413910
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 36846000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 46239683
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 61410000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 77067503
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115142,
+        "upper_90_yen": 207727,
+        "lower_10_yen": 65871
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 221779,
+        "upper_90_yen": 503099,
+        "lower_10_yen": 104727
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 320539,
+        "upper_90_yen": 869040,
+        "lower_10_yen": 131528
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 412004,
+        "upper_90_yen": 1298509,
+        "lower_10_yen": 151085
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 496712,
+        "upper_90_yen": 1786753,
+        "lower_10_yen": 165827
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 575163,
+        "upper_90_yen": 2329938,
+        "lower_10_yen": 177186
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 647819,
+        "upper_90_yen": 2924688,
+        "lower_10_yen": 186081
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 715108,
+        "upper_90_yen": 3567881,
+        "lower_10_yen": 193134
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 777427,
+        "upper_90_yen": 4256549,
+        "lower_10_yen": 198782
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 835142,
+        "upper_90_yen": 4987833,
+        "lower_10_yen": 203344
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＴＯＷＡ(6315)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＴＯＷＡ(6315)を1株(2,047円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,047円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは64.16%、幾何成長率は-8.65%",
+      "新NISAで月1万円の配当金を得るには6,000株（約12,282,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＴＯＷＡは単元未満株（S株・かぶミニ等）を利用することで1株（約2,047円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は835,142円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り0.98%）です。月次95%VaR（最大想定損失率）は-24.19%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＴＯＷＡは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,047円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約12,282,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2047.0
+  }
+}

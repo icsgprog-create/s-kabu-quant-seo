@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9046",
+    "name": "神戸電鉄",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2257.0,
+    "min_s_kabu_yen": 2257,
+    "unit_lot_yen": 225700,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 1.11,
+    "raw_annual_return_pct": -7.98,
+    "capped_annual_return_pct": -7.98,
+    "geometric_growth_pct": -9.37,
+    "annual_volatility_pct": 16.67,
+    "max_drawdown_pct": -35.65,
+    "monthly_var_95_pct": -6.67,
+    "sharpe_ratio": -0.56,
+    "quant_score": 37.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 1083360,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 1360971
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 5416800,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 6798084
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 10833600,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 13596168
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 32500800,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 40788504
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 54168000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 67978583
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114783,
+        "upper_90_yen": 133403,
+        "lower_10_yen": 98974
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 220469,
+        "upper_90_yen": 271000,
+        "lower_10_yen": 180200
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 317779,
+        "upper_90_yen": 407692,
+        "lower_10_yen": 249499
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 407376,
+        "upper_90_yen": 541562,
+        "lower_10_yen": 309482
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 489872,
+        "upper_90_yen": 671578,
+        "lower_10_yen": 361837
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 565829,
+        "upper_90_yen": 797140,
+        "lower_10_yen": 407794
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 635766,
+        "upper_90_yen": 917896,
+        "lower_10_yen": 448305
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 700160,
+        "upper_90_yen": 1033657,
+        "lower_10_yen": 484130
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 759451,
+        "upper_90_yen": 1144339,
+        "lower_10_yen": 515894
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 814042,
+        "upper_90_yen": 1249940,
+        "lower_10_yen": 544119
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "神戸電鉄(9046)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "神戸電鉄(9046)を1株(2,257円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,257円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは16.67%、幾何成長率は-9.37%",
+      "新NISAで月1万円の配当金を得るには4,800株（約10,833,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "神戸電鉄は単元未満株（S株・かぶミニ等）を利用することで1株（約2,257円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は814,042円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り1.11%）です。月次95%VaR（最大想定損失率）は-6.67%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "神戸電鉄は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,257円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約10,833,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2257.0
+  }
+}

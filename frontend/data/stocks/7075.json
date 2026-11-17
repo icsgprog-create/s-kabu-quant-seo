@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7075",
+    "name": "ＱＬＳホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 880.0,
+    "min_s_kabu_yen": 880,
+    "unit_lot_yen": 88000,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.14,
+    "raw_annual_return_pct": -12.41,
+    "capped_annual_return_pct": -12.41,
+    "geometric_growth_pct": -18.76,
+    "annual_volatility_pct": 35.63,
+    "max_drawdown_pct": -59.94,
+    "monthly_var_95_pct": -9.19,
+    "sharpe_ratio": -0.52,
+    "quant_score": 18.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1056000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1325280
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 5280000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 6626400
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 10560000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 13252800
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 31680000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 39756640
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 52800000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 66261360
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109215,
+        "upper_90_yen": 150587,
+        "lower_10_yen": 79991
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 200783,
+        "upper_90_yen": 311409,
+        "lower_10_yen": 132276
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 277555,
+        "upper_90_yen": 470024,
+        "lower_10_yen": 169499
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 341923,
+        "upper_90_yen": 621762,
+        "lower_10_yen": 196838
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 395890,
+        "upper_90_yen": 764358,
+        "lower_10_yen": 217282
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 441137,
+        "upper_90_yen": 896752,
+        "lower_10_yen": 232757
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 479073,
+        "upper_90_yen": 1018586,
+        "lower_10_yen": 244578
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 510880,
+        "upper_90_yen": 1129929,
+        "lower_10_yen": 253669
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 537547,
+        "upper_90_yen": 1231122,
+        "lower_10_yen": 260700
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 559905,
+        "upper_90_yen": 1322665,
+        "lower_10_yen": 266163
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＱＬＳホールディングス(7075)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＱＬＳホールディングス(7075)を1株(880円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小880円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.63%、幾何成長率は-18.76%",
+      "新NISAで月1万円の配当金を得るには12,000株（約10,560,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＱＬＳホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約880円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は559,905円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.14%）です。月次95%VaR（最大想定損失率）は-9.19%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＱＬＳホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約880円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約10,560,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 880.0
+  }
+}

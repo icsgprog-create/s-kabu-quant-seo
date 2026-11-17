@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6644",
+    "name": "大崎電気工業",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1077.0,
+    "min_s_kabu_yen": 1077,
+    "unit_lot_yen": 107700,
+    "dps_yen": 61.0,
+    "dividend_yield_pct": 5.66,
+    "raw_annual_return_pct": 18.99,
+    "capped_annual_return_pct": 18.99,
+    "geometric_growth_pct": 13.31,
+    "annual_volatility_pct": 33.7,
+    "max_drawdown_pct": -50.13,
+    "monthly_var_95_pct": -10.02,
+    "sharpe_ratio": 0.53,
+    "quant_score": 69.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 197,
+        "nisa_required_capital_yen": 212169,
+        "specific_required_shares": 247,
+        "specific_required_capital_yen": 266019
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 984,
+        "nisa_required_capital_yen": 1059768,
+        "specific_required_shares": 1235,
+        "specific_required_capital_yen": 1330095
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1968,
+        "nisa_required_capital_yen": 2119536,
+        "specific_required_shares": 2469,
+        "specific_required_capital_yen": 2659113
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5902,
+        "nisa_required_capital_yen": 6356454,
+        "specific_required_shares": 7407,
+        "specific_required_capital_yen": 7977339
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9837,
+        "nisa_required_capital_yen": 10594449,
+        "specific_required_shares": 12344,
+        "specific_required_capital_yen": 13294488
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133186,
+        "upper_90_yen": 182148,
+        "lower_10_yen": 98220
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294195,
+        "upper_90_yen": 457843,
+        "lower_10_yen": 192490
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 488841,
+        "upper_90_yen": 846013,
+        "lower_10_yen": 290243
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 724151,
+        "upper_90_yen": 1377292,
+        "lower_10_yen": 394578
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1008618,
+        "upper_90_yen": 2092446,
+        "lower_10_yen": 507827
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1352514,
+        "upper_90_yen": 3044281,
+        "lower_10_yen": 632162
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1768252,
+        "upper_90_yen": 4300598,
+        "lower_10_yen": 769818
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2270843,
+        "upper_90_yen": 5948077,
+        "lower_10_yen": 923220
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2878429,
+        "upper_90_yen": 8097239,
+        "lower_10_yen": 1095067
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3612945,
+        "upper_90_yen": 10888725,
+        "lower_10_yen": 1288417
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大崎電気工業(6644)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大崎電気工業(6644)を1株(1,077円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,077円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.7%、幾何成長率は13.31%",
+      "新NISAで月1万円の配当金を得るには1,968株（約2,119,536円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大崎電気工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,077円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,612,945円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり61.0円（利回り5.66%）です。月次95%VaR（最大想定損失率）は-10.02%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大崎電気工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,077円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,968株（元本目安：約2,119,536円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1077.0
+  }
+}

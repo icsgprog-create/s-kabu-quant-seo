@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3333",
+    "name": "あさひ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1301.0,
+    "min_s_kabu_yen": 1301,
+    "unit_lot_yen": 130100,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 3.84,
+    "raw_annual_return_pct": 2.57,
+    "capped_annual_return_pct": 2.57,
+    "geometric_growth_pct": 0.99,
+    "annual_volatility_pct": 17.75,
+    "max_drawdown_pct": -28.19,
+    "monthly_var_95_pct": -5.57,
+    "sharpe_ratio": 0.22,
+    "quant_score": 68.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 312240,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 392902
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1561200,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1959306
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 3122400,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 3918612
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 9367200,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 11755836
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 15612000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 19593060
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123196,
+        "upper_90_yen": 144855,
+        "lower_10_yen": 105027
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252494,
+        "upper_90_yen": 316270,
+        "lower_10_yen": 202626
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 388197,
+        "upper_90_yen": 511292,
+        "lower_10_yen": 297093
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 530622,
+        "upper_90_yen": 729846,
+        "lower_10_yen": 389934
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 680101,
+        "upper_90_yen": 972618,
+        "lower_10_yen": 481993
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 836985,
+        "upper_90_yen": 1240681,
+        "lower_10_yen": 573828
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1001640,
+        "upper_90_yen": 1535363,
+        "lower_10_yen": 665844
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1174451,
+        "upper_90_yen": 1858198,
+        "lower_10_yen": 758361
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1355822,
+        "upper_90_yen": 2210901,
+        "lower_10_yen": 851640
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1546176,
+        "upper_90_yen": 2595354,
+        "lower_10_yen": 945901
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "あさひ(3333)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "あさひ(3333)を1株(1,301円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,301円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.75%、幾何成長率は0.99%",
+      "新NISAで月1万円の配当金を得るには2,400株（約3,122,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "あさひは単元未満株（S株・かぶミニ等）を利用することで1株（約1,301円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,546,176円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り3.84%）です。月次95%VaR（最大想定損失率）は-5.57%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "あさひは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,301円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約3,122,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1301.0
+  }
+}

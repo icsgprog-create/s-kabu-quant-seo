@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7844",
+    "name": "マーベラス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 566.0,
+    "min_s_kabu_yen": 566,
+    "unit_lot_yen": 56600,
+    "dps_yen": 12.0,
+    "dividend_yield_pct": 2.12,
+    "raw_annual_return_pct": -2.48,
+    "capped_annual_return_pct": -2.48,
+    "geometric_growth_pct": -5.66,
+    "annual_volatility_pct": 25.2,
+    "max_drawdown_pct": -43.98,
+    "monthly_var_95_pct": -8.4,
+    "sharpe_ratio": -0.18,
+    "quant_score": 37.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 566000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 710330
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 2830000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 3551650
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 5660000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 7103300
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 16980000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 21309334
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 50000,
+        "nisa_required_capital_yen": 28300000,
+        "specific_required_shares": 62748,
+        "specific_required_capital_yen": 35515368
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117729,
+        "upper_90_yen": 148025,
+        "lower_10_yen": 94092
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 231368,
+        "upper_90_yen": 317488,
+        "lower_10_yen": 170404
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 341058,
+        "upper_90_yen": 500935,
+        "lower_10_yen": 236048
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 446937,
+        "upper_90_yen": 695299,
+        "lower_10_yen": 293760
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 549136,
+        "upper_90_yen": 898660,
+        "lower_10_yen": 345146
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 647785,
+        "upper_90_yen": 1109626,
+        "lower_10_yen": 391292
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 743006,
+        "upper_90_yen": 1327114,
+        "lower_10_yen": 432996
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 834919,
+        "upper_90_yen": 1550234,
+        "lower_10_yen": 470869
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 923637,
+        "upper_90_yen": 1778233,
+        "lower_10_yen": 505400
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1009273,
+        "upper_90_yen": 2010464,
+        "lower_10_yen": 536986
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "マーベラス(7844)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "マーベラス(7844)を1株(566円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小566円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.2%、幾何成長率は-5.66%",
+      "新NISAで月1万円の配当金を得るには10,000株（約5,660,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "マーベラスは単元未満株（S株・かぶミニ等）を利用することで1株（約566円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,009,273円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり12.0円（利回り2.12%）です。月次95%VaR（最大想定損失率）は-8.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "マーベラスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約566円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,000株（元本目安：約5,660,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 566.0
+  }
+}

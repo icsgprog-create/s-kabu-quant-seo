@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5947",
+    "name": "リンナイ",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3600.0,
+    "min_s_kabu_yen": 3600,
+    "unit_lot_yen": 360000,
+    "dps_yen": 103.0,
+    "dividend_yield_pct": 2.86,
+    "raw_annual_return_pct": 0.09,
+    "capped_annual_return_pct": 0.09,
+    "geometric_growth_pct": -2.93,
+    "annual_volatility_pct": 24.59,
+    "max_drawdown_pct": -34.59,
+    "monthly_var_95_pct": -10.56,
+    "sharpe_ratio": -0.04,
+    "quant_score": 47.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 117,
+        "nisa_required_capital_yen": 421200,
+        "specific_required_shares": 147,
+        "specific_required_capital_yen": 529200
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 583,
+        "nisa_required_capital_yen": 2098800,
+        "specific_required_shares": 732,
+        "specific_required_capital_yen": 2635200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1166,
+        "nisa_required_capital_yen": 4197600,
+        "specific_required_shares": 1463,
+        "specific_required_capital_yen": 5266800
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3496,
+        "nisa_required_capital_yen": 12585600,
+        "specific_required_shares": 4387,
+        "specific_required_capital_yen": 15793200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5826,
+        "nisa_required_capital_yen": 20973600,
+        "specific_required_shares": 7311,
+        "specific_required_capital_yen": 26319600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119955,
+        "upper_90_yen": 150080,
+        "lower_10_yen": 96321
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239827,
+        "upper_90_yen": 327180,
+        "lower_10_yen": 177568
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 359615,
+        "upper_90_yen": 525091,
+        "lower_10_yen": 250131
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 479321,
+        "upper_90_yen": 741681,
+        "lower_10_yen": 316328
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 598943,
+        "upper_90_yen": 975826,
+        "lower_10_yen": 377470
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 718483,
+        "upper_90_yen": 1226855,
+        "lower_10_yen": 434416
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 837940,
+        "upper_90_yen": 1494342,
+        "lower_10_yen": 487781
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 957314,
+        "upper_90_yen": 1778016,
+        "lower_10_yen": 538029
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1076605,
+        "upper_90_yen": 2077704,
+        "lower_10_yen": 585524
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1195813,
+        "upper_90_yen": 2393308,
+        "lower_10_yen": 630560
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "リンナイ(5947)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "リンナイ(5947)を1株(3,600円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,600円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.59%、幾何成長率は-2.93%",
+      "新NISAで月1万円の配当金を得るには1,166株（約4,197,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "リンナイは単元未満株（S株・かぶミニ等）を利用することで1株（約3,600円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,195,813円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり103.0円（利回り2.86%）です。月次95%VaR（最大想定損失率）は-10.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "リンナイは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,600円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,166株（元本目安：約4,197,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3600.0
+  }
+}

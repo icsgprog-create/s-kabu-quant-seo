@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3221",
+    "name": "ヨシックスホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3210.0,
+    "min_s_kabu_yen": 3210,
+    "unit_lot_yen": 321000,
+    "dps_yen": 32.0,
+    "dividend_yield_pct": 1.0,
+    "raw_annual_return_pct": 9.05,
+    "capped_annual_return_pct": 9.05,
+    "geometric_growth_pct": 5.69,
+    "annual_volatility_pct": 25.93,
+    "max_drawdown_pct": -34.31,
+    "monthly_var_95_pct": -9.36,
+    "sharpe_ratio": 0.22,
+    "quant_score": 37.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 1203750,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 1511910
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 6018750,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 7556340
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 12037500,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 15109470
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11250,
+        "nisa_required_capital_yen": 36112500,
+        "specific_required_shares": 14119,
+        "specific_required_capital_yen": 45321990
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18750,
+        "nisa_required_capital_yen": 60187500,
+        "specific_required_shares": 23531,
+        "specific_required_capital_yen": 75534510
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124449,
+        "upper_90_yen": 157849,
+        "lower_10_yen": 98620
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 257505,
+        "upper_90_yen": 358806,
+        "lower_10_yen": 186850
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 399762,
+        "upper_90_yen": 600499,
+        "lower_10_yen": 270656
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 551857,
+        "upper_90_yen": 884864,
+        "lower_10_yen": 352058
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 714470,
+        "upper_90_yen": 1215158,
+        "lower_10_yen": 432157
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 888329,
+        "upper_90_yen": 1595456,
+        "lower_10_yen": 511672
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1074211,
+        "upper_90_yen": 2030516,
+        "lower_10_yen": 591119
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1272947,
+        "upper_90_yen": 2525739,
+        "lower_10_yen": 670898
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1485428,
+        "upper_90_yen": 3087173,
+        "lower_10_yen": 751335
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1712603,
+        "upper_90_yen": 3721547,
+        "lower_10_yen": 832708
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヨシックスホールディングス(3221)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヨシックスホールディングス(3221)を1株(3,210円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,210円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.93%、幾何成長率は5.69%",
+      "新NISAで月1万円の配当金を得るには3,750株（約12,037,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヨシックスホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,210円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,712,603円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり32.0円（利回り1.0%）です。月次95%VaR（最大想定損失率）は-9.36%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヨシックスホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,210円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,750株（元本目安：約12,037,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3210.0
+  }
+}

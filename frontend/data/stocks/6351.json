@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6351",
+    "name": "鶴見製作所",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2475.0,
+    "min_s_kabu_yen": 2475,
+    "unit_lot_yen": 247500,
+    "dps_yen": 32.0,
+    "dividend_yield_pct": 1.29,
+    "raw_annual_return_pct": 24.74,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.29,
+    "annual_volatility_pct": 33.79,
+    "max_drawdown_pct": -44.19,
+    "monthly_var_95_pct": -13.83,
+    "sharpe_ratio": 0.43,
+    "quant_score": 37.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 928125,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 1165725
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 4640625,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 5826150
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 9281250,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 11649825
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11250,
+        "nisa_required_capital_yen": 27843750,
+        "specific_required_shares": 14119,
+        "specific_required_capital_yen": 34944525
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18750,
+        "nisa_required_capital_yen": 46406250,
+        "specific_required_shares": 23531,
+        "specific_required_capital_yen": 58239225
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130701,
+        "upper_90_yen": 178748,
+        "lower_10_yen": 96395
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 283442,
+        "upper_90_yen": 440548,
+        "lower_10_yen": 185737
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 461942,
+        "upper_90_yen": 797063,
+        "lower_10_yen": 275245
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 670544,
+        "upper_90_yen": 1268950,
+        "lower_10_yen": 367561
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 914325,
+        "upper_90_yen": 1883202,
+        "lower_10_yen": 464393
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1199215,
+        "upper_90_yen": 2673738,
+        "lower_10_yen": 567133
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1532150,
+        "upper_90_yen": 3682666,
+        "lower_10_yen": 677063
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1921230,
+        "upper_90_yen": 4961963,
+        "lower_10_yen": 795457
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2375924,
+        "upper_90_yen": 6575593,
+        "lower_10_yen": 923640
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2907297,
+        "upper_90_yen": 8602098,
+        "lower_10_yen": 1063029
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "鶴見製作所(6351)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "鶴見製作所(6351)を1株(2,475円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,475円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.79%、幾何成長率は14.29%",
+      "新NISAで月1万円の配当金を得るには3,750株（約9,281,250円）が必要"
+    ],
+    "accumulation_strategy_analysis": "鶴見製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約2,475円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,907,297円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり32.0円（利回り1.29%）です。月次95%VaR（最大想定損失率）は-13.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "鶴見製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,475円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,750株（元本目安：約9,281,250円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2475.0
+  }
+}

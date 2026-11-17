@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7590",
+    "name": "タカショー",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 385.0,
+    "min_s_kabu_yen": 385,
+    "unit_lot_yen": 38500,
+    "dps_yen": 5.0,
+    "dividend_yield_pct": 1.3,
+    "raw_annual_return_pct": -14.38,
+    "capped_annual_return_pct": -14.38,
+    "geometric_growth_pct": -18.14,
+    "annual_volatility_pct": 27.41,
+    "max_drawdown_pct": -57.84,
+    "monthly_var_95_pct": -10.99,
+    "sharpe_ratio": -0.65,
+    "quant_score": 28.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 924000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 1159620
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 4620000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 5798100
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 9240000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 11595815
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 72000,
+        "nisa_required_capital_yen": 27720000,
+        "specific_required_shares": 90356,
+        "specific_required_capital_yen": 34787060
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 46200000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 57978305
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109666,
+        "upper_90_yen": 140310,
+        "lower_10_yen": 86215
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 202335,
+        "upper_90_yen": 283205,
+        "lower_10_yen": 146414
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 280642,
+        "upper_90_yen": 420032,
+        "lower_10_yen": 191273
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 346811,
+        "upper_90_yen": 548004,
+        "lower_10_yen": 225512
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 402724,
+        "upper_90_yen": 666063,
+        "lower_10_yen": 252008
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 449972,
+        "upper_90_yen": 773967,
+        "lower_10_yen": 272705
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 489896,
+        "upper_90_yen": 871918,
+        "lower_10_yen": 288985
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 523633,
+        "upper_90_yen": 960361,
+        "lower_10_yen": 301858
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 552140,
+        "upper_90_yen": 1039880,
+        "lower_10_yen": 312081
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 576229,
+        "upper_90_yen": 1111121,
+        "lower_10_yen": 320228
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "タカショー(7590)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "タカショー(7590)を1株(385円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小385円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.41%、幾何成長率は-18.14%",
+      "新NISAで月1万円の配当金を得るには24,000株（約9,240,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "タカショーは単元未満株（S株・かぶミニ等）を利用することで1株（約385円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は576,229円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.0円（利回り1.3%）です。月次95%VaR（最大想定損失率）は-10.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "タカショーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約385円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、24,000株（元本目安：約9,240,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 385.0
+  }
+}

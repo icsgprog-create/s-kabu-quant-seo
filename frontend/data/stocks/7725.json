@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7725",
+    "name": "インターアクション",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1607.0,
+    "min_s_kabu_yen": 1607,
+    "unit_lot_yen": 160700,
+    "dps_yen": 44.0,
+    "dividend_yield_pct": 2.74,
+    "raw_annual_return_pct": -6.71,
+    "capped_annual_return_pct": -6.71,
+    "geometric_growth_pct": -15.74,
+    "annual_volatility_pct": 42.49,
+    "max_drawdown_pct": -63.79,
+    "monthly_var_95_pct": -17.16,
+    "sharpe_ratio": -0.33,
+    "quant_score": 24.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 273,
+        "nisa_required_capital_yen": 438711,
+        "specific_required_shares": 343,
+        "specific_required_capital_yen": 551201
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1364,
+        "nisa_required_capital_yen": 2191948,
+        "specific_required_shares": 1712,
+        "specific_required_capital_yen": 2751184
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 4383896,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 5500761
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8182,
+        "nisa_required_capital_yen": 13148474,
+        "specific_required_shares": 10268,
+        "specific_required_capital_yen": 16500676
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13637,
+        "nisa_required_capital_yen": 21914659,
+        "specific_required_shares": 17113,
+        "specific_required_capital_yen": 27500591
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111920,
+        "upper_90_yen": 164581,
+        "lower_10_yen": 77175
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 210197,
+        "upper_90_yen": 357159,
+        "lower_10_yen": 127532
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 296494,
+        "upper_90_yen": 562329,
+        "lower_10_yen": 163919
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 372273,
+        "upper_90_yen": 773142,
+        "lower_10_yen": 191206
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 438815,
+        "upper_90_yen": 985213,
+        "lower_10_yen": 212113
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 497245,
+        "upper_90_yen": 1195504,
+        "lower_10_yen": 228366
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 548553,
+        "upper_90_yen": 1401832,
+        "lower_10_yen": 241137
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 593607,
+        "upper_90_yen": 1602614,
+        "lower_10_yen": 251255
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 633169,
+        "upper_90_yen": 1796708,
+        "lower_10_yen": 259324
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 667909,
+        "upper_90_yen": 1983310,
+        "lower_10_yen": 265796
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "インターアクション(7725)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "インターアクション(7725)を1株(1,607円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,607円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.49%、幾何成長率は-15.74%",
+      "新NISAで月1万円の配当金を得るには2,728株（約4,383,896円）が必要"
+    ],
+    "accumulation_strategy_analysis": "インターアクションは単元未満株（S株・かぶミニ等）を利用することで1株（約1,607円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は667,909円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり44.0円（利回り2.74%）です。月次95%VaR（最大想定損失率）は-17.16%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "インターアクションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,607円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,728株（元本目安：約4,383,896円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1607.0
+  }
+}

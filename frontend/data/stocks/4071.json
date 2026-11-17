@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4071",
+    "name": "プラスアルファ・コンサルティング",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2360.0,
+    "min_s_kabu_yen": 2360,
+    "unit_lot_yen": 236000,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 2.12,
+    "raw_annual_return_pct": -10.27,
+    "capped_annual_return_pct": -10.27,
+    "geometric_growth_pct": -22.08,
+    "annual_volatility_pct": 48.6,
+    "max_drawdown_pct": -72.19,
+    "monthly_var_95_pct": -22.91,
+    "sharpe_ratio": -0.43,
+    "quant_score": 16.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 566400,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 712720
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2832000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 3554160
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 5664000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 7108320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 16992000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 21324960
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 28320000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 35541600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107880,
+        "upper_90_yen": 167442,
+        "lower_10_yen": 70788
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 196240,
+        "upper_90_yen": 357976,
+        "lower_10_yen": 111983
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 268611,
+        "upper_90_yen": 552700,
+        "lower_10_yen": 138966
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 327887,
+        "upper_90_yen": 743616,
+        "lower_10_yen": 157412
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 376437,
+        "upper_90_yen": 926310,
+        "lower_10_yen": 170337
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 416202,
+        "upper_90_yen": 1098281,
+        "lower_10_yen": 179545
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 448772,
+        "upper_90_yen": 1258205,
+        "lower_10_yen": 186187
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 475449,
+        "upper_90_yen": 1405534,
+        "lower_10_yen": 191022
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 497298,
+        "upper_90_yen": 1540232,
+        "lower_10_yen": 194570
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 515194,
+        "upper_90_yen": 1662612,
+        "lower_10_yen": 197189
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "プラスアルファ・コンサルティング(4071)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "プラスアルファ・コンサルティング(4071)を1株(2,360円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,360円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは48.6%、幾何成長率は-22.08%",
+      "新NISAで月1万円の配当金を得るには2,400株（約5,664,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "プラスアルファ・コンサルティングは単元未満株（S株・かぶミニ等）を利用することで1株（約2,360円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は515,194円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り2.12%）です。月次95%VaR（最大想定損失率）は-22.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "プラスアルファ・コンサルティングは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,360円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約5,664,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2360.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7989",
+    "name": "立川ブラインド工業",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2558.0,
+    "min_s_kabu_yen": 2558,
+    "unit_lot_yen": 255800,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 3.91,
+    "raw_annual_return_pct": 18.12,
+    "capped_annual_return_pct": 18.12,
+    "geometric_growth_pct": 14.83,
+    "annual_volatility_pct": 25.63,
+    "max_drawdown_pct": -24.44,
+    "monthly_var_95_pct": -5.93,
+    "sharpe_ratio": 0.69,
+    "quant_score": 73.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 306960,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 386258
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 1534800,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 1926174
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 3069600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 3852348
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 9208800,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 11557044
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 15348000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 19261740
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133015,
+        "upper_90_yen": 168640,
+        "lower_10_yen": 105435
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 293446,
+        "upper_90_yen": 410091,
+        "lower_10_yen": 212190
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 486946,
+        "upper_90_yen": 737138,
+        "lower_10_yen": 326776
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 720331,
+        "upper_90_yen": 1170669,
+        "lower_10_yen": 452495
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1001821,
+        "upper_90_yen": 1738116,
+        "lower_10_yen": 592200
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1341332,
+        "upper_90_yen": 2474477,
+        "lower_10_yen": 748800
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1750824,
+        "upper_90_yen": 3423982,
+        "lower_10_yen": 925462
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2244721,
+        "upper_90_yen": 4642298,
+        "lower_10_yen": 1125743
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2840421,
+        "upper_90_yen": 6199318,
+        "lower_10_yen": 1353711
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3558907,
+        "upper_90_yen": 8182652,
+        "lower_10_yen": 1614052
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "立川ブラインド工業(7989)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "立川ブラインド工業(7989)を1株(2,558円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,558円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.63%、幾何成長率は14.83%",
+      "新NISAで月1万円の配当金を得るには1,200株（約3,069,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "立川ブラインド工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,558円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,558,907円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り3.91%）です。月次95%VaR（最大想定損失率）は-5.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "立川ブラインド工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,558円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約3,069,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2558.0
+  }
+}

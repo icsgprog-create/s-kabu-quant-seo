@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4538",
+    "name": "扶桑薬品工業",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2168.0,
+    "min_s_kabu_yen": 2168,
+    "unit_lot_yen": 216800,
+    "dps_yen": 90.0,
+    "dividend_yield_pct": 4.15,
+    "raw_annual_return_pct": 0.22,
+    "capped_annual_return_pct": 0.22,
+    "geometric_growth_pct": -2.71,
+    "annual_volatility_pct": 24.18,
+    "max_drawdown_pct": -26.27,
+    "monthly_var_95_pct": -9.36,
+    "sharpe_ratio": 0.02,
+    "quant_score": 59.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 134,
+        "nisa_required_capital_yen": 290512,
+        "specific_required_shares": 168,
+        "specific_required_capital_yen": 364224
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1446056,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 1814616
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 2892112,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 3629232
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 8672000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 10883360
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 14454056,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 18139656
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120944,
+        "upper_90_yen": 150789,
+        "lower_10_yen": 97441
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 243648,
+        "upper_90_yen": 330918,
+        "lower_10_yen": 181136
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 368138,
+        "upper_90_yen": 534898,
+        "lower_10_yen": 257172
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 494439,
+        "upper_90_yen": 761187,
+        "lower_10_yen": 327706
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 622578,
+        "upper_90_yen": 1009220,
+        "lower_10_yen": 393935
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 752583,
+        "upper_90_yen": 1278876,
+        "lower_10_yen": 456634
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 884479,
+        "upper_90_yen": 1570281,
+        "lower_10_yen": 516351
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1018295,
+        "upper_90_yen": 1883720,
+        "lower_10_yen": 573496
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1154058,
+        "upper_90_yen": 2219592,
+        "lower_10_yen": 628386
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1291797,
+        "upper_90_yen": 2578382,
+        "lower_10_yen": 681275
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "扶桑薬品工業(4538)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "扶桑薬品工業(4538)を1株(2,168円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,168円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.18%、幾何成長率は-2.71%",
+      "新NISAで月1万円の配当金を得るには1,334株（約2,892,112円）が必要"
+    ],
+    "accumulation_strategy_analysis": "扶桑薬品工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,168円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,291,797円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり90.0円（利回り4.15%）です。月次95%VaR（最大想定損失率）は-9.36%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "扶桑薬品工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,168円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,334株（元本目安：約2,892,112円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2168.0
+  }
+}

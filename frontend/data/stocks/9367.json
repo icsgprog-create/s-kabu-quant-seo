@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9367",
+    "name": "大東港運",
+    "sector": "倉庫・運輸関連業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1977.0,
+    "min_s_kabu_yen": 1977,
+    "unit_lot_yen": 197700,
+    "dps_yen": 34.0,
+    "dividend_yield_pct": 1.72,
+    "raw_annual_return_pct": 26.84,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.61,
+    "annual_volatility_pct": 26.04,
+    "max_drawdown_pct": -30.49,
+    "monthly_var_95_pct": -8.43,
+    "sharpe_ratio": 0.67,
+    "quant_score": 54.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 353,
+        "nisa_required_capital_yen": 697881,
+        "specific_required_shares": 443,
+        "specific_required_capital_yen": 875811
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1765,
+        "nisa_required_capital_yen": 3489405,
+        "specific_required_shares": 2215,
+        "specific_required_capital_yen": 4379055
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 6978810,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 8758110
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10589,
+        "nisa_required_capital_yen": 20934453,
+        "specific_required_shares": 13288,
+        "specific_required_capital_yen": 26270376
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17648,
+        "nisa_required_capital_yen": 34890096,
+        "specific_required_shares": 22147,
+        "specific_required_capital_yen": 43784619
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132710,
+        "upper_90_yen": 168884,
+        "lower_10_yen": 104819
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 292119,
+        "upper_90_yen": 410354,
+        "lower_10_yen": 210213
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 483597,
+        "upper_90_yen": 736690,
+        "lower_10_yen": 322665
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 713596,
+        "upper_90_yen": 1168154,
+        "lower_10_yen": 445349
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 989865,
+        "upper_90_yen": 1731314,
+        "lower_10_yen": 580947
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1321713,
+        "upper_90_yen": 2459966,
+        "lower_10_yen": 732142
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1720321,
+        "upper_90_yen": 3396676,
+        "lower_10_yen": 901826
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2199119,
+        "upper_90_yen": 4594827,
+        "lower_10_yen": 1093219
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2774241,
+        "upper_90_yen": 6121206,
+        "lower_10_yen": 1309976
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3465063,
+        "upper_90_yen": 8059224,
+        "lower_10_yen": 1556285
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大東港運(9367)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大東港運(9367)を1株(1,977円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,977円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.04%、幾何成長率は16.61%",
+      "新NISAで月1万円の配当金を得るには3,530株（約6,978,810円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大東港運は単元未満株（S株・かぶミニ等）を利用することで1株（約1,977円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,465,063円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり34.0円（利回り1.72%）です。月次95%VaR（最大想定損失率）は-8.43%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大東港運は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,977円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,530株（元本目安：約6,978,810円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1977.0
+  }
+}

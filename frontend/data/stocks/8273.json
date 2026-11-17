@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8273",
+    "name": "イズミ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1021.0,
+    "min_s_kabu_yen": 1021,
+    "unit_lot_yen": 102100,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 2.94,
+    "raw_annual_return_pct": 0.32,
+    "capped_annual_return_pct": 0.32,
+    "geometric_growth_pct": -2.13,
+    "annual_volatility_pct": 22.16,
+    "max_drawdown_pct": -30.34,
+    "monthly_var_95_pct": -9.1,
+    "sharpe_ratio": -0.01,
+    "quant_score": 51.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 408400,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 512542
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 2042000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 2562710
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 4084000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 5125420
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 12252000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 15376260
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 20420000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 25626079
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120524,
+        "upper_90_yen": 147471,
+        "lower_10_yen": 98871
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242021,
+        "upper_90_yen": 320161,
+        "lower_10_yen": 184445
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 364499,
+        "upper_90_yen": 512692,
+        "lower_10_yen": 262410
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 487965,
+        "upper_90_yen": 723335,
+        "lower_10_yen": 334813
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 612428,
+        "upper_90_yen": 951265,
+        "lower_10_yen": 402802
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 737896,
+        "upper_90_yen": 1196060,
+        "lower_10_yen": 467129
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 864376,
+        "upper_90_yen": 1457523,
+        "lower_10_yen": 528328
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 991878,
+        "upper_90_yen": 1735596,
+        "lower_10_yen": 586803
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1120409,
+        "upper_90_yen": 2030314,
+        "lower_10_yen": 642868
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1249977,
+        "upper_90_yen": 2341782,
+        "lower_10_yen": 696777
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "イズミ(8273)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "イズミ(8273)を1株(1,021円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,021円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.16%、幾何成長率は-2.13%",
+      "新NISAで月1万円の配当金を得るには4,000株（約4,084,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "イズミは単元未満株（S株・かぶミニ等）を利用することで1株（約1,021円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,249,977円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り2.94%）です。月次95%VaR（最大想定損失率）は-9.1%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "イズミは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,021円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約4,084,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1021.0
+  }
+}

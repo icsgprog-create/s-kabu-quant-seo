@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8354",
+    "name": "ふくおかフィナンシャルグループ",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6882.0,
+    "min_s_kabu_yen": 6882,
+    "unit_lot_yen": 688200,
+    "dps_yen": 200.0,
+    "dividend_yield_pct": 2.91,
+    "raw_annual_return_pct": 28.56,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.59,
+    "annual_volatility_pct": 32.9,
+    "max_drawdown_pct": -32.64,
+    "monthly_var_95_pct": -11.45,
+    "sharpe_ratio": 0.5,
+    "quant_score": 52.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 60,
+        "nisa_required_capital_yen": 412920,
+        "specific_required_shares": 76,
+        "specific_required_capital_yen": 523032
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 2064600,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 2594514
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 4129200,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 5182146
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1800,
+        "nisa_required_capital_yen": 12387600,
+        "specific_required_shares": 2259,
+        "specific_required_capital_yen": 15546438
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 20646000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 25910730
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132094,
+        "upper_90_yen": 179239,
+        "lower_10_yen": 98147
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289441,
+        "upper_90_yen": 445196,
+        "lower_10_yen": 191463
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 476869,
+        "upper_90_yen": 812855,
+        "lower_10_yen": 287149
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 700127,
+        "upper_90_yen": 1307240,
+        "lower_10_yen": 388075
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 966066,
+        "upper_90_yen": 1961314,
+        "lower_10_yen": 496290
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1282845,
+        "upper_90_yen": 2817145,
+        "lower_10_yen": 613621
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1660183,
+        "upper_90_yen": 3927877,
+        "lower_10_yen": 741882
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2109658,
+        "upper_90_yen": 5360326,
+        "lower_10_yen": 882987
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2645060,
+        "upper_90_yen": 7198260,
+        "lower_10_yen": 1039020
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3282815,
+        "upper_90_yen": 9546501,
+        "lower_10_yen": 1212294
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ふくおかフィナンシャルグループ(8354)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ふくおかフィナンシャルグループ(8354)を1株(6,882円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,882円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.9%、幾何成長率は14.59%",
+      "新NISAで月1万円の配当金を得るには600株（約4,129,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ふくおかフィナンシャルグループは単元未満株（S株・かぶミニ等）を利用することで1株（約6,882円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,282,815円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり200.0円（利回り2.91%）です。月次95%VaR（最大想定損失率）は-11.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ふくおかフィナンシャルグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,882円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、600株（元本目安：約4,129,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6882.0
+  }
+}

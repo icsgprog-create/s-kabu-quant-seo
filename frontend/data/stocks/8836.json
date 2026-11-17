@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8836",
+    "name": "ＲＩＳＥ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 23.0,
+    "min_s_kabu_yen": 23,
+    "unit_lot_yen": 2300,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -0.85,
+    "capped_annual_return_pct": -0.85,
+    "geometric_growth_pct": -19.25,
+    "annual_volatility_pct": 60.66,
+    "max_drawdown_pct": -54.9,
+    "monthly_var_95_pct": -14.52,
+    "sharpe_ratio": -0.33,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108282,
+        "upper_90_yen": 188004,
+        "lower_10_yen": 64166
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 197601,
+        "upper_90_yen": 421288,
+        "lower_10_yen": 98647
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 271277,
+        "upper_90_yen": 674853,
+        "lower_10_yen": 120161
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 332050,
+        "upper_90_yen": 936608,
+        "lower_10_yen": 134321
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 382181,
+        "upper_90_yen": 1198772,
+        "lower_10_yen": 143934
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 423532,
+        "upper_90_yen": 1456011,
+        "lower_10_yen": 150596
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 457641,
+        "upper_90_yen": 1704630,
+        "lower_10_yen": 155284
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 485777,
+        "upper_90_yen": 1942113,
+        "lower_10_yen": 158623
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 508985,
+        "upper_90_yen": 2166822,
+        "lower_10_yen": 161024
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 528129,
+        "upper_90_yen": 2377784,
+        "lower_10_yen": 162763
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＲＩＳＥ(8836)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＲＩＳＥ(8836)を1株(23円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小23円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは60.66%、幾何成長率は-19.25%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＲＩＳＥは単元未満株（S株・かぶミニ等）を利用することで1株（約23円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は528,129円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-14.52%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＲＩＳＥは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約23円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 23.0
+  }
+}

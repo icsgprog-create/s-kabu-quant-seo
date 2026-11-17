@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4234",
+    "name": "サンエー化研",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1170.0,
+    "min_s_kabu_yen": 1170,
+    "unit_lot_yen": 117000,
+    "dps_yen": 21.0,
+    "dividend_yield_pct": 1.79,
+    "raw_annual_return_pct": 19.16,
+    "capped_annual_return_pct": 19.16,
+    "geometric_growth_pct": 14.59,
+    "annual_volatility_pct": 30.22,
+    "max_drawdown_pct": -35.72,
+    "monthly_var_95_pct": -6.58,
+    "sharpe_ratio": 0.51,
+    "quant_score": 46.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 572,
+        "nisa_required_capital_yen": 669240,
+        "specific_required_shares": 718,
+        "specific_required_capital_yen": 840060
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 3343860,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 4195620
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5715,
+        "nisa_required_capital_yen": 6686550,
+        "specific_required_shares": 7172,
+        "specific_required_capital_yen": 8391240
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 20057310,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 25171380
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 28572,
+        "nisa_required_capital_yen": 33429240,
+        "specific_required_shares": 35856,
+        "specific_required_capital_yen": 41951520
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131283,
+        "upper_90_yen": 173660,
+        "lower_10_yen": 99933
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285941,
+        "upper_90_yen": 424050,
+        "lower_10_yen": 195654
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 468134,
+        "upper_90_yen": 762264,
+        "lower_10_yen": 293920
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 682765,
+        "upper_90_yen": 1207629,
+        "lower_10_yen": 397447
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 935610,
+        "upper_90_yen": 1785394,
+        "lower_10_yen": 508174
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1233472,
+        "upper_90_yen": 2527349,
+        "lower_10_yen": 627819
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1584367,
+        "upper_90_yen": 3473040,
+        "lower_10_yen": 758079
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1997735,
+        "upper_90_yen": 4671417,
+        "lower_10_yen": 900725
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2484702,
+        "upper_90_yen": 6182889,
+        "lower_10_yen": 1057673
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3058370,
+        "upper_90_yen": 8081855,
+        "lower_10_yen": 1231031
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サンエー化研(4234)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サンエー化研(4234)を1株(1,170円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,170円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.22%、幾何成長率は14.59%",
+      "新NISAで月1万円の配当金を得るには5,715株（約6,686,550円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サンエー化研は単元未満株（S株・かぶミニ等）を利用することで1株（約1,170円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,058,370円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり21.0円（利回り1.79%）です。月次95%VaR（最大想定損失率）は-6.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サンエー化研は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,170円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,715株（元本目安：約6,686,550円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1170.0
+  }
+}

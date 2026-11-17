@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7965",
+    "name": "象印マホービン",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1519.0,
+    "min_s_kabu_yen": 1519,
+    "unit_lot_yen": 151900,
+    "dps_yen": 75.0,
+    "dividend_yield_pct": 4.94,
+    "raw_annual_return_pct": 1.69,
+    "capped_annual_return_pct": 1.69,
+    "geometric_growth_pct": -2.47,
+    "annual_volatility_pct": 28.83,
+    "max_drawdown_pct": -39.99,
+    "monthly_var_95_pct": -12.82,
+    "sharpe_ratio": 0.05,
+    "quant_score": 61.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 160,
+        "nisa_required_capital_yen": 243040,
+        "specific_required_shares": 201,
+        "specific_required_capital_yen": 305319
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 1215200,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 1525076
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 2430400,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 3050152
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 7291200,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 9150456
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 12152000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 15250760
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121620,
+        "upper_90_yen": 158318,
+        "lower_10_yen": 94024
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 246283,
+        "upper_90_yen": 355402,
+        "lower_10_yen": 173025
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 374066,
+        "upper_90_yen": 585681,
+        "lower_10_yen": 244011
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 505045,
+        "upper_90_yen": 848242,
+        "lower_10_yen": 309403
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 639302,
+        "upper_90_yen": 1143351,
+        "lower_10_yen": 370520
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 776918,
+        "upper_90_yen": 1471830,
+        "lower_10_yen": 428203
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 917977,
+        "upper_90_yen": 1834841,
+        "lower_10_yen": 483040
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1062565,
+        "upper_90_yen": 2233784,
+        "lower_10_yen": 535462
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1210771,
+        "upper_90_yen": 2670254,
+        "lower_10_yen": 585803
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1362686,
+        "upper_90_yen": 3146008,
+        "lower_10_yen": 634326
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "象印マホービン(7965)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "象印マホービン(7965)を1株(1,519円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,519円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.83%、幾何成長率は-2.47%",
+      "新NISAで月1万円の配当金を得るには1,600株（約2,430,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "象印マホービンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,519円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,362,686円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり75.0円（利回り4.94%）です。月次95%VaR（最大想定損失率）は-12.82%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "象印マホービンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,519円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,600株（元本目安：約2,430,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1519.0
+  }
+}

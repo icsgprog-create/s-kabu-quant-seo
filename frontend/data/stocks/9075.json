@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9075",
+    "name": "福山通運",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6380.0,
+    "min_s_kabu_yen": 6380,
+    "unit_lot_yen": 638000,
+    "dps_yen": 88.0,
+    "dividend_yield_pct": 1.38,
+    "raw_annual_return_pct": 10.89,
+    "capped_annual_return_pct": 10.89,
+    "geometric_growth_pct": 6.89,
+    "annual_volatility_pct": 28.27,
+    "max_drawdown_pct": -27.43,
+    "monthly_var_95_pct": -11.16,
+    "sharpe_ratio": 0.26,
+    "quant_score": 39.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 137,
+        "nisa_required_capital_yen": 874060,
+        "specific_required_shares": 172,
+        "specific_required_capital_yen": 1097360
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 682,
+        "nisa_required_capital_yen": 4351160,
+        "specific_required_shares": 856,
+        "specific_required_capital_yen": 5461280
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1364,
+        "nisa_required_capital_yen": 8702320,
+        "specific_required_shares": 1712,
+        "specific_required_capital_yen": 10922560
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4091,
+        "nisa_required_capital_yen": 26100580,
+        "specific_required_shares": 5134,
+        "specific_required_capital_yen": 32754920
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6819,
+        "nisa_required_capital_yen": 43505220,
+        "specific_required_shares": 8557,
+        "specific_required_capital_yen": 54593660
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125532,
+        "upper_90_yen": 162772,
+        "lower_10_yen": 97402
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261886,
+        "upper_90_yen": 376574,
+        "lower_10_yen": 184518
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 409992,
+        "upper_90_yen": 640585,
+        "lower_10_yen": 267693
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 570866,
+        "upper_90_yen": 958888,
+        "lower_10_yen": 349063
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 745608,
+        "upper_90_yen": 1337305,
+        "lower_10_yen": 429802
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 935412,
+        "upper_90_yen": 1782923,
+        "lower_10_yen": 510686
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1141577,
+        "upper_90_yen": 2304002,
+        "lower_10_yen": 592289
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1365514,
+        "upper_90_yen": 2910006,
+        "lower_10_yen": 675070
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1608755,
+        "upper_90_yen": 3611683,
+        "lower_10_yen": 759418
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1872963,
+        "upper_90_yen": 4421183,
+        "lower_10_yen": 845676
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "福山通運(9075)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "福山通運(9075)を1株(6,380円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,380円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.27%、幾何成長率は6.89%",
+      "新NISAで月1万円の配当金を得るには1,364株（約8,702,320円）が必要"
+    ],
+    "accumulation_strategy_analysis": "福山通運は単元未満株（S株・かぶミニ等）を利用することで1株（約6,380円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,872,963円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり88.0円（利回り1.38%）です。月次95%VaR（最大想定損失率）は-11.16%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "福山通運は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,380円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,364株（元本目安：約8,702,320円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6380.0
+  }
+}

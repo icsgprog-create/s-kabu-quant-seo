@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6059",
+    "name": "ウチヤマホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 351.0,
+    "min_s_kabu_yen": 351,
+    "unit_lot_yen": 35100,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 2.85,
+    "raw_annual_return_pct": 2.94,
+    "capped_annual_return_pct": 2.94,
+    "geometric_growth_pct": 0.48,
+    "annual_volatility_pct": 22.21,
+    "max_drawdown_pct": -27.07,
+    "monthly_var_95_pct": -7.57,
+    "sharpe_ratio": 0.1,
+    "quant_score": 53.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 421200,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 528606
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 2106000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 2643030
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 4212000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 5286060
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 12636000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 15857478
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 21060000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 26429247
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122186,
+        "upper_90_yen": 149645,
+        "lower_10_yen": 100142
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248503,
+        "upper_90_yen": 329384,
+        "lower_10_yen": 189012
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 379090,
+        "upper_90_yen": 534930,
+        "lower_10_yen": 272032
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 514091,
+        "upper_90_yen": 765591,
+        "lower_10_yen": 351082
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 653656,
+        "upper_90_yen": 1021593,
+        "lower_10_yen": 427197
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 797938,
+        "upper_90_yen": 1303597,
+        "lower_10_yen": 501040
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 947099,
+        "upper_90_yen": 1612532,
+        "lower_10_yen": 573076
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1101301,
+        "upper_90_yen": 1949521,
+        "lower_10_yen": 643653
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1260717,
+        "upper_90_yen": 2315841,
+        "lower_10_yen": 713041
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1425521,
+        "upper_90_yen": 2712907,
+        "lower_10_yen": 781456
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ウチヤマホールディングス(6059)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ウチヤマホールディングス(6059)を1株(351円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小351円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.21%、幾何成長率は0.48%",
+      "新NISAで月1万円の配当金を得るには12,000株（約4,212,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ウチヤマホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約351円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,425,521円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り2.85%）です。月次95%VaR（最大想定損失率）は-7.57%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ウチヤマホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約351円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約4,212,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 351.0
+  }
+}

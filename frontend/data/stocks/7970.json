@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7970",
+    "name": "信越ポリマー",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2356.0,
+    "min_s_kabu_yen": 2356,
+    "unit_lot_yen": 235600,
+    "dps_yen": 68.0,
+    "dividend_yield_pct": 2.89,
+    "raw_annual_return_pct": 19.84,
+    "capped_annual_return_pct": 19.84,
+    "geometric_growth_pct": 15.18,
+    "annual_volatility_pct": 30.53,
+    "max_drawdown_pct": -28.55,
+    "monthly_var_95_pct": -9.16,
+    "sharpe_ratio": 0.56,
+    "quant_score": 56.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 177,
+        "nisa_required_capital_yen": 417012,
+        "specific_required_shares": 222,
+        "specific_required_capital_yen": 523032
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 883,
+        "nisa_required_capital_yen": 2080348,
+        "specific_required_shares": 1108,
+        "specific_required_capital_yen": 2610448
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1765,
+        "nisa_required_capital_yen": 4158340,
+        "specific_required_shares": 2215,
+        "specific_required_capital_yen": 5218540
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5295,
+        "nisa_required_capital_yen": 12475020,
+        "specific_required_shares": 6644,
+        "specific_required_capital_yen": 15653264
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8824,
+        "nisa_required_capital_yen": 20789344,
+        "specific_required_shares": 11074,
+        "specific_required_capital_yen": 26090344
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132517,
+        "upper_90_yen": 175871,
+        "lower_10_yen": 100553
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291278,
+        "upper_90_yen": 434239,
+        "lower_10_yen": 198311
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 481479,
+        "upper_90_yen": 789630,
+        "lower_10_yen": 300232
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 709347,
+        "upper_90_yen": 1266088,
+        "lower_10_yen": 409308
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 982342,
+        "upper_90_yen": 1895292,
+        "lower_10_yen": 527836
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1309400,
+        "upper_90_yen": 2717733,
+        "lower_10_yen": 657970
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1701227,
+        "upper_90_yen": 3784656,
+        "lower_10_yen": 801938
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2170651,
+        "upper_90_yen": 5160624,
+        "lower_10_yen": 962153
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2733038,
+        "upper_90_yen": 6926764,
+        "lower_10_yen": 1141299
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3406799,
+        "upper_90_yen": 9184829,
+        "lower_10_yen": 1342402
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "信越ポリマー(7970)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "信越ポリマー(7970)を1株(2,356円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,356円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.53%、幾何成長率は15.18%",
+      "新NISAで月1万円の配当金を得るには1,765株（約4,158,340円）が必要"
+    ],
+    "accumulation_strategy_analysis": "信越ポリマーは単元未満株（S株・かぶミニ等）を利用することで1株（約2,356円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,406,799円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり68.0円（利回り2.89%）です。月次95%VaR（最大想定損失率）は-9.16%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "信越ポリマーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,356円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,765株（元本目安：約4,158,340円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2356.0
+  }
+}

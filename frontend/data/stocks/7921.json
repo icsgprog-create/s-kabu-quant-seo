@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7921",
+    "name": "ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4305.0,
+    "min_s_kabu_yen": 4305,
+    "unit_lot_yen": 430500,
+    "dps_yen": 120.0,
+    "dividend_yield_pct": 2.79,
+    "raw_annual_return_pct": 20.84,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.58,
+    "annual_volatility_pct": 26.15,
+    "max_drawdown_pct": -38.61,
+    "monthly_var_95_pct": -8.59,
+    "sharpe_ratio": 0.7,
+    "quant_score": 63.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 100,
+        "nisa_required_capital_yen": 430500,
+        "specific_required_shares": 126,
+        "specific_required_capital_yen": 542430
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 2152500,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 2703540
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 4305000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 5402775
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 12915000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 16208325
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 21525000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 27013875
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133480,
+        "upper_90_yen": 170085,
+        "lower_10_yen": 105293
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 295484,
+        "upper_90_yen": 415974,
+        "lower_10_yen": 212192
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 492108,
+        "upper_90_yen": 751916,
+        "lower_10_yen": 327381
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 730751,
+        "upper_90_yen": 1200898,
+        "lower_10_yen": 454307
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1020391,
+        "upper_90_yen": 1793249,
+        "lower_10_yen": 596004
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1371928,
+        "upper_90_yen": 2567914,
+        "lower_10_yen": 755596
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1798587,
+        "upper_90_yen": 3574458,
+        "lower_10_yen": 936514
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2316423,
+        "upper_90_yen": 4875721,
+        "lower_10_yen": 1142650
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2944921,
+        "upper_90_yen": 6551178,
+        "lower_10_yen": 1378476
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3707727,
+        "upper_90_yen": 8701186,
+        "lower_10_yen": 1649180
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ(7921)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ(7921)を1株(4,305円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,305円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.15%、幾何成長率は16.58%",
+      "新NISAで月1万円の配当金を得るには1,000株（約4,305,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹは単元未満株（S株・かぶミニ等）を利用することで1株（約4,305円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,707,727円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり120.0円（利回り2.79%）です。月次95%VaR（最大想定損失率）は-8.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,305円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,000株（元本目安：約4,305,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4305.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9348",
+    "name": "ｉｓｐａｃｅ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 354.0,
+    "min_s_kabu_yen": 354,
+    "unit_lot_yen": 35400,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -34.13,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -43.12,
+    "annual_volatility_pct": 74.99,
+    "max_drawdown_pct": -84.36,
+    "monthly_var_95_pct": -42.37,
+    "sharpe_ratio": -0.59,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 95739,
+        "upper_90_yen": 187503,
+        "lower_10_yen": 51079
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 157947,
+        "upper_90_yen": 390014,
+        "lower_10_yen": 70430
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 198367,
+        "upper_90_yen": 575307,
+        "lower_10_yen": 79314
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 224630,
+        "upper_90_yen": 734290,
+        "lower_10_yen": 83676
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 241695,
+        "upper_90_yen": 865665,
+        "lower_10_yen": 85902
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 252783,
+        "upper_90_yen": 971492,
+        "lower_10_yen": 87067
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 259987,
+        "upper_90_yen": 1055155,
+        "lower_10_yen": 87690
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 264669,
+        "upper_90_yen": 1120338,
+        "lower_10_yen": 88027
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 267710,
+        "upper_90_yen": 1170532,
+        "lower_10_yen": 88211
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 269687,
+        "upper_90_yen": 1208809,
+        "lower_10_yen": 88314
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ｉｓｐａｃｅ(9348)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ｉｓｐａｃｅ(9348)を1株(354円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小354円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは74.99%、幾何成長率は-43.12%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ｉｓｐａｃｅは単元未満株（S株・かぶミニ等）を利用することで1株（約354円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は269,687円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-42.37%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ｉｓｐａｃｅは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約354円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 354.0
+  }
+}

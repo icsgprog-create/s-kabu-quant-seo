@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5989",
+    "name": "エイチワン",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1350.0,
+    "min_s_kabu_yen": 1350,
+    "unit_lot_yen": 135000,
+    "dps_yen": 67.0,
+    "dividend_yield_pct": 4.96,
+    "raw_annual_return_pct": 17.54,
+    "capped_annual_return_pct": 17.54,
+    "geometric_growth_pct": 10.18,
+    "annual_volatility_pct": 38.38,
+    "max_drawdown_pct": -34.56,
+    "monthly_var_95_pct": -12.73,
+    "sharpe_ratio": 0.37,
+    "quant_score": 60.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 180,
+        "nisa_required_capital_yen": 243000,
+        "specific_required_shares": 225,
+        "specific_required_capital_yen": 303750
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 896,
+        "nisa_required_capital_yen": 1209600,
+        "specific_required_shares": 1124,
+        "specific_required_capital_yen": 1517400
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1792,
+        "nisa_required_capital_yen": 2419200,
+        "specific_required_shares": 2248,
+        "specific_required_capital_yen": 3034800
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5374,
+        "nisa_required_capital_yen": 7254900,
+        "specific_required_shares": 6743,
+        "specific_required_capital_yen": 9103050
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8956,
+        "nisa_required_capital_yen": 12090600,
+        "specific_required_shares": 11239,
+        "specific_required_capital_yen": 15172650
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130378,
+        "upper_90_yen": 186143,
+        "lower_10_yen": 92341
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 282066,
+        "upper_90_yen": 465897,
+        "lower_10_yen": 174860
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 458547,
+        "upper_90_yen": 853101,
+        "lower_10_yen": 255456
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 663873,
+        "upper_90_yen": 1372017,
+        "lower_10_yen": 336814
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 902759,
+        "upper_90_yen": 2054388,
+        "lower_10_yen": 420536
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1180689,
+        "upper_90_yen": 2940207,
+        "lower_10_yen": 507817
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1504046,
+        "upper_90_yen": 4079247,
+        "lower_10_yen": 599683
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1880254,
+        "upper_90_yen": 5533112,
+        "lower_10_yen": 697097
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2317951,
+        "upper_90_yen": 7377790,
+        "lower_10_yen": 801013
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2827189,
+        "upper_90_yen": 9706807,
+        "lower_10_yen": 912415
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エイチワン(5989)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エイチワン(5989)を1株(1,350円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,350円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは38.38%、幾何成長率は10.18%",
+      "新NISAで月1万円の配当金を得るには1,792株（約2,419,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エイチワンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,350円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,827,189円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり67.0円（利回り4.96%）です。月次95%VaR（最大想定損失率）は-12.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エイチワンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,350円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,792株（元本目安：約2,419,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1350.0
+  }
+}

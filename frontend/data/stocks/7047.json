@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7047",
+    "name": "ポート",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1330.0,
+    "min_s_kabu_yen": 1330,
+    "unit_lot_yen": 133000,
+    "dps_yen": 12.0,
+    "dividend_yield_pct": 0.9,
+    "raw_annual_return_pct": -0.3,
+    "capped_annual_return_pct": -0.3,
+    "geometric_growth_pct": -18.86,
+    "annual_volatility_pct": 60.93,
+    "max_drawdown_pct": -65.22,
+    "monthly_var_95_pct": -23.11,
+    "sharpe_ratio": -0.31,
+    "quant_score": 7.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1330000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 1669150
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 6650000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 8345750
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 13300000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 16691500
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 39900000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 50073170
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 50000,
+        "nisa_required_capital_yen": 66500000,
+        "specific_required_shares": 62748,
+        "specific_required_capital_yen": 83454840
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109025,
+        "upper_90_yen": 189878,
+        "lower_10_yen": 64422
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 200133,
+        "upper_90_yen": 428922,
+        "lower_10_yen": 99437
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 276267,
+        "upper_90_yen": 692441,
+        "lower_10_yen": 121543
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 339890,
+        "upper_90_yen": 968287,
+        "lower_10_yen": 136270
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 393057,
+        "upper_90_yen": 1248407,
+        "lower_10_yen": 146389
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 437486,
+        "upper_90_yen": 1527065,
+        "lower_10_yen": 153489
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 474614,
+        "upper_90_yen": 1800092,
+        "lower_10_yen": 158548
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 505640,
+        "upper_90_yen": 2064467,
+        "lower_10_yen": 162195
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 531567,
+        "upper_90_yen": 2318043,
+        "lower_10_yen": 164850
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 553233,
+        "upper_90_yen": 2559354,
+        "lower_10_yen": 166798
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ポート(7047)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ポート(7047)を1株(1,330円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,330円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは60.93%、幾何成長率は-18.86%",
+      "新NISAで月1万円の配当金を得るには10,000株（約13,300,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ポートは単元未満株（S株・かぶミニ等）を利用することで1株（約1,330円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は553,233円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり12.0円（利回り0.9%）です。月次95%VaR（最大想定損失率）は-23.11%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ポートは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,330円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,000株（元本目安：約13,300,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1330.0
+  }
+}

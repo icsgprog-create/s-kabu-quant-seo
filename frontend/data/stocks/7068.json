@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7068",
+    "name": "フィードフォースグループ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 504.0,
+    "min_s_kabu_yen": 504,
+    "unit_lot_yen": 50400,
+    "dps_yen": 15.0,
+    "dividend_yield_pct": 2.98,
+    "raw_annual_return_pct": -9.64,
+    "capped_annual_return_pct": -9.64,
+    "geometric_growth_pct": -23.61,
+    "annual_volatility_pct": 52.86,
+    "max_drawdown_pct": -64.6,
+    "monthly_var_95_pct": -25.31,
+    "sharpe_ratio": -0.41,
+    "quant_score": 23.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 403200,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 506016
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 2016000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 2530080
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 4032000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 5060160
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 12096000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 15179976
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 20160000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 25299792
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 107501,
+        "upper_90_yen": 173505,
+        "lower_10_yen": 68062
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 194961,
+        "upper_90_yen": 375260,
+        "lower_10_yen": 106215
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 266116,
+        "upper_90_yen": 584069,
+        "lower_10_yen": 130553
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 324006,
+        "upper_90_yen": 790651,
+        "lower_10_yen": 146819
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 371104,
+        "upper_90_yen": 989709,
+        "lower_10_yen": 157986
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 409421,
+        "upper_90_yen": 1178110,
+        "lower_10_yen": 165793
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 440596,
+        "upper_90_yen": 1354090,
+        "lower_10_yen": 171323
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 465958,
+        "upper_90_yen": 1516793,
+        "lower_10_yen": 175282
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 486593,
+        "upper_90_yen": 1665983,
+        "lower_10_yen": 178139
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 503380,
+        "upper_90_yen": 1801852,
+        "lower_10_yen": 180215
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フィードフォースグループ(7068)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フィードフォースグループ(7068)を1株(504円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小504円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは52.86%、幾何成長率は-23.61%",
+      "新NISAで月1万円の配当金を得るには8,000株（約4,032,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フィードフォースグループは単元未満株（S株・かぶミニ等）を利用することで1株（約504円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は503,380円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり15.0円（利回り2.98%）です。月次95%VaR（最大想定損失率）は-25.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フィードフォースグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約504円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,000株（元本目安：約4,032,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 504.0
+  }
+}

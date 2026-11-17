@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7951",
+    "name": "ヤマハ",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1332.5,
+    "min_s_kabu_yen": 1333,
+    "unit_lot_yen": 133250,
+    "dps_yen": 26.0,
+    "dividend_yield_pct": 1.95,
+    "raw_annual_return_pct": -7.35,
+    "capped_annual_return_pct": -7.35,
+    "geometric_growth_pct": -12.38,
+    "annual_volatility_pct": 31.73,
+    "max_drawdown_pct": -58.69,
+    "monthly_var_95_pct": -13.66,
+    "sharpe_ratio": -0.36,
+    "quant_score": 28.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 615615,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 772850
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 3075410,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 3860252
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 6150820,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 7719172
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13847,
+        "nisa_required_capital_yen": 18451128,
+        "specific_required_shares": 17377,
+        "specific_required_capital_yen": 23154852
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 23077,
+        "nisa_required_capital_yen": 30750102,
+        "specific_required_shares": 28961,
+        "specific_required_capital_yen": 38590532
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113458,
+        "upper_90_yen": 151224,
+        "lower_10_yen": 85786
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 215674,
+        "upper_90_yen": 320145,
+        "lower_10_yen": 147779
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 307764,
+        "upper_90_yen": 495980,
+        "lower_10_yen": 196074
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 390731,
+        "upper_90_yen": 674122,
+        "lower_10_yen": 234752
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 465477,
+        "upper_90_yen": 851764,
+        "lower_10_yen": 266227
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 532818,
+        "upper_90_yen": 1027014,
+        "lower_10_yen": 292119
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 593487,
+        "upper_90_yen": 1198544,
+        "lower_10_yen": 313588
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 648146,
+        "upper_90_yen": 1365403,
+        "lower_10_yen": 331501
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 697389,
+        "upper_90_yen": 1526917,
+        "lower_10_yen": 346521
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 741754,
+        "upper_90_yen": 1682618,
+        "lower_10_yen": 359166
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヤマハ(7951)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヤマハ(7951)を1株(1,333円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,333円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.73%、幾何成長率は-12.38%",
+      "新NISAで月1万円の配当金を得るには4,616株（約6,150,820円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヤマハは単元未満株（S株・かぶミニ等）を利用することで1株（約1,333円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は741,754円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり26.0円（利回り1.95%）です。月次95%VaR（最大想定損失率）は-13.66%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヤマハは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,333円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,616株（元本目安：約6,150,820円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1332.5
+  }
+}

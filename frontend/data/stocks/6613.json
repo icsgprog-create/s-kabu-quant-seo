@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6613",
+    "name": "ＱＤレーザ",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1613.0,
+    "min_s_kabu_yen": 1613,
+    "unit_lot_yen": 161300,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 7.42,
+    "capped_annual_return_pct": 7.42,
+    "geometric_growth_pct": -19.15,
+    "annual_volatility_pct": 72.89,
+    "max_drawdown_pct": -80.27,
+    "monthly_var_95_pct": -24.04,
+    "sharpe_ratio": -0.28,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108339,
+        "upper_90_yen": 210945,
+        "lower_10_yen": 57973
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 197794,
+        "upper_90_yen": 494793,
+        "lower_10_yen": 86503
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 271657,
+        "upper_90_yen": 821168,
+        "lower_10_yen": 103339
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 332645,
+        "upper_90_yen": 1173968,
+        "lower_10_yen": 113936
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 383003,
+        "upper_90_yen": 1541757,
+        "lower_10_yen": 120859
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 424584,
+        "upper_90_yen": 1915844,
+        "lower_10_yen": 125496
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 458916,
+        "upper_90_yen": 2289495,
+        "lower_10_yen": 128659
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 487265,
+        "upper_90_yen": 2657483,
+        "lower_10_yen": 130848
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 510672,
+        "upper_90_yen": 3015799,
+        "lower_10_yen": 132381
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 529999,
+        "upper_90_yen": 3361430,
+        "lower_10_yen": 133463
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＱＤレーザ(6613)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＱＤレーザ(6613)を1株(1,613円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,613円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは72.89%、幾何成長率は-19.15%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＱＤレーザは単元未満株（S株・かぶミニ等）を利用することで1株（約1,613円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は529,999円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-24.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＱＤレーザは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,613円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1613.0
+  }
+}

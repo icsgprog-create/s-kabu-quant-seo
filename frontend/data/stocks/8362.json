@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8362",
+    "name": "福井銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6120.0,
+    "min_s_kabu_yen": 6120,
+    "unit_lot_yen": 612000,
+    "dps_yen": 154.0,
+    "dividend_yield_pct": 2.52,
+    "raw_annual_return_pct": 31.62,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.33,
+    "annual_volatility_pct": 33.69,
+    "max_drawdown_pct": -38.31,
+    "monthly_var_95_pct": -10.01,
+    "sharpe_ratio": 0.47,
+    "quant_score": 48.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 78,
+        "nisa_required_capital_yen": 477360,
+        "specific_required_shares": 98,
+        "specific_required_capital_yen": 599760
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 390,
+        "nisa_required_capital_yen": 2386800,
+        "specific_required_shares": 489,
+        "specific_required_capital_yen": 2992680
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 780,
+        "nisa_required_capital_yen": 4773600,
+        "specific_required_shares": 978,
+        "specific_required_capital_yen": 5985360
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2338,
+        "nisa_required_capital_yen": 14308560,
+        "specific_required_shares": 2934,
+        "specific_required_capital_yen": 17956080
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3897,
+        "nisa_required_capital_yen": 23849640,
+        "specific_required_shares": 4890,
+        "specific_required_capital_yen": 29926800
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131616,
+        "upper_90_yen": 179889,
+        "lower_10_yen": 97125
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287374,
+        "upper_90_yen": 446476,
+        "lower_10_yen": 188359
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 471702,
+        "upper_90_yen": 813923,
+        "lower_10_yen": 280967
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 689840,
+        "upper_90_yen": 1306241,
+        "lower_10_yen": 377726
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 947991,
+        "upper_90_yen": 1954978,
+        "lower_10_yen": 480539
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1253493,
+        "upper_90_yen": 2800211,
+        "lower_10_yen": 591037
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1615033,
+        "upper_90_yen": 3892300,
+        "lower_10_yen": 710796
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2042888,
+        "upper_90_yen": 5294217,
+        "lower_10_yen": 841441
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2549223,
+        "upper_90_yen": 7084470,
+        "lower_10_yen": 984712
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3148433,
+        "upper_90_yen": 9360741,
+        "lower_10_yen": 1142513
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "福井銀行(8362)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "福井銀行(8362)を1株(6,120円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,120円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.69%、幾何成長率は14.33%",
+      "新NISAで月1万円の配当金を得るには780株（約4,773,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "福井銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約6,120円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,148,433円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり154.0円（利回り2.52%）です。月次95%VaR（最大想定損失率）は-10.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "福井銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,120円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、780株（元本目安：約4,773,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6120.0
+  }
+}

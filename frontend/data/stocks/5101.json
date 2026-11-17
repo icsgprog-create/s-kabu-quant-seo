@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5101",
+    "name": "横浜ゴム",
+    "sector": "ゴム製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7482.0,
+    "min_s_kabu_yen": 7482,
+    "unit_lot_yen": 748200,
+    "dps_yen": 173.0,
+    "dividend_yield_pct": 2.31,
+    "raw_annual_return_pct": 29.58,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.71,
+    "annual_volatility_pct": 35.46,
+    "max_drawdown_pct": -36.05,
+    "monthly_var_95_pct": -11.21,
+    "sharpe_ratio": 0.42,
+    "quant_score": 43.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 70,
+        "nisa_required_capital_yen": 523740,
+        "specific_required_shares": 88,
+        "specific_required_capital_yen": 658416
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 347,
+        "nisa_required_capital_yen": 2596254,
+        "specific_required_shares": 436,
+        "specific_required_capital_yen": 3262152
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 694,
+        "nisa_required_capital_yen": 5192508,
+        "specific_required_shares": 871,
+        "specific_required_capital_yen": 6516822
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2081,
+        "nisa_required_capital_yen": 15570042,
+        "specific_required_shares": 2612,
+        "specific_required_capital_yen": 19542984
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3469,
+        "nisa_required_capital_yen": 25955058,
+        "specific_required_shares": 4353,
+        "specific_required_capital_yen": 32569146
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131020,
+        "upper_90_yen": 182046,
+        "lower_10_yen": 95195
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 284810,
+        "upper_90_yen": 452805,
+        "lower_10_yen": 182793
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 465327,
+        "upper_90_yen": 825948,
+        "lower_10_yen": 270270
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 677217,
+        "upper_90_yen": 1325081,
+        "lower_10_yen": 360329
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 925931,
+        "upper_90_yen": 1981147,
+        "lower_10_yen": 454705
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1217869,
+        "upper_90_yen": 2833275,
+        "lower_10_yen": 554800
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1560544,
+        "upper_90_yen": 3930375,
+        "lower_10_yen": 661903
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1962772,
+        "upper_90_yen": 5333254,
+        "lower_10_yen": 777293
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2434904,
+        "upper_90_yen": 7117290,
+        "lower_10_yen": 902302
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2989088,
+        "upper_90_yen": 9375709,
+        "lower_10_yen": 1038352
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "横浜ゴム(5101)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "横浜ゴム(5101)を1株(7,482円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,482円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.46%、幾何成長率は13.71%",
+      "新NISAで月1万円の配当金を得るには694株（約5,192,508円）が必要"
+    ],
+    "accumulation_strategy_analysis": "横浜ゴムは単元未満株（S株・かぶミニ等）を利用することで1株（約7,482円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,989,088円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり173.0円（利回り2.31%）です。月次95%VaR（最大想定損失率）は-11.21%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "横浜ゴムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,482円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、694株（元本目安：約5,192,508円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7482.0
+  }
+}

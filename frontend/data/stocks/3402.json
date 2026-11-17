@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3402",
+    "name": "東レ",
+    "sector": "繊維製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1324.5,
+    "min_s_kabu_yen": 1325,
+    "unit_lot_yen": 132450,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 1.74,
+    "raw_annual_return_pct": 14.43,
+    "capped_annual_return_pct": 14.43,
+    "geometric_growth_pct": 9.8,
+    "annual_volatility_pct": 30.41,
+    "max_drawdown_pct": -24.77,
+    "monthly_var_95_pct": -9.49,
+    "sharpe_ratio": 0.35,
+    "quant_score": 42.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 691389,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 867548
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 3455620,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 4336413
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 6911241,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 8672826
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 20732398,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 26017154
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 34552232,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 43361481
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127811,
+        "upper_90_yen": 169185,
+        "lower_10_yen": 97234
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271256,
+        "upper_90_yen": 402003,
+        "lower_10_yen": 185796
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 432247,
+        "upper_90_yen": 701914,
+        "lower_10_yen": 272324
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 612931,
+        "upper_90_yen": 1078460,
+        "lower_10_yen": 359101
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 815717,
+        "upper_90_yen": 1544156,
+        "lower_10_yen": 447465
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1043308,
+        "upper_90_yen": 2114244,
+        "lower_10_yen": 538376
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1298739,
+        "upper_90_yen": 2806878,
+        "lower_10_yen": 632619
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1585414,
+        "upper_90_yen": 3643479,
+        "lower_10_yen": 730894
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1907157,
+        "upper_90_yen": 4649207,
+        "lower_10_yen": 833860
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2268255,
+        "upper_90_yen": 5853526,
+        "lower_10_yen": 942166
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東レ(3402)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東レ(3402)を1株(1,325円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,325円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.41%、幾何成長率は9.8%",
+      "新NISAで月1万円の配当金を得るには5,218株（約6,911,241円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東レは単元未満株（S株・かぶミニ等）を利用することで1株（約1,325円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,268,255円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り1.74%）です。月次95%VaR（最大想定損失率）は-9.49%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東レは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,325円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約6,911,241円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1324.5
+  }
+}

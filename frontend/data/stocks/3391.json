@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3391",
+    "name": "ツルハホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2534.5,
+    "min_s_kabu_yen": 2535,
+    "unit_lot_yen": 253450,
+    "dps_yen": 47.0,
+    "dividend_yield_pct": 1.85,
+    "raw_annual_return_pct": 0.91,
+    "capped_annual_return_pct": 0.91,
+    "geometric_growth_pct": -3.57,
+    "annual_volatility_pct": 29.93,
+    "max_drawdown_pct": -55.47,
+    "monthly_var_95_pct": -16.14,
+    "sharpe_ratio": -0.09,
+    "quant_score": 32.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 256,
+        "nisa_required_capital_yen": 648832,
+        "specific_required_shares": 321,
+        "specific_required_capital_yen": 813574
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1277,
+        "nisa_required_capital_yen": 3236556,
+        "specific_required_shares": 1603,
+        "specific_required_capital_yen": 4062804
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2554,
+        "nisa_required_capital_yen": 6473113,
+        "specific_required_shares": 3205,
+        "specific_required_capital_yen": 8123072
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7660,
+        "nisa_required_capital_yen": 19414270,
+        "specific_required_shares": 9613,
+        "specific_required_capital_yen": 24364148
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12766,
+        "nisa_required_capital_yen": 32355427,
+        "specific_required_shares": 16021,
+        "specific_required_capital_yen": 40605224
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118892,
+        "upper_90_yen": 156190,
+        "lower_10_yen": 91124
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 235764,
+        "upper_90_yen": 344101,
+        "lower_10_yen": 163959
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 350650,
+        "upper_90_yen": 555733,
+        "lower_10_yen": 226400
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 463583,
+        "upper_90_yen": 788093,
+        "lower_10_yen": 281336
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 574597,
+        "upper_90_yen": 1039438,
+        "lower_10_yen": 330402
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 683724,
+        "upper_90_yen": 1308584,
+        "lower_10_yen": 374672
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 790996,
+        "upper_90_yen": 1594654,
+        "lower_10_yen": 414917
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 896445,
+        "upper_90_yen": 1896958,
+        "lower_10_yen": 451714
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1000102,
+        "upper_90_yen": 2214930,
+        "lower_10_yen": 485518
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1101998,
+        "upper_90_yen": 2548093,
+        "lower_10_yen": 516692
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ツルハホールディングス(3391)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ツルハホールディングス(3391)を1株(2,535円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,535円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.93%、幾何成長率は-3.57%",
+      "新NISAで月1万円の配当金を得るには2,554株（約6,473,113円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ツルハホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,535円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,101,998円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり47.0円（利回り1.85%）です。月次95%VaR（最大想定損失率）は-16.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ツルハホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,535円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,554株（元本目安：約6,473,113円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2534.5
+  }
+}

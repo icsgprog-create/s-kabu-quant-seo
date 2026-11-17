@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3758",
+    "name": "アエリア",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 236.0,
+    "min_s_kabu_yen": 236,
+    "unit_lot_yen": 23600,
+    "dps_yen": 5.0,
+    "dividend_yield_pct": 2.12,
+    "raw_annual_return_pct": -10.95,
+    "capped_annual_return_pct": -10.95,
+    "geometric_growth_pct": -16.89,
+    "annual_volatility_pct": 34.47,
+    "max_drawdown_pct": -58.71,
+    "monthly_var_95_pct": -12.77,
+    "sharpe_ratio": -0.46,
+    "quant_score": 27.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 566400,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 710832
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 2832000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 3554160
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 5664000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 7108084
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 72000,
+        "nisa_required_capital_yen": 16992000,
+        "specific_required_shares": 90356,
+        "specific_required_capital_yen": 21324016
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 28320000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 35539948
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 110876,
+        "upper_90_yen": 151371,
+        "lower_10_yen": 81962
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 206530,
+        "upper_90_yen": 316364,
+        "lower_10_yen": 137566
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 289053,
+        "upper_90_yen": 482908,
+        "lower_10_yen": 178522
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 360247,
+        "upper_90_yen": 646135,
+        "lower_10_yen": 209610
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 421668,
+        "upper_90_yen": 803380,
+        "lower_10_yen": 233623
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 474657,
+        "upper_90_yen": 953103,
+        "lower_10_yen": 252390
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 520371,
+        "upper_90_yen": 1094442,
+        "lower_10_yen": 267185
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 559810,
+        "upper_90_yen": 1226980,
+        "lower_10_yen": 278926
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 593834,
+        "upper_90_yen": 1350596,
+        "lower_10_yen": 288296
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 623188,
+        "upper_90_yen": 1465380,
+        "lower_10_yen": 295806
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アエリア(3758)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アエリア(3758)を1株(236円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小236円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.47%、幾何成長率は-16.89%",
+      "新NISAで月1万円の配当金を得るには24,000株（約5,664,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アエリアは単元未満株（S株・かぶミニ等）を利用することで1株（約236円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は623,188円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.0円（利回り2.12%）です。月次95%VaR（最大想定損失率）は-12.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アエリアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約236円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、24,000株（元本目安：約5,664,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 236.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7239",
+    "name": "タチエス",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2340.0,
+    "min_s_kabu_yen": 2340,
+    "unit_lot_yen": 234000,
+    "dps_yen": 110.6,
+    "dividend_yield_pct": 4.73,
+    "raw_annual_return_pct": 20.1,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.92,
+    "annual_volatility_pct": 24.83,
+    "max_drawdown_pct": -28.96,
+    "monthly_var_95_pct": -9.25,
+    "sharpe_ratio": 0.83,
+    "quant_score": 83.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 109,
+        "nisa_required_capital_yen": 255060,
+        "specific_required_shares": 137,
+        "specific_required_capital_yen": 320580
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 543,
+        "nisa_required_capital_yen": 1270620,
+        "specific_required_shares": 681,
+        "specific_required_capital_yen": 1593540
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1085,
+        "nisa_required_capital_yen": 2538900,
+        "specific_required_shares": 1362,
+        "specific_required_capital_yen": 3187080
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3255,
+        "nisa_required_capital_yen": 7616700,
+        "specific_required_shares": 4085,
+        "specific_required_capital_yen": 9558900
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5425,
+        "nisa_required_capital_yen": 12694500,
+        "specific_required_shares": 6808,
+        "specific_required_capital_yen": 15930720
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135188,
+        "upper_90_yen": 170212,
+        "lower_10_yen": 107869
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 303045,
+        "upper_90_yen": 419704,
+        "lower_10_yen": 220958
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 511465,
+        "upper_90_yen": 766318,
+        "lower_10_yen": 346385
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 770250,
+        "upper_90_yen": 1237912,
+        "lower_10_yen": 488475
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1091571,
+        "upper_90_yen": 1871729,
+        "lower_10_yen": 651447
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1490539,
+        "upper_90_yen": 2716500,
+        "lower_10_yen": 839943
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1985919,
+        "upper_90_yen": 3835532,
+        "lower_10_yen": 1059311
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2601009,
+        "upper_90_yen": 5310798,
+        "lower_10_yen": 1315834
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3364735,
+        "upper_90_yen": 7248221,
+        "lower_10_yen": 1616967
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4313018,
+        "upper_90_yen": 9784468,
+        "lower_10_yen": 1971600
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "タチエス(7239)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "タチエス(7239)を1株(2,340円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,340円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.83%、幾何成長率は16.92%",
+      "新NISAで月1万円の配当金を得るには1,085株（約2,538,900円）が必要"
+    ],
+    "accumulation_strategy_analysis": "タチエスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,340円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,313,018円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり110.6円（利回り4.73%）です。月次95%VaR（最大想定損失率）は-9.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "タチエスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,340円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,085株（元本目安：約2,538,900円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2340.0
+  }
+}

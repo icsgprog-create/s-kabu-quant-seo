@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9305",
+    "name": "ヤマタネ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1915.0,
+    "min_s_kabu_yen": 1915,
+    "unit_lot_yen": 191500,
+    "dps_yen": 75.0,
+    "dividend_yield_pct": 3.92,
+    "raw_annual_return_pct": 20.62,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.26,
+    "annual_volatility_pct": 27.35,
+    "max_drawdown_pct": -37.33,
+    "monthly_var_95_pct": -7.73,
+    "sharpe_ratio": 0.7,
+    "quant_score": 71.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 160,
+        "nisa_required_capital_yen": 306400,
+        "specific_required_shares": 201,
+        "specific_required_capital_yen": 384915
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 1532000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 1922660
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 3064000,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 3845320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 9192000,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 11535960
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 15320000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 19226600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134083,
+        "upper_90_yen": 172811,
+        "lower_10_yen": 104621
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298141,
+        "upper_90_yen": 426655,
+        "lower_10_yen": 210828
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 498874,
+        "upper_90_yen": 778169,
+        "lower_10_yen": 325572
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 744482,
+        "upper_90_yen": 1253863,
+        "lower_10_yen": 452473
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1044995,
+        "upper_90_yen": 1888968,
+        "lower_10_yen": 594747
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1412689,
+        "upper_90_yen": 2729148,
+        "lower_10_yen": 755737
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1862581,
+        "upper_90_yen": 3833116,
+        "lower_10_yen": 939150
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2413048,
+        "upper_90_yen": 5276076,
+        "lower_10_yen": 1149215
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3086572,
+        "upper_90_yen": 7154128,
+        "lower_10_yen": 1390832
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3910664,
+        "upper_90_yen": 9589878,
+        "lower_10_yen": 1669723
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヤマタネ(9305)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヤマタネ(9305)を1株(1,915円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,915円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.35%、幾何成長率は16.26%",
+      "新NISAで月1万円の配当金を得るには1,600株（約3,064,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヤマタネは単元未満株（S株・かぶミニ等）を利用することで1株（約1,915円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,910,664円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり75.0円（利回り3.92%）です。月次95%VaR（最大想定損失率）は-7.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヤマタネは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,915円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,600株（元本目安：約3,064,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1915.0
+  }
+}

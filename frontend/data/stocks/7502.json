@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7502",
+    "name": "プラザホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1585.0,
+    "min_s_kabu_yen": 1585,
+    "unit_lot_yen": 158500,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 3.15,
+    "raw_annual_return_pct": -2.23,
+    "capped_annual_return_pct": -2.23,
+    "geometric_growth_pct": -4.08,
+    "annual_volatility_pct": 19.23,
+    "max_drawdown_pct": -30.35,
+    "monthly_var_95_pct": -7.01,
+    "sharpe_ratio": -0.1,
+    "quant_score": 53.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 380400,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 478670
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1902000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 2387010
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 3804000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 4774020
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 11412000,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 14322060
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 19020000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 23870100
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119400,
+        "upper_90_yen": 142182,
+        "lower_10_yen": 100553
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 237701,
+        "upper_90_yen": 302655,
+        "lower_10_yen": 187836
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 354911,
+        "upper_90_yen": 476180,
+        "lower_10_yen": 267048
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 471042,
+        "upper_90_yen": 660770,
+        "lower_10_yen": 340135
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 586103,
+        "upper_90_yen": 855257,
+        "lower_10_yen": 408225
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 700104,
+        "upper_90_yen": 1058843,
+        "lower_10_yen": 472076
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 813055,
+        "upper_90_yen": 1270936,
+        "lower_10_yen": 532240
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 924965,
+        "upper_90_yen": 1491071,
+        "lower_10_yen": 589142
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1035844,
+        "upper_90_yen": 1718869,
+        "lower_10_yen": 643119
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1145702,
+        "upper_90_yen": 1954014,
+        "lower_10_yen": 694451
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "プラザホールディングス(7502)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "プラザホールディングス(7502)を1株(1,585円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,585円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.23%、幾何成長率は-4.08%",
+      "新NISAで月1万円の配当金を得るには2,400株（約3,804,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "プラザホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,585円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,145,702円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り3.15%）です。月次95%VaR（最大想定損失率）は-7.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "プラザホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,585円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約3,804,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1585.0
+  }
+}

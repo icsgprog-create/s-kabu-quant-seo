@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6702",
+    "name": "富士通",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3441.0,
+    "min_s_kabu_yen": 3441,
+    "unit_lot_yen": 344100,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 1.74,
+    "raw_annual_return_pct": 11.63,
+    "capped_annual_return_pct": 11.63,
+    "geometric_growth_pct": 5.44,
+    "annual_volatility_pct": 35.18,
+    "max_drawdown_pct": -32.95,
+    "monthly_var_95_pct": -12.77,
+    "sharpe_ratio": 0.18,
+    "quant_score": 33.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 688200,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 863691
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 3441000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 4318455
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 6882000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 8636910
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 20646000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 25910730
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 34410000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 43184550
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124788,
+        "upper_90_yen": 172510,
+        "lower_10_yen": 91121
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258869,
+        "upper_90_yen": 407186,
+        "lower_10_yen": 167940
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 402937,
+        "upper_90_yen": 702945,
+        "lower_10_yen": 238234
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 557733,
+        "upper_90_yen": 1064770,
+        "lower_10_yen": 304538
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 724059,
+        "upper_90_yen": 1499767,
+        "lower_10_yen": 368193
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 902771,
+        "upper_90_yen": 2016575,
+        "lower_10_yen": 430039
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1094793,
+        "upper_90_yen": 2625239,
+        "lower_10_yen": 490657
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1301117,
+        "upper_90_yen": 3337237,
+        "lower_10_yen": 550479
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1522806,
+        "upper_90_yen": 4165569,
+        "lower_10_yen": 609840
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1761006,
+        "upper_90_yen": 5124884,
+        "lower_10_yen": 669011
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "富士通(6702)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "富士通(6702)を1株(3,441円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,441円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.18%、幾何成長率は5.44%",
+      "新NISAで月1万円の配当金を得るには2,000株（約6,882,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "富士通は単元未満株（S株・かぶミニ等）を利用することで1株（約3,441円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,761,006円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り1.74%）です。月次95%VaR（最大想定損失率）は-12.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "富士通は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,441円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約6,882,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3441.0
+  }
+}

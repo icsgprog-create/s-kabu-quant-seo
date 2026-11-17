@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3915",
+    "name": "テラスカイ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1942.0,
+    "min_s_kabu_yen": 1942,
+    "unit_lot_yen": 194200,
+    "dps_yen": 16.0,
+    "dividend_yield_pct": 0.82,
+    "raw_annual_return_pct": -4.22,
+    "capped_annual_return_pct": -4.22,
+    "geometric_growth_pct": -19.19,
+    "annual_volatility_pct": 54.73,
+    "max_drawdown_pct": -56.44,
+    "monthly_var_95_pct": -23.17,
+    "sharpe_ratio": -0.35,
+    "quant_score": 6.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 1456500,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 1829364
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 7282500,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 9140994
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 14565000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 18280046
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22500,
+        "nisa_required_capital_yen": 43695000,
+        "specific_required_shares": 28237,
+        "specific_required_capital_yen": 54836254
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 37500,
+        "nisa_required_capital_yen": 72825000,
+        "specific_required_shares": 47061,
+        "specific_required_capital_yen": 91392462
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108786,
+        "upper_90_yen": 178813,
+        "lower_10_yen": 67734
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 199317,
+        "upper_90_yen": 394046,
+        "lower_10_yen": 106070
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 274655,
+        "upper_90_yen": 623807,
+        "lower_10_yen": 130873
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 337351,
+        "upper_90_yen": 857912,
+        "lower_10_yen": 147712
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 389526,
+        "upper_90_yen": 1090020,
+        "lower_10_yen": 159467
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 432945,
+        "upper_90_yen": 1315925,
+        "lower_10_yen": 167827
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 469078,
+        "upper_90_yen": 1532812,
+        "lower_10_yen": 173856
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 499147,
+        "upper_90_yen": 1738846,
+        "lower_10_yen": 178251
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 524170,
+        "upper_90_yen": 1932907,
+        "lower_10_yen": 181481
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 544994,
+        "upper_90_yen": 2114402,
+        "lower_10_yen": 183873
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "テラスカイ(3915)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "テラスカイ(3915)を1株(1,942円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,942円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは54.73%、幾何成長率は-19.19%",
+      "新NISAで月1万円の配当金を得るには7,500株（約14,565,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "テラスカイは単元未満株（S株・かぶミニ等）を利用することで1株（約1,942円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は544,994円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.0円（利回り0.82%）です。月次95%VaR（最大想定損失率）は-23.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "テラスカイは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,942円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,500株（元本目安：約14,565,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1942.0
+  }
+}

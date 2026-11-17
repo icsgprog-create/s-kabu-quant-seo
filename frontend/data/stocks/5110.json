@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5110",
+    "name": "住友ゴム工業",
+    "sector": "ゴム製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2036.5,
+    "min_s_kabu_yen": 2037,
+    "unit_lot_yen": 203650,
+    "dps_yen": 84.0,
+    "dividend_yield_pct": 4.12,
+    "raw_annual_return_pct": 13.42,
+    "capped_annual_return_pct": 13.42,
+    "geometric_growth_pct": 7.94,
+    "annual_volatility_pct": 33.1,
+    "max_drawdown_pct": -33.64,
+    "monthly_var_95_pct": -11.78,
+    "sharpe_ratio": 0.33,
+    "quant_score": 58.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 143,
+        "nisa_required_capital_yen": 291220,
+        "specific_required_shares": 180,
+        "specific_required_capital_yen": 366570
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 715,
+        "nisa_required_capital_yen": 1456098,
+        "specific_required_shares": 897,
+        "specific_required_capital_yen": 1826740
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1429,
+        "nisa_required_capital_yen": 2910158,
+        "specific_required_shares": 1793,
+        "specific_required_capital_yen": 3651444
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 8728439,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 10954334
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7143,
+        "nisa_required_capital_yen": 14546720,
+        "specific_required_shares": 8964,
+        "specific_required_capital_yen": 18255186
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128184,
+        "upper_90_yen": 174022,
+        "lower_10_yen": 95207
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 272812,
+        "upper_90_yen": 419078,
+        "lower_10_yen": 180774
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 435993,
+        "upper_90_yen": 740303,
+        "lower_10_yen": 263791
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 620107,
+        "upper_90_yen": 1149782,
+        "lower_10_yen": 346661
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 827839,
+        "upper_90_yen": 1663281,
+        "lower_10_yen": 430766
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1062218,
+        "upper_90_yen": 2300092,
+        "lower_10_yen": 517087
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1326664,
+        "upper_90_yen": 3083367,
+        "lower_10_yen": 606419
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1625032,
+        "upper_90_yen": 4040667,
+        "lower_10_yen": 699460
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1961676,
+        "upper_90_yen": 5204652,
+        "lower_10_yen": 796865
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2341504,
+        "upper_90_yen": 6613926,
+        "lower_10_yen": 899276
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "住友ゴム工業(5110)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "住友ゴム工業(5110)を1株(2,037円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,037円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.1%、幾何成長率は7.94%",
+      "新NISAで月1万円の配当金を得るには1,429株（約2,910,158円）が必要"
+    ],
+    "accumulation_strategy_analysis": "住友ゴム工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,037円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,341,504円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり84.0円（利回り4.12%）です。月次95%VaR（最大想定損失率）は-11.78%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "住友ゴム工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,037円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,429株（元本目安：約2,910,158円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2036.5
+  }
+}

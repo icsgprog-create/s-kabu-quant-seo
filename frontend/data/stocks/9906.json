@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9906",
+    "name": "藤井産業ホールディングス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3835.0,
+    "min_s_kabu_yen": 3835,
+    "unit_lot_yen": 383500,
+    "dps_yen": 170.0,
+    "dividend_yield_pct": 4.43,
+    "raw_annual_return_pct": 23.45,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.32,
+    "annual_volatility_pct": 27.12,
+    "max_drawdown_pct": -26.56,
+    "monthly_var_95_pct": -6.68,
+    "sharpe_ratio": 0.73,
+    "quant_score": 76.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 71,
+        "nisa_required_capital_yen": 272285,
+        "specific_required_shares": 89,
+        "specific_required_capital_yen": 341315
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 353,
+        "nisa_required_capital_yen": 1353755,
+        "specific_required_shares": 443,
+        "specific_required_capital_yen": 1698905
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 706,
+        "nisa_required_capital_yen": 2707510,
+        "specific_required_shares": 886,
+        "specific_required_capital_yen": 3397810
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2118,
+        "nisa_required_capital_yen": 8122530,
+        "specific_required_shares": 2658,
+        "specific_required_capital_yen": 10193430
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 13537550,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 16989050
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134518,
+        "upper_90_yen": 173013,
+        "lower_10_yen": 105168
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 300066,
+        "upper_90_yen": 428224,
+        "lower_10_yen": 212730
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 503801,
+        "upper_90_yen": 783305,
+        "lower_10_yen": 329742
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 754532,
+        "upper_90_yen": 1266204,
+        "lower_10_yen": 460018
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1063098,
+        "upper_90_yen": 1914191,
+        "lower_10_yen": 607036
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1442842,
+        "upper_90_yen": 2775824,
+        "lower_10_yen": 774474
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1910182,
+        "upper_90_yen": 3913870,
+        "lower_10_yen": 966461
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2485322,
+        "upper_90_yen": 5409178,
+        "lower_10_yen": 1187751
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3193131,
+        "upper_90_yen": 7365647,
+        "lower_10_yen": 1443895
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4064210,
+        "upper_90_yen": 9916589,
+        "lower_10_yen": 1741424
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "藤井産業ホールディングス(9906)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "藤井産業ホールディングス(9906)を1株(3,835円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,835円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.12%、幾何成長率は16.32%",
+      "新NISAで月1万円の配当金を得るには706株（約2,707,510円）が必要"
+    ],
+    "accumulation_strategy_analysis": "藤井産業ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,835円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,064,210円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり170.0円（利回り4.43%）です。月次95%VaR（最大想定損失率）は-6.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "藤井産業ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,835円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、706株（元本目安：約2,707,510円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3835.0
+  }
+}

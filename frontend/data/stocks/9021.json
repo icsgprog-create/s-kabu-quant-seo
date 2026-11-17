@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9021",
+    "name": "西日本旅客鉄道",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3391.0,
+    "min_s_kabu_yen": 3391,
+    "unit_lot_yen": 339100,
+    "dps_yen": 101.0,
+    "dividend_yield_pct": 2.98,
+    "raw_annual_return_pct": 7.9,
+    "capped_annual_return_pct": 7.9,
+    "geometric_growth_pct": 5.49,
+    "annual_volatility_pct": 21.95,
+    "max_drawdown_pct": -28.58,
+    "monthly_var_95_pct": -8.53,
+    "sharpe_ratio": 0.34,
+    "quant_score": 60.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 119,
+        "nisa_required_capital_yen": 403529,
+        "specific_required_shares": 150,
+        "specific_required_capital_yen": 508650
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 595,
+        "nisa_required_capital_yen": 2017645,
+        "specific_required_shares": 746,
+        "specific_required_capital_yen": 2529686
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1189,
+        "nisa_required_capital_yen": 4031899,
+        "specific_required_shares": 1492,
+        "specific_required_capital_yen": 5059372
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3565,
+        "nisa_required_capital_yen": 12088915,
+        "specific_required_shares": 4474,
+        "specific_required_capital_yen": 15171334
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5941,
+        "nisa_required_capital_yen": 20145931,
+        "specific_required_shares": 7456,
+        "specific_required_capital_yen": 25283296
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125672,
+        "upper_90_yen": 153676,
+        "lower_10_yen": 103147
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262453,
+        "upper_90_yen": 347587,
+        "lower_10_yen": 199734
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 411326,
+        "upper_90_yen": 580746,
+        "lower_10_yen": 294852
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 573359,
+        "upper_90_yen": 855929,
+        "lower_10_yen": 390304
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 749716,
+        "upper_90_yen": 1177192,
+        "lower_10_yen": 487150
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 941663,
+        "upper_90_yen": 1549484,
+        "lower_10_yen": 586144
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1150579,
+        "upper_90_yen": 1978565,
+        "lower_10_yen": 687889
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1377963,
+        "upper_90_yen": 2471006,
+        "lower_10_yen": 792906
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1625448,
+        "upper_90_yen": 3034238,
+        "lower_10_yen": 901672
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1894811,
+        "upper_90_yen": 3676615,
+        "lower_10_yen": 1014641
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "西日本旅客鉄道(9021)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "西日本旅客鉄道(9021)を1株(3,391円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,391円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.95%、幾何成長率は5.49%",
+      "新NISAで月1万円の配当金を得るには1,189株（約4,031,899円）が必要"
+    ],
+    "accumulation_strategy_analysis": "西日本旅客鉄道は単元未満株（S株・かぶミニ等）を利用することで1株（約3,391円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,894,811円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり101.0円（利回り2.98%）です。月次95%VaR（最大想定損失率）は-8.53%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "西日本旅客鉄道は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,391円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,189株（元本目安：約4,031,899円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3391.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7483",
+    "name": "ドウシシャ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3080.0,
+    "min_s_kabu_yen": 3080,
+    "unit_lot_yen": 308000,
+    "dps_yen": 120.0,
+    "dividend_yield_pct": 3.9,
+    "raw_annual_return_pct": 16.71,
+    "capped_annual_return_pct": 16.71,
+    "geometric_growth_pct": 14.66,
+    "annual_volatility_pct": 20.24,
+    "max_drawdown_pct": -23.12,
+    "monthly_var_95_pct": -5.79,
+    "sharpe_ratio": 0.87,
+    "quant_score": 82.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 100,
+        "nisa_required_capital_yen": 308000,
+        "specific_required_shares": 126,
+        "specific_required_capital_yen": 388080
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 1540000,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 1934240
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 3080000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3865400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 9240000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 11596200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 15400000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 19327000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132878,
+        "upper_90_yen": 160193,
+        "lower_10_yen": 110561
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 292849,
+        "upper_90_yen": 381078,
+        "lower_10_yen": 226523
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 485438,
+        "upper_90_yen": 672529,
+        "lower_10_yen": 353854
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 717296,
+        "upper_90_yen": 1050583,
+        "lower_10_yen": 496107
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 996429,
+        "upper_90_yen": 1536085,
+        "lower_10_yen": 656639
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1332477,
+        "upper_90_yen": 2155345,
+        "lower_10_yen": 839045
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1737043,
+        "upper_90_yen": 2941261,
+        "lower_10_yen": 1047348
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2224101,
+        "upper_90_yen": 3934799,
+        "lower_10_yen": 1286160
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2810468,
+        "upper_90_yen": 5186870,
+        "lower_10_yen": 1560811
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3516394,
+        "upper_90_yen": 6760641,
+        "lower_10_yen": 1877505
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ドウシシャ(7483)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ドウシシャ(7483)を1株(3,080円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,080円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.24%、幾何成長率は14.66%",
+      "新NISAで月1万円の配当金を得るには1,000株（約3,080,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ドウシシャは単元未満株（S株・かぶミニ等）を利用することで1株（約3,080円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,516,394円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり120.0円（利回り3.9%）です。月次95%VaR（最大想定損失率）は-5.79%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ドウシシャは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,080円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,000株（元本目安：約3,080,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3080.0
+  }
+}

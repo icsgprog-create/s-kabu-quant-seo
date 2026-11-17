@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6093",
+    "name": "ミトラグループ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 140.0,
+    "min_s_kabu_yen": 140,
+    "unit_lot_yen": 14000,
+    "dps_yen": 9.0,
+    "dividend_yield_pct": 6.43,
+    "raw_annual_return_pct": -2.2,
+    "capped_annual_return_pct": -2.2,
+    "geometric_growth_pct": -7.01,
+    "annual_volatility_pct": 31.01,
+    "max_drawdown_pct": -36.42,
+    "monthly_var_95_pct": -10.33,
+    "sharpe_ratio": -0.05,
+    "quant_score": 57.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 186760,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 234360
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 933380,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 1171380
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 1866760,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 2342620
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 5600000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 7027720
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 66667,
+        "nisa_required_capital_yen": 9333380,
+        "specific_required_shares": 83663,
+        "specific_required_capital_yen": 11712820
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119621,
+        "upper_90_yen": 158770,
+        "lower_10_yen": 90791
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238547,
+        "upper_90_yen": 353332,
+        "lower_10_yen": 163641
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 356780,
+        "upper_90_yen": 576028,
+        "lower_10_yen": 226494
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 474325,
+        "upper_90_yen": 824300,
+        "lower_10_yen": 282198
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 591186,
+        "upper_90_yen": 1096849,
+        "lower_10_yen": 332341
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 707367,
+        "upper_90_yen": 1392932,
+        "lower_10_yen": 377957
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 822873,
+        "upper_90_yen": 1712107,
+        "lower_10_yen": 419777
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 937705,
+        "upper_90_yen": 2054120,
+        "lower_10_yen": 458350
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1051870,
+        "upper_90_yen": 2418840,
+        "lower_10_yen": 494099
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1165370,
+        "upper_90_yen": 2806222,
+        "lower_10_yen": 527365
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ミトラグループ(6093)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ミトラグループ(6093)を1株(140円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小140円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.01%、幾何成長率は-7.01%",
+      "新NISAで月1万円の配当金を得るには13,334株（約1,866,760円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ミトラグループは単元未満株（S株・かぶミニ等）を利用することで1株（約140円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,165,370円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり9.0円（利回り6.43%）です。月次95%VaR（最大想定損失率）は-10.33%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ミトラグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約140円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、13,334株（元本目安：約1,866,760円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 140.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6535",
+    "name": "アイモバイル",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 465.0,
+    "min_s_kabu_yen": 465,
+    "unit_lot_yen": 46500,
+    "dps_yen": 27.0,
+    "dividend_yield_pct": 5.81,
+    "raw_annual_return_pct": 3.41,
+    "capped_annual_return_pct": 3.41,
+    "geometric_growth_pct": -1.34,
+    "annual_volatility_pct": 30.84,
+    "max_drawdown_pct": -33.33,
+    "monthly_var_95_pct": -12.77,
+    "sharpe_ratio": 0.11,
+    "quant_score": 62.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 445,
+        "nisa_required_capital_yen": 206925,
+        "specific_required_shares": 558,
+        "specific_required_capital_yen": 259470
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2223,
+        "nisa_required_capital_yen": 1033695,
+        "specific_required_shares": 2789,
+        "specific_required_capital_yen": 1296885
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 2066925,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 2593770
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 6200310,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 7780845
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 22223,
+        "nisa_required_capital_yen": 10333695,
+        "specific_required_shares": 27888,
+        "specific_required_capital_yen": 12967920
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122947,
+        "upper_90_yen": 163126,
+        "lower_10_yen": 93339
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251507,
+        "upper_90_yen": 373026,
+        "lower_10_yen": 172247
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 385936,
+        "upper_90_yen": 625486,
+        "lower_10_yen": 243919
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 526502,
+        "upper_90_yen": 921304,
+        "lower_10_yen": 310774
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 673484,
+        "upper_90_yen": 1262658,
+        "lower_10_yen": 374108
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 827177,
+        "upper_90_yen": 1652483,
+        "lower_10_yen": 434738
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 987887,
+        "upper_90_yen": 2094262,
+        "lower_10_yen": 493229
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1155932,
+        "upper_90_yen": 2591946,
+        "lower_10_yen": 549995
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1331650,
+        "upper_90_yen": 3149925,
+        "lower_10_yen": 605353
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1515389,
+        "upper_90_yen": 3773023,
+        "lower_10_yen": 659552
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイモバイル(6535)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイモバイル(6535)を1株(465円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小465円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.84%、幾何成長率は-1.34%",
+      "新NISAで月1万円の配当金を得るには4,445株（約2,066,925円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイモバイルは単元未満株（S株・かぶミニ等）を利用することで1株（約465円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,515,389円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり27.0円（利回り5.81%）です。月次95%VaR（最大想定損失率）は-12.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイモバイルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約465円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,445株（元本目安：約2,066,925円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 465.0
+  }
+}

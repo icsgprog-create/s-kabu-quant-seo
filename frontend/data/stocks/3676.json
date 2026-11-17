@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3676",
+    "name": "デジタルハーツホールディングス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1052.0,
+    "min_s_kabu_yen": 1052,
+    "unit_lot_yen": 105200,
+    "dps_yen": 13.5,
+    "dividend_yield_pct": 1.28,
+    "raw_annual_return_pct": -14.81,
+    "capped_annual_return_pct": -14.81,
+    "geometric_growth_pct": -22.92,
+    "annual_volatility_pct": 40.27,
+    "max_drawdown_pct": -71.08,
+    "monthly_var_95_pct": -18.47,
+    "sharpe_ratio": -0.56,
+    "quant_score": 15.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 889,
+        "nisa_required_capital_yen": 935228,
+        "specific_required_shares": 1116,
+        "specific_required_capital_yen": 1174032
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 4676140,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 5868056
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8889,
+        "nisa_required_capital_yen": 9351228,
+        "specific_required_shares": 11156,
+        "specific_required_capital_yen": 11736112
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 26667,
+        "nisa_required_capital_yen": 28053684,
+        "specific_required_shares": 33466,
+        "specific_required_capital_yen": 35206232
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 44445,
+        "nisa_required_capital_yen": 46756140,
+        "specific_required_shares": 55776,
+        "specific_required_capital_yen": 58676352
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106938,
+        "upper_90_yen": 153660,
+        "lower_10_yen": 75364
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 193073,
+        "upper_90_yen": 316373,
+        "lower_10_yen": 121127
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 262451,
+        "upper_90_yen": 473851,
+        "lower_10_yen": 151760
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 318333,
+        "upper_90_yen": 621095,
+        "lower_10_yen": 173001
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 363345,
+        "upper_90_yen": 756022,
+        "lower_10_yen": 188035
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 399600,
+        "upper_90_yen": 877985,
+        "lower_10_yen": 198823
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 428802,
+        "upper_90_yen": 987126,
+        "lower_10_yen": 206643
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 452323,
+        "upper_90_yen": 1084032,
+        "lower_10_yen": 212356
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 471269,
+        "upper_90_yen": 1169536,
+        "lower_10_yen": 216557
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 486529,
+        "upper_90_yen": 1244587,
+        "lower_10_yen": 219662
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "デジタルハーツホールディングス(3676)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "デジタルハーツホールディングス(3676)を1株(1,052円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,052円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは40.27%、幾何成長率は-22.92%",
+      "新NISAで月1万円の配当金を得るには8,889株（約9,351,228円）が必要"
+    ],
+    "accumulation_strategy_analysis": "デジタルハーツホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,052円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は486,529円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり13.5円（利回り1.28%）です。月次95%VaR（最大想定損失率）は-18.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "デジタルハーツホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,052円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,889株（元本目安：約9,351,228円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1052.0
+  }
+}

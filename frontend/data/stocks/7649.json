@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7649",
+    "name": "スギホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1430.0,
+    "min_s_kabu_yen": 1430,
+    "unit_lot_yen": 143000,
+    "dps_yen": 17.5,
+    "dividend_yield_pct": 1.22,
+    "raw_annual_return_pct": 3.72,
+    "capped_annual_return_pct": 3.72,
+    "geometric_growth_pct": 0.22,
+    "annual_volatility_pct": 26.45,
+    "max_drawdown_pct": -39.45,
+    "monthly_var_95_pct": -10.59,
+    "sharpe_ratio": 0.02,
+    "quant_score": 33.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 686,
+        "nisa_required_capital_yen": 980980,
+        "specific_required_shares": 861,
+        "specific_required_capital_yen": 1231230
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 4903470,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 6153290
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6858,
+        "nisa_required_capital_yen": 9806940,
+        "specific_required_shares": 8606,
+        "specific_required_capital_yen": 12306580
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 20572,
+        "nisa_required_capital_yen": 29417960,
+        "specific_required_shares": 25816,
+        "specific_required_capital_yen": 36916880
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 34286,
+        "nisa_required_capital_yen": 49028980,
+        "specific_required_shares": 43027,
+        "specific_required_capital_yen": 61528610
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120943,
+        "upper_90_yen": 153966,
+        "lower_10_yen": 95513
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 243646,
+        "upper_90_yen": 340692,
+        "lower_10_yen": 176270
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 368133,
+        "upper_90_yen": 554320,
+        "lower_10_yen": 248881
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 494431,
+        "upper_90_yen": 793296,
+        "lower_10_yen": 315674
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 622566,
+        "upper_90_yen": 1057133,
+        "lower_10_yen": 377936
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 752565,
+        "upper_90_yen": 1345828,
+        "lower_10_yen": 436499
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 884454,
+        "upper_90_yen": 1659652,
+        "lower_10_yen": 491948
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1018262,
+        "upper_90_yen": 1999053,
+        "lower_10_yen": 544719
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1154017,
+        "upper_90_yen": 2364606,
+        "lower_10_yen": 595147
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1291746,
+        "upper_90_yen": 2756986,
+        "lower_10_yen": 643503
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "スギホールディングス(7649)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "スギホールディングス(7649)を1株(1,430円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,430円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.45%、幾何成長率は0.22%",
+      "新NISAで月1万円の配当金を得るには6,858株（約9,806,940円）が必要"
+    ],
+    "accumulation_strategy_analysis": "スギホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,430円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,291,746円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり17.5円（利回り1.22%）です。月次95%VaR（最大想定損失率）は-10.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "スギホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,430円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,858株（元本目安：約9,806,940円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1430.0
+  }
+}

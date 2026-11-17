@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7461",
+    "name": "キムラ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 463.0,
+    "min_s_kabu_yen": 463,
+    "unit_lot_yen": 46300,
+    "dps_yen": 14.0,
+    "dividend_yield_pct": 3.02,
+    "raw_annual_return_pct": -0.29,
+    "capped_annual_return_pct": -0.29,
+    "geometric_growth_pct": -2.66,
+    "annual_volatility_pct": 21.74,
+    "max_drawdown_pct": -30.59,
+    "monthly_var_95_pct": -8.34,
+    "sharpe_ratio": -0.03,
+    "quant_score": 51.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 397254,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 498188
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 1984418,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 2490477
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 3968836,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 4980491
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 25715,
+        "nisa_required_capital_yen": 11906045,
+        "specific_required_shares": 32270,
+        "specific_required_capital_yen": 14941010
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 19843254,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 24901992
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120239,
+        "upper_90_yen": 146549,
+        "lower_10_yen": 99009
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 240919,
+        "upper_90_yen": 316939,
+        "lower_10_yen": 184572
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 362042,
+        "upper_90_yen": 505720,
+        "lower_10_yen": 262335
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 483610,
+        "upper_90_yen": 711045,
+        "lower_10_yen": 334345
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 605624,
+        "upper_90_yen": 931956,
+        "lower_10_yen": 401760
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 728086,
+        "upper_90_yen": 1167897,
+        "lower_10_yen": 465341
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 850998,
+        "upper_90_yen": 1418532,
+        "lower_10_yen": 525633
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 974362,
+        "upper_90_yen": 1683657,
+        "lower_10_yen": 583046
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1098178,
+        "upper_90_yen": 1963163,
+        "lower_10_yen": 637905
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1222449,
+        "upper_90_yen": 2257005,
+        "lower_10_yen": 690470
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "キムラ(7461)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "キムラ(7461)を1株(463円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小463円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.74%、幾何成長率は-2.66%",
+      "新NISAで月1万円の配当金を得るには8,572株（約3,968,836円）が必要"
+    ],
+    "accumulation_strategy_analysis": "キムラは単元未満株（S株・かぶミニ等）を利用することで1株（約463円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,222,449円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.0円（利回り3.02%）です。月次95%VaR（最大想定損失率）は-8.34%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "キムラは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約463円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,572株（元本目安：約3,968,836円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 463.0
+  }
+}

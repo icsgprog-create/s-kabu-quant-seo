@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5491",
+    "name": "日本金属",
+    "sector": "鉄鋼",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 800.0,
+    "min_s_kabu_yen": 800,
+    "unit_lot_yen": 80000,
+    "dps_yen": 5.0,
+    "dividend_yield_pct": 0.62,
+    "raw_annual_return_pct": -4.08,
+    "capped_annual_return_pct": -4.08,
+    "geometric_growth_pct": -9.35,
+    "annual_volatility_pct": 32.45,
+    "max_drawdown_pct": -65.87,
+    "monthly_var_95_pct": -11.87,
+    "sharpe_ratio": -0.3,
+    "quant_score": 17.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 1920000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 2409600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 9600000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 12048000
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 19200000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 24095200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 72000,
+        "nisa_required_capital_yen": 57600000,
+        "specific_required_shares": 90356,
+        "specific_required_capital_yen": 72284800
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 96000000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 120474400
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114496,
+        "upper_90_yen": 153691,
+        "lower_10_yen": 85991
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 219426,
+        "upper_90_yen": 329138,
+        "lower_10_yen": 148895
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 315588,
+        "upper_90_yen": 515513,
+        "lower_10_yen": 198581
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 403716,
+        "upper_90_yen": 708093,
+        "lower_10_yen": 238951
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 484479,
+        "upper_90_yen": 903889,
+        "lower_10_yen": 272291
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 558495,
+        "upper_90_yen": 1100781,
+        "lower_10_yen": 300133
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 626326,
+        "upper_90_yen": 1297179,
+        "lower_10_yen": 323573
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 688489,
+        "upper_90_yen": 1491859,
+        "lower_10_yen": 343432
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 745458,
+        "upper_90_yen": 1683862,
+        "lower_10_yen": 360342
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 797668,
+        "upper_90_yen": 1872431,
+        "lower_10_yen": 374803
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本金属(5491)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本金属(5491)を1株(800円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小800円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.45%、幾何成長率は-9.35%",
+      "新NISAで月1万円の配当金を得るには24,000株（約19,200,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本金属は単元未満株（S株・かぶミニ等）を利用することで1株（約800円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は797,668円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.0円（利回り0.62%）です。月次95%VaR（最大想定損失率）は-11.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本金属は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約800円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、24,000株（元本目安：約19,200,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 800.0
+  }
+}

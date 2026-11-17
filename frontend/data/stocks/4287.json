@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4287",
+    "name": "ジャストプランニング",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 520.0,
+    "min_s_kabu_yen": 520,
+    "unit_lot_yen": 52000,
+    "dps_yen": 11.0,
+    "dividend_yield_pct": 2.12,
+    "raw_annual_return_pct": 9.13,
+    "capped_annual_return_pct": 9.13,
+    "geometric_growth_pct": 5.57,
+    "annual_volatility_pct": 26.68,
+    "max_drawdown_pct": -29.6,
+    "monthly_var_95_pct": -8.8,
+    "sharpe_ratio": 0.25,
+    "quant_score": 46.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 567320,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 712400
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 2836600,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 3559920
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 5673200,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 7119320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 32728,
+        "nisa_required_capital_yen": 17018560,
+        "specific_required_shares": 41071,
+        "specific_required_capital_yen": 21356920
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 54546,
+        "nisa_required_capital_yen": 28363920,
+        "specific_required_shares": 68452,
+        "specific_required_capital_yen": 35595040
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125132,
+        "upper_90_yen": 159857,
+        "lower_10_yen": 98482
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260261,
+        "upper_90_yen": 366428,
+        "lower_10_yen": 187018
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 406186,
+        "upper_90_yen": 618215,
+        "lower_10_yen": 271671
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 563770,
+        "upper_90_yen": 918259,
+        "lower_10_yen": 354491
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 733943,
+        "upper_90_yen": 1271105,
+        "lower_10_yen": 436607
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 917712,
+        "upper_90_yen": 1682328,
+        "lower_10_yen": 518766
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1116163,
+        "upper_90_yen": 2158422,
+        "lower_10_yen": 601517
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1330468,
+        "upper_90_yen": 2706787,
+        "lower_10_yen": 685297
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1561895,
+        "upper_90_yen": 3335777,
+        "lower_10_yen": 770471
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1811812,
+        "upper_90_yen": 4054770,
+        "lower_10_yen": 857362
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ジャストプランニング(4287)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ジャストプランニング(4287)を1株(520円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小520円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.68%、幾何成長率は5.57%",
+      "新NISAで月1万円の配当金を得るには10,910株（約5,673,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ジャストプランニングは単元未満株（S株・かぶミニ等）を利用することで1株（約520円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,811,812円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり11.0円（利回り2.12%）です。月次95%VaR（最大想定損失率）は-8.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ジャストプランニングは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約520円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,910株（元本目安：約5,673,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 520.0
+  }
+}

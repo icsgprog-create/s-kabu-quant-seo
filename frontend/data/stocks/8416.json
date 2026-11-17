@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8416",
+    "name": "高知銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 872.0,
+    "min_s_kabu_yen": 872,
+    "unit_lot_yen": 87200,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 2.87,
+    "raw_annual_return_pct": 6.34,
+    "capped_annual_return_pct": 6.34,
+    "geometric_growth_pct": 0.32,
+    "annual_volatility_pct": 34.7,
+    "max_drawdown_pct": -39.21,
+    "monthly_var_95_pct": -10.46,
+    "sharpe_ratio": 0.06,
+    "quant_score": 39.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 418560,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 525816
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 2092800,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 2626464
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 4185600,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 5252928
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 12556800,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 15758784
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 20928000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 26263768
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122095,
+        "upper_90_yen": 167847,
+        "lower_10_yen": 89633
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248144,
+        "upper_90_yen": 386639,
+        "lower_10_yen": 162448
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 378275,
+        "upper_90_yen": 651035,
+        "lower_10_yen": 226600
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 512621,
+        "upper_90_yen": 961291,
+        "lower_10_yen": 284841
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 651318,
+        "upper_90_yen": 1319142,
+        "lower_10_yen": 338646
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 794506,
+        "upper_90_yen": 1727091,
+        "lower_10_yen": 388942
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 942333,
+        "upper_90_yen": 2188157,
+        "lower_10_yen": 436367
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1094946,
+        "upper_90_yen": 2705778,
+        "lower_10_yen": 481388
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1252502,
+        "upper_90_yen": 3283762,
+        "lower_10_yen": 524358
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1415161,
+        "upper_90_yen": 3926267,
+        "lower_10_yen": 565555
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "高知銀行(8416)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "高知銀行(8416)を1株(872円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小872円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.7%、幾何成長率は0.32%",
+      "新NISAで月1万円の配当金を得るには4,800株（約4,185,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "高知銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約872円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,415,161円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り2.87%）です。月次95%VaR（最大想定損失率）は-10.46%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "高知銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約872円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約4,185,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 872.0
+  }
+}

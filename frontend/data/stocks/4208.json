@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4208",
+    "name": "ＵＢＥ",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3236.0,
+    "min_s_kabu_yen": 3236,
+    "unit_lot_yen": 323600,
+    "dps_yen": 135.0,
+    "dividend_yield_pct": 4.17,
+    "raw_annual_return_pct": 13.99,
+    "capped_annual_return_pct": 13.99,
+    "geometric_growth_pct": 10.74,
+    "annual_volatility_pct": 25.52,
+    "max_drawdown_pct": -36.45,
+    "monthly_var_95_pct": -9.13,
+    "sharpe_ratio": 0.54,
+    "quant_score": 71.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 89,
+        "nisa_required_capital_yen": 288004,
+        "specific_required_shares": 112,
+        "specific_required_capital_yen": 362432
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 445,
+        "nisa_required_capital_yen": 1440020,
+        "specific_required_shares": 558,
+        "specific_required_capital_yen": 1805688
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 889,
+        "nisa_required_capital_yen": 2876804,
+        "specific_required_shares": 1116,
+        "specific_required_capital_yen": 3611376
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 8630412,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 10830892
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 14384020,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 18050408
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130212,
+        "upper_90_yen": 164797,
+        "lower_10_yen": 103392
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281357,
+        "upper_90_yen": 391789,
+        "lower_10_yen": 204180
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 456800,
+        "upper_90_yen": 687573,
+        "lower_10_yen": 308334
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 660448,
+        "upper_90_yen": 1064787,
+        "lower_10_yen": 418348
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 896835,
+        "upper_90_yen": 1539808,
+        "lower_10_yen": 536040
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1171225,
+        "upper_90_yen": 2132880,
+        "lower_10_yen": 663039
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1489726,
+        "upper_90_yen": 2868669,
+        "lower_10_yen": 800955
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1859431,
+        "upper_90_yen": 3777039,
+        "lower_10_yen": 951468
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2288570,
+        "upper_90_yen": 4894030,
+        "lower_10_yen": 1116383
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2786699,
+        "upper_90_yen": 6263049,
+        "lower_10_yen": 1297673
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＵＢＥ(4208)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＵＢＥ(4208)を1株(3,236円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,236円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.52%、幾何成長率は10.74%",
+      "新NISAで月1万円の配当金を得るには889株（約2,876,804円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＵＢＥは単元未満株（S株・かぶミニ等）を利用することで1株（約3,236円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,786,699円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり135.0円（利回り4.17%）です。月次95%VaR（最大想定損失率）は-9.13%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＵＢＥは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,236円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、889株（元本目安：約2,876,804円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3236.0
+  }
+}

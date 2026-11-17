@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6273",
+    "name": "ＳＭＣ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 58840.0,
+    "min_s_kabu_yen": 58840,
+    "unit_lot_yen": 5884000,
+    "dps_yen": 1000.0,
+    "dividend_yield_pct": 1.7,
+    "raw_annual_return_pct": -2.91,
+    "capped_annual_return_pct": -2.91,
+    "geometric_growth_pct": -9.57,
+    "annual_volatility_pct": 36.5,
+    "max_drawdown_pct": -52.69,
+    "monthly_var_95_pct": -15.99,
+    "sharpe_ratio": -0.24,
+    "quant_score": 22.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 12,
+        "nisa_required_capital_yen": 706080,
+        "specific_required_shares": 16,
+        "specific_required_capital_yen": 941440
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 60,
+        "nisa_required_capital_yen": 3530400,
+        "specific_required_shares": 76,
+        "specific_required_capital_yen": 4471840
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 7060800,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 8884840
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 360,
+        "nisa_required_capital_yen": 21182400,
+        "specific_required_shares": 452,
+        "specific_required_capital_yen": 26595680
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 35304000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 44306520
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115023,
+        "upper_90_yen": 160296,
+        "lower_10_yen": 83386
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 221343,
+        "upper_90_yen": 349888,
+        "lower_10_yen": 143187
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 319618,
+        "upper_90_yen": 556777,
+        "lower_10_yen": 189953
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 410458,
+        "upper_90_yen": 775635,
+        "lower_10_yen": 227705
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 494424,
+        "upper_90_yen": 1002981,
+        "lower_10_yen": 258748
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 572037,
+        "upper_90_yen": 1236249,
+        "lower_10_yen": 284593
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 643778,
+        "upper_90_yen": 1473425,
+        "lower_10_yen": 306308
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 710091,
+        "upper_90_yen": 1712879,
+        "lower_10_yen": 324683
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 771386,
+        "upper_90_yen": 1953261,
+        "lower_10_yen": 340321
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 828044,
+        "upper_90_yen": 2193440,
+        "lower_10_yen": 353693
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＳＭＣ(6273)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＳＭＣ(6273)を1株(58,840円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小58,840円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.5%、幾何成長率は-9.57%",
+      "新NISAで月1万円の配当金を得るには120株（約7,060,800円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＳＭＣは単元未満株（S株・かぶミニ等）を利用することで1株（約58,840円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は828,044円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり1000.0円（利回り1.7%）です。月次95%VaR（最大想定損失率）は-15.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＳＭＣは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約58,840円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、120株（元本目安：約7,060,800円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 58840.0
+  }
+}

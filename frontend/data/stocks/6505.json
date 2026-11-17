@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6505",
+    "name": "東洋電機製造",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2926.0,
+    "min_s_kabu_yen": 2926,
+    "unit_lot_yen": 292600,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 3.42,
+    "raw_annual_return_pct": 25.11,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.68,
+    "annual_volatility_pct": 35.56,
+    "max_drawdown_pct": -30.3,
+    "monthly_var_95_pct": -8.8,
+    "sharpe_ratio": 0.45,
+    "quant_score": 53.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 351120,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 441826
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 1755600,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 2203278
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 3511200,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 4406556
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 10533600,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 13219668
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 17556000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 22032780
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131801,
+        "upper_90_yen": 183356,
+        "lower_10_yen": 95649
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288172,
+        "upper_90_yen": 459144,
+        "lower_10_yen": 184561
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 473693,
+        "upper_90_yen": 843464,
+        "lower_10_yen": 274269
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 693798,
+        "upper_90_yen": 1363258,
+        "lower_10_yen": 367585
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 954935,
+        "upper_90_yen": 2054043,
+        "lower_10_yen": 466396
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1264753,
+        "upper_90_yen": 2961168,
+        "lower_10_yen": 572292
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1632326,
+        "upper_90_yen": 4141935,
+        "lower_10_yen": 686793
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2068421,
+        "upper_90_yen": 5668405,
+        "lower_10_yen": 811451
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2585812,
+        "upper_90_yen": 7630924,
+        "lower_10_yen": 947923
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3199653,
+        "upper_90_yen": 10142536,
+        "lower_10_yen": 1098014
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東洋電機製造(6505)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東洋電機製造(6505)を1株(2,926円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,926円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.56%、幾何成長率は13.68%",
+      "新NISAで月1万円の配当金を得るには1,200株（約3,511,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東洋電機製造は単元未満株（S株・かぶミニ等）を利用することで1株（約2,926円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,199,653円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り3.42%）です。月次95%VaR（最大想定損失率）は-8.8%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東洋電機製造は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,926円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約3,511,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2926.0
+  }
+}

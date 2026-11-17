@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9627",
+    "name": "アインホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5760.0,
+    "min_s_kabu_yen": 5760,
+    "unit_lot_yen": 576000,
+    "dps_yen": 80.0,
+    "dividend_yield_pct": 1.39,
+    "raw_annual_return_pct": 0.84,
+    "capped_annual_return_pct": 0.84,
+    "geometric_growth_pct": -4.16,
+    "annual_volatility_pct": 31.63,
+    "max_drawdown_pct": -50.38,
+    "monthly_var_95_pct": -14.14,
+    "sharpe_ratio": -0.12,
+    "quant_score": 26.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 150,
+        "nisa_required_capital_yen": 864000,
+        "specific_required_shares": 189,
+        "specific_required_capital_yen": 1088640
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 4320000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 5425920
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 8640000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 10846080
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4500,
+        "nisa_required_capital_yen": 25920000,
+        "specific_required_shares": 5648,
+        "specific_required_capital_yen": 32532480
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 43200000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 54218880
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118216,
+        "upper_90_yen": 157729,
+        "lower_10_yen": 89284
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 233203,
+        "upper_90_yen": 347667,
+        "lower_10_yen": 159052
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 345048,
+        "upper_90_yen": 560986,
+        "lower_10_yen": 217772
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 453836,
+        "upper_90_yen": 794204,
+        "lower_10_yen": 268568
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 559653,
+        "upper_90_yen": 1045195,
+        "lower_10_yen": 313213
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 662578,
+        "upper_90_yen": 1312440,
+        "lower_10_yen": 352877
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 762691,
+        "upper_90_yen": 1594760,
+        "lower_10_yen": 388396
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 860068,
+        "upper_90_yen": 1891188,
+        "lower_10_yen": 420400
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 954785,
+        "upper_90_yen": 2200898,
+        "lower_10_yen": 449378
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1046914,
+        "upper_90_yen": 2523167,
+        "lower_10_yen": 475725
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アインホールディングス(9627)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アインホールディングス(9627)を1株(5,760円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,760円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.63%、幾何成長率は-4.16%",
+      "新NISAで月1万円の配当金を得るには1,500株（約8,640,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アインホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約5,760円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,046,914円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり80.0円（利回り1.39%）です。月次95%VaR（最大想定損失率）は-14.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アインホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,760円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,500株（元本目安：約8,640,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5760.0
+  }
+}

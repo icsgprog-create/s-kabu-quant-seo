@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3266",
+    "name": "ファンドクリエーショングループ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 74.0,
+    "min_s_kabu_yen": 74,
+    "unit_lot_yen": 7400,
+    "dps_yen": 1.0,
+    "dividend_yield_pct": 1.35,
+    "raw_annual_return_pct": -1.83,
+    "capped_annual_return_pct": -1.83,
+    "geometric_growth_pct": -10.58,
+    "annual_volatility_pct": 41.84,
+    "max_drawdown_pct": -52.71,
+    "monthly_var_95_pct": -10.43,
+    "sharpe_ratio": -0.24,
+    "quant_score": 14.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 888000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 1114440
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 4440000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 5571978
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 8880000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 11143882
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 360000,
+        "nisa_required_capital_yen": 26640000,
+        "specific_required_shares": 451779,
+        "specific_required_capital_yen": 33431646
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 600000,
+        "nisa_required_capital_yen": 44400000,
+        "specific_required_shares": 752965,
+        "specific_required_capital_yen": 55719410
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114188,
+        "upper_90_yen": 167121,
+        "lower_10_yen": 79079
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 218309,
+        "upper_90_yen": 369197,
+        "lower_10_yen": 132939
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 313250,
+        "upper_90_yen": 592068,
+        "lower_10_yen": 173479
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 399820,
+        "upper_90_yen": 829277,
+        "lower_10_yen": 205126
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 478758,
+        "upper_90_yen": 1076542,
+        "lower_10_yen": 230359
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 550736,
+        "upper_90_yen": 1330668,
+        "lower_10_yen": 250768
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 616368,
+        "upper_90_yen": 1589137,
+        "lower_10_yen": 267449
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 676213,
+        "upper_90_yen": 1849906,
+        "lower_10_yen": 281194
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 730782,
+        "upper_90_yen": 2111283,
+        "lower_10_yen": 292595
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 780540,
+        "upper_90_yen": 2371859,
+        "lower_10_yen": 302102
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ファンドクリエーショングループ(3266)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ファンドクリエーショングループ(3266)を1株(74円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小74円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.84%、幾何成長率は-10.58%",
+      "新NISAで月1万円の配当金を得るには120,000株（約8,880,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ファンドクリエーショングループは単元未満株（S株・かぶミニ等）を利用することで1株（約74円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は780,540円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり1.0円（利回り1.35%）です。月次95%VaR（最大想定損失率）は-10.43%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ファンドクリエーショングループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約74円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、120,000株（元本目安：約8,880,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 74.0
+  }
+}

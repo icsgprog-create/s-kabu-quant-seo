@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3388",
+    "name": "明治電機工業",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1901.0,
+    "min_s_kabu_yen": 1901,
+    "unit_lot_yen": 190100,
+    "dps_yen": 90.0,
+    "dividend_yield_pct": 4.73,
+    "raw_annual_return_pct": 11.82,
+    "capped_annual_return_pct": 11.82,
+    "geometric_growth_pct": 7.57,
+    "annual_volatility_pct": 29.16,
+    "max_drawdown_pct": -37.31,
+    "monthly_var_95_pct": -10.24,
+    "sharpe_ratio": 0.39,
+    "quant_score": 68.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 134,
+        "nisa_required_capital_yen": 254734,
+        "specific_required_shares": 168,
+        "specific_required_capital_yen": 319368
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1267967,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 1591137
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 2535934,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 3182274
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 7604000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 9543020
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 12673967,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 15905667
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128348,
+        "upper_90_yen": 167956,
+        "lower_10_yen": 98714
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 273496,
+        "upper_90_yen": 398910,
+        "lower_10_yen": 190109
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 437642,
+        "upper_90_yen": 696996,
+        "lower_10_yen": 280601
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 623273,
+        "upper_90_yen": 1072374,
+        "lower_10_yen": 372475
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 833202,
+        "upper_90_yen": 1538306,
+        "lower_10_yen": 467120
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1070608,
+        "upper_90_yen": 2110989,
+        "lower_10_yen": 565588
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1339089,
+        "upper_90_yen": 2809805,
+        "lower_10_yen": 668783
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1642712,
+        "upper_90_yen": 3657754,
+        "lower_10_yen": 777541
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1986076,
+        "upper_90_yen": 4682009,
+        "lower_10_yen": 892687
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2374383,
+        "upper_90_yen": 5914590,
+        "lower_10_yen": 1015055
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "明治電機工業(3388)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "明治電機工業(3388)を1株(1,901円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,901円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.16%、幾何成長率は7.57%",
+      "新NISAで月1万円の配当金を得るには1,334株（約2,535,934円）が必要"
+    ],
+    "accumulation_strategy_analysis": "明治電機工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,901円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,374,383円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり90.0円（利回り4.73%）です。月次95%VaR（最大想定損失率）は-10.24%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "明治電機工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,901円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,334株（元本目安：約2,535,934円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1901.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6284",
+    "name": "日精エー・エス・ビー機械",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 8280.0,
+    "min_s_kabu_yen": 8280,
+    "unit_lot_yen": 828000,
+    "dps_yen": 260.0,
+    "dividend_yield_pct": 3.14,
+    "raw_annual_return_pct": 22.07,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.53,
+    "annual_volatility_pct": 33.06,
+    "max_drawdown_pct": -28.58,
+    "monthly_var_95_pct": -11.61,
+    "sharpe_ratio": 0.5,
+    "quant_score": 54.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 47,
+        "nisa_required_capital_yen": 389160,
+        "specific_required_shares": 58,
+        "specific_required_capital_yen": 480240
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 231,
+        "nisa_required_capital_yen": 1912680,
+        "specific_required_shares": 290,
+        "specific_required_capital_yen": 2401200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 3825360,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 4802400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1385,
+        "nisa_required_capital_yen": 11467800,
+        "specific_required_shares": 1738,
+        "specific_required_capital_yen": 14390640
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 19110240,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 23987160
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132228,
+        "upper_90_yen": 179697,
+        "lower_10_yen": 98102
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 290019,
+        "upper_90_yen": 447094,
+        "lower_10_yen": 191442
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 478317,
+        "upper_90_yen": 817679,
+        "lower_10_yen": 287259
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 703020,
+        "upper_90_yen": 1317195,
+        "lower_10_yen": 388445
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 971165,
+        "upper_90_yen": 1979592,
+        "lower_10_yen": 497082
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1291151,
+        "upper_90_yen": 2848281,
+        "lower_10_yen": 615030
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1673002,
+        "upper_90_yen": 3978214,
+        "lower_10_yen": 744146
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2128677,
+        "upper_90_yen": 5438631,
+        "lower_10_yen": 886394
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2672450,
+        "upper_90_yen": 7316528,
+        "lower_10_yen": 1043920
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3321353,
+        "upper_90_yen": 9720996,
+        "lower_10_yen": 1219110
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日精エー・エス・ビー機械(6284)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日精エー・エス・ビー機械(6284)を1株(8,280円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小8,280円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.06%、幾何成長率は14.53%",
+      "新NISAで月1万円の配当金を得るには462株（約3,825,360円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日精エー・エス・ビー機械は単元未満株（S株・かぶミニ等）を利用することで1株（約8,280円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,321,353円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり260.0円（利回り3.14%）です。月次95%VaR（最大想定損失率）は-11.61%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日精エー・エス・ビー機械は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約8,280円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、462株（元本目安：約3,825,360円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 8280.0
+  }
+}

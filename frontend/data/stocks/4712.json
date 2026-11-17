@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4712",
+    "name": "ＫｅｙＨｏｌｄｅｒ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1078.0,
+    "min_s_kabu_yen": 1078,
+    "unit_lot_yen": 107800,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 0.93,
+    "raw_annual_return_pct": 12.0,
+    "capped_annual_return_pct": 12.0,
+    "geometric_growth_pct": 7.05,
+    "annual_volatility_pct": 31.46,
+    "max_drawdown_pct": -43.8,
+    "monthly_var_95_pct": -11.73,
+    "sharpe_ratio": 0.22,
+    "quant_score": 31.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1293600,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1623468
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 6468000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 8117340
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 12936000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 16234680
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 38808000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 48701884
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 64680000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 81170166
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125333,
+        "upper_90_yen": 167398,
+        "lower_10_yen": 94547
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261077,
+        "upper_90_yen": 391339,
+        "lower_10_yen": 177012
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 408096,
+        "upper_90_yen": 671079,
+        "lower_10_yen": 254382
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 567327,
+        "upper_90_yen": 1011348,
+        "lower_10_yen": 328965
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 739783,
+        "upper_90_yen": 1418838,
+        "lower_10_yen": 402006
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 926565,
+        "upper_90_yen": 1901682,
+        "lower_10_yen": 474304
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1128861,
+        "upper_90_yen": 2469362,
+        "lower_10_yen": 546430
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1347960,
+        "upper_90_yen": 3132745,
+        "lower_10_yen": 618825
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1585258,
+        "upper_90_yen": 3904180,
+        "lower_10_yen": 691848
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1842266,
+        "upper_90_yen": 4797638,
+        "lower_10_yen": 765804
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＫｅｙＨｏｌｄｅｒ(4712)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＫｅｙＨｏｌｄｅｒ(4712)を1株(1,078円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,078円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.46%、幾何成長率は7.05%",
+      "新NISAで月1万円の配当金を得るには12,000株（約12,936,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＫｅｙＨｏｌｄｅｒは単元未満株（S株・かぶミニ等）を利用することで1株（約1,078円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,842,266円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り0.93%）です。月次95%VaR（最大想定損失率）は-11.73%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＫｅｙＨｏｌｄｅｒは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,078円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約12,936,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1078.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6189",
+    "name": "グローバルキッズＣＯＭＰＡＮＹ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 994.0,
+    "min_s_kabu_yen": 994,
+    "unit_lot_yen": 99400,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 4.02,
+    "raw_annual_return_pct": 6.74,
+    "capped_annual_return_pct": 6.74,
+    "geometric_growth_pct": 2.83,
+    "annual_volatility_pct": 27.96,
+    "max_drawdown_pct": -35.74,
+    "monthly_var_95_pct": -8.84,
+    "sharpe_ratio": 0.21,
+    "quant_score": 59.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 298200,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 374738
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 1491000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 1871702
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2982000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 3742410
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 8946000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 11227230
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 14910000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 18712050
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124562,
+        "upper_90_yen": 160991,
+        "lower_10_yen": 96951
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 257958,
+        "upper_90_yen": 369068,
+        "lower_10_yen": 182619
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 400814,
+        "upper_90_yen": 622044,
+        "lower_10_yen": 263375
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 553803,
+        "upper_90_yen": 922410,
+        "lower_10_yen": 341357
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 717641,
+        "upper_90_yen": 1274128,
+        "lower_10_yen": 417722
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 893100,
+        "upper_90_yen": 1682114,
+        "lower_10_yen": 493215
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1081002,
+        "upper_90_yen": 2152095,
+        "lower_10_yen": 568371
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1282231,
+        "upper_90_yen": 2690577,
+        "lower_10_yen": 643596
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1497731,
+        "upper_90_yen": 3304866,
+        "lower_10_yen": 719220
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1728515,
+        "upper_90_yen": 4003113,
+        "lower_10_yen": 795520
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "グローバルキッズＣＯＭＰＡＮＹ(6189)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "グローバルキッズＣＯＭＰＡＮＹ(6189)を1株(994円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小994円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.96%、幾何成長率は2.83%",
+      "新NISAで月1万円の配当金を得るには3,000株（約2,982,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "グローバルキッズＣＯＭＰＡＮＹは単元未満株（S株・かぶミニ等）を利用することで1株（約994円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,728,515円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り4.02%）です。月次95%VaR（最大想定損失率）は-8.84%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "グローバルキッズＣＯＭＰＡＮＹは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約994円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約2,982,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 994.0
+  }
+}

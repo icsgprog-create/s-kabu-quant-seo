@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7974",
+    "name": "任天堂",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 8926.0,
+    "min_s_kabu_yen": 8926,
+    "unit_lot_yen": 892600,
+    "dps_yen": 253.0,
+    "dividend_yield_pct": 2.83,
+    "raw_annual_return_pct": 13.93,
+    "capped_annual_return_pct": 13.93,
+    "geometric_growth_pct": 8.59,
+    "annual_volatility_pct": 32.69,
+    "max_drawdown_pct": -54.01,
+    "monthly_var_95_pct": -14.21,
+    "sharpe_ratio": 0.32,
+    "quant_score": 48.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 48,
+        "nisa_required_capital_yen": 428448,
+        "specific_required_shares": 60,
+        "specific_required_capital_yen": 535560
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 238,
+        "nisa_required_capital_yen": 2124388,
+        "specific_required_shares": 298,
+        "specific_required_capital_yen": 2659948
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 475,
+        "nisa_required_capital_yen": 4239850,
+        "specific_required_shares": 596,
+        "specific_required_capital_yen": 5319896
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1423,
+        "nisa_required_capital_yen": 12701698,
+        "specific_required_shares": 1786,
+        "specific_required_capital_yen": 15941836
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2372,
+        "nisa_required_capital_yen": 21172472,
+        "specific_required_shares": 2977,
+        "specific_required_capital_yen": 26572702
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127728,
+        "upper_90_yen": 172707,
+        "lower_10_yen": 95230
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 270910,
+        "upper_90_yen": 413703,
+        "lower_10_yen": 180502
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 431417,
+        "upper_90_yen": 726990,
+        "lower_10_yen": 262853
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 611345,
+        "upper_90_yen": 1123177,
+        "lower_10_yen": 344651
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 813043,
+        "upper_90_yen": 1616157,
+        "lower_10_yen": 427241
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1039147,
+        "upper_90_yen": 2222864,
+        "lower_10_yen": 511559
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1292608,
+        "upper_90_yen": 2963504,
+        "lower_10_yen": 598346
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1576738,
+        "upper_90_yen": 3861963,
+        "lower_10_yen": 688243
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1895247,
+        "upper_90_yen": 4946346,
+        "lower_10_yen": 781836
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2252294,
+        "upper_90_yen": 6249629,
+        "lower_10_yen": 879690
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "任天堂(7974)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "任天堂(7974)を1株(8,926円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小8,926円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.69%、幾何成長率は8.59%",
+      "新NISAで月1万円の配当金を得るには475株（約4,239,850円）が必要"
+    ],
+    "accumulation_strategy_analysis": "任天堂は単元未満株（S株・かぶミニ等）を利用することで1株（約8,926円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,252,294円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり253.0円（利回り2.83%）です。月次95%VaR（最大想定損失率）は-14.21%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "任天堂は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約8,926円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、475株（元本目安：約4,239,850円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 8926.0
+  }
+}

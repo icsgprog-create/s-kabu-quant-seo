@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6358",
+    "name": "酒井重工業",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1999.0,
+    "min_s_kabu_yen": 1999,
+    "unit_lot_yen": 199900,
+    "dps_yen": 107.0,
+    "dividend_yield_pct": 5.35,
+    "raw_annual_return_pct": 11.88,
+    "capped_annual_return_pct": 11.88,
+    "geometric_growth_pct": 7.6,
+    "annual_volatility_pct": 29.25,
+    "max_drawdown_pct": -47.79,
+    "monthly_var_95_pct": -8.58,
+    "sharpe_ratio": 0.41,
+    "quant_score": 71.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 113,
+        "nisa_required_capital_yen": 225887,
+        "specific_required_shares": 141,
+        "specific_required_capital_yen": 281859
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 561,
+        "nisa_required_capital_yen": 1121439,
+        "specific_required_shares": 704,
+        "specific_required_capital_yen": 1407296
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1122,
+        "nisa_required_capital_yen": 2242878,
+        "specific_required_shares": 1408,
+        "specific_required_capital_yen": 2814592
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3365,
+        "nisa_required_capital_yen": 6726635,
+        "specific_required_shares": 4223,
+        "specific_required_capital_yen": 8441777
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5608,
+        "nisa_required_capital_yen": 11210392,
+        "specific_required_shares": 7038,
+        "specific_required_capital_yen": 14068962
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128810,
+        "upper_90_yen": 168727,
+        "lower_10_yen": 98975
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 275430,
+        "upper_90_yen": 402380,
+        "lower_10_yen": 191158
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 442325,
+        "upper_90_yen": 706036,
+        "lower_10_yen": 282991
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 632295,
+        "upper_90_yen": 1091047,
+        "lower_10_yen": 376802
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 848534,
+        "upper_90_yen": 1572191,
+        "lower_10_yen": 474048
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1094671,
+        "upper_90_yen": 2167580,
+        "lower_10_yen": 575856
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1374843,
+        "upper_90_yen": 2899016,
+        "lower_10_yen": 683222
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1693755,
+        "upper_90_yen": 3792530,
+        "lower_10_yen": 797091
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2056762,
+        "upper_90_yen": 4879087,
+        "lower_10_yen": 918409
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2469964,
+        "upper_90_yen": 6195426,
+        "lower_10_yen": 1048154
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "酒井重工業(6358)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "酒井重工業(6358)を1株(1,999円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,999円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.25%、幾何成長率は7.6%",
+      "新NISAで月1万円の配当金を得るには1,122株（約2,242,878円）が必要"
+    ],
+    "accumulation_strategy_analysis": "酒井重工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,999円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,469,964円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり107.0円（利回り5.35%）です。月次95%VaR（最大想定損失率）は-8.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "酒井重工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,999円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,122株（元本目安：約2,242,878円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1999.0
+  }
+}

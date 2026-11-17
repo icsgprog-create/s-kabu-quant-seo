@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6564",
+    "name": "ミダックホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1851.0,
+    "min_s_kabu_yen": 1851,
+    "unit_lot_yen": 185100,
+    "dps_yen": 18.0,
+    "dividend_yield_pct": 0.97,
+    "raw_annual_return_pct": -20.16,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -24.51,
+    "annual_volatility_pct": 43.62,
+    "max_drawdown_pct": -78.24,
+    "monthly_var_95_pct": -22.92,
+    "sharpe_ratio": -0.56,
+    "quant_score": 9.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 1234617,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 1549287
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 6171234,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 7744584
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 12340617,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 15487317
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 37020000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 46458249
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 33334,
+        "nisa_required_capital_yen": 61701234,
+        "specific_required_shares": 41832,
+        "specific_required_capital_yen": 77431032
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105877,
+        "upper_90_yen": 156768,
+        "lower_10_yen": 72569
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 189546,
+        "upper_90_yen": 323363,
+        "lower_10_yen": 114771
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 255666,
+        "upper_90_yen": 483986,
+        "lower_10_yen": 142058
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 307917,
+        "upper_90_yen": 633172,
+        "lower_10_yen": 160393
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 349209,
+        "upper_90_yen": 768743,
+        "lower_10_yen": 172987
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 381840,
+        "upper_90_yen": 890130,
+        "lower_10_yen": 181769
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 407626,
+        "upper_90_yen": 997640,
+        "lower_10_yen": 187960
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 428004,
+        "upper_90_yen": 1092057,
+        "lower_10_yen": 192362
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 444108,
+        "upper_90_yen": 1174412,
+        "lower_10_yen": 195514
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 456834,
+        "upper_90_yen": 1245843,
+        "lower_10_yen": 197782
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ミダックホールディングス(6564)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ミダックホールディングス(6564)を1株(1,851円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,851円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.62%、幾何成長率は-24.51%",
+      "新NISAで月1万円の配当金を得るには6,667株（約12,340,617円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ミダックホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,851円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は456,834円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり18.0円（利回り0.97%）です。月次95%VaR（最大想定損失率）は-22.92%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ミダックホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,851円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,667株（元本目安：約12,340,617円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1851.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6209",
+    "name": "リケンＮＰＲ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3685.0,
+    "min_s_kabu_yen": 3685,
+    "unit_lot_yen": 368500,
+    "dps_yen": 240.0,
+    "dividend_yield_pct": 6.51,
+    "raw_annual_return_pct": 29.08,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.28,
+    "annual_volatility_pct": 33.82,
+    "max_drawdown_pct": -35.06,
+    "monthly_var_95_pct": -11.4,
+    "sharpe_ratio": 0.59,
+    "quant_score": 70.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 50,
+        "nisa_required_capital_yen": 184250,
+        "specific_required_shares": 63,
+        "specific_required_capital_yen": 232155
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 250,
+        "nisa_required_capital_yen": 921250,
+        "specific_required_shares": 314,
+        "specific_required_capital_yen": 1157090
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 1842500,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 2314180
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 5527500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 6938855
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 9212500,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 11563530
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134548,
+        "upper_90_yen": 184305,
+        "lower_10_yen": 99070
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 300196,
+        "upper_90_yen": 468564,
+        "lower_10_yen": 195846
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 504133,
+        "upper_90_yen": 876350,
+        "lower_10_yen": 297993
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 755210,
+        "upper_90_yen": 1444978,
+        "lower_10_yen": 408977
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1064322,
+        "upper_90_yen": 2224769,
+        "lower_10_yen": 531615
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1444886,
+        "upper_90_yen": 3282072,
+        "lower_10_yen": 668690
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1913415,
+        "upper_90_yen": 4703698,
+        "lower_10_yen": 823197
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2490245,
+        "upper_90_yen": 6602782,
+        "lower_10_yen": 998493
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3200407,
+        "upper_90_yen": 9126405,
+        "lower_10_yen": 1198428
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4074721,
+        "upper_90_yen": 12465401,
+        "lower_10_yen": 1427459
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "リケンＮＰＲ(6209)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "リケンＮＰＲ(6209)を1株(3,685円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,685円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.82%、幾何成長率は14.28%",
+      "新NISAで月1万円の配当金を得るには500株（約1,842,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "リケンＮＰＲは単元未満株（S株・かぶミニ等）を利用することで1株（約3,685円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,074,721円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり240.0円（利回り6.51%）です。月次95%VaR（最大想定損失率）は-11.4%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "リケンＮＰＲは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,685円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、500株（元本目安：約1,842,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3685.0
+  }
+}

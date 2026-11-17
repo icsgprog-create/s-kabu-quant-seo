@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7544",
+    "name": "スリーエフ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 545.0,
+    "min_s_kabu_yen": 545,
+    "unit_lot_yen": 54500,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 3.67,
+    "raw_annual_return_pct": 14.72,
+    "capped_annual_return_pct": 14.72,
+    "geometric_growth_pct": 11.4,
+    "annual_volatility_pct": 25.76,
+    "max_drawdown_pct": -38.28,
+    "monthly_var_95_pct": -6.1,
+    "sharpe_ratio": 0.55,
+    "quant_score": 67.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 327000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 410385
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 1635000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 2051925
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 3270000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 4103850
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 9810000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 12311005
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 16350000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 20518705
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130331,
+        "upper_90_yen": 165318,
+        "lower_10_yen": 103265
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281865,
+        "upper_90_yen": 393758,
+        "lower_10_yen": 203933
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 458051,
+        "upper_90_yen": 692240,
+        "lower_10_yen": 308023
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 662900,
+        "upper_90_yen": 1073856,
+        "lower_10_yen": 418055
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 901075,
+        "upper_90_yen": 1555578,
+        "lower_10_yen": 535872
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1177997,
+        "upper_90_yen": 2158418,
+        "lower_10_yen": 663132
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1499970,
+        "upper_90_yen": 2908026,
+        "lower_10_yen": 801474
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1874322,
+        "upper_90_yen": 3835515,
+        "lower_10_yen": 952615
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2309577,
+        "upper_90_yen": 4978514,
+        "lower_10_yen": 1118404
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2815640,
+        "upper_90_yen": 6382434,
+        "lower_10_yen": 1300865
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "スリーエフ(7544)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "スリーエフ(7544)を1株(545円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小545円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.76%、幾何成長率は11.4%",
+      "新NISAで月1万円の配当金を得るには6,000株（約3,270,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "スリーエフは単元未満株（S株・かぶミニ等）を利用することで1株（約545円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,815,640円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り3.67%）です。月次95%VaR（最大想定損失率）は-6.1%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "スリーエフは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約545円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約3,270,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 545.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7202",
+    "name": "いすゞ自動車",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2232.5,
+    "min_s_kabu_yen": 2233,
+    "unit_lot_yen": 223250,
+    "dps_yen": 93.0,
+    "dividend_yield_pct": 4.17,
+    "raw_annual_return_pct": 10.61,
+    "capped_annual_return_pct": 10.61,
+    "geometric_growth_pct": 6.18,
+    "annual_volatility_pct": 29.76,
+    "max_drawdown_pct": -27.79,
+    "monthly_var_95_pct": -9.94,
+    "sharpe_ratio": 0.31,
+    "quant_score": 61.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 130,
+        "nisa_required_capital_yen": 290225,
+        "specific_required_shares": 162,
+        "specific_required_capital_yen": 361665
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 646,
+        "nisa_required_capital_yen": 1442195,
+        "specific_required_shares": 810,
+        "specific_required_capital_yen": 1808325
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1291,
+        "nisa_required_capital_yen": 2882158,
+        "specific_required_shares": 1620,
+        "specific_required_capital_yen": 3616650
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3871,
+        "nisa_required_capital_yen": 8642008,
+        "specific_required_shares": 4858,
+        "specific_required_capital_yen": 10845485
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6452,
+        "nisa_required_capital_yen": 14404090,
+        "specific_required_shares": 8097,
+        "specific_required_capital_yen": 18076552
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126973,
+        "upper_90_yen": 167005,
+        "lower_10_yen": 97187
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 267785,
+        "upper_90_yen": 393137,
+        "lower_10_yen": 185045
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 423946,
+        "upper_90_yen": 680136,
+        "lower_10_yen": 270116
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 597128,
+        "upper_90_yen": 1035340,
+        "lower_10_yen": 354623
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 789186,
+        "upper_90_yen": 1468524,
+        "lower_10_yen": 439832
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1002178,
+        "upper_90_yen": 1991540,
+        "lower_10_yen": 526617
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1238386,
+        "upper_90_yen": 2618372,
+        "lower_10_yen": 615668
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1500340,
+        "upper_90_yen": 3365325,
+        "lower_10_yen": 707570
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1790845,
+        "upper_90_yen": 4251311,
+        "lower_10_yen": 802858
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2113016,
+        "upper_90_yen": 5298188,
+        "lower_10_yen": 902035
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "いすゞ自動車(7202)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "いすゞ自動車(7202)を1株(2,233円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,233円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.76%、幾何成長率は6.18%",
+      "新NISAで月1万円の配当金を得るには1,291株（約2,882,158円）が必要"
+    ],
+    "accumulation_strategy_analysis": "いすゞ自動車は単元未満株（S株・かぶミニ等）を利用することで1株（約2,233円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,113,016円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり93.0円（利回り4.17%）です。月次95%VaR（最大想定損失率）は-9.94%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "いすゞ自動車は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,233円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,291株（元本目安：約2,882,158円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2232.5
+  }
+}

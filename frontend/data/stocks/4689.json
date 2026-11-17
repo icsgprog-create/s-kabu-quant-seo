@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4689",
+    "name": "ＬＩＮＥヤフー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 533.8,
+    "min_s_kabu_yen": 534,
+    "unit_lot_yen": 53380,
+    "dps_yen": 7.3,
+    "dividend_yield_pct": 1.37,
+    "raw_annual_return_pct": -7.12,
+    "capped_annual_return_pct": -7.12,
+    "geometric_growth_pct": -12.39,
+    "annual_volatility_pct": 32.47,
+    "max_drawdown_pct": -60.28,
+    "monthly_var_95_pct": -14.25,
+    "sharpe_ratio": -0.37,
+    "quant_score": 23.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 877567,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 1101229
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8220,
+        "nisa_required_capital_yen": 4387836,
+        "specific_required_shares": 10315,
+        "specific_required_capital_yen": 5506147
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 16439,
+        "nisa_required_capital_yen": 8775138,
+        "specific_required_shares": 20630,
+        "specific_required_capital_yen": 11012294
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 49316,
+        "nisa_required_capital_yen": 26324880,
+        "specific_required_shares": 61888,
+        "specific_required_capital_yen": 33035814
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 82192,
+        "nisa_required_capital_yen": 43874089,
+        "specific_required_shares": 103146,
+        "specific_required_capital_yen": 55059334
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113103,
+        "upper_90_yen": 151753,
+        "lower_10_yen": 84985
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 214404,
+        "upper_90_yen": 321117,
+        "lower_10_yen": 145719
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 305134,
+        "upper_90_yen": 496972,
+        "lower_10_yen": 192597
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 386397,
+        "upper_90_yen": 674574,
+        "lower_10_yen": 229817
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 459180,
+        "upper_90_yen": 851059,
+        "lower_10_yen": 259857
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 524369,
+        "upper_90_yen": 1024515,
+        "lower_10_yen": 284371
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 582755,
+        "upper_90_yen": 1193619,
+        "lower_10_yen": 304541
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 635048,
+        "upper_90_yen": 1357447,
+        "lower_10_yen": 321241
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 681885,
+        "upper_90_yen": 1515363,
+        "lower_10_yen": 335138
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 723834,
+        "upper_90_yen": 1666942,
+        "lower_10_yen": 346752
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＬＩＮＥヤフー(4689)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＬＩＮＥヤフー(4689)を1株(534円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小534円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.47%、幾何成長率は-12.39%",
+      "新NISAで月1万円の配当金を得るには16,439株（約8,775,138円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＬＩＮＥヤフーは単元未満株（S株・かぶミニ等）を利用することで1株（約534円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は723,834円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.3円（利回り1.37%）です。月次95%VaR（最大想定損失率）は-14.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＬＩＮＥヤフーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約534円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、16,439株（元本目安：約8,775,138円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 533.8
+  }
+}

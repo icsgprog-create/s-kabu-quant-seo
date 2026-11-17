@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3673",
+    "name": "ブロードリーフ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 331.0,
+    "min_s_kabu_yen": 331,
+    "unit_lot_yen": 33100,
+    "dps_yen": 5.5,
+    "dividend_yield_pct": 1.66,
+    "raw_annual_return_pct": 3.77,
+    "capped_annual_return_pct": 3.77,
+    "geometric_growth_pct": -3.99,
+    "annual_volatility_pct": 39.38,
+    "max_drawdown_pct": -42.62,
+    "monthly_var_95_pct": -16.91,
+    "sharpe_ratio": -0.08,
+    "quant_score": 21.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 722242,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 906609
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 3611210,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 4531721
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 21819,
+        "nisa_required_capital_yen": 7222089,
+        "specific_required_shares": 27381,
+        "specific_required_capital_yen": 9063111
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 65455,
+        "nisa_required_capital_yen": 21665605,
+        "specific_required_shares": 82142,
+        "specific_required_capital_yen": 27189002
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 109091,
+        "nisa_required_capital_yen": 36109121,
+        "specific_required_shares": 136903,
+        "specific_required_capital_yen": 45314893
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118499,
+        "upper_90_yen": 169890,
+        "lower_10_yen": 83641
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 234272,
+        "upper_90_yen": 386228,
+        "lower_10_yen": 145812
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 347380,
+        "upper_90_yen": 638980,
+        "lower_10_yen": 196535
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 457886,
+        "upper_90_yen": 924577,
+        "lower_10_yen": 239357
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 565850,
+        "upper_90_yen": 1241031,
+        "lower_10_yen": 276234
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 671329,
+        "upper_90_yen": 1587046,
+        "lower_10_yen": 308419
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 774382,
+        "upper_90_yen": 1961696,
+        "lower_10_yen": 336788
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 875063,
+        "upper_90_yen": 2364274,
+        "lower_10_yen": 361985
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 973428,
+        "upper_90_yen": 2794217,
+        "lower_10_yen": 384503
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1069529,
+        "upper_90_yen": 3251060,
+        "lower_10_yen": 404730
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブロードリーフ(3673)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブロードリーフ(3673)を1株(331円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小331円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.38%、幾何成長率は-3.99%",
+      "新NISAで月1万円の配当金を得るには21,819株（約7,222,089円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブロードリーフは単元未満株（S株・かぶミニ等）を利用することで1株（約331円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,069,529円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.5円（利回り1.66%）です。月次95%VaR（最大想定損失率）は-16.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブロードリーフは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約331円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、21,819株（元本目安：約7,222,089円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 331.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5714",
+    "name": "ＤＯＷＡホールディングス",
+    "sector": "非鉄金属",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7949.0,
+    "min_s_kabu_yen": 7949,
+    "unit_lot_yen": 794900,
+    "dps_yen": 368.0,
+    "dividend_yield_pct": 4.63,
+    "raw_annual_return_pct": 13.79,
+    "capped_annual_return_pct": 13.79,
+    "geometric_growth_pct": 6.98,
+    "annual_volatility_pct": 36.88,
+    "max_drawdown_pct": -36.64,
+    "monthly_var_95_pct": -14.51,
+    "sharpe_ratio": 0.29,
+    "quant_score": 57.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 33,
+        "nisa_required_capital_yen": 262317,
+        "specific_required_shares": 41,
+        "specific_required_capital_yen": 325909
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 164,
+        "nisa_required_capital_yen": 1303636,
+        "specific_required_shares": 205,
+        "specific_required_capital_yen": 1629545
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 327,
+        "nisa_required_capital_yen": 2599323,
+        "specific_required_shares": 410,
+        "specific_required_capital_yen": 3259090
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 979,
+        "nisa_required_capital_yen": 7782071,
+        "specific_required_shares": 1228,
+        "specific_required_capital_yen": 9761372
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1631,
+        "nisa_required_capital_yen": 12964819,
+        "specific_required_shares": 2047,
+        "specific_required_capital_yen": 16271603
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127863,
+        "upper_90_yen": 179818,
+        "lower_10_yen": 91861
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271474,
+        "upper_90_yen": 438266,
+        "lower_10_yen": 171903
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 432771,
+        "upper_90_yen": 781314,
+        "lower_10_yen": 247882
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 613933,
+        "upper_90_yen": 1222726,
+        "lower_10_yen": 322331
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 817406,
+        "upper_90_yen": 1780436,
+        "lower_10_yen": 396641
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1045939,
+        "upper_90_yen": 2476399,
+        "lower_10_yen": 471746
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1302617,
+        "upper_90_yen": 3336980,
+        "lower_10_yen": 548358
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1590907,
+        "upper_90_yen": 4393578,
+        "lower_10_yen": 627065
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1914701,
+        "upper_90_yen": 5683429,
+        "lower_10_yen": 708392
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2278374,
+        "upper_90_yen": 7250566,
+        "lower_10_yen": 792827
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＤＯＷＡホールディングス(5714)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＤＯＷＡホールディングス(5714)を1株(7,949円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,949円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.88%、幾何成長率は6.98%",
+      "新NISAで月1万円の配当金を得るには327株（約2,599,323円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＤＯＷＡホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約7,949円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,278,374円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり368.0円（利回り4.63%）です。月次95%VaR（最大想定損失率）は-14.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＤＯＷＡホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,949円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、327株（元本目安：約2,599,323円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7949.0
+  }
+}

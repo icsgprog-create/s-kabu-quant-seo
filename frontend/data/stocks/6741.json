@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6741",
+    "name": "日本信号",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1630.0,
+    "min_s_kabu_yen": 1630,
+    "unit_lot_yen": 163000,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 3.68,
+    "raw_annual_return_pct": 14.95,
+    "capped_annual_return_pct": 14.95,
+    "geometric_growth_pct": 12.32,
+    "annual_volatility_pct": 22.9,
+    "max_drawdown_pct": -26.73,
+    "monthly_var_95_pct": -6.68,
+    "sharpe_ratio": 0.66,
+    "quant_score": 72.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 326000,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 409130
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1630000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2045650
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 3260000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 4091300
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 9780000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 12273900
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 16300000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 20456500
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131006,
+        "upper_90_yen": 161833,
+        "lower_10_yen": 106471
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 284748,
+        "upper_90_yen": 383287,
+        "lower_10_yen": 213330
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 465174,
+        "upper_90_yen": 671592,
+        "lower_10_yen": 326323
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 676915,
+        "upper_90_yen": 1039743,
+        "lower_10_yen": 448166
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 925405,
+        "upper_90_yen": 1504553,
+        "lower_10_yen": 581062
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1217022,
+        "upper_90_yen": 2086898,
+        "lower_10_yen": 727141
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1559252,
+        "upper_90_yen": 2812364,
+        "lower_10_yen": 888628
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1960878,
+        "upper_90_yen": 3712145,
+        "lower_10_yen": 1067940
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2432211,
+        "upper_90_yen": 4824162,
+        "lower_10_yen": 1267758
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2985347,
+        "upper_90_yen": 6194430,
+        "lower_10_yen": 1491084
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本信号(6741)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本信号(6741)を1株(1,630円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,630円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.9%、幾何成長率は12.32%",
+      "新NISAで月1万円の配当金を得るには2,000株（約3,260,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本信号は単元未満株（S株・かぶミニ等）を利用することで1株（約1,630円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,985,347円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り3.68%）です。月次95%VaR（最大想定損失率）は-6.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本信号は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,630円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約3,260,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1630.0
+  }
+}

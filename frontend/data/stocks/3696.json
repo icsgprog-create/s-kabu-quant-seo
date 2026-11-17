@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3696",
+    "name": "セレス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2081.0,
+    "min_s_kabu_yen": 2081,
+    "unit_lot_yen": 208100,
+    "dps_yen": 80.0,
+    "dividend_yield_pct": 3.84,
+    "raw_annual_return_pct": -1.94,
+    "capped_annual_return_pct": -1.94,
+    "geometric_growth_pct": -20.6,
+    "annual_volatility_pct": 61.09,
+    "max_drawdown_pct": -66.9,
+    "monthly_var_95_pct": -23.51,
+    "sharpe_ratio": -0.29,
+    "quant_score": 30.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 150,
+        "nisa_required_capital_yen": 312150,
+        "specific_required_shares": 189,
+        "specific_required_capital_yen": 393309
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 1560750,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 1960302
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 3121500,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 3918523
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4500,
+        "nisa_required_capital_yen": 9364500,
+        "specific_required_shares": 5648,
+        "specific_required_capital_yen": 11753488
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 15607500,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 19588453
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109719,
+        "upper_90_yen": 191484,
+        "lower_10_yen": 64706
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 202515,
+        "upper_90_yen": 435662,
+        "lower_10_yen": 100268
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 280999,
+        "upper_90_yen": 708279,
+        "lower_10_yen": 122977
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 347379,
+        "upper_90_yen": 997262,
+        "lower_10_yen": 138279
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 403521,
+        "upper_90_yen": 1294419,
+        "lower_10_yen": 148916
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 451004,
+        "upper_90_yen": 1593736,
+        "lower_10_yen": 156466
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 491163,
+        "upper_90_yen": 1890673,
+        "lower_10_yen": 161908
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 525129,
+        "upper_90_yen": 2181790,
+        "lower_10_yen": 165877
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 553856,
+        "upper_90_yen": 2464495,
+        "lower_10_yen": 168801
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 578153,
+        "upper_90_yen": 2736873,
+        "lower_10_yen": 170971
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セレス(3696)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セレス(3696)を1株(2,081円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,081円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは61.09%、幾何成長率は-20.6%",
+      "新NISAで月1万円の配当金を得るには1,500株（約3,121,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セレスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,081円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は578,153円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり80.0円（利回り3.84%）です。月次95%VaR（最大想定損失率）は-23.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セレスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,081円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,500株（元本目安：約3,121,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2081.0
+  }
+}

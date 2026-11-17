@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7244",
+    "name": "市光工業",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 484.0,
+    "min_s_kabu_yen": 484,
+    "unit_lot_yen": 48400,
+    "dps_yen": 16.0,
+    "dividend_yield_pct": 3.31,
+    "raw_annual_return_pct": 0.05,
+    "capped_annual_return_pct": 0.05,
+    "geometric_growth_pct": -5.62,
+    "annual_volatility_pct": 33.67,
+    "max_drawdown_pct": -43.06,
+    "monthly_var_95_pct": -12.83,
+    "sharpe_ratio": -0.1,
+    "quant_score": 40.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 363000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 455928
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 1815000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 2278188
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 3630000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 4555892
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22500,
+        "nisa_required_capital_yen": 10890000,
+        "specific_required_shares": 28237,
+        "specific_required_capital_yen": 13666708
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 37500,
+        "nisa_required_capital_yen": 18150000,
+        "specific_required_shares": 47061,
+        "specific_required_capital_yen": 22777524
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118509,
+        "upper_90_yen": 161139,
+        "lower_10_yen": 87917
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 234308,
+        "upper_90_yen": 358724,
+        "lower_10_yen": 155956
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 347460,
+        "upper_90_yen": 583709,
+        "lower_10_yen": 212951
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 458025,
+        "upper_90_yen": 832669,
+        "lower_10_yen": 262107
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 566062,
+        "upper_90_yen": 1103583,
+        "lower_10_yen": 305228
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 671629,
+        "upper_90_yen": 1395053,
+        "lower_10_yen": 343489
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 774782,
+        "upper_90_yen": 1706023,
+        "lower_10_yen": 377727
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 875578,
+        "upper_90_yen": 2035644,
+        "lower_10_yen": 408565
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 974069,
+        "upper_90_yen": 2383208,
+        "lower_10_yen": 436488
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1070308,
+        "upper_90_yen": 2748103,
+        "lower_10_yen": 461880
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "市光工業(7244)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "市光工業(7244)を1株(484円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小484円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.67%、幾何成長率は-5.62%",
+      "新NISAで月1万円の配当金を得るには7,500株（約3,630,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "市光工業は単元未満株（S株・かぶミニ等）を利用することで1株（約484円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,070,308円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.0円（利回り3.31%）です。月次95%VaR（最大想定損失率）は-12.83%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "市光工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約484円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,500株（元本目安：約3,630,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 484.0
+  }
+}

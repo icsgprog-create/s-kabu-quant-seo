@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6038",
+    "name": "イード",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 798.0,
+    "min_s_kabu_yen": 798,
+    "unit_lot_yen": 79800,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 2.88,
+    "raw_annual_return_pct": 0.76,
+    "capped_annual_return_pct": 0.76,
+    "geometric_growth_pct": -1.86,
+    "annual_volatility_pct": 22.87,
+    "max_drawdown_pct": -26.55,
+    "monthly_var_95_pct": -8.41,
+    "sharpe_ratio": 0.0,
+    "quant_score": 50.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 416556,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 522690
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 2081982,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 2612652
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 4163964,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 5225304
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 12491094,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 15675114
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 20817426,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 26124924
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120668,
+        "upper_90_yen": 148629,
+        "lower_10_yen": 98360
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242579,
+        "upper_90_yen": 323893,
+        "lower_10_yen": 183258
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 365744,
+        "upper_90_yen": 520362,
+        "lower_10_yen": 260524
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 490178,
+        "upper_90_yen": 736357,
+        "lower_10_yen": 332246
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 615893,
+        "upper_90_yen": 971129,
+        "lower_10_yen": 399590
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 742902,
+        "upper_90_yen": 1224347,
+        "lower_10_yen": 463316
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 871219,
+        "upper_90_yen": 1495909,
+        "lower_10_yen": 523964
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1000856,
+        "upper_90_yen": 1785860,
+        "lower_10_yen": 581939
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1131829,
+        "upper_90_yen": 2094343,
+        "lower_10_yen": 637557
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1264150,
+        "upper_90_yen": 2421577,
+        "lower_10_yen": 691073
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "イード(6038)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "イード(6038)を1株(798円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小798円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.87%、幾何成長率は-1.86%",
+      "新NISAで月1万円の配当金を得るには5,218株（約4,163,964円）が必要"
+    ],
+    "accumulation_strategy_analysis": "イードは単元未満株（S株・かぶミニ等）を利用することで1株（約798円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,264,150円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り2.88%）です。月次95%VaR（最大想定損失率）は-8.41%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "イードは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約798円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約4,163,964円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 798.0
+  }
+}

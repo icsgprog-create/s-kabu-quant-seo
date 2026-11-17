@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9639",
+    "name": "三協フロンテア",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2277.0,
+    "min_s_kabu_yen": 2277,
+    "unit_lot_yen": 227700,
+    "dps_yen": 95.0,
+    "dividend_yield_pct": 4.17,
+    "raw_annual_return_pct": 0.7,
+    "capped_annual_return_pct": 0.7,
+    "geometric_growth_pct": -0.69,
+    "annual_volatility_pct": 16.68,
+    "max_drawdown_pct": -40.42,
+    "monthly_var_95_pct": -7.0,
+    "sharpe_ratio": 0.15,
+    "quant_score": 70.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 127,
+        "nisa_required_capital_yen": 289179,
+        "specific_required_shares": 159,
+        "specific_required_capital_yen": 362043
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 632,
+        "nisa_required_capital_yen": 1439064,
+        "specific_required_shares": 793,
+        "specific_required_capital_yen": 1805661
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1264,
+        "nisa_required_capital_yen": 2878128,
+        "specific_required_shares": 1586,
+        "specific_required_capital_yen": 3611322
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3790,
+        "nisa_required_capital_yen": 8629830,
+        "specific_required_shares": 4756,
+        "specific_required_capital_yen": 10829412
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6316,
+        "nisa_required_capital_yen": 14381532,
+        "specific_required_shares": 7926,
+        "specific_required_capital_yen": 18047502
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122293,
+        "upper_90_yen": 142363,
+        "lower_10_yen": 105276
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248923,
+        "upper_90_yen": 307395,
+        "lower_10_yen": 202500
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 380043,
+        "upper_90_yen": 491744,
+        "lower_10_yen": 295796
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 515814,
+        "upper_90_yen": 694769,
+        "lower_10_yen": 386615
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 656399,
+        "upper_90_yen": 916510,
+        "lower_10_yen": 475766
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 801970,
+        "upper_90_yen": 1157333,
+        "lower_10_yen": 563775
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 952704,
+        "upper_90_yen": 1417795,
+        "lower_10_yen": 651020
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1108783,
+        "upper_90_yen": 1698590,
+        "lower_10_yen": 737786
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1270397,
+        "upper_90_yen": 2000521,
+        "lower_10_yen": 824303
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1437743,
+        "upper_90_yen": 2324481,
+        "lower_10_yen": 910756
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三協フロンテア(9639)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三協フロンテア(9639)を1株(2,277円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,277円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは16.68%、幾何成長率は-0.69%",
+      "新NISAで月1万円の配当金を得るには1,264株（約2,878,128円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三協フロンテアは単元未満株（S株・かぶミニ等）を利用することで1株（約2,277円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,437,743円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり95.0円（利回り4.17%）です。月次95%VaR（最大想定損失率）は-7.0%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三協フロンテアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,277円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,264株（元本目安：約2,878,128円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2277.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7931",
+    "name": "未来工業",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3260.0,
+    "min_s_kabu_yen": 3260,
+    "unit_lot_yen": 326000,
+    "dps_yen": 145.0,
+    "dividend_yield_pct": 4.45,
+    "raw_annual_return_pct": 17.73,
+    "capped_annual_return_pct": 17.73,
+    "geometric_growth_pct": 13.1,
+    "annual_volatility_pct": 30.44,
+    "max_drawdown_pct": -42.87,
+    "monthly_var_95_pct": -10.23,
+    "sharpe_ratio": 0.54,
+    "quant_score": 68.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 83,
+        "nisa_required_capital_yen": 270580,
+        "specific_required_shares": 104,
+        "specific_required_capital_yen": 339040
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 1349640,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 1695200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 828,
+        "nisa_required_capital_yen": 2699280,
+        "specific_required_shares": 1039,
+        "specific_required_capital_yen": 3387140
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2483,
+        "nisa_required_capital_yen": 8094580,
+        "specific_required_shares": 3116,
+        "specific_required_capital_yen": 10158160
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 13489880,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 16929180
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132132,
+        "upper_90_yen": 175203,
+        "lower_10_yen": 100348
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289607,
+        "upper_90_yen": 431122,
+        "lower_10_yen": 197447
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 477283,
+        "upper_90_yen": 781183,
+        "lower_10_yen": 298190
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 700954,
+        "upper_90_yen": 1247911,
+        "lower_10_yen": 405476
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 967523,
+        "upper_90_yen": 1860894,
+        "lower_10_yen": 521480
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1285218,
+        "upper_90_yen": 2657770,
+        "lower_10_yen": 648208
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1663844,
+        "upper_90_yen": 3685920,
+        "lower_10_yen": 787708
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2115086,
+        "upper_90_yen": 5004711,
+        "lower_10_yen": 942171
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2652873,
+        "upper_90_yen": 6688324,
+        "lower_10_yen": 1114017
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3293803,
+        "upper_90_yen": 8829279,
+        "lower_10_yen": 1305953
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "未来工業(7931)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "未来工業(7931)を1株(3,260円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,260円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.44%、幾何成長率は13.1%",
+      "新NISAで月1万円の配当金を得るには828株（約2,699,280円）が必要"
+    ],
+    "accumulation_strategy_analysis": "未来工業は単元未満株（S株・かぶミニ等）を利用することで1株（約3,260円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,293,803円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり145.0円（利回り4.45%）です。月次95%VaR（最大想定損失率）は-10.23%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "未来工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,260円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、828株（元本目安：約2,699,280円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3260.0
+  }
+}

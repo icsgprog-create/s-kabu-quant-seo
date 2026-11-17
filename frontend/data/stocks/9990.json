@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9990",
+    "name": "サックスバー　ホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 738.0,
+    "min_s_kabu_yen": 738,
+    "unit_lot_yen": 73800,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 4.74,
+    "raw_annual_return_pct": 8.2,
+    "capped_annual_return_pct": 8.2,
+    "geometric_growth_pct": 4.96,
+    "annual_volatility_pct": 25.45,
+    "max_drawdown_pct": -28.36,
+    "monthly_var_95_pct": -8.64,
+    "sharpe_ratio": 0.34,
+    "quant_score": 71.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 253134,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 318078
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 1265670,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 1588176
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 2530602,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 3175614
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 7591068,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 9526104
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 12651534,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 15877332
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126526,
+        "upper_90_yen": 159864,
+        "lower_10_yen": 100633
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265945,
+        "upper_90_yen": 368894,
+        "lower_10_yen": 193759
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 419573,
+        "upper_90_yen": 627414,
+        "lower_10_yen": 285133
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 588856,
+        "upper_90_yen": 940328,
+        "lower_10_yen": 376771
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 775391,
+        "upper_90_yen": 1314329,
+        "lower_10_yen": 469851
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 980935,
+        "upper_90_yen": 1757526,
+        "lower_10_yen": 565215
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1207425,
+        "upper_90_yen": 2279411,
+        "lower_10_yen": 663541
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1456997,
+        "upper_90_yen": 2890946,
+        "lower_10_yen": 765423
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1732001,
+        "upper_90_yen": 3604698,
+        "lower_10_yen": 871407
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2035030,
+        "upper_90_yen": 4435025,
+        "lower_10_yen": 982024
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サックスバー　ホールディングス(9990)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サックスバー　ホールディングス(9990)を1株(738円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小738円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.45%、幾何成長率は4.96%",
+      "新NISAで月1万円の配当金を得るには3,429株（約2,530,602円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サックスバー　ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約738円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,035,030円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り4.74%）です。月次95%VaR（最大想定損失率）は-8.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サックスバー　ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約738円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約2,530,602円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 738.0
+  }
+}

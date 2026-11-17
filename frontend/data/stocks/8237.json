@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8237",
+    "name": "松屋",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2665.0,
+    "min_s_kabu_yen": 2665,
+    "unit_lot_yen": 266500,
+    "dps_yen": 12.0,
+    "dividend_yield_pct": 0.45,
+    "raw_annual_return_pct": 21.7,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 10.27,
+    "annual_volatility_pct": 44.1,
+    "max_drawdown_pct": -52.13,
+    "monthly_var_95_pct": -18.76,
+    "sharpe_ratio": 0.22,
+    "quant_score": 15.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 2665000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3344575
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 13325000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 16722875
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 26650000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 33445750
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 79950000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 100334585
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 50000,
+        "nisa_required_capital_yen": 133250000,
+        "specific_required_shares": 62748,
+        "specific_required_capital_yen": 167223420
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127238,
+        "upper_90_yen": 191463,
+        "lower_10_yen": 85812
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 268881,
+        "upper_90_yen": 477515,
+        "lower_10_yen": 156255
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 426560,
+        "upper_90_yen": 866315,
+        "lower_10_yen": 220369
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 602089,
+        "upper_90_yen": 1375528,
+        "lower_10_yen": 280988
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 797491,
+        "upper_90_yen": 2028066,
+        "lower_10_yen": 339586
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1015014,
+        "upper_90_yen": 2851964,
+        "lower_10_yen": 397085
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1257163,
+        "upper_90_yen": 3880910,
+        "lower_10_yen": 454129
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1526726,
+        "upper_90_yen": 5155063,
+        "lower_10_yen": 511208
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1826807,
+        "upper_90_yen": 6722082,
+        "lower_10_yen": 568718
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2160860,
+        "upper_90_yen": 8638374,
+        "lower_10_yen": 626991
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "松屋(8237)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "松屋(8237)を1株(2,665円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,665円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.1%、幾何成長率は10.27%",
+      "新NISAで月1万円の配当金を得るには10,000株（約26,650,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "松屋は単元未満株（S株・かぶミニ等）を利用することで1株（約2,665円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,160,860円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり12.0円（利回り0.45%）です。月次95%VaR（最大想定損失率）は-18.76%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "松屋は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,665円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,000株（元本目安：約26,650,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2665.0
+  }
+}

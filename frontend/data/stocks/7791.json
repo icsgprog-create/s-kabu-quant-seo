@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7791",
+    "name": "ドリームベッド",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 810.0,
+    "min_s_kabu_yen": 810,
+    "unit_lot_yen": 81000,
+    "dps_yen": 37.0,
+    "dividend_yield_pct": 4.57,
+    "raw_annual_return_pct": 3.1,
+    "capped_annual_return_pct": 3.1,
+    "geometric_growth_pct": 0.33,
+    "annual_volatility_pct": 23.54,
+    "max_drawdown_pct": -32.25,
+    "monthly_var_95_pct": -6.65,
+    "sharpe_ratio": 0.17,
+    "quant_score": 67.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 325,
+        "nisa_required_capital_yen": 263250,
+        "specific_required_shares": 408,
+        "specific_required_capital_yen": 330480
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 1313820,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 1649160
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3244,
+        "nisa_required_capital_yen": 2627640,
+        "specific_required_shares": 4071,
+        "specific_required_capital_yen": 3297510
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9730,
+        "nisa_required_capital_yen": 7881300,
+        "specific_required_shares": 12211,
+        "specific_required_capital_yen": 9890910
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16217,
+        "nisa_required_capital_yen": 13135770,
+        "specific_required_shares": 20351,
+        "specific_required_capital_yen": 16484310
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123239,
+        "upper_90_yen": 152839,
+        "lower_10_yen": 99793
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252667,
+        "upper_90_yen": 340969,
+        "lower_10_yen": 188945
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 388594,
+        "upper_90_yen": 560838,
+        "lower_10_yen": 273040
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 531346,
+        "upper_90_yen": 812716,
+        "lower_10_yen": 353988
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 681266,
+        "upper_90_yen": 1097906,
+        "lower_10_yen": 432831
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 838713,
+        "upper_90_yen": 1418261,
+        "lower_10_yen": 510240
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1004067,
+        "upper_90_yen": 1776014,
+        "lower_10_yen": 586689
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1177724,
+        "upper_90_yen": 2173721,
+        "lower_10_yen": 662534
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1360101,
+        "upper_90_yen": 2614225,
+        "lower_10_yen": 738058
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1551635,
+        "upper_90_yen": 3100654,
+        "lower_10_yen": 813491
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ドリームベッド(7791)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ドリームベッド(7791)を1株(810円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小810円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.54%、幾何成長率は0.33%",
+      "新NISAで月1万円の配当金を得るには3,244株（約2,627,640円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ドリームベッドは単元未満株（S株・かぶミニ等）を利用することで1株（約810円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,551,635円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり37.0円（利回り4.57%）です。月次95%VaR（最大想定損失率）は-6.65%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ドリームベッドは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約810円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,244株（元本目安：約2,627,640円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 810.0
+  }
+}

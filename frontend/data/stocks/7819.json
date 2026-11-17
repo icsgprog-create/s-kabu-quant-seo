@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7819",
+    "name": "粧美堂",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 910.0,
+    "min_s_kabu_yen": 910,
+    "unit_lot_yen": 91000,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 3.85,
+    "raw_annual_return_pct": 20.15,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.76,
+    "annual_volatility_pct": 35.32,
+    "max_drawdown_pct": -41.72,
+    "monthly_var_95_pct": -11.55,
+    "sharpe_ratio": 0.47,
+    "quant_score": 57.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 312130,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 392210
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 1560650,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 1958320
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 3120390,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 3915730
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 9360260,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 11746280
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 15600130,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 19577740
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132179,
+        "upper_90_yen": 183485,
+        "lower_10_yen": 96118
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289808,
+        "upper_90_yen": 460429,
+        "lower_10_yen": 186086
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 477788,
+        "upper_90_yen": 847920,
+        "lower_10_yen": 277432
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 701963,
+        "upper_90_yen": 1374231,
+        "lower_10_yen": 373030
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 969301,
+        "upper_90_yen": 2076738,
+        "lower_10_yen": 474860
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1288114,
+        "upper_90_yen": 3003370,
+        "lower_10_yen": 584634
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1668313,
+        "upper_90_yen": 4214983,
+        "lower_10_yen": 704015
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2121717,
+        "upper_90_yen": 5788487,
+        "lower_10_yen": 834737
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2662422,
+        "upper_90_yen": 7820797,
+        "lower_10_yen": 978665
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3307237,
+        "upper_90_yen": 10433796,
+        "lower_10_yen": 1137858
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "粧美堂(7819)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "粧美堂(7819)を1株(910円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小910円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.32%、幾何成長率は13.76%",
+      "新NISAで月1万円の配当金を得るには3,429株（約3,120,390円）が必要"
+    ],
+    "accumulation_strategy_analysis": "粧美堂は単元未満株（S株・かぶミニ等）を利用することで1株（約910円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,307,237円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り3.85%）です。月次95%VaR（最大想定損失率）は-11.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "粧美堂は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約910円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約3,120,390円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 910.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6104",
+    "name": "芝浦機械",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4095.0,
+    "min_s_kabu_yen": 4095,
+    "unit_lot_yen": 409500,
+    "dps_yen": 140.0,
+    "dividend_yield_pct": 3.42,
+    "raw_annual_return_pct": 7.47,
+    "capped_annual_return_pct": 7.47,
+    "geometric_growth_pct": 0.91,
+    "annual_volatility_pct": 36.21,
+    "max_drawdown_pct": -35.77,
+    "monthly_var_95_pct": -13.97,
+    "sharpe_ratio": 0.09,
+    "quant_score": 43.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 86,
+        "nisa_required_capital_yen": 352170,
+        "specific_required_shares": 108,
+        "specific_required_capital_yen": 442260
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 1756755,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 2203110
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 3513510,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 4406220
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2572,
+        "nisa_required_capital_yen": 10532340,
+        "specific_required_shares": 3227,
+        "specific_required_capital_yen": 13214565
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 17551170,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 22027005
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122857,
+        "upper_90_yen": 171349,
+        "lower_10_yen": 88973
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 251151,
+        "upper_90_yen": 399523,
+        "lower_10_yen": 161320
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 385121,
+        "upper_90_yen": 680331,
+        "lower_10_yen": 225348
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 525019,
+        "upper_90_yen": 1015492,
+        "lower_10_yen": 283816
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 671108,
+        "upper_90_yen": 1408402,
+        "lower_10_yen": 338187
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 823661,
+        "upper_90_yen": 1863425,
+        "lower_10_yen": 389374
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 982965,
+        "upper_90_yen": 2385661,
+        "lower_10_yen": 438001
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1149317,
+        "upper_90_yen": 2980863,
+        "lower_10_yen": 484522
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1323030,
+        "upper_90_yen": 3655415,
+        "lower_10_yen": 529281
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1504430,
+        "upper_90_yen": 4416335,
+        "lower_10_yen": 572546
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "芝浦機械(6104)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "芝浦機械(6104)を1株(4,095円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,095円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.21%、幾何成長率は0.91%",
+      "新NISAで月1万円の配当金を得るには858株（約3,513,510円）が必要"
+    ],
+    "accumulation_strategy_analysis": "芝浦機械は単元未満株（S株・かぶミニ等）を利用することで1株（約4,095円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,504,430円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり140.0円（利回り3.42%）です。月次95%VaR（最大想定損失率）は-13.97%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "芝浦機械は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,095円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、858株（元本目安：約3,513,510円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4095.0
+  }
+}

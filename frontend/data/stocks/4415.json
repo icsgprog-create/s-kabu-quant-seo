@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4415",
+    "name": "ブロードエンタープライズ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1095.0,
+    "min_s_kabu_yen": 1095,
+    "unit_lot_yen": 109500,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -2.04,
+    "capped_annual_return_pct": -2.04,
+    "geometric_growth_pct": -16.46,
+    "annual_volatility_pct": 53.7,
+    "max_drawdown_pct": -66.69,
+    "monthly_var_95_pct": -19.89,
+    "sharpe_ratio": -0.33,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109889,
+        "upper_90_yen": 179048,
+        "lower_10_yen": 68962
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 203104,
+        "upper_90_yen": 397159,
+        "lower_10_yen": 109059
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 282175,
+        "upper_90_yen": 633362,
+        "lower_10_yen": 135631
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 349247,
+        "upper_90_yen": 877734,
+        "lower_10_yen": 154092
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 406143,
+        "upper_90_yen": 1123881,
+        "lower_10_yen": 167271
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 454405,
+        "upper_90_yen": 1367353,
+        "lower_10_yen": 176855
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 495344,
+        "upper_90_yen": 1604976,
+        "lower_10_yen": 183919
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 530071,
+        "upper_90_yen": 1834494,
+        "lower_10_yen": 189180
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 559528,
+        "upper_90_yen": 2054333,
+        "lower_10_yen": 193132
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 584516,
+        "upper_90_yen": 2263446,
+        "lower_10_yen": 196121
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブロードエンタープライズ(4415)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブロードエンタープライズ(4415)を1株(1,095円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,095円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.7%、幾何成長率は-16.46%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブロードエンタープライズは単元未満株（S株・かぶミニ等）を利用することで1株（約1,095円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は584,516円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-19.89%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブロードエンタープライズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,095円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1095.0
+  }
+}

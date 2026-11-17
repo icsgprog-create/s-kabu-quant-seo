@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4968",
+    "name": "荒川化学工業",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1736.0,
+    "min_s_kabu_yen": 1736,
+    "unit_lot_yen": 173600,
+    "dps_yen": 58.5,
+    "dividend_yield_pct": 3.37,
+    "raw_annual_return_pct": 11.77,
+    "capped_annual_return_pct": 11.77,
+    "geometric_growth_pct": 5.75,
+    "annual_volatility_pct": 34.71,
+    "max_drawdown_pct": -33.16,
+    "monthly_var_95_pct": -12.56,
+    "sharpe_ratio": 0.23,
+    "quant_score": 48.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 206,
+        "nisa_required_capital_yen": 357616,
+        "specific_required_shares": 258,
+        "specific_required_capital_yen": 447888
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1026,
+        "nisa_required_capital_yen": 1781136,
+        "specific_required_shares": 1288,
+        "specific_required_capital_yen": 2235968
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2052,
+        "nisa_required_capital_yen": 3562272,
+        "specific_required_shares": 2575,
+        "specific_required_capital_yen": 4470200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6154,
+        "nisa_required_capital_yen": 10683344,
+        "specific_required_shares": 7723,
+        "specific_required_capital_yen": 13407128
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10257,
+        "nisa_required_capital_yen": 17806152,
+        "specific_required_shares": 12872,
+        "specific_required_capital_yen": 22345792
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126118,
+        "upper_90_yen": 173680,
+        "lower_10_yen": 92422
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 264274,
+        "upper_90_yen": 413762,
+        "lower_10_yen": 172140
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 415618,
+        "upper_90_yen": 721570,
+        "lower_10_yen": 246673
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 581409,
+        "upper_90_yen": 1104815,
+        "lower_10_yen": 318477
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 763024,
+        "upper_90_yen": 1573850,
+        "lower_10_yen": 388863
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 961975,
+        "upper_90_yen": 2141210,
+        "lower_10_yen": 458679
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1179917,
+        "upper_90_yen": 2821619,
+        "lower_10_yen": 528532
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1418662,
+        "upper_90_yen": 3632160,
+        "lower_10_yen": 598893
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1680196,
+        "upper_90_yen": 4592523,
+        "lower_10_yen": 670150
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1966694,
+        "upper_90_yen": 5725326,
+        "lower_10_yen": 742639
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "荒川化学工業(4968)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "荒川化学工業(4968)を1株(1,736円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,736円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.71%、幾何成長率は5.75%",
+      "新NISAで月1万円の配当金を得るには2,052株（約3,562,272円）が必要"
+    ],
+    "accumulation_strategy_analysis": "荒川化学工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,736円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,966,694円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり58.5円（利回り3.37%）です。月次95%VaR（最大想定損失率）は-12.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "荒川化学工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,736円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,052株（元本目安：約3,562,272円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1736.0
+  }
+}

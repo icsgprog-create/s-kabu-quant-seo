@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4976",
+    "name": "東洋ドライルーブ",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1568.0,
+    "min_s_kabu_yen": 1568,
+    "unit_lot_yen": 156800,
+    "dps_yen": 37.67,
+    "dividend_yield_pct": 2.4,
+    "raw_annual_return_pct": 14.32,
+    "capped_annual_return_pct": 14.32,
+    "geometric_growth_pct": 11.5,
+    "annual_volatility_pct": 23.75,
+    "max_drawdown_pct": -24.16,
+    "monthly_var_95_pct": -8.21,
+    "sharpe_ratio": 0.54,
+    "quant_score": 59.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 319,
+        "nisa_required_capital_yen": 500192,
+        "specific_required_shares": 400,
+        "specific_required_capital_yen": 627200
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1593,
+        "nisa_required_capital_yen": 2497824,
+        "specific_required_shares": 2000,
+        "specific_required_capital_yen": 3136000
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3186,
+        "nisa_required_capital_yen": 4995648,
+        "specific_required_shares": 3999,
+        "specific_required_capital_yen": 6270432
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9558,
+        "nisa_required_capital_yen": 14986944,
+        "specific_required_shares": 11995,
+        "specific_required_capital_yen": 18808160
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15930,
+        "nisa_required_capital_yen": 24978240,
+        "specific_required_shares": 19991,
+        "specific_required_capital_yen": 31345888
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129487,
+        "upper_90_yen": 161161,
+        "lower_10_yen": 104483
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 278282,
+        "upper_90_yen": 378356,
+        "lower_10_yen": 206547
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 449266,
+        "upper_90_yen": 656301,
+        "lower_10_yen": 311811
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 645746,
+        "upper_90_yen": 1004926,
+        "lower_10_yen": 422604
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 871524,
+        "upper_90_yen": 1437087,
+        "lower_10_yen": 540610
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1130970,
+        "upper_90_yen": 1968538,
+        "lower_10_yen": 667311
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1429104,
+        "upper_90_yen": 2618250,
+        "lower_10_yen": 804156
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1771695,
+        "upper_90_yen": 3408912,
+        "lower_10_yen": 952637
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2165372,
+        "upper_90_yen": 4367555,
+        "lower_10_yen": 1114341
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2617752,
+        "upper_90_yen": 5526320,
+        "lower_10_yen": 1290985
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東洋ドライルーブ(4976)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東洋ドライルーブ(4976)を1株(1,568円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,568円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.75%、幾何成長率は11.5%",
+      "新NISAで月1万円の配当金を得るには3,186株（約4,995,648円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東洋ドライルーブは単元未満株（S株・かぶミニ等）を利用することで1株（約1,568円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,617,752円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり37.67円（利回り2.4%）です。月次95%VaR（最大想定損失率）は-8.21%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東洋ドライルーブは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,568円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,186株（元本目安：約4,995,648円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1568.0
+  }
+}

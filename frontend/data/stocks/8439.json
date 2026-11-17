@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8439",
+    "name": "東京センチュリー",
+    "sector": "その他金融業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2643.0,
+    "min_s_kabu_yen": 2643,
+    "unit_lot_yen": 264300,
+    "dps_yen": 96.0,
+    "dividend_yield_pct": 3.63,
+    "raw_annual_return_pct": 15.12,
+    "capped_annual_return_pct": 15.12,
+    "geometric_growth_pct": 11.21,
+    "annual_volatility_pct": 27.95,
+    "max_drawdown_pct": -35.11,
+    "monthly_var_95_pct": -8.25,
+    "sharpe_ratio": 0.5,
+    "quant_score": 63.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 125,
+        "nisa_required_capital_yen": 330375,
+        "specific_required_shares": 157,
+        "specific_required_capital_yen": 414951
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 625,
+        "nisa_required_capital_yen": 1651875,
+        "specific_required_shares": 785,
+        "specific_required_capital_yen": 2074755
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1250,
+        "nisa_required_capital_yen": 3303750,
+        "specific_required_shares": 1569,
+        "specific_required_capital_yen": 4146867
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 9911250,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 12440601
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6250,
+        "nisa_required_capital_yen": 16518750,
+        "specific_required_shares": 7844,
+        "specific_required_capital_yen": 20731692
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130164,
+        "upper_90_yen": 168512,
+        "lower_10_yen": 101138
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281155,
+        "upper_90_yen": 404237,
+        "lower_10_yen": 198022
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 456303,
+        "upper_90_yen": 714587,
+        "lower_10_yen": 296972
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 659475,
+        "upper_90_yen": 1113671,
+        "lower_10_yen": 400484
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 895155,
+        "upper_90_yen": 1619806,
+        "lower_10_yen": 510291
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1168543,
+        "upper_90_yen": 2255704,
+        "lower_10_yen": 627883
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1485672,
+        "upper_90_yen": 3049112,
+        "lower_10_yen": 754693
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1853542,
+        "upper_90_yen": 4033727,
+        "lower_10_yen": 892184
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2280271,
+        "upper_90_yen": 5250335,
+        "lower_10_yen": 1041907
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2775276,
+        "upper_90_yen": 6748196,
+        "lower_10_yen": 1205539
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東京センチュリー(8439)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東京センチュリー(8439)を1株(2,643円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,643円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.95%、幾何成長率は11.21%",
+      "新NISAで月1万円の配当金を得るには1,250株（約3,303,750円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東京センチュリーは単元未満株（S株・かぶミニ等）を利用することで1株（約2,643円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,775,276円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり96.0円（利回り3.63%）です。月次95%VaR（最大想定損失率）は-8.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東京センチュリーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,643円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,250株（元本目安：約3,303,750円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2643.0
+  }
+}

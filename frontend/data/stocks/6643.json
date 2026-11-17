@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6643",
+    "name": "戸上電機製作所",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4595.0,
+    "min_s_kabu_yen": 4595,
+    "unit_lot_yen": 459500,
+    "dps_yen": 150.0,
+    "dividend_yield_pct": 3.26,
+    "raw_annual_return_pct": 23.46,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.2,
+    "annual_volatility_pct": 30.99,
+    "max_drawdown_pct": -35.53,
+    "monthly_var_95_pct": -8.12,
+    "sharpe_ratio": 0.56,
+    "quant_score": 59.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 80,
+        "nisa_required_capital_yen": 367600,
+        "specific_required_shares": 101,
+        "specific_required_capital_yen": 464095
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 1838000,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 2306690
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 3676000,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 4613380
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 11028000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 13840140
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 18380000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 23066900
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132809,
+        "upper_90_yen": 177042,
+        "lower_10_yen": 100349
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 292547,
+        "upper_90_yen": 438945,
+        "lower_10_yen": 197985
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 484676,
+        "upper_90_yen": 801376,
+        "lower_10_yen": 299967
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 715764,
+        "upper_90_yen": 1290019,
+        "lower_10_yen": 409353
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 993710,
+        "upper_90_yen": 1938820,
+        "lower_10_yen": 528510
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1328016,
+        "upper_90_yen": 2791350,
+        "lower_10_yen": 659679
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1730109,
+        "upper_90_yen": 3903015,
+        "lower_10_yen": 805191
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2213737,
+        "upper_90_yen": 5343958,
+        "lower_10_yen": 967582
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2795430,
+        "upper_90_yen": 7202746,
+        "lower_10_yen": 1149688
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3495075,
+        "upper_90_yen": 9591006,
+        "lower_10_yen": 1354720
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "戸上電機製作所(6643)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "戸上電機製作所(6643)を1株(4,595円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,595円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.99%、幾何成長率は15.2%",
+      "新NISAで月1万円の配当金を得るには800株（約3,676,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "戸上電機製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約4,595円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,495,075円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり150.0円（利回り3.26%）です。月次95%VaR（最大想定損失率）は-8.12%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "戸上電機製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,595円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、800株（元本目安：約3,676,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4595.0
+  }
+}

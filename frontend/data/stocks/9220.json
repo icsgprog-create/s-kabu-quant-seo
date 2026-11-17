@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9220",
+    "name": "エフビー介護サービス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1254.0,
+    "min_s_kabu_yen": 1254,
+    "unit_lot_yen": 125400,
+    "dps_yen": 43.0,
+    "dividend_yield_pct": 3.43,
+    "raw_annual_return_pct": -4.04,
+    "capped_annual_return_pct": -4.04,
+    "geometric_growth_pct": -7.27,
+    "annual_volatility_pct": 25.38,
+    "max_drawdown_pct": -49.28,
+    "monthly_var_95_pct": -10.51,
+    "sharpe_ratio": -0.19,
+    "quant_score": 47.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 280,
+        "nisa_required_capital_yen": 351120,
+        "specific_required_shares": 351,
+        "specific_required_capital_yen": 440154
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1396,
+        "nisa_required_capital_yen": 1750584,
+        "specific_required_shares": 1752,
+        "specific_required_capital_yen": 2197008
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 3499914,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 4392762
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8373,
+        "nisa_required_capital_yen": 10499742,
+        "specific_required_shares": 10507,
+        "specific_required_capital_yen": 13175778
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13954,
+        "nisa_required_capital_yen": 17498316,
+        "specific_required_shares": 17511,
+        "specific_required_capital_yen": 21958794
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117539,
+        "upper_90_yen": 148019,
+        "lower_10_yen": 93797
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 230652,
+        "upper_90_yen": 317175,
+        "lower_10_yen": 169545
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 339507,
+        "upper_90_yen": 499888,
+        "lower_10_yen": 234454
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 444263,
+        "upper_90_yen": 693021,
+        "lower_10_yen": 291309
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 545076,
+        "upper_90_yen": 894601,
+        "lower_10_yen": 341751
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 642094,
+        "upper_90_yen": 1103200,
+        "lower_10_yen": 386891
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 735458,
+        "upper_90_yen": 1317701,
+        "lower_10_yen": 427543
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 825308,
+        "upper_90_yen": 1537190,
+        "lower_10_yen": 464335
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 911775,
+        "upper_90_yen": 1760897,
+        "lower_10_yen": 497765
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 994987,
+        "upper_90_yen": 1988156,
+        "lower_10_yen": 528240
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エフビー介護サービス(9220)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エフビー介護サービス(9220)を1株(1,254円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,254円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.38%、幾何成長率は-7.27%",
+      "新NISAで月1万円の配当金を得るには2,791株（約3,499,914円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エフビー介護サービスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,254円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は994,987円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり43.0円（利回り3.43%）です。月次95%VaR（最大想定損失率）は-10.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エフビー介護サービスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,254円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,791株（元本目安：約3,499,914円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1254.0
+  }
+}

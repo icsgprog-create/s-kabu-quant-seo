@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7734",
+    "name": "理研計器",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3310.0,
+    "min_s_kabu_yen": 3310,
+    "unit_lot_yen": 331000,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 1.81,
+    "raw_annual_return_pct": 10.74,
+    "capped_annual_return_pct": 10.74,
+    "geometric_growth_pct": 3.66,
+    "annual_volatility_pct": 37.64,
+    "max_drawdown_pct": -50.06,
+    "monthly_var_95_pct": -15.08,
+    "sharpe_ratio": 0.12,
+    "quant_score": 29.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 662000,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 830810
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 3310000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 4154050
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 6620000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 8308100
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 19860000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 24924300
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 33100000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 41540500
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123626,
+        "upper_90_yen": 174790,
+        "lower_10_yen": 88387
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 254207,
+        "upper_90_yen": 412421,
+        "lower_10_yen": 160370
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 392134,
+        "upper_90_yen": 710133,
+        "lower_10_yen": 224393
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 537821,
+        "upper_90_yen": 1071442,
+        "lower_10_yen": 283216
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 691703,
+        "upper_90_yen": 1501825,
+        "lower_10_yen": 338295
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 854243,
+        "upper_90_yen": 2008031,
+        "lower_10_yen": 390531
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1025927,
+        "upper_90_yen": 2597876,
+        "lower_10_yen": 440539
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1207269,
+        "upper_90_yen": 3280208,
+        "lower_10_yen": 488765
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1398813,
+        "upper_90_yen": 4064920,
+        "lower_10_yen": 535546
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1601132,
+        "upper_90_yen": 4963008,
+        "lower_10_yen": 581147
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "理研計器(7734)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "理研計器(7734)を1株(3,310円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,310円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.64%、幾何成長率は3.66%",
+      "新NISAで月1万円の配当金を得るには2,000株（約6,620,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "理研計器は単元未満株（S株・かぶミニ等）を利用することで1株（約3,310円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,601,132円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り1.81%）です。月次95%VaR（最大想定損失率）は-15.08%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "理研計器は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,310円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約6,620,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3310.0
+  }
+}

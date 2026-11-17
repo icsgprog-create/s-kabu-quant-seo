@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9265",
+    "name": "ヤマシタヘルスケアホールディングス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3745.0,
+    "min_s_kabu_yen": 3745,
+    "unit_lot_yen": 374500,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 2.67,
+    "raw_annual_return_pct": 15.34,
+    "capped_annual_return_pct": 15.34,
+    "geometric_growth_pct": 11.93,
+    "annual_volatility_pct": 26.12,
+    "max_drawdown_pct": -28.18,
+    "monthly_var_95_pct": -9.71,
+    "sharpe_ratio": 0.52,
+    "quant_score": 58.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 449400,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 565495
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 2247000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 2819985
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 4494000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 5639970
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 13482000,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 16919910
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 22470000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 28199850
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129988,
+        "upper_90_yen": 165423,
+        "lower_10_yen": 102671
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280406,
+        "upper_90_yen": 393480,
+        "lower_10_yen": 202033
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 454465,
+        "upper_90_yen": 690534,
+        "lower_10_yen": 304116
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 655879,
+        "upper_90_yen": 1069027,
+        "lower_10_yen": 411369
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 888950,
+        "upper_90_yen": 1545089,
+        "lower_10_yen": 525533
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1158651,
+        "upper_90_yen": 2138633,
+        "lower_10_yen": 648135
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1470741,
+        "upper_90_yen": 2873871,
+        "lower_10_yen": 780656
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1831880,
+        "upper_90_yen": 3780055,
+        "lower_10_yen": 924624
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2249779,
+        "upper_90_yen": 4892406,
+        "lower_10_yen": 1081667
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2733358,
+        "upper_90_yen": 6253246,
+        "lower_10_yen": 1253550
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヤマシタヘルスケアホールディングス(9265)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヤマシタヘルスケアホールディングス(9265)を1株(3,745円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,745円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.12%、幾何成長率は11.93%",
+      "新NISAで月1万円の配当金を得るには1,200株（約4,494,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヤマシタヘルスケアホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,745円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,733,358円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り2.67%）です。月次95%VaR（最大想定損失率）は-9.71%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヤマシタヘルスケアホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,745円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約4,494,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3745.0
+  }
+}

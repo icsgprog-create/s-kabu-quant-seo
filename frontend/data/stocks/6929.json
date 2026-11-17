@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6929",
+    "name": "日本セラミック",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3130.0,
+    "min_s_kabu_yen": 3130,
+    "unit_lot_yen": 313000,
+    "dps_yen": 165.0,
+    "dividend_yield_pct": 5.27,
+    "raw_annual_return_pct": 5.23,
+    "capped_annual_return_pct": 5.23,
+    "geometric_growth_pct": 2.29,
+    "annual_volatility_pct": 24.26,
+    "max_drawdown_pct": -31.72,
+    "monthly_var_95_pct": -9.17,
+    "sharpe_ratio": 0.27,
+    "quant_score": 72.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 73,
+        "nisa_required_capital_yen": 228490,
+        "specific_required_shares": 92,
+        "specific_required_capital_yen": 287960
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 364,
+        "nisa_required_capital_yen": 1139320,
+        "specific_required_shares": 457,
+        "specific_required_capital_yen": 1430410
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 728,
+        "nisa_required_capital_yen": 2278640,
+        "specific_required_shares": 913,
+        "specific_required_capital_yen": 2857690
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 6829660,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 8573070
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3637,
+        "nisa_required_capital_yen": 11383810,
+        "specific_required_shares": 4564,
+        "specific_required_capital_yen": 14285320
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125043,
+        "upper_90_yen": 156183,
+        "lower_10_yen": 100561
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 259902,
+        "upper_90_yen": 354511,
+        "lower_10_yen": 192383
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 405347,
+        "upper_90_yen": 593298,
+        "lower_10_yen": 281044
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 562209,
+        "upper_90_yen": 874949,
+        "lower_10_yen": 368455
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 731385,
+        "upper_90_yen": 1203183,
+        "lower_10_yen": 455689
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 913840,
+        "upper_90_yen": 1582587,
+        "lower_10_yen": 543463
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1110617,
+        "upper_90_yen": 2018503,
+        "lower_10_yen": 632317
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1322840,
+        "upper_90_yen": 2517010,
+        "lower_10_yen": 722689
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1551723,
+        "upper_90_yen": 3084946,
+        "lower_10_yen": 814952
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1798572,
+        "upper_90_yen": 3729961,
+        "lower_10_yen": 909441
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本セラミック(6929)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本セラミック(6929)を1株(3,130円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,130円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.26%、幾何成長率は2.29%",
+      "新NISAで月1万円の配当金を得るには728株（約2,278,640円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本セラミックは単元未満株（S株・かぶミニ等）を利用することで1株（約3,130円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,798,572円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり165.0円（利回り5.27%）です。月次95%VaR（最大想定損失率）は-9.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本セラミックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,130円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、728株（元本目安：約2,278,640円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3130.0
+  }
+}

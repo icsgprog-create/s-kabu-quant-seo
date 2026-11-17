@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4452",
+    "name": "花王",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4051.0,
+    "min_s_kabu_yen": 4051,
+    "unit_lot_yen": 405100,
+    "dps_yen": 77.5,
+    "dividend_yield_pct": 1.91,
+    "raw_annual_return_pct": 7.83,
+    "capped_annual_return_pct": 7.83,
+    "geometric_growth_pct": 5.43,
+    "annual_volatility_pct": 21.88,
+    "max_drawdown_pct": -24.14,
+    "monthly_var_95_pct": -8.46,
+    "sharpe_ratio": 0.29,
+    "quant_score": 50.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 155,
+        "nisa_required_capital_yen": 627905,
+        "specific_required_shares": 195,
+        "specific_required_capital_yen": 789945
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 775,
+        "nisa_required_capital_yen": 3139525,
+        "specific_required_shares": 972,
+        "specific_required_capital_yen": 3937572
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1549,
+        "nisa_required_capital_yen": 6274999,
+        "specific_required_shares": 1944,
+        "specific_required_capital_yen": 7875144
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4646,
+        "nisa_required_capital_yen": 18820946,
+        "specific_required_shares": 5830,
+        "specific_required_capital_yen": 23617330
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7742,
+        "nisa_required_capital_yen": 31362842,
+        "specific_required_shares": 9716,
+        "specific_required_capital_yen": 39359516
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124900,
+        "upper_90_yen": 152607,
+        "lower_10_yen": 102596
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 259323,
+        "upper_90_yen": 342948,
+        "lower_10_yen": 197630
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 403994,
+        "upper_90_yen": 569192,
+        "lower_10_yen": 290200
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 559696,
+        "upper_90_yen": 833169,
+        "lower_10_yen": 382079
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 727268,
+        "upper_90_yen": 1137842,
+        "lower_10_yen": 474278
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 907617,
+        "upper_90_yen": 1486900,
+        "lower_10_yen": 567487
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1101716,
+        "upper_90_yen": 1884639,
+        "lower_10_yen": 662232
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1310613,
+        "upper_90_yen": 2335938,
+        "lower_10_yen": 758947
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1535437,
+        "upper_90_yen": 2846269,
+        "lower_10_yen": 858011
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1777402,
+        "upper_90_yen": 3421728,
+        "lower_10_yen": 959768
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "花王(4452)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "花王(4452)を1株(4,051円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,051円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.88%、幾何成長率は5.43%",
+      "新NISAで月1万円の配当金を得るには1,549株（約6,274,999円）が必要"
+    ],
+    "accumulation_strategy_analysis": "花王は単元未満株（S株・かぶミニ等）を利用することで1株（約4,051円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,777,402円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり77.5円（利回り1.91%）です。月次95%VaR（最大想定損失率）は-8.46%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "花王は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,051円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,549株（元本目安：約6,274,999円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4051.0
+  }
+}

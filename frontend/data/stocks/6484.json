@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6484",
+    "name": "ＫＶＫ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2120.0,
+    "min_s_kabu_yen": 2120,
+    "unit_lot_yen": 212000,
+    "dps_yen": 80.0,
+    "dividend_yield_pct": 3.77,
+    "raw_annual_return_pct": 3.82,
+    "capped_annual_return_pct": 3.82,
+    "geometric_growth_pct": 1.82,
+    "annual_volatility_pct": 19.99,
+    "max_drawdown_pct": -34.34,
+    "monthly_var_95_pct": -6.74,
+    "sharpe_ratio": 0.23,
+    "quant_score": 65.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 150,
+        "nisa_required_capital_yen": 318000,
+        "specific_required_shares": 189,
+        "specific_required_capital_yen": 400680
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 1590000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 1997040
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 3180000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 3991960
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4500,
+        "nisa_required_capital_yen": 9540000,
+        "specific_required_shares": 5648,
+        "specific_required_capital_yen": 11973760
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 15900000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 19955560
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123708,
+        "upper_90_yen": 148493,
+        "lower_10_yen": 103374
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 254535,
+        "upper_90_yen": 328216,
+        "lower_10_yen": 198693
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 392890,
+        "upper_90_yen": 536344,
+        "lower_10_yen": 290715
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 539206,
+        "upper_90_yen": 773307,
+        "lower_10_yen": 381094
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 693941,
+        "upper_90_yen": 1040435,
+        "lower_10_yen": 470752
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 857580,
+        "upper_90_yen": 1339541,
+        "lower_10_yen": 560300
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1030635,
+        "upper_90_yen": 1672793,
+        "lower_10_yen": 650185
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1213648,
+        "upper_90_yen": 2042659,
+        "lower_10_yen": 740758
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1407193,
+        "upper_90_yen": 2451885,
+        "lower_10_yen": 832310
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1611874,
+        "upper_90_yen": 2903495,
+        "lower_10_yen": 925089
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＫＶＫ(6484)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＫＶＫ(6484)を1株(2,120円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,120円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.99%、幾何成長率は1.82%",
+      "新NISAで月1万円の配当金を得るには1,500株（約3,180,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＫＶＫは単元未満株（S株・かぶミニ等）を利用することで1株（約2,120円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,611,874円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり80.0円（利回り3.77%）です。月次95%VaR（最大想定損失率）は-6.74%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＫＶＫは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,120円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,500株（元本目安：約3,180,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2120.0
+  }
+}

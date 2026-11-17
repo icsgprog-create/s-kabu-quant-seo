@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "code": "4644",
+    "name": "イマジニア",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1019.0,
+    "min_s_kabu_yen": 1019,
+    "unit_lot_yen": 101900,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 6.38,
+    "raw_annual_return_pct": 4.85,
+    "capped_annual_return_pct": 4.85,
+    "geometric_growth_pct": 3.92,
+    "annual_volatility_pct": 13.57,
+    "max_drawdown_pct": -12.69,
+    "monthly_var_95_pct": -4.47,
+    "sharpe_ratio": 0.69,
+    "quant_score": 92.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 188515,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 236408
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 941556,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 1181021
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 1882093,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 2361023
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 5644241,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 7083069
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 9406389,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 11805115
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126943,
+        "upper_90_yen": 143729,
+        "lower_10_yen": 112275
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 267663,
+        "upper_90_yen": 318348,
+        "lower_10_yen": 225723
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 423655,
+        "upper_90_yen": 524223,
+        "lower_10_yen": 343947
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 596576,
+        "upper_90_yen": 764168,
+        "lower_10_yen": 468588
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 788263,
+        "upper_90_yen": 1041943,
+        "lower_10_yen": 600886
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1000754,
+        "upper_90_yen": 1362041,
+        "lower_10_yen": 741960
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1236305,
+        "upper_90_yen": 1729669,
+        "lower_10_yen": 892900
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1497420,
+        "upper_90_yen": 2150778,
+        "lower_10_yen": 1054821
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1786873,
+        "upper_90_yen": 2632133,
+        "lower_10_yen": 1228890
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2107739,
+        "upper_90_yen": 3181390,
+        "lower_10_yen": 1416347
+      }
+    ]
+  },
+  "seo": {
+    "code": "4644",
+    "seo_title": "イマジニア(4644)の配当利回りと新NISA1株積立シミュレーション",
+    "meta_description": "イマジニア(4644)の配当利回り6.38%、1株積立投資や新NISAでの資産推移、ボラティリティなどのリスク指標を客観的に解説します。",
+    "summary_points": [
+      "最低投資金額は約1,019円で単元未満株（1株投資）から手軽に積立可能",
+      "配当利回りは6.38%、年間配当金は1株あたり65.0円を記録",
+      "年率ボラティリティは13.57%、月次VaR(95%)は-4.47%と比較的安定したリスク水準"
+    ],
+    "accumulation_strategy_analysis": "最低投資金額が1,019円程度と少額から参入できるため、新NISAの成長投資枠を活用した毎月の小口積立に適しています。幾何平均成長率は3.92%となっており、月1万円ペースの積立シナリオ（累計投資元本約188万円・1,847株）における10年後の中央値資産額は210万7,739円と試算されます。極端な急成長は見られないものの、低ボラティリティ（13.57%）を背景に着実な資産形成を志向する定量特性を持ちます。",
+    "dividend_and_risk_commentary": "配当利回りは6.38%と市場平均に比べ非常に高い水準を誇り、DPSは65.0円です。月次VaR（95%信頼水準）は-4.47%にとどまり、一時的な下落リスクは限定的な傾向が見られます。ただし、高配当銘柄特有の業績動向による減配リスクには留意が必要です。",
+    "faqs": [
+      {
+        "question": "イマジニアは1株から購入できますか？",
+        "answer": "主要なネット証券の単元未満株取引サービスを利用することで、約1,019円から1株単位で購入が可能です。"
+      },
+      {
+        "question": "配当金は年間でいくら受け取れますか？",
+        "answer": "直近データでは1株あたり年間65.0円の配当が予定されており、利回りは約6.38%です。"
+      }
+    ],
+    "is_ai_generated": true,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1019.0
+  }
+}

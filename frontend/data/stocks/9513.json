@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9513",
+    "name": "電源開発",
+    "sector": "電気・ガス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4045.0,
+    "min_s_kabu_yen": 4045,
+    "unit_lot_yen": 404500,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 2.47,
+    "raw_annual_return_pct": 24.83,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.75,
+    "annual_volatility_pct": 25.51,
+    "max_drawdown_pct": -19.82,
+    "monthly_var_95_pct": -6.87,
+    "sharpe_ratio": 0.71,
+    "quant_score": 62.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 485400,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 610795
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 2427000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 3045885
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 4854000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 6091770
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 14562000,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 18275310
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 24270000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 30458850
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133368,
+        "upper_90_yen": 168923,
+        "lower_10_yen": 105814
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294994,
+        "upper_90_yen": 411738,
+        "lower_10_yen": 213554
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 490866,
+        "upper_90_yen": 742029,
+        "lower_10_yen": 329813
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 728239,
+        "upper_90_yen": 1181760,
+        "lower_10_yen": 458030
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1015907,
+        "upper_90_yen": 1759859,
+        "lower_10_yen": 601247
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1364527,
+        "upper_90_yen": 2513374,
+        "lower_10_yen": 762602
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1787011,
+        "upper_90_yen": 3489345,
+        "lower_10_yen": 945552
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2299013,
+        "upper_90_yen": 4747247,
+        "lower_10_yen": 1154012
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2919497,
+        "upper_90_yen": 6362114,
+        "lower_10_yen": 1392484
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3671450,
+        "upper_90_yen": 8428448,
+        "lower_10_yen": 1666188
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "電源開発(9513)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "電源開発(9513)を1株(4,045円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,045円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.51%、幾何成長率は16.75%",
+      "新NISAで月1万円の配当金を得るには1,200株（約4,854,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "電源開発は単元未満株（S株・かぶミニ等）を利用することで1株（約4,045円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,671,450円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り2.47%）です。月次95%VaR（最大想定損失率）は-6.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "電源開発は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,045円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約4,854,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4045.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3632",
+    "name": "グリーホールディングス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 513.0,
+    "min_s_kabu_yen": 513,
+    "unit_lot_yen": 51300,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 4.29,
+    "raw_annual_return_pct": -10.99,
+    "capped_annual_return_pct": -10.99,
+    "geometric_growth_pct": -16.25,
+    "annual_volatility_pct": 32.42,
+    "max_drawdown_pct": -68.83,
+    "monthly_var_95_pct": -15.04,
+    "sharpe_ratio": -0.4,
+    "quant_score": 46.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 280098,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 351405
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 1399464,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 1755999
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 2798415,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 3511998
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 8394732,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 10534968
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 13991049,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 17557938
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112540,
+        "upper_90_yen": 150901,
+        "lower_10_yen": 84614
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 212395,
+        "upper_90_yen": 317711,
+        "lower_10_yen": 144529
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 300994,
+        "upper_90_yen": 489268,
+        "lower_10_yen": 190351
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 379608,
+        "upper_90_yen": 660887,
+        "lower_10_yen": 226398
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 449360,
+        "upper_90_yen": 829811,
+        "lower_10_yen": 255223
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 511251,
+        "upper_90_yen": 994266,
+        "lower_10_yen": 278530
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 566165,
+        "upper_90_yen": 1153080,
+        "lower_10_yen": 297528
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 614890,
+        "upper_90_yen": 1305488,
+        "lower_10_yen": 313113
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 658122,
+        "upper_90_yen": 1451009,
+        "lower_10_yen": 325962
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 696482,
+        "upper_90_yen": 1589374,
+        "lower_10_yen": 336601
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "グリーホールディングス(3632)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "グリーホールディングス(3632)を1株(513円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小513円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.42%、幾何成長率は-16.25%",
+      "新NISAで月1万円の配当金を得るには5,455株（約2,798,415円）が必要"
+    ],
+    "accumulation_strategy_analysis": "グリーホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約513円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は696,482円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り4.29%）です。月次95%VaR（最大想定損失率）は-15.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "グリーホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約513円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約2,798,415円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 513.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7504",
+    "name": "高速",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5260.0,
+    "min_s_kabu_yen": 5260,
+    "unit_lot_yen": 526000,
+    "dps_yen": 118.0,
+    "dividend_yield_pct": 2.24,
+    "raw_annual_return_pct": 26.97,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.89,
+    "annual_volatility_pct": 28.67,
+    "max_drawdown_pct": -29.65,
+    "monthly_var_95_pct": -8.37,
+    "sharpe_ratio": 0.6,
+    "quant_score": 54.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 102,
+        "nisa_required_capital_yen": 536520,
+        "specific_required_shares": 128,
+        "specific_required_capital_yen": 673280
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 509,
+        "nisa_required_capital_yen": 2677340,
+        "specific_required_shares": 639,
+        "specific_required_capital_yen": 3361140
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1017,
+        "nisa_required_capital_yen": 5349420,
+        "specific_required_shares": 1277,
+        "specific_required_capital_yen": 6717020
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3051,
+        "nisa_required_capital_yen": 16048260,
+        "specific_required_shares": 3829,
+        "specific_required_capital_yen": 20140540
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5085,
+        "nisa_required_capital_yen": 26747100,
+        "specific_required_shares": 6382,
+        "specific_required_capital_yen": 33569320
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132566,
+        "upper_90_yen": 172898,
+        "lower_10_yen": 102273
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291490,
+        "upper_90_yen": 423958,
+        "lower_10_yen": 203059
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 482013,
+        "upper_90_yen": 766639,
+        "lower_10_yen": 309102
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 710417,
+        "upper_90_yen": 1223225,
+        "lower_10_yen": 423450
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 984235,
+        "upper_90_yen": 1823019,
+        "lower_10_yen": 548530
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1312496,
+        "upper_90_yen": 2603385,
+        "lower_10_yen": 686682
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1706024,
+        "upper_90_yen": 3611499,
+        "lower_10_yen": 840366
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2177798,
+        "upper_90_yen": 4906658,
+        "lower_10_yen": 1012277
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2743374,
+        "upper_90_yen": 6563203,
+        "lower_10_yen": 1205438
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3421403,
+        "upper_90_yen": 8674170,
+        "lower_10_yen": 1423280
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "高速(7504)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "高速(7504)を1株(5,260円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,260円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.67%、幾何成長率は15.89%",
+      "新NISAで月1万円の配当金を得るには1,017株（約5,349,420円）が必要"
+    ],
+    "accumulation_strategy_analysis": "高速は単元未満株（S株・かぶミニ等）を利用することで1株（約5,260円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,421,403円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり118.0円（利回り2.24%）です。月次95%VaR（最大想定損失率）は-8.37%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "高速は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,260円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,017株（元本目安：約5,349,420円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5260.0
+  }
+}

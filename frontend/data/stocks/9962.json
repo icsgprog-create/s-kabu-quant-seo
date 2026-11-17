@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9962",
+    "name": "ミスミグループ本社",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3613.0,
+    "min_s_kabu_yen": 3613,
+    "unit_lot_yen": 361300,
+    "dps_yen": 68.57,
+    "dividend_yield_pct": 1.9,
+    "raw_annual_return_pct": -5.26,
+    "capped_annual_return_pct": -5.26,
+    "geometric_growth_pct": -13.11,
+    "annual_volatility_pct": 39.63,
+    "max_drawdown_pct": -62.48,
+    "monthly_var_95_pct": -16.44,
+    "sharpe_ratio": -0.31,
+    "quant_score": 20.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 176,
+        "nisa_required_capital_yen": 635888,
+        "specific_required_shares": 220,
+        "specific_required_capital_yen": 794860
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 876,
+        "nisa_required_capital_yen": 3164988,
+        "specific_required_shares": 1099,
+        "specific_required_capital_yen": 3970687
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1751,
+        "nisa_required_capital_yen": 6326363,
+        "specific_required_shares": 2197,
+        "specific_required_capital_yen": 7937761
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5251,
+        "nisa_required_capital_yen": 18971863,
+        "specific_required_shares": 6589,
+        "specific_required_capital_yen": 23806057
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8751,
+        "nisa_required_capital_yen": 31617363,
+        "specific_required_shares": 10981,
+        "specific_required_capital_yen": 39674353
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112988,
+        "upper_90_yen": 161915,
+        "lower_10_yen": 79805
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 213992,
+        "upper_90_yen": 351107,
+        "lower_10_yen": 133919
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 304283,
+        "upper_90_yen": 553647,
+        "lower_10_yen": 174256
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 384998,
+        "upper_90_yen": 763278,
+        "lower_10_yen": 205380
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 457152,
+        "upper_90_yen": 976004,
+        "lower_10_yen": 229883
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 521653,
+        "upper_90_yen": 1188995,
+        "lower_10_yen": 249435
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 579313,
+        "upper_90_yen": 1400156,
+        "lower_10_yen": 265193
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 630858,
+        "upper_90_yen": 1607902,
+        "lower_10_yen": 277991
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 676935,
+        "upper_90_yen": 1811030,
+        "lower_10_yen": 288449
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 718126,
+        "upper_90_yen": 2008629,
+        "lower_10_yen": 297041
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ミスミグループ本社(9962)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ミスミグループ本社(9962)を1株(3,613円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,613円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.63%、幾何成長率は-13.11%",
+      "新NISAで月1万円の配当金を得るには1,751株（約6,326,363円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ミスミグループ本社は単元未満株（S株・かぶミニ等）を利用することで1株（約3,613円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は718,126円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり68.57円（利回り1.9%）です。月次95%VaR（最大想定損失率）は-16.44%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ミスミグループ本社は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,613円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,751株（元本目安：約6,326,363円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3613.0
+  }
+}

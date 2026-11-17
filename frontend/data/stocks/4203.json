@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4203",
+    "name": "住友ベークライト",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6878.0,
+    "min_s_kabu_yen": 6878,
+    "unit_lot_yen": 687800,
+    "dps_yen": 130.0,
+    "dividend_yield_pct": 1.89,
+    "raw_annual_return_pct": 21.44,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.92,
+    "annual_volatility_pct": 34.86,
+    "max_drawdown_pct": -38.86,
+    "monthly_var_95_pct": -13.5,
+    "sharpe_ratio": 0.42,
+    "quant_score": 40.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 93,
+        "nisa_required_capital_yen": 639654,
+        "specific_required_shares": 116,
+        "specific_required_capital_yen": 797848
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 3177636,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 3989240
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 6355272,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 7971602
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2770,
+        "nisa_required_capital_yen": 19052060,
+        "specific_required_shares": 3476,
+        "specific_required_capital_yen": 23907928
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 31748848,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 39844254
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130866,
+        "upper_90_yen": 180800,
+        "lower_10_yen": 95596
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 284152,
+        "upper_90_yen": 448089,
+        "lower_10_yen": 183741
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 463697,
+        "upper_90_yen": 814681,
+        "lower_10_yen": 271820
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 674001,
+        "upper_90_yen": 1302940,
+        "lower_10_yen": 362508
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 920332,
+        "upper_90_yen": 1942139,
+        "lower_10_yen": 457525
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1208863,
+        "upper_90_yen": 2769191,
+        "lower_10_yen": 558258
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1546823,
+        "upper_90_yen": 3830101,
+        "lower_10_yen": 665986
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1942679,
+        "upper_90_yen": 5181886,
+        "lower_10_yen": 781972
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2406351,
+        "upper_90_yen": 6894995,
+        "lower_10_yen": 907530
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2949456,
+        "upper_90_yen": 9056291,
+        "lower_10_yen": 1044064
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "住友ベークライト(4203)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "住友ベークライト(4203)を1株(6,878円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,878円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは34.86%、幾何成長率は13.92%",
+      "新NISAで月1万円の配当金を得るには924株（約6,355,272円）が必要"
+    ],
+    "accumulation_strategy_analysis": "住友ベークライトは単元未満株（S株・かぶミニ等）を利用することで1株（約6,878円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,949,456円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり130.0円（利回り1.89%）です。月次95%VaR（最大想定損失率）は-13.5%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "住友ベークライトは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,878円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、924株（元本目安：約6,355,272円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6878.0
+  }
+}

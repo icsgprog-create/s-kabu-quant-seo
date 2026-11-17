@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6016",
+    "name": "ジャパンエンジンコーポレーション",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 9780.0,
+    "min_s_kabu_yen": 9780,
+    "unit_lot_yen": 978000,
+    "dps_yen": 98.0,
+    "dividend_yield_pct": 1.0,
+    "raw_annual_return_pct": 69.15,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": -4.81,
+    "annual_volatility_pct": 70.44,
+    "max_drawdown_pct": -61.63,
+    "monthly_var_95_pct": -22.43,
+    "sharpe_ratio": -0.07,
+    "quant_score": 11.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 123,
+        "nisa_required_capital_yen": 1202940,
+        "specific_required_shares": 154,
+        "specific_required_capital_yen": 1506120
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 613,
+        "nisa_required_capital_yen": 5995140,
+        "specific_required_shares": 769,
+        "specific_required_capital_yen": 7520820
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1225,
+        "nisa_required_capital_yen": 11980500,
+        "specific_required_shares": 1537,
+        "specific_required_capital_yen": 15031860
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3674,
+        "nisa_required_capital_yen": 35931720,
+        "specific_required_shares": 4610,
+        "specific_required_capital_yen": 45085800
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6123,
+        "nisa_required_capital_yen": 59882940,
+        "specific_required_shares": 7684,
+        "specific_required_capital_yen": 75149520
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117559,
+        "upper_90_yen": 225533,
+        "lower_10_yen": 63648
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 230728,
+        "upper_90_yen": 572462,
+        "lower_10_yen": 100977
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 339672,
+        "upper_90_yen": 1031935,
+        "lower_10_yen": 126981
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 444548,
+        "upper_90_yen": 1605467,
+        "lower_10_yen": 146251
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 545508,
+        "upper_90_yen": 2296854,
+        "lower_10_yen": 161048
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 642699,
+        "upper_90_yen": 3110792,
+        "lower_10_yen": 172689
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 736260,
+        "upper_90_yen": 4052399,
+        "lower_10_yen": 182010
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 826328,
+        "upper_90_yen": 5126999,
+        "lower_10_yen": 189576
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 913033,
+        "upper_90_yen": 6340017,
+        "lower_10_yen": 195785
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 996500,
+        "upper_90_yen": 7696909,
+        "lower_10_yen": 200929
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ジャパンエンジンコーポレーション(6016)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ジャパンエンジンコーポレーション(6016)を1株(9,780円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小9,780円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは70.44%、幾何成長率は-4.81%",
+      "新NISAで月1万円の配当金を得るには1,225株（約11,980,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ジャパンエンジンコーポレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約9,780円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は996,500円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり98.0円（利回り1.0%）です。月次95%VaR（最大想定損失率）は-22.43%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ジャパンエンジンコーポレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約9,780円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,225株（元本目安：約11,980,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 9780.0
+  }
+}

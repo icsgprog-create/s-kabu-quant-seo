@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9076",
+    "name": "セイノーホールディングス",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2573.5,
+    "min_s_kabu_yen": 2574,
+    "unit_lot_yen": 257350,
+    "dps_yen": 104.0,
+    "dividend_yield_pct": 4.04,
+    "raw_annual_return_pct": 19.36,
+    "capped_annual_return_pct": 19.36,
+    "geometric_growth_pct": 16.93,
+    "annual_volatility_pct": 22.07,
+    "max_drawdown_pct": -17.93,
+    "monthly_var_95_pct": -5.29,
+    "sharpe_ratio": 0.9,
+    "quant_score": 82.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 116,
+        "nisa_required_capital_yen": 298526,
+        "specific_required_shares": 145,
+        "specific_required_capital_yen": 373158
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 577,
+        "nisa_required_capital_yen": 1484910,
+        "specific_required_shares": 725,
+        "specific_required_capital_yen": 1865788
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1154,
+        "nisa_required_capital_yen": 2969819,
+        "specific_required_shares": 1449,
+        "specific_required_capital_yen": 3729002
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3462,
+        "nisa_required_capital_yen": 8909457,
+        "specific_required_shares": 4345,
+        "specific_required_capital_yen": 11181858
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5770,
+        "nisa_required_capital_yen": 14849095,
+        "specific_required_shares": 7241,
+        "specific_required_capital_yen": 18634714
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134678,
+        "upper_90_yen": 165236,
+        "lower_10_yen": 110174
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 300775,
+        "upper_90_yen": 401464,
+        "lower_10_yen": 227087
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 505619,
+        "upper_90_yen": 723415,
+        "lower_10_yen": 357505
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 758250,
+        "upper_90_yen": 1154120,
+        "lower_10_yen": 505757
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1069817,
+        "upper_90_yen": 1724059,
+        "lower_10_yen": 676141
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1454067,
+        "upper_90_yen": 2472672,
+        "lower_10_yen": 873429
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1927957,
+        "upper_90_yen": 3450606,
+        "lower_10_yen": 1103126
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2512398,
+        "upper_90_yen": 4722691,
+        "lower_10_yen": 1371698
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3233181,
+        "upper_90_yen": 6371741,
+        "lower_10_yen": 1686806
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4122111,
+        "upper_90_yen": 8503404,
+        "lower_10_yen": 2057565
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セイノーホールディングス(9076)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セイノーホールディングス(9076)を1株(2,574円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,574円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.07%、幾何成長率は16.93%",
+      "新NISAで月1万円の配当金を得るには1,154株（約2,969,819円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セイノーホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,574円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,122,111円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり104.0円（利回り4.04%）です。月次95%VaR（最大想定損失率）は-5.29%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セイノーホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,574円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,154株（元本目安：約2,969,819円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2573.5
+  }
+}

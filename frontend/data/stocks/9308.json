@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9308",
+    "name": "乾汽船",
+    "sector": "海運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2163.0,
+    "min_s_kabu_yen": 2163,
+    "unit_lot_yen": 216300,
+    "dps_yen": 12.93,
+    "dividend_yield_pct": 0.6,
+    "raw_annual_return_pct": 6.77,
+    "capped_annual_return_pct": 6.77,
+    "geometric_growth_pct": -0.86,
+    "annual_volatility_pct": 39.07,
+    "max_drawdown_pct": -65.01,
+    "monthly_var_95_pct": -14.29,
+    "sharpe_ratio": -0.03,
+    "quant_score": 14.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 929,
+        "nisa_required_capital_yen": 2009427,
+        "specific_required_shares": 1165,
+        "specific_required_capital_yen": 2519895
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4641,
+        "nisa_required_capital_yen": 10038483,
+        "specific_required_shares": 5824,
+        "specific_required_capital_yen": 12597312
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 9281,
+        "nisa_required_capital_yen": 20074803,
+        "specific_required_shares": 11647,
+        "specific_required_capital_yen": 25192461
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 27843,
+        "nisa_required_capital_yen": 60224409,
+        "specific_required_shares": 34941,
+        "specific_required_capital_yen": 75577383
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 46404,
+        "nisa_required_capital_yen": 100371852,
+        "specific_required_shares": 58234,
+        "specific_required_capital_yen": 125960142
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119828,
+        "upper_90_yen": 171399,
+        "lower_10_yen": 84757
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 239339,
+        "upper_90_yen": 393680,
+        "lower_10_yen": 149234
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 358535,
+        "upper_90_yen": 658391,
+        "lower_10_yen": 203016
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 477415,
+        "upper_90_yen": 963367,
+        "lower_10_yen": 249424
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 595981,
+        "upper_90_yen": 1307982,
+        "lower_10_yen": 290263
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 714233,
+        "upper_90_yen": 1692289,
+        "lower_10_yen": 326684
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 832173,
+        "upper_90_yen": 2116716,
+        "lower_10_yen": 359483
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 949801,
+        "upper_90_yen": 2581930,
+        "lower_10_yen": 389246
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1067118,
+        "upper_90_yen": 3088756,
+        "lower_10_yen": 416418
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1184125,
+        "upper_90_yen": 3638144,
+        "lower_10_yen": 441351
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "乾汽船(9308)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "乾汽船(9308)を1株(2,163円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,163円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.07%、幾何成長率は-0.86%",
+      "新NISAで月1万円の配当金を得るには9,281株（約20,074,803円）が必要"
+    ],
+    "accumulation_strategy_analysis": "乾汽船は単元未満株（S株・かぶミニ等）を利用することで1株（約2,163円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,184,125円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり12.93円（利回り0.6%）です。月次95%VaR（最大想定損失率）は-14.29%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "乾汽船は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,163円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、9,281株（元本目安：約20,074,803円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2163.0
+  }
+}

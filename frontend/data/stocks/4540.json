@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4540",
+    "name": "ツムラ",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3965.0,
+    "min_s_kabu_yen": 3965,
+    "unit_lot_yen": 396500,
+    "dps_yen": 158.0,
+    "dividend_yield_pct": 3.98,
+    "raw_annual_return_pct": 4.77,
+    "capped_annual_return_pct": 4.77,
+    "geometric_growth_pct": 1.13,
+    "annual_volatility_pct": 27.0,
+    "max_drawdown_pct": -33.27,
+    "monthly_var_95_pct": -7.93,
+    "sharpe_ratio": 0.15,
+    "quant_score": 58.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 76,
+        "nisa_required_capital_yen": 301340,
+        "specific_required_shares": 96,
+        "specific_required_capital_yen": 380640
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 380,
+        "nisa_required_capital_yen": 1506700,
+        "specific_required_shares": 477,
+        "specific_required_capital_yen": 1891305
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 760,
+        "nisa_required_capital_yen": 3013400,
+        "specific_required_shares": 954,
+        "specific_required_capital_yen": 3782610
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2279,
+        "nisa_required_capital_yen": 9036235,
+        "specific_required_shares": 2860,
+        "specific_required_capital_yen": 11339900
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3798,
+        "nisa_required_capital_yen": 15059070,
+        "specific_required_shares": 4766,
+        "specific_required_capital_yen": 18897190
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123382,
+        "upper_90_yen": 157998,
+        "lower_10_yen": 96887
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 253234,
+        "upper_90_yen": 357441,
+        "lower_10_yen": 181568
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 389896,
+        "upper_90_yen": 594715,
+        "lower_10_yen": 260358
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 533725,
+        "upper_90_yen": 870607,
+        "lower_10_yen": 335392
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 685097,
+        "upper_90_yen": 1187128,
+        "lower_10_yen": 407823
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 844406,
+        "upper_90_yen": 1546969,
+        "lower_10_yen": 478384
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1012070,
+        "upper_90_yen": 1953322,
+        "lower_10_yen": 547589
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1188526,
+        "upper_90_yen": 2409814,
+        "lower_10_yen": 615821
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1374236,
+        "upper_90_yen": 2920481,
+        "lower_10_yen": 683376
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1569685,
+        "upper_90_yen": 3489766,
+        "lower_10_yen": 750495
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ツムラ(4540)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ツムラ(4540)を1株(3,965円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,965円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.0%、幾何成長率は1.13%",
+      "新NISAで月1万円の配当金を得るには760株（約3,013,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ツムラは単元未満株（S株・かぶミニ等）を利用することで1株（約3,965円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,569,685円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり158.0円（利回り3.98%）です。月次95%VaR（最大想定損失率）は-7.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ツムラは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,965円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、760株（元本目安：約3,013,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3965.0
+  }
+}

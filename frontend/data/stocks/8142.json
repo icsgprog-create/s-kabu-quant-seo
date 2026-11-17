@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8142",
+    "name": "トーホー",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1388.0,
+    "min_s_kabu_yen": 1388,
+    "unit_lot_yen": 138800,
+    "dps_yen": 55.0,
+    "dividend_yield_pct": 3.96,
+    "raw_annual_return_pct": 23.85,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 12.5,
+    "annual_volatility_pct": 38.74,
+    "max_drawdown_pct": -39.41,
+    "monthly_var_95_pct": -14.27,
+    "sharpe_ratio": 0.4,
+    "quant_score": 52.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 219,
+        "nisa_required_capital_yen": 303972,
+        "specific_required_shares": 274,
+        "specific_required_capital_yen": 380312
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 1514308,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 1901560
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 3028616,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 3801732
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6546,
+        "nisa_required_capital_yen": 9085848,
+        "specific_required_shares": 8215,
+        "specific_required_capital_yen": 11402420
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 15143080,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 19003108
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131337,
+        "upper_90_yen": 188227,
+        "lower_10_yen": 92683
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 286170,
+        "upper_90_yen": 475509,
+        "lower_10_yen": 176412
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 468703,
+        "upper_90_yen": 879057,
+        "lower_10_yen": 259142
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 683893,
+        "upper_90_yen": 1427780,
+        "lower_10_yen": 343653
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 937580,
+        "upper_90_yen": 2159769,
+        "lower_10_yen": 431674
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1236654,
+        "upper_90_yen": 3123612,
+        "lower_10_yen": 524559
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1589233,
+        "upper_90_yen": 4380627,
+        "lower_10_yen": 623531
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2004890,
+        "upper_90_yen": 6007806,
+        "lower_10_yen": 729781
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2494910,
+        "upper_90_yen": 8101524,
+        "lower_10_yen": 844535
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3072597,
+        "upper_90_yen": 10782153,
+        "lower_10_yen": 969095
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "トーホー(8142)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "トーホー(8142)を1株(1,388円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,388円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは38.74%、幾何成長率は12.5%",
+      "新NISAで月1万円の配当金を得るには2,182株（約3,028,616円）が必要"
+    ],
+    "accumulation_strategy_analysis": "トーホーは単元未満株（S株・かぶミニ等）を利用することで1株（約1,388円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,072,597円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり55.0円（利回り3.96%）です。月次95%VaR（最大想定損失率）は-14.27%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "トーホーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,388円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,182株（元本目安：約3,028,616円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1388.0
+  }
+}

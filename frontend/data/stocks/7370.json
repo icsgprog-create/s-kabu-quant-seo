@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7370",
+    "name": "Ｅｎｊｉｎ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 706.0,
+    "min_s_kabu_yen": 706,
+    "unit_lot_yen": 70600,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 5.67,
+    "raw_annual_return_pct": -22.92,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -24.07,
+    "annual_volatility_pct": 42.6,
+    "max_drawdown_pct": -80.41,
+    "monthly_var_95_pct": -20.42,
+    "sharpe_ratio": -0.46,
+    "quant_score": 42.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 211800,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 266162
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 1059000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 1329398
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2118000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 2658090
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 6354000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 7974270
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 10590000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 13290450
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108765,
+        "upper_90_yen": 159816,
+        "lower_10_yen": 75069
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 199246,
+        "upper_90_yen": 337245,
+        "lower_10_yen": 121398
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 274515,
+        "upper_90_yen": 516453,
+        "lower_10_yen": 153089
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 337131,
+        "upper_90_yen": 690989,
+        "lower_10_yen": 175592
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 389220,
+        "upper_90_yen": 857395,
+        "lower_10_yen": 191919
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 432552,
+        "upper_90_yen": 1013775,
+        "lower_10_yen": 203940
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 468599,
+        "upper_90_yen": 1159179,
+        "lower_10_yen": 212885
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 498586,
+        "upper_90_yen": 1293266,
+        "lower_10_yen": 219596
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 523532,
+        "upper_90_yen": 1416098,
+        "lower_10_yen": 224666
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 544284,
+        "upper_90_yen": 1528001,
+        "lower_10_yen": 228517
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｅｎｊｉｎ(7370)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｅｎｊｉｎ(7370)を1株(706円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小706円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.6%、幾何成長率は-24.07%",
+      "新NISAで月1万円の配当金を得るには3,000株（約2,118,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｅｎｊｉｎは単元未満株（S株・かぶミニ等）を利用することで1株（約706円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は544,284円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り5.67%）です。月次95%VaR（最大想定損失率）は-20.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｅｎｊｉｎは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約706円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約2,118,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 706.0
+  }
+}

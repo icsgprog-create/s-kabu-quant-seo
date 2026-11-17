@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7806",
+    "name": "ＭＴＧ",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7010.0,
+    "min_s_kabu_yen": 7010,
+    "unit_lot_yen": 701000,
+    "dps_yen": 37.0,
+    "dividend_yield_pct": 0.53,
+    "raw_annual_return_pct": 30.84,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 9.22,
+    "annual_volatility_pct": 46.42,
+    "max_drawdown_pct": -33.66,
+    "monthly_var_95_pct": -15.13,
+    "sharpe_ratio": 0.19,
+    "quant_score": 13.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 325,
+        "nisa_required_capital_yen": 2278250,
+        "specific_required_shares": 408,
+        "specific_required_capital_yen": 2860080
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 11370220,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 14272360
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3244,
+        "nisa_required_capital_yen": 22740440,
+        "specific_required_shares": 4071,
+        "specific_required_capital_yen": 28537710
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9730,
+        "nisa_required_capital_yen": 68207300,
+        "specific_required_shares": 12211,
+        "specific_required_capital_yen": 85599110
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16217,
+        "nisa_required_capital_yen": 113681170,
+        "specific_required_shares": 20351,
+        "specific_required_capital_yen": 142660510
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126560,
+        "upper_90_yen": 194587,
+        "lower_10_yen": 83670
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266084,
+        "upper_90_yen": 486947,
+        "lower_10_yen": 150578
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 419902,
+        "upper_90_yen": 884629,
+        "lower_10_yen": 210245
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 589477,
+        "upper_90_yen": 1404865,
+        "lower_10_yen": 265634
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 776424,
+        "upper_90_yen": 2069986,
+        "lower_10_yen": 318265
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 982522,
+        "upper_90_yen": 2907175,
+        "lower_10_yen": 369069
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1209734,
+        "upper_90_yen": 3948889,
+        "lower_10_yen": 418682
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1460221,
+        "upper_90_yen": 5233549,
+        "lower_10_yen": 467570
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1736369,
+        "upper_90_yen": 6806431,
+        "lower_10_yen": 516095
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2040806,
+        "upper_90_yen": 8720724,
+        "lower_10_yen": 564548
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＭＴＧ(7806)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＭＴＧ(7806)を1株(7,010円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,010円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは46.42%、幾何成長率は9.22%",
+      "新NISAで月1万円の配当金を得るには3,244株（約22,740,440円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＭＴＧは単元未満株（S株・かぶミニ等）を利用することで1株（約7,010円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,040,806円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり37.0円（利回り0.53%）です。月次95%VaR（最大想定損失率）は-15.13%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＭＴＧは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,010円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,244株（元本目安：約22,740,440円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7010.0
+  }
+}

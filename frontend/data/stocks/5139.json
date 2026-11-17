@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5139",
+    "name": "オープンワーク",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 877.0,
+    "min_s_kabu_yen": 877,
+    "unit_lot_yen": 87700,
+    "dps_yen": 4.5,
+    "dividend_yield_pct": 0.51,
+    "raw_annual_return_pct": -4.5,
+    "capped_annual_return_pct": -4.5,
+    "geometric_growth_pct": -19.18,
+    "annual_volatility_pct": 54.19,
+    "max_drawdown_pct": -77.3,
+    "monthly_var_95_pct": -22.93,
+    "sharpe_ratio": -0.36,
+    "quant_score": 4.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 2338959,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 2935319
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 11693918,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 14674841
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 26667,
+        "nisa_required_capital_yen": 23386959,
+        "specific_required_shares": 33466,
+        "specific_required_capital_yen": 29349682
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 80000,
+        "nisa_required_capital_yen": 70160000,
+        "specific_required_shares": 100396,
+        "specific_required_capital_yen": 88047292
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 133334,
+        "nisa_required_capital_yen": 116933918,
+        "specific_required_shares": 167326,
+        "specific_required_capital_yen": 146744902
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108618,
+        "upper_90_yen": 177615,
+        "lower_10_yen": 67949
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 198742,
+        "upper_90_yen": 390025,
+        "lower_10_yen": 106441
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 273521,
+        "upper_90_yen": 615553,
+        "lower_10_yen": 131334
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 335569,
+        "upper_90_yen": 844210,
+        "lower_10_yen": 148219
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 387052,
+        "upper_90_yen": 1069859,
+        "lower_10_yen": 159991
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 429769,
+        "upper_90_yen": 1288492,
+        "lower_10_yen": 168352
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 465213,
+        "upper_90_yen": 1497483,
+        "lower_10_yen": 174373
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 494623,
+        "upper_90_yen": 1695173,
+        "lower_10_yen": 178754
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 519025,
+        "upper_90_yen": 1880598,
+        "lower_10_yen": 181969
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 539272,
+        "upper_90_yen": 2053306,
+        "lower_10_yen": 184345
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オープンワーク(5139)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オープンワーク(5139)を1株(877円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小877円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは54.19%、幾何成長率は-19.18%",
+      "新NISAで月1万円の配当金を得るには26,667株（約23,386,959円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オープンワークは単元未満株（S株・かぶミニ等）を利用することで1株（約877円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は539,272円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり4.5円（利回り0.51%）です。月次95%VaR（最大想定損失率）は-22.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オープンワークは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約877円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、26,667株（元本目安：約23,386,959円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 877.0
+  }
+}

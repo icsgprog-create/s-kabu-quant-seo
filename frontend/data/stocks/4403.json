@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4403",
+    "name": "日油",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2627.0,
+    "min_s_kabu_yen": 2627,
+    "unit_lot_yen": 262700,
+    "dps_yen": 72.0,
+    "dividend_yield_pct": 2.74,
+    "raw_annual_return_pct": 8.16,
+    "capped_annual_return_pct": 8.16,
+    "geometric_growth_pct": 4.43,
+    "annual_volatility_pct": 27.31,
+    "max_drawdown_pct": -33.34,
+    "monthly_var_95_pct": -10.49,
+    "sharpe_ratio": 0.23,
+    "quant_score": 50.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 167,
+        "nisa_required_capital_yen": 438709,
+        "specific_required_shares": 210,
+        "specific_required_capital_yen": 551670
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 834,
+        "nisa_required_capital_yen": 2190918,
+        "specific_required_shares": 1046,
+        "specific_required_capital_yen": 2747842
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1667,
+        "nisa_required_capital_yen": 4379209,
+        "specific_required_shares": 2092,
+        "specific_required_capital_yen": 5495684
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 13135000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 16484425
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8334,
+        "nisa_required_capital_yen": 21893418,
+        "specific_required_shares": 10458,
+        "specific_required_capital_yen": 27473166
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124778,
+        "upper_90_yen": 160319,
+        "lower_10_yen": 97668
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258829,
+        "upper_90_yen": 367289,
+        "lower_10_yen": 184637
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 402843,
+        "upper_90_yen": 618980,
+        "lower_10_yen": 267122
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 557561,
+        "upper_90_yen": 918054,
+        "lower_10_yen": 347218
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 723777,
+        "upper_90_yen": 1268647,
+        "lower_10_yen": 426065
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 902346,
+        "upper_90_yen": 1675869,
+        "lower_10_yen": 504404
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1094186,
+        "upper_90_yen": 2145665,
+        "lower_10_yen": 582772
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1300284,
+        "upper_90_yen": 2684802,
+        "lower_10_yen": 661585
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1521699,
+        "upper_90_yen": 3300891,
+        "lower_10_yen": 741182
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1759570,
+        "upper_90_yen": 4002441,
+        "lower_10_yen": 821857
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日油(4403)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日油(4403)を1株(2,627円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,627円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.31%、幾何成長率は4.43%",
+      "新NISAで月1万円の配当金を得るには1,667株（約4,379,209円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日油は単元未満株（S株・かぶミニ等）を利用することで1株（約2,627円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,759,570円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり72.0円（利回り2.74%）です。月次95%VaR（最大想定損失率）は-10.49%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日油は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,627円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,667株（元本目安：約4,379,209円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2627.0
+  }
+}

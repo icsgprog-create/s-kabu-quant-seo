@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6418",
+    "name": "日本金銭機械",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1416.0,
+    "min_s_kabu_yen": 1416,
+    "unit_lot_yen": 141600,
+    "dps_yen": 43.0,
+    "dividend_yield_pct": 3.04,
+    "raw_annual_return_pct": 16.51,
+    "capped_annual_return_pct": 16.51,
+    "geometric_growth_pct": 10.16,
+    "annual_volatility_pct": 35.62,
+    "max_drawdown_pct": -51.22,
+    "monthly_var_95_pct": -13.31,
+    "sharpe_ratio": 0.34,
+    "quant_score": 47.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 280,
+        "nisa_required_capital_yen": 396480,
+        "specific_required_shares": 351,
+        "specific_required_capital_yen": 497016
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1396,
+        "nisa_required_capital_yen": 1976736,
+        "specific_required_shares": 1752,
+        "specific_required_capital_yen": 2480832
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2791,
+        "nisa_required_capital_yen": 3952056,
+        "specific_required_shares": 3503,
+        "specific_required_capital_yen": 4960248
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8373,
+        "nisa_required_capital_yen": 11856168,
+        "specific_required_shares": 10507,
+        "specific_required_capital_yen": 14877912
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13954,
+        "nisa_required_capital_yen": 19758864,
+        "specific_required_shares": 17511,
+        "specific_required_capital_yen": 24795576
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128988,
+        "upper_90_yen": 179352,
+        "lower_10_yen": 93661
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 276178,
+        "upper_90_yen": 439041,
+        "lower_10_yen": 177324
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 444139,
+        "upper_90_yen": 787247,
+        "lower_10_yen": 258480
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 635802,
+        "upper_90_yen": 1240347,
+        "lower_10_yen": 339653
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 854512,
+        "upper_90_yen": 1819643,
+        "lower_10_yen": 422304
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1104086,
+        "upper_90_yen": 2551463,
+        "lower_10_yen": 507483
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1388878,
+        "upper_90_yen": 3467836,
+        "lower_10_yen": 596050
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1713860,
+        "upper_90_yen": 4607455,
+        "lower_10_yen": 688777
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2084703,
+        "upper_90_yen": 6016884,
+        "lower_10_yen": 786401
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2507877,
+        "upper_90_yen": 7752027,
+        "lower_10_yen": 889653
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本金銭機械(6418)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本金銭機械(6418)を1株(1,416円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,416円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.62%、幾何成長率は10.16%",
+      "新NISAで月1万円の配当金を得るには2,791株（約3,952,056円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本金銭機械は単元未満株（S株・かぶミニ等）を利用することで1株（約1,416円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,507,877円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり43.0円（利回り3.04%）です。月次95%VaR（最大想定損失率）は-13.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本金銭機械は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,416円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,791株（元本目安：約3,952,056円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1416.0
+  }
+}

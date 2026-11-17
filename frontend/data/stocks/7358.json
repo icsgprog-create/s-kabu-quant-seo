@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7358",
+    "name": "ポピンズ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1690.0,
+    "min_s_kabu_yen": 1690,
+    "unit_lot_yen": 169000,
+    "dps_yen": 45.0,
+    "dividend_yield_pct": 2.66,
+    "raw_annual_return_pct": -13.55,
+    "capped_annual_return_pct": -13.55,
+    "geometric_growth_pct": -21.42,
+    "annual_volatility_pct": 39.68,
+    "max_drawdown_pct": -73.33,
+    "monthly_var_95_pct": -15.72,
+    "sharpe_ratio": -0.5,
+    "quant_score": 26.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 267,
+        "nisa_required_capital_yen": 451230,
+        "specific_required_shares": 335,
+        "specific_required_capital_yen": 566150
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 2254460,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 2829060
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 4507230,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 5656430
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 13520000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 16967600
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 22534460,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 28278770
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108565,
+        "upper_90_yen": 155290,
+        "lower_10_yen": 76829
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 198562,
+        "upper_90_yen": 323789,
+        "lower_10_yen": 125069
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 273167,
+        "upper_90_yen": 491155,
+        "lower_10_yen": 158395
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 335013,
+        "upper_90_yen": 651848,
+        "lower_10_yen": 182234
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 386281,
+        "upper_90_yen": 803103,
+        "lower_10_yen": 199632
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 428781,
+        "upper_90_yen": 943572,
+        "lower_10_yen": 212503
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 464013,
+        "upper_90_yen": 1072737,
+        "lower_10_yen": 222120
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 493218,
+        "upper_90_yen": 1190599,
+        "lower_10_yen": 229363
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 517429,
+        "upper_90_yen": 1297483,
+        "lower_10_yen": 234850
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 537499,
+        "upper_90_yen": 1393914,
+        "lower_10_yen": 239030
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ポピンズ(7358)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ポピンズ(7358)を1株(1,690円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,690円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.68%、幾何成長率は-21.42%",
+      "新NISAで月1万円の配当金を得るには2,667株（約4,507,230円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ポピンズは単元未満株（S株・かぶミニ等）を利用することで1株（約1,690円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は537,499円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり45.0円（利回り2.66%）です。月次95%VaR（最大想定損失率）は-15.72%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ポピンズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,690円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,667株（元本目安：約4,507,230円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1690.0
+  }
+}

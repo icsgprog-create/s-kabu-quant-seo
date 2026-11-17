@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6615",
+    "name": "ユー・エム・シー・エレクトロニクス",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 198.0,
+    "min_s_kabu_yen": 198,
+    "unit_lot_yen": 19800,
+    "dps_yen": 5.0,
+    "dividend_yield_pct": 2.53,
+    "raw_annual_return_pct": -19.15,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -24.39,
+    "annual_volatility_pct": 43.34,
+    "max_drawdown_pct": -66.3,
+    "monthly_var_95_pct": -16.69,
+    "sharpe_ratio": -0.53,
+    "quant_score": 21.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 475200,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 596376
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 2376000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 2981880
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 4752000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 5963562
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 72000,
+        "nisa_required_capital_yen": 14256000,
+        "specific_required_shares": 90356,
+        "specific_required_capital_yen": 17890488
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 23760000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 29817414
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 106806,
+        "upper_90_yen": 157838,
+        "lower_10_yen": 73334
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 192633,
+        "upper_90_yen": 328042,
+        "lower_10_yen": 116796
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 261601,
+        "upper_90_yen": 494693,
+        "lower_10_yen": 145411
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 317023,
+        "upper_90_yen": 651922,
+        "lower_10_yen": 164982
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 361558,
+        "upper_90_yen": 797080,
+        "lower_10_yen": 178665
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 397345,
+        "upper_90_yen": 929137,
+        "lower_10_yen": 188374
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 426103,
+        "upper_90_yen": 1047982,
+        "lower_10_yen": 195340
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 449212,
+        "upper_90_yen": 1154043,
+        "lower_10_yen": 200379
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 467782,
+        "upper_90_yen": 1248054,
+        "lower_10_yen": 204050
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 482705,
+        "upper_90_yen": 1330920,
+        "lower_10_yen": 206739
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ユー・エム・シー・エレクトロニクス(6615)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ユー・エム・シー・エレクトロニクス(6615)を1株(198円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小198円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.34%、幾何成長率は-24.39%",
+      "新NISAで月1万円の配当金を得るには24,000株（約4,752,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ユー・エム・シー・エレクトロニクスは単元未満株（S株・かぶミニ等）を利用することで1株（約198円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は482,705円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり5.0円（利回り2.53%）です。月次95%VaR（最大想定損失率）は-16.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ユー・エム・シー・エレクトロニクスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約198円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、24,000株（元本目安：約4,752,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 198.0
+  }
+}

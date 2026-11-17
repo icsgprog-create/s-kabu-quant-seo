@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "code": "8046",
+    "name": "丸藤シートパイル",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 910.0,
+    "min_s_kabu_yen": 910,
+    "unit_lot_yen": 91000,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 4.4,
+    "raw_annual_return_pct": 20.39,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 18.34,
+    "annual_volatility_pct": 18.22,
+    "max_drawdown_pct": -27.75,
+    "monthly_var_95_pct": -6.51,
+    "sharpe_ratio": 1.19,
+    "quant_score": 91.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 273000,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 343070
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 1365000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 1713530
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2730000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 3426150
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 8190000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 10278450
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 13650000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 17130750
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 136018,
+        "upper_90_yen": 161019,
+        "lower_10_yen": 115185
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 306759,
+        "upper_90_yen": 389367,
+        "lower_10_yen": 242946
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 521088,
+        "upper_90_yen": 700649,
+        "lower_10_yen": 390586
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 790133,
+        "upper_90_yen": 1118523,
+        "lower_10_yen": 563864
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1127862,
+        "upper_90_yen": 1674462,
+        "lower_10_yen": 769082
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1551808,
+        "upper_90_yen": 2409570,
+        "lower_10_yen": 1013627
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2083983,
+        "upper_90_yen": 3377212,
+        "lower_10_yen": 1306357
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2752014,
+        "upper_90_yen": 4646484,
+        "lower_10_yen": 1658002
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3590586,
+        "upper_90_yen": 6306709,
+        "lower_10_yen": 2081616
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4643234,
+        "upper_90_yen": 8473220,
+        "lower_10_yen": 2593129
+      }
+    ]
+  },
+  "seo": {
+    "code": "8046",
+    "seo_title": "丸藤シートパイル(8046)の配当・リスク分析と新NISA長期積立データ",
+    "meta_description": "丸藤シートパイル(8046)の配当利回り4.4%や幾何成長率18.34%、新NISAでの10年積立試算（中央値464万円）を分析解説。",
+    "summary_points": [
+      "1株投資は約910円から開始でき、少額投資に適した価格帯",
+      "配当利回り4.4%、年間配当金は1株あたり40.0円",
+      "幾何平均成長率は18.34%と高く、10年積立試算の中央値は464万3,234円"
+    ],
+    "accumulation_strategy_analysis": "単元未満株として1株約910円で購入可能なため、毎月の積立額を柔軟に調整しやすい点が特徴です。過去データに基づく幾何平均成長率は18.34%と力強く、月1万円枠の10年積立（元本約273万円・3,000株取得）では中央値で464万3,234円に達する試算結果となっています。長期的なキャピタルゲインとインカムゲインの双方を期待しやすい構造です。",
+    "dividend_and_risk_commentary": "配当利回りは4.4%と高水準で、DPSは40.0円です。年率ボラティリティは18.22%、月次VaR(95%)は-6.51%となっており、鉄鋼建材卸売という景気敏感セクター特有の価格変動リスクを一定程度内包しています。",
+    "faqs": [
+      {
+        "question": "丸藤シートパイルの新NISAでの10年積立試算はどうなっていますか？",
+        "answer": "月1万円の積立投資を想定した場合、10年後の資産評価額の中央値は約464万円（元本約273万円）と試算されています。"
+      },
+      {
+        "question": "1株あたりの投資コストはいくらですか？",
+        "answer": "現在の株価水準では約910円から1株投資を開始できます。"
+      }
+    ],
+    "is_ai_generated": true,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 910.0
+  }
+}

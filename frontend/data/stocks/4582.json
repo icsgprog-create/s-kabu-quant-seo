@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4582",
+    "name": "シンバイオ製薬",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 75.0,
+    "min_s_kabu_yen": 75,
+    "unit_lot_yen": 7500,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -62.69,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -39.39,
+    "annual_volatility_pct": 69.84,
+    "max_drawdown_pct": -97.67,
+    "monthly_var_95_pct": -24.12,
+    "sharpe_ratio": -0.58,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 97568,
+        "upper_90_yen": 182594,
+        "lower_10_yen": 54157
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 163370,
+        "upper_90_yen": 380282,
+        "lower_10_yen": 76300
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 207749,
+        "upper_90_yen": 563654,
+        "lower_10_yen": 87111
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 237679,
+        "upper_90_yen": 723866,
+        "lower_10_yen": 92729
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 257865,
+        "upper_90_yen": 859028,
+        "lower_10_yen": 95754
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 271479,
+        "upper_90_yen": 970380,
+        "lower_10_yen": 97424
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 280660,
+        "upper_90_yen": 1060529,
+        "lower_10_yen": 98361
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 286853,
+        "upper_90_yen": 1132528,
+        "lower_10_yen": 98895
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 291029,
+        "upper_90_yen": 1189407,
+        "lower_10_yen": 99202
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 293845,
+        "upper_90_yen": 1233936,
+        "lower_10_yen": 99381
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "シンバイオ製薬(4582)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "シンバイオ製薬(4582)を1株(75円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小75円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは69.84%、幾何成長率は-39.39%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "シンバイオ製薬は単元未満株（S株・かぶミニ等）を利用することで1株（約75円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は293,845円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-24.12%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "シンバイオ製薬は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約75円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 75.0
+  }
+}

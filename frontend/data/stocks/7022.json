@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7022",
+    "name": "サノヤスホールディングス",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 265.0,
+    "min_s_kabu_yen": 265,
+    "unit_lot_yen": 26500,
+    "dps_yen": 7.5,
+    "dividend_yield_pct": 2.83,
+    "raw_annual_return_pct": 17.75,
+    "capped_annual_return_pct": 17.75,
+    "geometric_growth_pct": 6.97,
+    "annual_volatility_pct": 46.42,
+    "max_drawdown_pct": -54.86,
+    "monthly_var_95_pct": -14.55,
+    "sharpe_ratio": 0.19,
+    "quant_score": 32.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 424000,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 532120
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 2120000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 2660600
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 16000,
+        "nisa_required_capital_yen": 4240000,
+        "specific_required_shares": 20080,
+        "specific_required_capital_yen": 5321200
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 48000,
+        "nisa_required_capital_yen": 12720000,
+        "specific_required_shares": 60238,
+        "specific_required_capital_yen": 15963070
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 80000,
+        "nisa_required_capital_yen": 21200000,
+        "specific_required_shares": 100396,
+        "specific_required_capital_yen": 26604940
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126593,
+        "upper_90_yen": 194643,
+        "lower_10_yen": 83690
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266221,
+        "upper_90_yen": 487229,
+        "lower_10_yen": 150645
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 420226,
+        "upper_90_yen": 885410,
+        "lower_10_yen": 210382
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 590088,
+        "upper_90_yen": 1406548,
+        "lower_10_yen": 265863
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 777442,
+        "upper_90_yen": 2073143,
+        "lower_10_yen": 318606
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 984086,
+        "upper_90_yen": 2912592,
+        "lower_10_yen": 369542
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1212009,
+        "upper_90_yen": 3957618,
+        "lower_10_yen": 419308
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1463401,
+        "upper_90_yen": 5246982,
+        "lower_10_yen": 468371
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1740677,
+        "upper_90_yen": 6826382,
+        "lower_10_yen": 517091
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2046505,
+        "upper_90_yen": 8749531,
+        "lower_10_yen": 565762
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サノヤスホールディングス(7022)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サノヤスホールディングス(7022)を1株(265円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小265円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは46.42%、幾何成長率は6.97%",
+      "新NISAで月1万円の配当金を得るには16,000株（約4,240,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サノヤスホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約265円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,046,505円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.5円（利回り2.83%）です。月次95%VaR（最大想定損失率）は-14.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サノヤスホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約265円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、16,000株（元本目安：約4,240,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 265.0
+  }
+}

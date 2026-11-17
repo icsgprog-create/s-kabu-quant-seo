@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6089",
+    "name": "ウィルグループ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1227.0,
+    "min_s_kabu_yen": 1227,
+    "unit_lot_yen": 122700,
+    "dps_yen": 44.0,
+    "dividend_yield_pct": 3.59,
+    "raw_annual_return_pct": -1.22,
+    "capped_annual_return_pct": -1.22,
+    "geometric_growth_pct": -4.36,
+    "annual_volatility_pct": 25.08,
+    "max_drawdown_pct": -38.56,
+    "monthly_var_95_pct": -10.25,
+    "sharpe_ratio": -0.07,
+    "quant_score": 51.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 273,
+        "nisa_required_capital_yen": 334971,
+        "specific_required_shares": 343,
+        "specific_required_capital_yen": 420861
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1364,
+        "nisa_required_capital_yen": 1673628,
+        "specific_required_shares": 1712,
+        "specific_required_capital_yen": 2100624
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 3347256,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 4200021
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8182,
+        "nisa_required_capital_yen": 10039314,
+        "specific_required_shares": 10268,
+        "specific_required_capital_yen": 12598836
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13637,
+        "nisa_required_capital_yen": 16732599,
+        "specific_required_shares": 17113,
+        "specific_required_capital_yen": 20997651
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119496,
+        "upper_90_yen": 150160,
+        "lower_10_yen": 95553
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238067,
+        "upper_90_yen": 326691,
+        "lower_10_yen": 175307
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 355721,
+        "upper_90_yen": 523015,
+        "lower_10_yen": 245874
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 472463,
+        "upper_90_yen": 736738,
+        "lower_10_yen": 309681
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 588302,
+        "upper_90_yen": 966515,
+        "lower_10_yen": 368107
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 703243,
+        "upper_90_yen": 1211467,
+        "lower_10_yen": 422063
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 817296,
+        "upper_90_yen": 1470970,
+        "lower_10_yen": 472206
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 930465,
+        "upper_90_yen": 1744557,
+        "lower_10_yen": 519031
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1042758,
+        "upper_90_yen": 2031870,
+        "lower_10_yen": 562931
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1154181,
+        "upper_90_yen": 2332621,
+        "lower_10_yen": 604221
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ウィルグループ(6089)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ウィルグループ(6089)を1株(1,227円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,227円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.08%、幾何成長率は-4.36%",
+      "新NISAで月1万円の配当金を得るには2,728株（約3,347,256円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ウィルグループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,227円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,154,181円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり44.0円（利回り3.59%）です。月次95%VaR（最大想定損失率）は-10.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ウィルグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,227円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,728株（元本目安：約3,347,256円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1227.0
+  }
+}

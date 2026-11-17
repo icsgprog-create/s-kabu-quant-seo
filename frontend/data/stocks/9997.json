@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9997",
+    "name": "ベルーナ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1061.0,
+    "min_s_kabu_yen": 1061,
+    "unit_lot_yen": 106100,
+    "dps_yen": 42.5,
+    "dividend_yield_pct": 4.01,
+    "raw_annual_return_pct": 10.74,
+    "capped_annual_return_pct": 10.74,
+    "geometric_growth_pct": 7.95,
+    "annual_volatility_pct": 23.65,
+    "max_drawdown_pct": -25.52,
+    "monthly_var_95_pct": -9.14,
+    "sharpe_ratio": 0.46,
+    "quant_score": 70.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 283,
+        "nisa_required_capital_yen": 300263,
+        "specific_required_shares": 355,
+        "specific_required_capital_yen": 376655
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1412,
+        "nisa_required_capital_yen": 1498132,
+        "specific_required_shares": 1772,
+        "specific_required_capital_yen": 1880092
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2824,
+        "nisa_required_capital_yen": 2996264,
+        "specific_required_shares": 3544,
+        "specific_required_capital_yen": 3760184
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8471,
+        "nisa_required_capital_yen": 8987731,
+        "specific_required_shares": 10631,
+        "specific_required_capital_yen": 11279491
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 14118,
+        "nisa_required_capital_yen": 14979198,
+        "specific_required_shares": 17717,
+        "specific_required_capital_yen": 18797737
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128102,
+        "upper_90_yen": 159237,
+        "lower_10_yen": 103492
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 272469,
+        "upper_90_yen": 369602,
+        "lower_10_yen": 202690
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 435165,
+        "upper_90_yen": 633514,
+        "lower_10_yen": 303065
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 618518,
+        "upper_90_yen": 958047,
+        "lower_10_yen": 406711
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 825151,
+        "upper_90_yen": 1352474,
+        "lower_10_yen": 515007
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1058020,
+        "upper_90_yen": 1828045,
+        "lower_10_yen": 629072
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1320454,
+        "upper_90_yen": 2398097,
+        "lower_10_yen": 749924
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1616209,
+        "upper_90_yen": 3078289,
+        "lower_10_yen": 878554
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1949515,
+        "upper_90_yen": 3886924,
+        "lower_10_yen": 1015968
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2325139,
+        "upper_90_yen": 4845332,
+        "lower_10_yen": 1163213
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ベルーナ(9997)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ベルーナ(9997)を1株(1,061円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,061円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.65%、幾何成長率は7.95%",
+      "新NISAで月1万円の配当金を得るには2,824株（約2,996,264円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ベルーナは単元未満株（S株・かぶミニ等）を利用することで1株（約1,061円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,325,139円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり42.5円（利回り4.01%）です。月次95%VaR（最大想定損失率）は-9.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ベルーナは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,061円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,824株（元本目安：約2,996,264円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1061.0
+  }
+}

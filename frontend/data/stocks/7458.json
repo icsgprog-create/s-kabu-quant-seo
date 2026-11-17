@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7458",
+    "name": "第一興商",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1844.0,
+    "min_s_kabu_yen": 1844,
+    "unit_lot_yen": 184400,
+    "dps_yen": 73.0,
+    "dividend_yield_pct": 3.96,
+    "raw_annual_return_pct": 0.65,
+    "capped_annual_return_pct": 0.65,
+    "geometric_growth_pct": -2.29,
+    "annual_volatility_pct": 24.27,
+    "max_drawdown_pct": -48.67,
+    "monthly_var_95_pct": -9.6,
+    "sharpe_ratio": 0.03,
+    "quant_score": 58.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 165,
+        "nisa_required_capital_yen": 304260,
+        "specific_required_shares": 207,
+        "specific_required_capital_yen": 381708
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 822,
+        "nisa_required_capital_yen": 1515768,
+        "specific_required_shares": 1032,
+        "specific_required_capital_yen": 1903008
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 3031536,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 3804172
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4932,
+        "nisa_required_capital_yen": 9094608,
+        "specific_required_shares": 6189,
+        "specific_required_capital_yen": 11412516
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8220,
+        "nisa_required_capital_yen": 15157680,
+        "specific_required_shares": 10315,
+        "specific_required_capital_yen": 19020860
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121088,
+        "upper_90_yen": 151100,
+        "lower_10_yen": 97475
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 244208,
+        "upper_90_yen": 332103,
+        "lower_10_yen": 181332
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 369393,
+        "upper_90_yen": 537605,
+        "lower_10_yen": 257652
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 496679,
+        "upper_90_yen": 766158,
+        "lower_10_yen": 328581
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 626101,
+        "upper_90_yen": 1017295,
+        "lower_10_yen": 395307
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 757695,
+        "upper_90_yen": 1290994,
+        "lower_10_yen": 458599
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 891496,
+        "upper_90_yen": 1587486,
+        "lower_10_yen": 519000
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1027543,
+        "upper_90_yen": 1907167,
+        "lower_10_yen": 576913
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1165872,
+        "upper_90_yen": 2250549,
+        "lower_10_yen": 632651
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1306523,
+        "upper_90_yen": 2618236,
+        "lower_10_yen": 686465
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "第一興商(7458)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "第一興商(7458)を1株(1,844円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,844円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.27%、幾何成長率は-2.29%",
+      "新NISAで月1万円の配当金を得るには1,644株（約3,031,536円）が必要"
+    ],
+    "accumulation_strategy_analysis": "第一興商は単元未満株（S株・かぶミニ等）を利用することで1株（約1,844円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,306,523円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり73.0円（利回り3.96%）です。月次95%VaR（最大想定損失率）は-9.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "第一興商は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,844円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,644株（元本目安：約3,031,536円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1844.0
+  }
+}

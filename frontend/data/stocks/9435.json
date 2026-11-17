@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9435",
+    "name": "光通信",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 40680.0,
+    "min_s_kabu_yen": 40680,
+    "unit_lot_yen": 4068000,
+    "dps_yen": 790.0,
+    "dividend_yield_pct": 1.94,
+    "raw_annual_return_pct": 18.2,
+    "capped_annual_return_pct": 18.2,
+    "geometric_growth_pct": 14.28,
+    "annual_volatility_pct": 28.0,
+    "max_drawdown_pct": -29.19,
+    "monthly_var_95_pct": -10.13,
+    "sharpe_ratio": 0.54,
+    "quant_score": 51.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 16,
+        "nisa_required_capital_yen": 650880,
+        "specific_required_shares": 20,
+        "specific_required_capital_yen": 813600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 76,
+        "nisa_required_capital_yen": 3091680,
+        "specific_required_shares": 96,
+        "specific_required_capital_yen": 3905280
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 152,
+        "nisa_required_capital_yen": 6183360,
+        "specific_required_shares": 191,
+        "specific_required_capital_yen": 7769880
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 456,
+        "nisa_required_capital_yen": 18550080,
+        "specific_required_shares": 572,
+        "specific_required_capital_yen": 23268960
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 760,
+        "nisa_required_capital_yen": 30916800,
+        "specific_required_shares": 954,
+        "specific_required_capital_yen": 38808720
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131165,
+        "upper_90_yen": 169929,
+        "lower_10_yen": 101844
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285433,
+        "upper_90_yen": 410981,
+        "lower_10_yen": 200745
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 466873,
+        "upper_90_yen": 732813,
+        "lower_10_yen": 303144
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 680271,
+        "upper_90_yen": 1152476,
+        "lower_10_yen": 411738
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 931256,
+        "upper_90_yen": 1692187,
+        "lower_10_yen": 528523
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1226447,
+        "upper_90_yen": 2379780,
+        "lower_10_yen": 655313
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1573633,
+        "upper_90_yen": 3249717,
+        "lower_10_yen": 793929
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1981970,
+        "upper_90_yen": 4344433,
+        "lower_10_yen": 946295
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2462230,
+        "upper_90_yen": 5716029,
+        "lower_10_yen": 1114509
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3027080,
+        "upper_90_yen": 7428356,
+        "lower_10_yen": 1300889
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "光通信(9435)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "光通信(9435)を1株(40,680円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小40,680円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.0%、幾何成長率は14.28%",
+      "新NISAで月1万円の配当金を得るには152株（約6,183,360円）が必要"
+    ],
+    "accumulation_strategy_analysis": "光通信は単元未満株（S株・かぶミニ等）を利用することで1株（約40,680円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,027,080円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり790.0円（利回り1.94%）です。月次95%VaR（最大想定損失率）は-10.13%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "光通信は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約40,680円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、152株（元本目安：約6,183,360円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 40680.0
+  }
+}

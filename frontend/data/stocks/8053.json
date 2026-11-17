@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8053",
+    "name": "住友商事",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1639.5,
+    "min_s_kabu_yen": 1640,
+    "unit_lot_yen": 163950,
+    "dps_yen": 42.0,
+    "dividend_yield_pct": 2.56,
+    "raw_annual_return_pct": 31.65,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.46,
+    "annual_volatility_pct": 30.13,
+    "max_drawdown_pct": -35.77,
+    "monthly_var_95_pct": -9.91,
+    "sharpe_ratio": 0.57,
+    "quant_score": 54.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 286,
+        "nisa_required_capital_yen": 468897,
+        "specific_required_shares": 359,
+        "specific_required_capital_yen": 588580
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1429,
+        "nisa_required_capital_yen": 2342846,
+        "specific_required_shares": 1793,
+        "specific_required_capital_yen": 2939624
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 4685691,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 5879247
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 14053794,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 17636102
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 14286,
+        "nisa_required_capital_yen": 23421897,
+        "specific_required_shares": 17928,
+        "specific_required_capital_yen": 29392956
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132484,
+        "upper_90_yen": 175168,
+        "lower_10_yen": 100889
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 291135,
+        "upper_90_yen": 431709,
+        "lower_10_yen": 199201
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 481120,
+        "upper_90_yen": 783795,
+        "lower_10_yen": 301840
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 708627,
+        "upper_90_yen": 1254919,
+        "lower_10_yen": 411800
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 981067,
+        "upper_90_yen": 1876010,
+        "lower_10_yen": 531387
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1307316,
+        "upper_90_yen": 2686559,
+        "lower_10_yen": 662776
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1698000,
+        "upper_90_yen": 3736493,
+        "lower_10_yen": 808219
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2165845,
+        "upper_90_yen": 5088642,
+        "lower_10_yen": 970160
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2726092,
+        "upper_90_yen": 6821870,
+        "lower_10_yen": 1151319
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3396989,
+        "upper_90_yen": 9034982,
+        "lower_10_yen": 1354765
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "住友商事(8053)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "住友商事(8053)を1株(1,640円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,640円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.13%、幾何成長率は15.46%",
+      "新NISAで月1万円の配当金を得るには2,858株（約4,685,691円）が必要"
+    ],
+    "accumulation_strategy_analysis": "住友商事は単元未満株（S株・かぶミニ等）を利用することで1株（約1,640円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,396,989円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり42.0円（利回り2.56%）です。月次95%VaR（最大想定損失率）は-9.91%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "住友商事は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,640円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,858株（元本目安：約4,685,691円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1639.5
+  }
+}

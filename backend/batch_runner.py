@@ -1,10 +1,12 @@
 import io, os, re, sys, json, time
+from datetime import datetime, timezone
 from html import unescape
 from urllib.parse import urljoin
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import pandas as pd
 import requests
+import yfinance as yf
 from config import (
     DEFAULT_TARGET_TICKERS, DATA_OUTPUT_DIR, STOCKS_OUTPUT_DIR,
     CACHE_DIR, AI_BATCH_SIZE, AI_REQUEST_INTERVAL_SEC, MAX_AI_CALLS_PER_RUN
@@ -89,10 +91,7 @@ def _crawl_single_industry(ind_id: int, sector_name: str) -> list[dict]:
                 if code in seen_in_sector:
                     continue
                 cells = re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", row_html, re.DOTALL | re.IGNORECASE)
-                clean_cells = [
-                    unescape(re.sub(r"<[^>]+>", "", c)).strip()
-                    for c in cells
-                ]
+                clean_cells = [unescape(re.sub(r"<[^>]+>", "", c)).strip() for c in cells]
                 clean_cells = [c for c in clean_cells if c]
                 name = ""
                 if len(clean_cells) >= 2 and clean_cells[0] == code:
@@ -153,40 +152,79 @@ def fetch_all_jpx_tickers() -> list[dict]:
     print(f"[INFO] Cached {len(tickers)} listed stocks to {cache_json}.")
     return tickers
 
-def calc_single_quant(item, ai_gen):
-    code, name, sector = item["code"], item["name"], item["sector"]
-    try:
-        metrics = QuantEngine.calculate_stock_metrics(code, name, sector)
-        if not metrics:
-            return None
-        existing_seo = ai_gen.load_valid_existing_seo(code, metrics)
-        seo_content = existing_seo if existing_seo else ai_gen.build_fallback_content(metrics)
-        with open(STOCKS_OUTPUT_DIR / f"{code}.json", "w", encoding="utf-8") as f:
-            json.dump({"metrics": metrics, "seo": seo_content}, f, ensure_ascii=False, indent=2)
-        time.sleep(0.15)
-        return {"metrics": metrics, "needs_ai": existing_seo is None}
-    except Exception as e:
+def _extract_single_df(df_all: pd.DataFrame, sym: str) -> pd.DataFrame | None:
+    if df_all is None or df_all.empty:
         return None
+    if isinstance(df_all.columns, pd.MultiIndex):
+        if sym in df_all.columns.get_level_values(0):
+            return df_all[sym].copy()
+        elif sym in df_all.columns.get_level_values(1):
+            return df_all.xs(sym, axis=1, level=1).copy()
+        return None
+    return df_all.copy()
 
-def run_batch(use_all=False):
+def run_batch(use_all=False, force_quant=False):
     ai_gen = AIGenerator()
     tickers = fetch_all_jpx_tickers() if use_all else DEFAULT_TARGET_TICKERS
     total = len(tickers)
-    print(f"[PHASE 1] Calculating quantitative metrics for {total} stocks...")
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     all_metrics = []
     pending_ai_metrics = []
+    to_download = []
 
-    with ThreadPoolExecutor(max_workers=4) as executor:
-        future_to_item = {executor.submit(calc_single_quant, item, ai_gen): item for item in tickers}
-        for idx, future in enumerate(as_completed(future_to_item), start=1):
-            res = future.result()
-            if res:
-                all_metrics.append(res["metrics"])
-                if res["needs_ai"]:
-                    pending_ai_metrics.append(res["metrics"])
-            if idx % 50 == 0 or idx == total:
-                print(f"  -> Quant progress: {idx}/{total} (valid: {len(all_metrics)})")
+    for item in tickers:
+        code = item["code"]
+        stock_file = STOCKS_OUTPUT_DIR / f"{code}.json"
+        if not force_quant and stock_file.exists():
+            try:
+                with open(stock_file, "r", encoding="utf-8") as f:
+                    saved = json.load(f)
+                m = saved.get("metrics")
+                seo = saved.get("seo", {})
+                if m and m.get("updated_at") == today_str:
+                    all_metrics.append(m)
+                    if not seo.get("is_ai_generated", False):
+                        pending_ai_metrics.append(m)
+                    continue
+            except Exception:
+                pass
+        to_download.append(item)
+
+    print(f"[PHASE 1] Reused {len(all_metrics)} stocks updated today. Downloading remaining {len(to_download)} stocks in 50-ticker chunks...")
+
+    CHUNK_SIZE = 50
+    total_chunks = (len(to_download) + CHUNK_SIZE - 1) // CHUNK_SIZE
+
+    for c_idx in range(total_chunks):
+        chunk = to_download[c_idx * CHUNK_SIZE : (c_idx + 1) * CHUNK_SIZE]
+        symbols = [f"{x['code']}.T" for x in chunk]
+        try:
+            df_bulk = yf.download(
+                symbols, period="5y", interval="1d",
+                auto_adjust=False, actions=True, group_by="ticker",
+                threads=False, progress=False
+            )
+            for item in chunk:
+                code, name, sector = item["code"], item["name"], item["sector"]
+                sym = f"{code}.T"
+                sub_df = _extract_single_df(df_bulk, sym)
+                metrics = QuantEngine.compute_from_dataframe(sub_df, code, name, sector)
+                if not metrics:
+                    continue
+                existing_seo = ai_gen.load_valid_existing_seo(code, metrics)
+                seo_content = existing_seo if existing_seo else ai_gen.build_fallback_content(metrics)
+                with open(STOCKS_OUTPUT_DIR / f"{code}.json", "w", encoding="utf-8") as f:
+                    json.dump({"metrics": metrics, "seo": seo_content}, f, ensure_ascii=False, indent=2)
+                all_metrics.append(metrics)
+                if existing_seo is None:
+                    pending_ai_metrics.append(metrics)
+        except Exception as e:
+            print(f"[WARN] Bulk chunk {c_idx + 1}/{total_chunks} failed: {e}")
+
+        print(f"  -> Bulk Download Chunk [{c_idx + 1}/{total_chunks}] completed (Total valid stocks: {len(all_metrics)})")
+        if c_idx + 1 < total_chunks:
+            time.sleep(1.5)
 
     all_metrics.sort(key=lambda x: x["quant_score"], reverse=True)
     pending_ai_metrics.sort(key=lambda x: x["quant_score"], reverse=True)
@@ -195,7 +233,7 @@ def run_batch(use_all=False):
         max_stocks = MAX_AI_CALLS_PER_RUN * AI_BATCH_SIZE
         target_ai_list = pending_ai_metrics[:max_stocks]
         total_batches = (len(target_ai_list) + AI_BATCH_SIZE - 1) // AI_BATCH_SIZE
-        print(f"[PHASE 2] Enriching {len(target_ai_list)} stocks via Gemini API in {total_batches} bulk requests...")
+        print(f"[PHASE 2] Enriching {len(target_ai_list)} stocks via Gemini API ({ai_gen.client._api_client._httpx_client if hasattr(ai_gen.client, '_api_client') else 'gemini-3.8-flash'}) in {total_batches} bulk requests...")
 
         for b_idx in range(total_batches):
             chunk = target_ai_list[b_idx * AI_BATCH_SIZE : (b_idx + 1) * AI_BATCH_SIZE]
@@ -244,4 +282,5 @@ def run_batch(use_all=False):
 
 if __name__ == "__main__":
     use_all_flag = "--all" in sys.argv
-    run_batch(use_all=use_all_flag)
+    force_flag = "--force" in sys.argv
+    run_batch(use_all=use_all_flag, force_quant=force_flag)

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6265",
+    "name": "コンバム",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3325.0,
+    "min_s_kabu_yen": 3325,
+    "unit_lot_yen": 332500,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 1.95,
+    "raw_annual_return_pct": 10.2,
+    "capped_annual_return_pct": 10.2,
+    "geometric_growth_pct": 5.91,
+    "annual_volatility_pct": 29.31,
+    "max_drawdown_pct": -34.98,
+    "monthly_var_95_pct": -8.77,
+    "sharpe_ratio": 0.23,
+    "quant_score": 42.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 615125,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 771400
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 3072300,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 3853675
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 6141275,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 7704025
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 18417175,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 23112075
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 30693075,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 38520125
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125252,
+        "upper_90_yen": 163962,
+        "lower_10_yen": 96307
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260747,
+        "upper_90_yen": 379939,
+        "lower_10_yen": 181475
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 407323,
+        "upper_90_yen": 646797,
+        "lower_10_yen": 262077
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 565885,
+        "upper_90_yen": 968450,
+        "lower_10_yen": 340307
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 737415,
+        "upper_90_yen": 1350553,
+        "lower_10_yen": 417358
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 922973,
+        "upper_90_yen": 1800005,
+        "lower_10_yen": 494006
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1123706,
+        "upper_90_yen": 2324844,
+        "lower_10_yen": 570814
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1340854,
+        "upper_90_yen": 2934257,
+        "lower_10_yen": 648219
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1575761,
+        "upper_90_yen": 3638655,
+        "lower_10_yen": 726584
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1829879,
+        "upper_90_yen": 4449772,
+        "lower_10_yen": 806222
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コンバム(6265)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コンバム(6265)を1株(3,325円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,325円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.31%、幾何成長率は5.91%",
+      "新NISAで月1万円の配当金を得るには1,847株（約6,141,275円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コンバムは単元未満株（S株・かぶミニ等）を利用することで1株（約3,325円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,829,879円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり65.0円（利回り1.95%）です。月次95%VaR（最大想定損失率）は-8.77%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コンバムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,325円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,847株（元本目安：約6,141,275円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3325.0
+  }
+}

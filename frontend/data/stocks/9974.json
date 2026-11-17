@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9974",
+    "name": "ベルク",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6820.0,
+    "min_s_kabu_yen": 6820,
+    "unit_lot_yen": 682000,
+    "dps_yen": 128.0,
+    "dividend_yield_pct": 1.88,
+    "raw_annual_return_pct": 7.05,
+    "capped_annual_return_pct": 7.05,
+    "geometric_growth_pct": 3.82,
+    "annual_volatility_pct": 25.42,
+    "max_drawdown_pct": -36.14,
+    "monthly_var_95_pct": -8.51,
+    "sharpe_ratio": 0.18,
+    "quant_score": 44.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 94,
+        "nisa_required_capital_yen": 641080,
+        "specific_required_shares": 118,
+        "specific_required_capital_yen": 804760
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 469,
+        "nisa_required_capital_yen": 3198580,
+        "specific_required_shares": 589,
+        "specific_required_capital_yen": 4016980
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 938,
+        "nisa_required_capital_yen": 6397160,
+        "specific_required_shares": 1177,
+        "specific_required_capital_yen": 8027140
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2813,
+        "nisa_required_capital_yen": 19184660,
+        "specific_required_shares": 3530,
+        "specific_required_capital_yen": 24074600
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4688,
+        "nisa_required_capital_yen": 31972160,
+        "specific_required_shares": 5883,
+        "specific_required_capital_yen": 40122060
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123774,
+        "upper_90_yen": 156224,
+        "lower_10_yen": 98549
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 254799,
+        "upper_90_yen": 352494,
+        "lower_10_yen": 186144
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 393499,
+        "upper_90_yen": 585681,
+        "lower_10_yen": 268715
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 540324,
+        "upper_90_yen": 856819,
+        "lower_10_yen": 348272
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 695749,
+        "upper_90_yen": 1168128,
+        "lower_10_yen": 425908
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 860279,
+        "upper_90_yen": 1522508,
+        "lower_10_yen": 502325
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1034446,
+        "upper_90_yen": 1923377,
+        "lower_10_yen": 578022
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1218816,
+        "upper_90_yen": 2374611,
+        "lower_10_yen": 653376
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1413986,
+        "upper_90_yen": 2880532,
+        "lower_10_yen": 728686
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1620588,
+        "upper_90_yen": 3445914,
+        "lower_10_yen": 804200
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ベルク(9974)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ベルク(9974)を1株(6,820円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,820円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.42%、幾何成長率は3.82%",
+      "新NISAで月1万円の配当金を得るには938株（約6,397,160円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ベルクは単元未満株（S株・かぶミニ等）を利用することで1株（約6,820円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,620,588円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり128.0円（利回り1.88%）です。月次95%VaR（最大想定損失率）は-8.51%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ベルクは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,820円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、938株（元本目安：約6,397,160円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6820.0
+  }
+}

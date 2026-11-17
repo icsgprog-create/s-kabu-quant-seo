@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4667",
+    "name": "アイサンテクノロジー",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 662.0,
+    "min_s_kabu_yen": 662,
+    "unit_lot_yen": 66200,
+    "dps_yen": 12.33,
+    "dividend_yield_pct": 1.86,
+    "raw_annual_return_pct": 7.12,
+    "capped_annual_return_pct": 7.12,
+    "geometric_growth_pct": -7.2,
+    "annual_volatility_pct": 53.53,
+    "max_drawdown_pct": -62.4,
+    "monthly_var_95_pct": -16.72,
+    "sharpe_ratio": -0.12,
+    "quant_score": 16.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 973,
+        "nisa_required_capital_yen": 644126,
+        "specific_required_shares": 1222,
+        "specific_required_capital_yen": 808964
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4865,
+        "nisa_required_capital_yen": 3220630,
+        "specific_required_shares": 6106,
+        "specific_required_capital_yen": 4042172
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 9730,
+        "nisa_required_capital_yen": 6441260,
+        "specific_required_shares": 12211,
+        "specific_required_capital_yen": 8083682
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 29190,
+        "nisa_required_capital_yen": 19323780,
+        "specific_required_shares": 36631,
+        "specific_required_capital_yen": 24249722
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 48649,
+        "nisa_required_capital_yen": 32205638,
+        "specific_required_shares": 61052,
+        "specific_required_capital_yen": 40416424
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116592,
+        "upper_90_yen": 190540,
+        "lower_10_yen": 72928
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 227121,
+        "upper_90_yen": 449117,
+        "lower_10_yen": 120478
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 331902,
+        "upper_90_yen": 761643,
+        "lower_10_yen": 155744
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 431233,
+        "upper_90_yen": 1122655,
+        "lower_10_yen": 183150
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 525399,
+        "upper_90_yen": 1528740,
+        "lower_10_yen": 205033
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 614668,
+        "upper_90_yen": 1977352,
+        "lower_10_yen": 222827
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 699294,
+        "upper_90_yen": 2466395,
+        "lower_10_yen": 237493
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 779519,
+        "upper_90_yen": 2994028,
+        "lower_10_yen": 249707
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 855572,
+        "upper_90_yen": 3558571,
+        "lower_10_yen": 259965
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 927671,
+        "upper_90_yen": 4158452,
+        "lower_10_yen": 268639
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイサンテクノロジー(4667)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイサンテクノロジー(4667)を1株(662円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小662円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.53%、幾何成長率は-7.2%",
+      "新NISAで月1万円の配当金を得るには9,730株（約6,441,260円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイサンテクノロジーは単元未満株（S株・かぶミニ等）を利用することで1株（約662円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は927,671円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり12.33円（利回り1.86%）です。月次95%VaR（最大想定損失率）は-16.72%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイサンテクノロジーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約662円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、9,730株（元本目安：約6,441,260円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 662.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5444",
+    "name": "大和工業",
+    "sector": "鉄鋼",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 10865.0,
+    "min_s_kabu_yen": 10865,
+    "unit_lot_yen": 1086500,
+    "dps_yen": 410.0,
+    "dividend_yield_pct": 3.77,
+    "raw_annual_return_pct": 27.13,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.08,
+    "annual_volatility_pct": 28.0,
+    "max_drawdown_pct": -28.81,
+    "monthly_var_95_pct": -7.87,
+    "sharpe_ratio": 0.67,
+    "quant_score": 69.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 30,
+        "nisa_required_capital_yen": 325950,
+        "specific_required_shares": 37,
+        "specific_required_capital_yen": 402005
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 147,
+        "nisa_required_capital_yen": 1597155,
+        "specific_required_shares": 184,
+        "specific_required_capital_yen": 1999160
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 293,
+        "nisa_required_capital_yen": 3183445,
+        "specific_required_shares": 368,
+        "specific_required_capital_yen": 3998320
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 879,
+        "nisa_required_capital_yen": 9550335,
+        "specific_required_shares": 1102,
+        "specific_required_capital_yen": 11973230
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1464,
+        "nisa_required_capital_yen": 15906360,
+        "specific_required_shares": 1837,
+        "specific_required_capital_yen": 19959005
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133842,
+        "upper_90_yen": 173543,
+        "lower_10_yen": 103834
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 297077,
+        "upper_90_yen": 428742,
+        "lower_10_yen": 208427
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 496159,
+        "upper_90_yen": 782032,
+        "lower_10_yen": 320730
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 738962,
+        "upper_90_yen": 1259732,
+        "lower_10_yen": 444233
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1035087,
+        "upper_90_yen": 1896779,
+        "lower_10_yen": 581964
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1396243,
+        "upper_90_yen": 2738375,
+        "lower_10_yen": 737023
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1836712,
+        "upper_90_yen": 3842510,
+        "lower_10_yen": 912809
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2373913,
+        "upper_90_yen": 5283297,
+        "lower_10_yen": 1113176
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3029087,
+        "upper_90_yen": 7155224,
+        "lower_10_yen": 1342558
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3828143,
+        "upper_90_yen": 9578562,
+        "lower_10_yen": 1606108
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大和工業(5444)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大和工業(5444)を1株(10,865円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小10,865円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.0%、幾何成長率は16.08%",
+      "新NISAで月1万円の配当金を得るには293株（約3,183,445円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大和工業は単元未満株（S株・かぶミニ等）を利用することで1株（約10,865円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,828,143円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり410.0円（利回り3.77%）です。月次95%VaR（最大想定損失率）は-7.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大和工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約10,865円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、293株（元本目安：約3,183,445円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 10865.0
+  }
+}

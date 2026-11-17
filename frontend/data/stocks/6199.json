@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6199",
+    "name": "セラク",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1463.0,
+    "min_s_kabu_yen": 1463,
+    "unit_lot_yen": 146300,
+    "dps_yen": 17.4,
+    "dividend_yield_pct": 1.19,
+    "raw_annual_return_pct": -5.1,
+    "capped_annual_return_pct": -5.1,
+    "geometric_growth_pct": -14.56,
+    "annual_volatility_pct": 43.5,
+    "max_drawdown_pct": -52.04,
+    "monthly_var_95_pct": -17.37,
+    "sharpe_ratio": -0.33,
+    "quant_score": 11.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 690,
+        "nisa_required_capital_yen": 1009470,
+        "specific_required_shares": 866,
+        "specific_required_capital_yen": 1266958
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3449,
+        "nisa_required_capital_yen": 5045887,
+        "specific_required_shares": 4328,
+        "specific_required_capital_yen": 6331864
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6897,
+        "nisa_required_capital_yen": 10090311,
+        "specific_required_shares": 8655,
+        "specific_required_capital_yen": 12662265
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 30269470,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 37986795
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 34483,
+        "nisa_required_capital_yen": 50448629,
+        "specific_required_shares": 43274,
+        "specific_required_capital_yen": 63309862
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111701,
+        "upper_90_yen": 165781,
+        "lower_10_yen": 76369
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 209426,
+        "upper_90_yen": 360363,
+        "lower_10_yen": 125659
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 294924,
+        "upper_90_yen": 567858,
+        "lower_10_yen": 160978
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 369725,
+        "upper_90_yen": 781074,
+        "lower_10_yen": 187268
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 435166,
+        "upper_90_yen": 995466,
+        "lower_10_yen": 207271
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 492419,
+        "upper_90_yen": 1207891,
+        "lower_10_yen": 222720
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 542509,
+        "upper_90_yen": 1416097,
+        "lower_10_yen": 234783
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 586332,
+        "upper_90_yen": 1618457,
+        "lower_10_yen": 244281
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 624671,
+        "upper_90_yen": 1813804,
+        "lower_10_yen": 251811
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 658214,
+        "upper_90_yen": 2001325,
+        "lower_10_yen": 257815
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セラク(6199)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セラク(6199)を1株(1,463円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,463円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.5%、幾何成長率は-14.56%",
+      "新NISAで月1万円の配当金を得るには6,897株（約10,090,311円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セラクは単元未満株（S株・かぶミニ等）を利用することで1株（約1,463円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は658,214円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり17.4円（利回り1.19%）です。月次95%VaR（最大想定損失率）は-17.37%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セラクは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,463円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,897株（元本目安：約10,090,311円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1463.0
+  }
+}

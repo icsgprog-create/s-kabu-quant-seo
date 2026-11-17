@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6485",
+    "name": "前澤給装工業",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1473.0,
+    "min_s_kabu_yen": 1473,
+    "unit_lot_yen": 147300,
+    "dps_yen": 61.5,
+    "dividend_yield_pct": 4.18,
+    "raw_annual_return_pct": 11.02,
+    "capped_annual_return_pct": 11.02,
+    "geometric_growth_pct": 7.54,
+    "annual_volatility_pct": 26.37,
+    "max_drawdown_pct": -25.97,
+    "monthly_var_95_pct": -8.59,
+    "sharpe_ratio": 0.41,
+    "quant_score": 67.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 196,
+        "nisa_required_capital_yen": 288708,
+        "specific_required_shares": 245,
+        "specific_required_capital_yen": 360885
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 976,
+        "nisa_required_capital_yen": 1437648,
+        "specific_required_shares": 1225,
+        "specific_required_capital_yen": 1804425
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1952,
+        "nisa_required_capital_yen": 2875296,
+        "specific_required_shares": 2449,
+        "specific_required_capital_yen": 3607377
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5854,
+        "nisa_required_capital_yen": 8622942,
+        "specific_required_shares": 7346,
+        "specific_required_capital_yen": 10820658
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9757,
+        "nisa_required_capital_yen": 14372061,
+        "specific_required_shares": 12244,
+        "specific_required_capital_yen": 18035412
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127935,
+        "upper_90_yen": 163096,
+        "lower_10_yen": 100884
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 271773,
+        "upper_90_yen": 381978,
+        "lower_10_yen": 195554
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 433490,
+        "upper_90_yen": 659320,
+        "lower_10_yen": 289938
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 615308,
+        "upper_90_yen": 1002989,
+        "lower_10_yen": 386194
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 819727,
+        "upper_90_yen": 1423321,
+        "lower_10_yen": 485661
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1049556,
+        "upper_90_yen": 1932871,
+        "lower_10_yen": 589367
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1307953,
+        "upper_90_yen": 2546546,
+        "lower_10_yen": 698209
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1598470,
+        "upper_90_yen": 3281873,
+        "lower_10_yen": 813023
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1925098,
+        "upper_90_yen": 4159366,
+        "lower_10_yen": 934637
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2292327,
+        "upper_90_yen": 5202957,
+        "lower_10_yen": 1063893
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "前澤給装工業(6485)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "前澤給装工業(6485)を1株(1,473円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,473円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.37%、幾何成長率は7.54%",
+      "新NISAで月1万円の配当金を得るには1,952株（約2,875,296円）が必要"
+    ],
+    "accumulation_strategy_analysis": "前澤給装工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,473円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,292,327円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり61.5円（利回り4.18%）です。月次95%VaR（最大想定損失率）は-8.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "前澤給装工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,473円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,952株（元本目安：約2,875,296円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1473.0
+  }
+}

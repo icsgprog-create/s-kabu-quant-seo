@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4516",
+    "name": "日本新薬",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3423.0,
+    "min_s_kabu_yen": 3423,
+    "unit_lot_yen": 342300,
+    "dps_yen": 124.0,
+    "dividend_yield_pct": 3.62,
+    "raw_annual_return_pct": -16.48,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -21.23,
+    "annual_volatility_pct": 35.31,
+    "max_drawdown_pct": -68.42,
+    "monthly_var_95_pct": -16.07,
+    "sharpe_ratio": -0.53,
+    "quant_score": 38.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 97,
+        "nisa_required_capital_yen": 332031,
+        "specific_required_shares": 122,
+        "specific_required_capital_yen": 417606
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 484,
+        "nisa_required_capital_yen": 1656732,
+        "specific_required_shares": 608,
+        "specific_required_capital_yen": 2081184
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 968,
+        "nisa_required_capital_yen": 3313464,
+        "specific_required_shares": 1215,
+        "specific_required_capital_yen": 4158945
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2904,
+        "nisa_required_capital_yen": 9940392,
+        "specific_required_shares": 3644,
+        "specific_required_capital_yen": 12473412
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4839,
+        "nisa_required_capital_yen": 16563897,
+        "specific_required_shares": 6073,
+        "specific_required_capital_yen": 20787879
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109221,
+        "upper_90_yen": 150153,
+        "lower_10_yen": 80218
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 200806,
+        "upper_90_yen": 310183,
+        "lower_10_yen": 132778
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 277601,
+        "upper_90_yen": 467804,
+        "lower_10_yen": 170256
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 341995,
+        "upper_90_yen": 618430,
+        "lower_10_yen": 197819
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 395990,
+        "upper_90_yen": 759850,
+        "lower_10_yen": 218454
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 441266,
+        "upper_90_yen": 891047,
+        "lower_10_yen": 234091
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 479231,
+        "upper_90_yen": 1011691,
+        "lower_10_yen": 246046
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 511066,
+        "upper_90_yen": 1121874,
+        "lower_10_yen": 255248
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 537760,
+        "upper_90_yen": 1221950,
+        "lower_10_yen": 262372
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 560143,
+        "upper_90_yen": 1312433,
+        "lower_10_yen": 267912
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本新薬(4516)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本新薬(4516)を1株(3,423円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,423円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.31%、幾何成長率は-21.23%",
+      "新NISAで月1万円の配当金を得るには968株（約3,313,464円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本新薬は単元未満株（S株・かぶミニ等）を利用することで1株（約3,423円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は560,143円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり124.0円（利回り3.62%）です。月次95%VaR（最大想定損失率）は-16.07%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本新薬は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,423円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、968株（元本目安：約3,313,464円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3423.0
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "code": "9445",
+    "name": "フォーバルテレコム",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 511.0,
+    "min_s_kabu_yen": 511,
+    "unit_lot_yen": 51100,
+    "dps_yen": 24.0,
+    "dividend_yield_pct": 4.7,
+    "raw_annual_return_pct": 11.88,
+    "capped_annual_return_pct": 11.88,
+    "geometric_growth_pct": 10.46,
+    "annual_volatility_pct": 16.83,
+    "max_drawdown_pct": -15.46,
+    "monthly_var_95_pct": -4.3,
+    "sharpe_ratio": 0.84,
+    "quant_score": 91.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 255500,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 320908
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 1277500,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 1603518
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 2555000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 3206525
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 7665000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 9619575
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 25000,
+        "nisa_required_capital_yen": 12775000,
+        "specific_required_shares": 31374,
+        "specific_required_capital_yen": 16032114
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130394,
+        "upper_90_yen": 152234,
+        "lower_10_yen": 111926
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 282132,
+        "upper_90_yen": 350628,
+        "lower_10_yen": 228054
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 458708,
+        "upper_90_yen": 599811,
+        "lower_10_yen": 353227
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 664189,
+        "upper_90_yen": 908361,
+        "lower_10_yen": 490106
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 903306,
+        "upper_90_yen": 1287246,
+        "lower_10_yen": 641046
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1181564,
+        "upper_90_yen": 1749869,
+        "lower_10_yen": 808441
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1505371,
+        "upper_90_yen": 2312381,
+        "lower_10_yen": 994866
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1882183,
+        "upper_90_yen": 2994133,
+        "lower_10_yen": 1203161
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2320676,
+        "upper_90_yen": 3818242,
+        "lower_10_yen": 1436501
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2830947,
+        "upper_90_yen": 4812277,
+        "lower_10_yen": 1698466
+      }
+    ]
+  },
+  "seo": {
+    "code": "9445",
+    "seo_title": "フォーバルテレコム(9445)の配当利回りと500円台からの1株積立データ",
+    "meta_description": "フォーバルテレコム(9445)の利回り4.7%、最低投資額511円、ボラティリティ16.83%など定量的指標に基づく長期積立シミュレーション。",
+    "summary_points": [
+      "1株約511円とワンコイン感覚で投資可能な低単価",
+      "配当利回り4.7%、年間配当金は1株あたり24.0円",
+      "幾何平均成長率10.46%、月次VaR(95%)は-4.3%と下落リスクが抑制的"
+    ],
+    "accumulation_strategy_analysis": "最低投資金額が511円と非常に低いため、新NISAでの少額積立や端数資金の運用に優れています。幾何平均成長率は10.46%であり、月1万円を10年積み立てた場合（元本約255万円・5,000株取得）の資産評価額中央値は283万0,947円に達する推計となっています。コツコツ株数を積み上げる手法に向いています。",
+    "dividend_and_risk_commentary": "配当利回りは4.7%でDPSは24.0円です。月次VaR(95%)は-4.3%にとどまり、年率ボラティリティも16.83%と情報通信セクターの中では比較的リスクが抑えられています。事業基盤の通信ストック収益が価格安定性に寄与していると考えられます。",
+    "faqs": [
+      {
+        "question": "ワンコイン（500円程度）で株が買えますか？",
+        "answer": "現在株価は約511円のため、1株単位の単元未満株取引を利用すれば約500円台から投資可能です。"
+      },
+      {
+        "question": "フォーバルテレコムの年間配当はいくらですか？",
+        "answer": "1株あたり年間24.0円の配当となっており、利回りは約4.7%です。"
+      }
+    ],
+    "is_ai_generated": true,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 511.0
+  }
+}

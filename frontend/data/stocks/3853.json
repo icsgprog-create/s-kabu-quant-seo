@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3853",
+    "name": "アステリア",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 811.0,
+    "min_s_kabu_yen": 811,
+    "unit_lot_yen": 81100,
+    "dps_yen": 9.0,
+    "dividend_yield_pct": 1.11,
+    "raw_annual_return_pct": 0.5,
+    "capped_annual_return_pct": 0.5,
+    "geometric_growth_pct": -20.25,
+    "annual_volatility_pct": 64.42,
+    "max_drawdown_pct": -70.51,
+    "monthly_var_95_pct": -22.3,
+    "sharpe_ratio": -0.31,
+    "quant_score": 8.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 1081874,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 1357614
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 5406937,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 6785637
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 10813874,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 13570463
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 32440000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 40710578
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 66667,
+        "nisa_required_capital_yen": 54066937,
+        "specific_required_shares": 83663,
+        "specific_required_capital_yen": 67850693
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108346,
+        "upper_90_yen": 194851,
+        "lower_10_yen": 62209
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 197817,
+        "upper_90_yen": 442954,
+        "lower_10_yen": 94776
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 271701,
+        "upper_90_yen": 717558,
+        "lower_10_yen": 114767
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 332715,
+        "upper_90_yen": 1005311,
+        "lower_10_yen": 127756
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 383099,
+        "upper_90_yen": 1297324,
+        "lower_10_yen": 136476
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 424706,
+        "upper_90_yen": 1587273,
+        "lower_10_yen": 142462
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 459065,
+        "upper_90_yen": 1870587,
+        "lower_10_yen": 146638
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 487439,
+        "upper_90_yen": 2143990,
+        "lower_10_yen": 149588
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 510869,
+        "upper_90_yen": 2405188,
+        "lower_10_yen": 151693
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 530218,
+        "upper_90_yen": 2652660,
+        "lower_10_yen": 153208
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アステリア(3853)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アステリア(3853)を1株(811円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小811円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは64.42%、幾何成長率は-20.25%",
+      "新NISAで月1万円の配当金を得るには13,334株（約10,813,874円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アステリアは単元未満株（S株・かぶミニ等）を利用することで1株（約811円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は530,218円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり9.0円（利回り1.11%）です。月次95%VaR（最大想定損失率）は-22.3%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アステリアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約811円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、13,334株（元本目安：約10,813,874円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 811.0
+  }
+}

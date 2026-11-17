@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6574",
+    "name": "コンヴァノ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 984.0,
+    "min_s_kabu_yen": 984,
+    "unit_lot_yen": 98400,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.02,
+    "raw_annual_return_pct": 48.7,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": -12.01,
+    "annual_volatility_pct": 80.01,
+    "max_drawdown_pct": -74.03,
+    "monthly_var_95_pct": -24.56,
+    "sharpe_ratio": -0.15,
+    "quant_score": 9.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1180800,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1481904
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 5904000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 7409520
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 11808000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 14819040
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 35424000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 44455152
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 59040000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 74092248
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113121,
+        "upper_90_yen": 236723,
+        "lower_10_yen": 56780
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 214467,
+        "upper_90_yen": 597909,
+        "lower_10_yen": 85629
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 305264,
+        "upper_90_yen": 1062917,
+        "lower_10_yen": 103511
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 386610,
+        "upper_90_yen": 1622603,
+        "lower_10_yen": 115407
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 459489,
+        "upper_90_yen": 2270077,
+        "lower_10_yen": 123650
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 524782,
+        "upper_90_yen": 2999195,
+        "lower_10_yen": 129520
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 583279,
+        "upper_90_yen": 3804092,
+        "lower_10_yen": 133785
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 635688,
+        "upper_90_yen": 4679029,
+        "lower_10_yen": 136934
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 682641,
+        "upper_90_yen": 5618330,
+        "lower_10_yen": 139287
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 724706,
+        "upper_90_yen": 6616381,
+        "lower_10_yen": 141064
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コンヴァノ(6574)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コンヴァノ(6574)を1株(984円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小984円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは80.01%、幾何成長率は-12.01%",
+      "新NISAで月1万円の配当金を得るには12,000株（約11,808,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コンヴァノは単元未満株（S株・かぶミニ等）を利用することで1株（約984円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は724,706円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.02%）です。月次95%VaR（最大想定損失率）は-24.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コンヴァノは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約984円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約11,808,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 984.0
+  }
+}

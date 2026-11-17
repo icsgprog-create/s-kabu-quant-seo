@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7353",
+    "name": "ＫＩＹＯラーニング",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 488.0,
+    "min_s_kabu_yen": 488,
+    "unit_lot_yen": 48800,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -22.97,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -28.27,
+    "annual_volatility_pct": 51.52,
+    "max_drawdown_pct": -76.89,
+    "monthly_var_95_pct": -24.57,
+    "sharpe_ratio": -0.57,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 103301,
+        "upper_90_yen": 164173,
+        "lower_10_yen": 66355
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 181160,
+        "upper_90_yen": 339710,
+        "lower_10_yen": 101096
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 239844,
+        "upper_90_yen": 507064,
+        "lower_10_yen": 121747
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 284075,
+        "upper_90_yen": 659728,
+        "lower_10_yen": 134595
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 317412,
+        "upper_90_yen": 795443,
+        "lower_10_yen": 142800
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 342539,
+        "upper_90_yen": 913999,
+        "lower_10_yen": 148134
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 361478,
+        "upper_90_yen": 1016241,
+        "lower_10_yen": 151647
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 375752,
+        "upper_90_yen": 1103535,
+        "lower_10_yen": 153984
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 386511,
+        "upper_90_yen": 1177470,
+        "lower_10_yen": 155551
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 394620,
+        "upper_90_yen": 1239674,
+        "lower_10_yen": 156609
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＫＩＹＯラーニング(7353)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＫＩＹＯラーニング(7353)を1株(488円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小488円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは51.52%、幾何成長率は-28.27%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＫＩＹＯラーニングは単元未満株（S株・かぶミニ等）を利用することで1株（約488円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は394,620円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-24.57%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＫＩＹＯラーニングは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約488円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 488.0
+  }
+}

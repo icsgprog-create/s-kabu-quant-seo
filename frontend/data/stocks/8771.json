@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8771",
+    "name": "イー・ギャランティ",
+    "sector": "その他金融業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1727.0,
+    "min_s_kabu_yen": 1727,
+    "unit_lot_yen": 172700,
+    "dps_yen": 82.0,
+    "dividend_yield_pct": 4.75,
+    "raw_annual_return_pct": -5.84,
+    "capped_annual_return_pct": -5.84,
+    "geometric_growth_pct": -10.47,
+    "annual_volatility_pct": 30.43,
+    "max_drawdown_pct": -53.26,
+    "monthly_var_95_pct": -12.44,
+    "sharpe_ratio": -0.22,
+    "quant_score": 52.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 147,
+        "nisa_required_capital_yen": 253869,
+        "specific_required_shares": 184,
+        "specific_required_capital_yen": 317768
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 732,
+        "nisa_required_capital_yen": 1264164,
+        "specific_required_shares": 919,
+        "specific_required_capital_yen": 1587113
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1464,
+        "nisa_required_capital_yen": 2528328,
+        "specific_required_shares": 1837,
+        "specific_required_capital_yen": 3172499
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4391,
+        "nisa_required_capital_yen": 7583257,
+        "specific_required_shares": 5510,
+        "specific_required_capital_yen": 9515770
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7318,
+        "nisa_required_capital_yen": 12638186,
+        "specific_required_shares": 9183,
+        "specific_required_capital_yen": 15859041
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116355,
+        "upper_90_yen": 153419,
+        "lower_10_yen": 88875
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 226243,
+        "upper_90_yen": 331418,
+        "lower_10_yen": 156855
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 330022,
+        "upper_90_yen": 524475,
+        "lower_10_yen": 212712
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 428032,
+        "upper_90_yen": 728509,
+        "lower_10_yen": 259834
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 520594,
+        "upper_90_yen": 940896,
+        "lower_10_yen": 300202
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 608011,
+        "upper_90_yen": 1159716,
+        "lower_10_yen": 335145
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 690568,
+        "upper_90_yen": 1383460,
+        "lower_10_yen": 365622
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 768537,
+        "upper_90_yen": 1610897,
+        "lower_10_yen": 392361
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 842171,
+        "upper_90_yen": 1840993,
+        "lower_10_yen": 415934
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 911712,
+        "upper_90_yen": 2072868,
+        "lower_10_yen": 436797
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "イー・ギャランティ(8771)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "イー・ギャランティ(8771)を1株(1,727円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,727円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.43%、幾何成長率は-10.47%",
+      "新NISAで月1万円の配当金を得るには1,464株（約2,528,328円）が必要"
+    ],
+    "accumulation_strategy_analysis": "イー・ギャランティは単元未満株（S株・かぶミニ等）を利用することで1株（約1,727円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は911,712円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり82.0円（利回り4.75%）です。月次95%VaR（最大想定損失率）は-12.44%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "イー・ギャランティは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,727円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,464株（元本目安：約2,528,328円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1727.0
+  }
+}

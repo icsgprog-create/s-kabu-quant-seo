@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7063",
+    "name": "Ｂｉｒｄｍａｎ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 37.0,
+    "min_s_kabu_yen": 37,
+    "unit_lot_yen": 3700,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -59.46,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -50.52,
+    "annual_volatility_pct": 84.28,
+    "max_drawdown_pct": -98.27,
+    "monthly_var_95_pct": -40.55,
+    "sharpe_ratio": -0.61,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 92239,
+        "upper_90_yen": 195971,
+        "lower_10_yen": 45894
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 147896,
+        "upper_90_yen": 405329,
+        "lower_10_yen": 60927
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 181479,
+        "upper_90_yen": 590977,
+        "lower_10_yen": 67060
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 201742,
+        "upper_90_yen": 744111,
+        "lower_10_yen": 69759
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 213969,
+        "upper_90_yen": 865192,
+        "lower_10_yen": 71001
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 221347,
+        "upper_90_yen": 958221,
+        "lower_10_yen": 71588
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 225798,
+        "upper_90_yen": 1028205,
+        "lower_10_yen": 71872
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 228484,
+        "upper_90_yen": 1079996,
+        "lower_10_yen": 72012
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 230105,
+        "upper_90_yen": 1117821,
+        "lower_10_yen": 72082
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 231083,
+        "upper_90_yen": 1145146,
+        "lower_10_yen": 72117
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｂｉｒｄｍａｎ(7063)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｂｉｒｄｍａｎ(7063)を1株(37円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小37円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは84.28%、幾何成長率は-50.52%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｂｉｒｄｍａｎは単元未満株（S株・かぶミニ等）を利用することで1株（約37円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は231,083円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-40.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｂｉｒｄｍａｎは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約37円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 37.0
+  }
+}

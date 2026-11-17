@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9229",
+    "name": "サンウェルズ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 110.0,
+    "min_s_kabu_yen": 110,
+    "unit_lot_yen": 11000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -48.55,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -37.92,
+    "annual_volatility_pct": 67.71,
+    "max_drawdown_pct": -97.23,
+    "monthly_var_95_pct": -31.71,
+    "sharpe_ratio": -0.57,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 98299,
+        "upper_90_yen": 180520,
+        "lower_10_yen": 55476
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 165574,
+        "upper_90_yen": 376011,
+        "lower_10_yen": 78867
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 211616,
+        "upper_90_yen": 558237,
+        "lower_10_yen": 90572
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 243127,
+        "upper_90_yen": 718523,
+        "lower_10_yen": 96793
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 264692,
+        "upper_90_yen": 854807,
+        "lower_10_yen": 100218
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 279451,
+        "upper_90_yen": 968047,
+        "lower_10_yen": 102147
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 289552,
+        "upper_90_yen": 1060559,
+        "lower_10_yen": 103252
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 296465,
+        "upper_90_yen": 1135151,
+        "lower_10_yen": 103894
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 301196,
+        "upper_90_yen": 1194660,
+        "lower_10_yen": 104271
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 304434,
+        "upper_90_yen": 1241721,
+        "lower_10_yen": 104494
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サンウェルズ(9229)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サンウェルズ(9229)を1株(110円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小110円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは67.71%、幾何成長率は-37.92%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サンウェルズは単元未満株（S株・かぶミニ等）を利用することで1株（約110円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は304,434円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-31.71%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サンウェルズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約110円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 110.0
+  }
+}

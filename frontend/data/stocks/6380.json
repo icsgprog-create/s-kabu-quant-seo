@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6380",
+    "name": "オリエンタルチエン工業",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3330.0,
+    "min_s_kabu_yen": 3330,
+    "unit_lot_yen": 333000,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 0.75,
+    "raw_annual_return_pct": 33.67,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.17,
+    "annual_volatility_pct": 42.02,
+    "max_drawdown_pct": -37.93,
+    "monthly_var_95_pct": -10.03,
+    "sharpe_ratio": 0.26,
+    "quant_score": 20.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 1598400,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 2007990
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 7992000,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 10029960
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 15984000,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 20059920
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 47952000,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 60179760
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 79920000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 100296270
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 128081,
+        "upper_90_yen": 189056,
+        "lower_10_yen": 87939
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 272381,
+        "upper_90_yen": 470983,
+        "lower_10_yen": 162089
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 434954,
+        "upper_90_yen": 855149,
+        "lower_10_yen": 231051
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 618114,
+        "upper_90_yen": 1360456,
+        "lower_10_yen": 297554
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 824468,
+        "upper_90_yen": 2011443,
+        "lower_10_yen": 363052
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1056953,
+        "upper_90_yen": 2838349,
+        "lower_10_yen": 428486
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1318877,
+        "upper_90_yen": 3877829,
+        "lower_10_yen": 494545
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1613969,
+        "upper_90_yen": 5173995,
+        "lower_10_yen": 561781
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1946430,
+        "upper_90_yen": 6779717,
+        "lower_10_yen": 630664
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2320990,
+        "upper_90_yen": 8758196,
+        "lower_10_yen": 701619
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オリエンタルチエン工業(6380)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オリエンタルチエン工業(6380)を1株(3,330円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,330円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.02%、幾何成長率は11.17%",
+      "新NISAで月1万円の配当金を得るには4,800株（約15,984,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オリエンタルチエン工業は単元未満株（S株・かぶミニ等）を利用することで1株（約3,330円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,320,990円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り0.75%）です。月次95%VaR（最大想定損失率）は-10.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オリエンタルチエン工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,330円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約15,984,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3330.0
+  }
+}

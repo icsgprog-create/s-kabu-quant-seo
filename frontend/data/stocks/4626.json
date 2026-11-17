@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4626",
+    "name": "太陽ホールディングス",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4588.0,
+    "min_s_kabu_yen": 4588,
+    "unit_lot_yen": 458800,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 23.27,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.22,
+    "annual_volatility_pct": 30.91,
+    "max_drawdown_pct": -36.84,
+    "monthly_var_95_pct": -9.31,
+    "sharpe_ratio": 0.46,
+    "quant_score": 30.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130439,
+        "upper_90_yen": 173620,
+        "lower_10_yen": 98707
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 282327,
+        "upper_90_yen": 422228,
+        "lower_10_yen": 191702
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 459189,
+        "upper_90_yen": 755205,
+        "lower_10_yen": 285763
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 665133,
+        "upper_90_yen": 1189722,
+        "lower_10_yen": 383462
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 904940,
+        "upper_90_yen": 1748140,
+        "lower_10_yen": 486518
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1184178,
+        "upper_90_yen": 2458371,
+        "lower_10_yen": 596369
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1509331,
+        "upper_90_yen": 3354790,
+        "lower_10_yen": 714368
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1887949,
+        "upper_90_yen": 4479490,
+        "lower_10_yen": 841881
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2328823,
+        "upper_90_yen": 5883843,
+        "lower_10_yen": 980338
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2842189,
+        "upper_90_yen": 7630423,
+        "lower_10_yen": 1131282
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "太陽ホールディングス(4626)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "太陽ホールディングス(4626)を1株(4,588円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,588円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.91%、幾何成長率は15.22%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "太陽ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約4,588円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,842,189円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-9.31%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "太陽ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,588円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4588.0
+  }
+}

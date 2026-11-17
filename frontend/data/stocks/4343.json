@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4343",
+    "name": "イオンファンタジー",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2939.0,
+    "min_s_kabu_yen": 2939,
+    "unit_lot_yen": 293900,
+    "dps_yen": 25.0,
+    "dividend_yield_pct": 0.85,
+    "raw_annual_return_pct": 8.64,
+    "capped_annual_return_pct": 8.64,
+    "geometric_growth_pct": 2.05,
+    "annual_volatility_pct": 36.31,
+    "max_drawdown_pct": -46.98,
+    "monthly_var_95_pct": -15.6,
+    "sharpe_ratio": 0.05,
+    "quant_score": 21.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 480,
+        "nisa_required_capital_yen": 1410720,
+        "specific_required_shares": 603,
+        "specific_required_capital_yen": 1772217
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 7053600,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 8852268
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 14107200,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 17704536
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14400,
+        "nisa_required_capital_yen": 42321600,
+        "specific_required_shares": 18072,
+        "specific_required_capital_yen": 53113608
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 24000,
+        "nisa_required_capital_yen": 70536000,
+        "specific_required_shares": 30119,
+        "specific_required_capital_yen": 88519741
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121903,
+        "upper_90_yen": 170107,
+        "lower_10_yen": 88242
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 247392,
+        "upper_90_yen": 393594,
+        "lower_10_yen": 158913
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 376571,
+        "upper_90_yen": 664860,
+        "lower_10_yen": 220538
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 509549,
+        "upper_90_yen": 984156,
+        "lower_10_yen": 275990
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 646439,
+        "upper_90_yen": 1353271,
+        "lower_10_yen": 326807
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 787354,
+        "upper_90_yen": 1774788,
+        "lower_10_yen": 373954
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 932414,
+        "upper_90_yen": 2251821,
+        "lower_10_yen": 418095
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1081740,
+        "upper_90_yen": 2787911,
+        "lower_10_yen": 459714
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1235458,
+        "upper_90_yen": 3386974,
+        "lower_10_yen": 499178
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1393697,
+        "upper_90_yen": 4053282,
+        "lower_10_yen": 536776
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "イオンファンタジー(4343)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "イオンファンタジー(4343)を1株(2,939円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,939円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.31%、幾何成長率は2.05%",
+      "新NISAで月1万円の配当金を得るには4,800株（約14,107,200円）が必要"
+    ],
+    "accumulation_strategy_analysis": "イオンファンタジーは単元未満株（S株・かぶミニ等）を利用することで1株（約2,939円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,393,697円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.0円（利回り0.85%）です。月次95%VaR（最大想定損失率）は-15.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "イオンファンタジーは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,939円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,800株（元本目安：約14,107,200円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2939.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8361",
+    "name": "大垣共立銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1464.0,
+    "min_s_kabu_yen": 1464,
+    "unit_lot_yen": 146400,
+    "dps_yen": 34.0,
+    "dividend_yield_pct": 2.32,
+    "raw_annual_return_pct": 30.77,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.81,
+    "annual_volatility_pct": 32.23,
+    "max_drawdown_pct": -30.34,
+    "monthly_var_95_pct": -10.02,
+    "sharpe_ratio": 0.5,
+    "quant_score": 48.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 353,
+        "nisa_required_capital_yen": 516792,
+        "specific_required_shares": 443,
+        "specific_required_capital_yen": 648552
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1765,
+        "nisa_required_capital_yen": 2583960,
+        "specific_required_shares": 2215,
+        "specific_required_capital_yen": 3242760
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 5167920,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 6485520
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10589,
+        "nisa_required_capital_yen": 15502296,
+        "specific_required_shares": 13288,
+        "specific_required_capital_yen": 19453632
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17648,
+        "nisa_required_capital_yen": 25836672,
+        "specific_required_shares": 22147,
+        "specific_required_capital_yen": 32423208
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131826,
+        "upper_90_yen": 177735,
+        "lower_10_yen": 98544
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288282,
+        "upper_90_yen": 439350,
+        "lower_10_yen": 192327
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 473968,
+        "upper_90_yen": 798602,
+        "lower_10_yen": 288436
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 694345,
+        "upper_90_yen": 1278739,
+        "lower_10_yen": 389688
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 955896,
+        "upper_90_yen": 1910297,
+        "lower_10_yen": 498089
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1266312,
+        "upper_90_yen": 2732083,
+        "lower_10_yen": 615419
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1634723,
+        "upper_90_yen": 3792887,
+        "lower_10_yen": 743434
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2071964,
+        "upper_90_yen": 5153756,
+        "lower_10_yen": 883984
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2590895,
+        "upper_90_yen": 6890852,
+        "lower_10_yen": 1039070
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3206777,
+        "upper_90_yen": 9099010,
+        "lower_10_yen": 1210911
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大垣共立銀行(8361)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大垣共立銀行(8361)を1株(1,464円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,464円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.23%、幾何成長率は14.81%",
+      "新NISAで月1万円の配当金を得るには3,530株（約5,167,920円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大垣共立銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約1,464円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,206,777円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり34.0円（利回り2.32%）です。月次95%VaR（最大想定損失率）は-10.02%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大垣共立銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,464円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,530株（元本目安：約5,167,920円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1464.0
+  }
+}

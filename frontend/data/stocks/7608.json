@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7608",
+    "name": "エスケイジャパン",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 737.0,
+    "min_s_kabu_yen": 737,
+    "unit_lot_yen": 73700,
+    "dps_yen": 26.5,
+    "dividend_yield_pct": 3.6,
+    "raw_annual_return_pct": 25.13,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.63,
+    "annual_volatility_pct": 40.93,
+    "max_drawdown_pct": -36.92,
+    "monthly_var_95_pct": -13.02,
+    "sharpe_ratio": 0.35,
+    "quant_score": 46.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 453,
+        "nisa_required_capital_yen": 333861,
+        "specific_required_shares": 569,
+        "specific_required_capital_yen": 419353
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2265,
+        "nisa_required_capital_yen": 1669305,
+        "specific_required_shares": 2842,
+        "specific_required_capital_yen": 2094554
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4529,
+        "nisa_required_capital_yen": 3337873,
+        "specific_required_shares": 5683,
+        "specific_required_capital_yen": 4188371
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13585,
+        "nisa_required_capital_yen": 10012145,
+        "specific_required_shares": 17049,
+        "specific_required_capital_yen": 12565113
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 22642,
+        "nisa_required_capital_yen": 16687154,
+        "specific_required_shares": 28414,
+        "specific_required_capital_yen": 20941118
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130438,
+        "upper_90_yen": 190763,
+        "lower_10_yen": 90323
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 282319,
+        "upper_90_yen": 482540,
+        "lower_10_yen": 169680
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 459171,
+        "upper_90_yen": 891387,
+        "lower_10_yen": 246351
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 665096,
+        "upper_90_yen": 1444921,
+        "lower_10_yen": 323083
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 904877,
+        "upper_90_yen": 2179356,
+        "lower_10_yen": 401465
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1184077,
+        "upper_90_yen": 3140507,
+        "lower_10_yen": 482652
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1509178,
+        "upper_90_yen": 4385674,
+        "lower_10_yen": 567607
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1887726,
+        "upper_90_yen": 5986118,
+        "lower_10_yen": 657211
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2328508,
+        "upper_90_yen": 8030181,
+        "lower_10_yen": 752325
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2841754,
+        "upper_90_yen": 10627114,
+        "lower_10_yen": 853821
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エスケイジャパン(7608)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エスケイジャパン(7608)を1株(737円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小737円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは40.93%、幾何成長率は11.63%",
+      "新NISAで月1万円の配当金を得るには4,529株（約3,337,873円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エスケイジャパンは単元未満株（S株・かぶミニ等）を利用することで1株（約737円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,841,754円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり26.5円（利回り3.6%）です。月次95%VaR（最大想定損失率）は-13.02%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エスケイジャパンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約737円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,529株（元本目安：約3,337,873円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 737.0
+  }
+}

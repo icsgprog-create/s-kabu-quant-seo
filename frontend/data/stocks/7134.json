@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7134",
+    "name": "アップガレージグループ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1444.0,
+    "min_s_kabu_yen": 1444,
+    "unit_lot_yen": 144400,
+    "dps_yen": 36.5,
+    "dividend_yield_pct": 2.53,
+    "raw_annual_return_pct": 23.57,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.74,
+    "annual_volatility_pct": 35.39,
+    "max_drawdown_pct": -37.19,
+    "monthly_var_95_pct": -10.92,
+    "sharpe_ratio": 0.43,
+    "quant_score": 45.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 329,
+        "nisa_required_capital_yen": 475076,
+        "specific_required_shares": 413,
+        "specific_required_capital_yen": 596372
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 2373936,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 2978972
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3288,
+        "nisa_required_capital_yen": 4747872,
+        "specific_required_shares": 4126,
+        "specific_required_capital_yen": 5957944
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9864,
+        "nisa_required_capital_yen": 14243616,
+        "specific_required_shares": 12378,
+        "specific_required_capital_yen": 17873832
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16439,
+        "nisa_required_capital_yen": 23737916,
+        "specific_required_shares": 20630,
+        "specific_required_capital_yen": 29789720
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131195,
+        "upper_90_yen": 182180,
+        "lower_10_yen": 95375
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285561,
+        "upper_90_yen": 453659,
+        "lower_10_yen": 183395
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 467190,
+        "upper_90_yen": 828571,
+        "lower_10_yen": 271535
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 680898,
+        "upper_90_yen": 1331145,
+        "lower_10_yen": 362519
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 932350,
+        "upper_90_yen": 1993174,
+        "lower_10_yen": 458115
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1228213,
+        "upper_90_yen": 2854943,
+        "lower_10_yen": 559768
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1576329,
+        "upper_90_yen": 3966918,
+        "lower_10_yen": 668821
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1985928,
+        "upper_90_yen": 5392000,
+        "lower_10_yen": 786615
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2467869,
+        "upper_90_yen": 7208340,
+        "lower_10_yen": 914555
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3034928,
+        "upper_90_yen": 9512841,
+        "lower_10_yen": 1054151
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アップガレージグループ(7134)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アップガレージグループ(7134)を1株(1,444円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,444円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.39%、幾何成長率は13.74%",
+      "新NISAで月1万円の配当金を得るには3,288株（約4,747,872円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アップガレージグループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,444円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,034,928円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり36.5円（利回り2.53%）です。月次95%VaR（最大想定損失率）は-10.92%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アップガレージグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,444円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,288株（元本目安：約4,747,872円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1444.0
+  }
+}

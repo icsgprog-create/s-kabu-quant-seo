@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9687",
+    "name": "ＫＳＫ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1505.0,
+    "min_s_kabu_yen": 1505,
+    "unit_lot_yen": 150500,
+    "dps_yen": 60.33,
+    "dividend_yield_pct": 4.01,
+    "raw_annual_return_pct": 18.01,
+    "capped_annual_return_pct": 18.01,
+    "geometric_growth_pct": 14.74,
+    "annual_volatility_pct": 25.59,
+    "max_drawdown_pct": -46.04,
+    "monthly_var_95_pct": -10.36,
+    "sharpe_ratio": 0.69,
+    "quant_score": 73.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 199,
+        "nisa_required_capital_yen": 299495,
+        "specific_required_shares": 250,
+        "specific_required_capital_yen": 376250
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 995,
+        "nisa_required_capital_yen": 1497475,
+        "specific_required_shares": 1249,
+        "specific_required_capital_yen": 1879745
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1989,
+        "nisa_required_capital_yen": 2993445,
+        "specific_required_shares": 2497,
+        "specific_required_capital_yen": 3757985
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5967,
+        "nisa_required_capital_yen": 8980335,
+        "specific_required_shares": 7489,
+        "specific_required_capital_yen": 11270945
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9945,
+        "nisa_required_capital_yen": 14967225,
+        "specific_required_shares": 12481,
+        "specific_required_capital_yen": 18783905
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133020,
+        "upper_90_yen": 168582,
+        "lower_10_yen": 105479
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 293472,
+        "upper_90_yen": 409901,
+        "lower_10_yen": 212317
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 487010,
+        "upper_90_yen": 736735,
+        "lower_10_yen": 327025
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 720460,
+        "upper_90_yen": 1169949,
+        "lower_10_yen": 452905
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1002051,
+        "upper_90_yen": 1736951,
+        "lower_10_yen": 592820
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1341710,
+        "upper_90_yen": 2472705,
+        "lower_10_yen": 749686
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1751413,
+        "upper_90_yen": 3421398,
+        "lower_10_yen": 926680
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2245603,
+        "upper_90_yen": 4638646,
+        "lower_10_yen": 1127375
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2841703,
+        "upper_90_yen": 6194275,
+        "lower_10_yen": 1355853
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3560728,
+        "upper_90_yen": 8175817,
+        "lower_10_yen": 1616821
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＫＳＫ(9687)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＫＳＫ(9687)を1株(1,505円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,505円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.59%、幾何成長率は14.74%",
+      "新NISAで月1万円の配当金を得るには1,989株（約2,993,445円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＫＳＫは単元未満株（S株・かぶミニ等）を利用することで1株（約1,505円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,560,728円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.33円（利回り4.01%）です。月次95%VaR（最大想定損失率）は-10.36%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＫＳＫは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,505円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,989株（元本目安：約2,993,445円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1505.0
+  }
+}

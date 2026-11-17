@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3242",
+    "name": "アーバネットコーポレーション",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 529.0,
+    "min_s_kabu_yen": 529,
+    "unit_lot_yen": 52900,
+    "dps_yen": 24.0,
+    "dividend_yield_pct": 4.54,
+    "raw_annual_return_pct": 16.08,
+    "capped_annual_return_pct": 16.08,
+    "geometric_growth_pct": 14.53,
+    "annual_volatility_pct": 17.59,
+    "max_drawdown_pct": -24.88,
+    "monthly_var_95_pct": -4.38,
+    "sharpe_ratio": 1.03,
+    "quant_score": 93.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 500,
+        "nisa_required_capital_yen": 264500,
+        "specific_required_shares": 628,
+        "specific_required_capital_yen": 332212
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 1322500,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 1660002
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 2645000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 3319475
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 7935000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 9958425
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 25000,
+        "nisa_required_capital_yen": 13225000,
+        "specific_required_shares": 31374,
+        "specific_required_capital_yen": 16596846
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133257,
+        "upper_90_yen": 156754,
+        "lower_10_yen": 113547
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294509,
+        "upper_90_yen": 370205,
+        "lower_10_yen": 235449
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 489637,
+        "upper_90_yen": 649922,
+        "lower_10_yen": 371624
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 725756,
+        "upper_90_yen": 1011078,
+        "lower_10_yen": 526041
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1011478,
+        "upper_90_yen": 1473341,
+        "lower_10_yen": 702686
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1357224,
+        "upper_90_yen": 2061525,
+        "lower_10_yen": 905961
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1775604,
+        "upper_90_yen": 2806674,
+        "lower_10_yen": 1140907
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2281876,
+        "upper_90_yen": 3747481,
+        "lower_10_yen": 1413382
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2894504,
+        "upper_90_yen": 4932081,
+        "lower_10_yen": 1730248
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3635832,
+        "upper_90_yen": 6420274,
+        "lower_10_yen": 2099573
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アーバネットコーポレーション(3242)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アーバネットコーポレーション(3242)を1株(529円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小529円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.59%、幾何成長率は14.53%",
+      "新NISAで月1万円の配当金を得るには5,000株（約2,645,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アーバネットコーポレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約529円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,635,832円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり24.0円（利回り4.54%）です。月次95%VaR（最大想定損失率）は-4.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アーバネットコーポレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約529円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,000株（元本目安：約2,645,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 529.0
+  }
+}

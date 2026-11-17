@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6522",
+    "name": "アスタリスク",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 642.0,
+    "min_s_kabu_yen": 642,
+    "unit_lot_yen": 64200,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -43.0,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -48.33,
+    "annual_volatility_pct": 81.65,
+    "max_drawdown_pct": -93.96,
+    "monthly_var_95_pct": -39.53,
+    "sharpe_ratio": -0.6,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 93256,
+        "upper_90_yen": 193627,
+        "lower_10_yen": 47316
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 150770,
+        "upper_90_yen": 401299,
+        "lower_10_yen": 63484
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 186241,
+        "upper_90_yen": 587256,
+        "lower_10_yen": 70311
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 208117,
+        "upper_90_yen": 742504,
+        "lower_10_yen": 73413
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 221610,
+        "upper_90_yen": 866910,
+        "lower_10_yen": 74883
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 229931,
+        "upper_90_yen": 963871,
+        "lower_10_yen": 75600
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 235062,
+        "upper_90_yen": 1037910,
+        "lower_10_yen": 75957
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 238227,
+        "upper_90_yen": 1093557,
+        "lower_10_yen": 76138
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 240179,
+        "upper_90_yen": 1134849,
+        "lower_10_yen": 76230
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 241383,
+        "upper_90_yen": 1165166,
+        "lower_10_yen": 76278
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アスタリスク(6522)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アスタリスク(6522)を1株(642円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小642円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは81.65%、幾何成長率は-48.33%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アスタリスクは単元未満株（S株・かぶミニ等）を利用することで1株（約642円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は241,383円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-39.53%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アスタリスクは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約642円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 642.0
+  }
+}

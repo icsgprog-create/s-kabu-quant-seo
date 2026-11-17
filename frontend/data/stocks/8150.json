@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "code": "8150",
+    "name": "三信電気",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3190.0,
+    "min_s_kabu_yen": 3190,
+    "unit_lot_yen": 319000,
+    "dps_yen": 190.0,
+    "dividend_yield_pct": 5.96,
+    "raw_annual_return_pct": 20.81,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.67,
+    "annual_volatility_pct": 25.8,
+    "max_drawdown_pct": -27.35,
+    "monthly_var_95_pct": -7.43,
+    "sharpe_ratio": 0.84,
+    "quant_score": 85.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 64,
+        "nisa_required_capital_yen": 204160,
+        "specific_required_shares": 80,
+        "specific_required_capital_yen": 255200
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 316,
+        "nisa_required_capital_yen": 1008040,
+        "specific_required_shares": 397,
+        "specific_required_capital_yen": 1266430
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 632,
+        "nisa_required_capital_yen": 2016080,
+        "specific_required_shares": 793,
+        "specific_required_capital_yen": 2529670
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1895,
+        "nisa_required_capital_yen": 6045050,
+        "specific_required_shares": 2378,
+        "specific_required_capital_yen": 7585820
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 10074020,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 12641970
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 135935,
+        "upper_90_yen": 172751,
+        "lower_10_yen": 107501
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 306388,
+        "upper_90_yen": 430092,
+        "lower_10_yen": 220570
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 520124,
+        "upper_90_yen": 792724,
+        "lower_10_yen": 346658
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 788134,
+        "upper_90_yen": 1292766,
+        "lower_10_yen": 490397
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1124199,
+        "upper_90_yen": 1973559,
+        "lower_10_yen": 656373
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1545601,
+        "upper_90_yen": 2892447,
+        "lower_10_yen": 849706
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2074008,
+        "upper_90_yen": 4124801,
+        "lower_10_yen": 1076354
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2736593,
+        "upper_90_yen": 5769370,
+        "lower_10_yen": 1343385
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3567428,
+        "upper_90_yen": 7955268,
+        "lower_10_yen": 1659259
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4609235,
+        "upper_90_yen": 10851055,
+        "lower_10_yen": 2034155
+      }
+    ]
+  },
+  "seo": {
+    "code": "8150",
+    "seo_title": "三信電気(8150)の配当利回り5.96%と新NISA10年積立シミュレーション",
+    "meta_description": "三信電気(8150)の1株投資データ解説。配当利回り5.96%、1株配当190円、10年積立シミュレーション中央値460万円の定量分析とボラティリティ指標を客観的に解説。",
+    "summary_points": [
+      "配当利回り5.96%（年間配当190.0円）と極めて高水準",
+      "最低投資金額3,190円から1株買付が可能",
+      "10年間積立シミュレーション中央値は約460万円"
+    ],
+    "accumulation_strategy_analysis": "三信電気は1株3,190円で取引でき、新NISAでの積立運用に適しています。月1万円を10年間投資した場合のシミュレーションでは、元本2,016,080円で632株を取得し、評価額中央値は4,609,235円に達します。幾何平均成長率は16.67%と、エレクトロニクス商社としての収益拡大が反映されています。",
+    "dividend_and_risk_commentary": "配当利回りは5.96%、年間配当は190.0円となっています。一方で、年率ボラティリティは25.80%、月次VaR（95%）は-7.43%と、半導体・電子部品市況のサイクルによる価格変動リスクを内包しています。",
+    "faqs": [
+      {
+        "question": "配当利回り5.96%は安定して継続しますか？",
+        "answer": "半導体商社は業績サイクルにより配当が変動することがあるため、配当性向や自己資本比率等の財務指標も継続的に確認が必要です。"
+      },
+      {
+        "question": "新NISAでの1株投資の有効性は？",
+        "answer": "3,190円から投資可能なため、市況の調整局面に合わせて少しずつ買い増すアプローチが取りやすい銘柄です。"
+      }
+    ],
+    "is_ai_generated": true,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3190.0
+  }
+}

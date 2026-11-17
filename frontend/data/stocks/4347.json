@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4347",
+    "name": "ブロードメディア",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2494.0,
+    "min_s_kabu_yen": 2494,
+    "unit_lot_yen": 249400,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 2.41,
+    "raw_annual_return_pct": 22.76,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 11.97,
+    "annual_volatility_pct": 40.08,
+    "max_drawdown_pct": -47.13,
+    "monthly_var_95_pct": -13.64,
+    "sharpe_ratio": 0.33,
+    "quant_score": 37.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 498800,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 625994
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 2494000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3129970
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 4988000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 6259940
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 14964000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 18779820
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 24940000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 31299700
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129826,
+        "upper_90_yen": 188316,
+        "lower_10_yen": 90595
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 279718,
+        "upper_90_yen": 472373,
+        "lower_10_yen": 169976
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 452779,
+        "upper_90_yen": 865557,
+        "lower_10_yen": 246312
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 652587,
+        "upper_90_yen": 1391764,
+        "lower_10_yen": 322300
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 883279,
+        "upper_90_yen": 2082193,
+        "lower_10_yen": 399473
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1149627,
+        "upper_90_yen": 2975975,
+        "lower_10_yen": 478924
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1457143,
+        "upper_90_yen": 4121572,
+        "lower_10_yen": 561540
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1812190,
+        "upper_90_yen": 5578638,
+        "lower_10_yen": 648117
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2222113,
+        "upper_90_yen": 7420354,
+        "lower_10_yen": 739415
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2695395,
+        "upper_90_yen": 9736289,
+        "lower_10_yen": 836190
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブロードメディア(4347)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブロードメディア(4347)を1株(2,494円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,494円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは40.08%、幾何成長率は11.97%",
+      "新NISAで月1万円の配当金を得るには2,000株（約4,988,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブロードメディアは単元未満株（S株・かぶミニ等）を利用することで1株（約2,494円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,695,395円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り2.41%）です。月次95%VaR（最大想定損失率）は-13.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブロードメディアは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,494円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約4,988,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2494.0
+  }
+}

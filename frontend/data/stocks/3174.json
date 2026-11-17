@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3174",
+    "name": "ハピネス・アンド・ディ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 300.0,
+    "min_s_kabu_yen": 300,
+    "unit_lot_yen": 30000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -21.22,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -17.02,
+    "annual_volatility_pct": 20.11,
+    "max_drawdown_pct": -66.99,
+    "monthly_var_95_pct": -13.98,
+    "sharpe_ratio": -0.9,
+    "quant_score": 24.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109562,
+        "upper_90_yen": 131193,
+        "lower_10_yen": 91784
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 201975,
+        "upper_90_yen": 258143,
+        "lower_10_yen": 159118
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 279924,
+        "upper_90_yen": 375517,
+        "lower_10_yen": 210913
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 345673,
+        "upper_90_yen": 482175,
+        "lower_10_yen": 251458
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 401131,
+        "upper_90_yen": 578126,
+        "lower_10_yen": 283522
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 447908,
+        "upper_90_yen": 663855,
+        "lower_10_yen": 309052
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 487364,
+        "upper_90_yen": 740067,
+        "lower_10_yen": 329483
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 520645,
+        "upper_90_yen": 807556,
+        "lower_10_yen": 345897
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 548716,
+        "upper_90_yen": 867132,
+        "lower_10_yen": 359126
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 572394,
+        "upper_90_yen": 919587,
+        "lower_10_yen": 369816
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ハピネス・アンド・ディ(3174)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ハピネス・アンド・ディ(3174)を1株(300円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小300円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.11%、幾何成長率は-17.02%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ハピネス・アンド・ディは単元未満株（S株・かぶミニ等）を利用することで1株（約300円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は572,394円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-13.98%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ハピネス・アンド・ディは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約300円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 300.0
+  }
+}

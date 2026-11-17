@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5105",
+    "name": "ＴＯＹＯ　ＴＩＲＥ",
+    "sector": "ゴム製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4106.0,
+    "min_s_kabu_yen": 4106,
+    "unit_lot_yen": 410600,
+    "dps_yen": 135.0,
+    "dividend_yield_pct": 3.29,
+    "raw_annual_return_pct": 19.58,
+    "capped_annual_return_pct": 19.58,
+    "geometric_growth_pct": 13.99,
+    "annual_volatility_pct": 33.44,
+    "max_drawdown_pct": -35.74,
+    "monthly_var_95_pct": -11.56,
+    "sharpe_ratio": 0.49,
+    "quant_score": 55.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 89,
+        "nisa_required_capital_yen": 365434,
+        "specific_required_shares": 112,
+        "specific_required_capital_yen": 459872
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 445,
+        "nisa_required_capital_yen": 1827170,
+        "specific_required_shares": 558,
+        "specific_required_capital_yen": 2291148
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 889,
+        "nisa_required_capital_yen": 3650234,
+        "specific_required_shares": 1116,
+        "specific_required_capital_yen": 4582296
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 10950702,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 13742782
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4445,
+        "nisa_required_capital_yen": 18251170,
+        "specific_required_shares": 5578,
+        "specific_required_capital_yen": 22903268
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131936,
+        "upper_90_yen": 179924,
+        "lower_10_yen": 97565
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288754,
+        "upper_90_yen": 447277,
+        "lower_10_yen": 189779
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 475149,
+        "upper_90_yen": 816969,
+        "lower_10_yen": 283898
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 696698,
+        "upper_90_yen": 1314003,
+        "lower_10_yen": 382757
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 960032,
+        "upper_90_yen": 1971293,
+        "lower_10_yen": 488346
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1273030,
+        "upper_90_yen": 2830799,
+        "lower_10_yen": 602406
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1645059,
+        "upper_90_yen": 3945459,
+        "lower_10_yen": 726647
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2087254,
+        "upper_90_yen": 5381741,
+        "lower_10_yen": 862856
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2612847,
+        "upper_90_yen": 7222860,
+        "lower_10_yen": 1012966
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3237567,
+        "upper_90_yen": 9572791,
+        "lower_10_yen": 1179112
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＴＯＹＯ　ＴＩＲＥ(5105)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＴＯＹＯ　ＴＩＲＥ(5105)を1株(4,106円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,106円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.44%、幾何成長率は13.99%",
+      "新NISAで月1万円の配当金を得るには889株（約3,650,234円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＴＯＹＯ　ＴＩＲＥは単元未満株（S株・かぶミニ等）を利用することで1株（約4,106円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,237,567円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり135.0円（利回り3.29%）です。月次95%VaR（最大想定損失率）は-11.56%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＴＯＹＯ　ＴＩＲＥは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,106円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、889株（元本目安：約3,650,234円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4106.0
+  }
+}

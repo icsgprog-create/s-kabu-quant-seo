@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9743",
+    "name": "丹青社",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1499.0,
+    "min_s_kabu_yen": 1499,
+    "unit_lot_yen": 149900,
+    "dps_yen": 73.0,
+    "dividend_yield_pct": 4.87,
+    "raw_annual_return_pct": 14.47,
+    "capped_annual_return_pct": 14.47,
+    "geometric_growth_pct": 10.59,
+    "annual_volatility_pct": 27.88,
+    "max_drawdown_pct": -26.06,
+    "monthly_var_95_pct": -9.37,
+    "sharpe_ratio": 0.52,
+    "quant_score": 74.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 165,
+        "nisa_required_capital_yen": 247335,
+        "specific_required_shares": 207,
+        "specific_required_capital_yen": 310293
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 822,
+        "nisa_required_capital_yen": 1232178,
+        "specific_required_shares": 1032,
+        "specific_required_capital_yen": 1546968
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 2464356,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 3092437
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4932,
+        "nisa_required_capital_yen": 7393068,
+        "specific_required_shares": 6189,
+        "specific_required_capital_yen": 9277311
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8220,
+        "nisa_required_capital_yen": 12321780,
+        "specific_required_shares": 10315,
+        "specific_required_capital_yen": 15462185
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130610,
+        "upper_90_yen": 168993,
+        "lower_10_yen": 101539
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 283057,
+        "upper_90_yen": 406720,
+        "lower_10_yen": 199467
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 460989,
+        "upper_90_yen": 721534,
+        "lower_10_yen": 300140
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 668669,
+        "upper_90_yen": 1128746,
+        "lower_10_yen": 406137
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 911070,
+        "upper_90_yen": 1648261,
+        "lower_10_yen": 519304
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1193996,
+        "upper_90_yen": 2304866,
+        "lower_10_yen": 641273
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1524222,
+        "upper_90_yen": 3129020,
+        "lower_10_yen": 773643
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1909657,
+        "upper_90_yen": 4157935,
+        "lower_10_yen": 918078
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2359529,
+        "upper_90_yen": 5436932,
+        "lower_10_yen": 1076365
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2884613,
+        "upper_90_yen": 7021100,
+        "lower_10_yen": 1250456
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "丹青社(9743)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "丹青社(9743)を1株(1,499円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,499円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.88%、幾何成長率は10.59%",
+      "新NISAで月1万円の配当金を得るには1,644株（約2,464,356円）が必要"
+    ],
+    "accumulation_strategy_analysis": "丹青社は単元未満株（S株・かぶミニ等）を利用することで1株（約1,499円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,884,613円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり73.0円（利回り4.87%）です。月次95%VaR（最大想定損失率）は-9.37%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "丹青社は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,499円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,644株（元本目安：約2,464,356円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1499.0
+  }
+}

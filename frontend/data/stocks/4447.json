@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4447",
+    "name": "ピー・ビーシステムズ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 470.0,
+    "min_s_kabu_yen": 470,
+    "unit_lot_yen": 47000,
+    "dps_yen": 22.5,
+    "dividend_yield_pct": 4.79,
+    "raw_annual_return_pct": -11.53,
+    "capped_annual_return_pct": -11.53,
+    "geometric_growth_pct": -19.08,
+    "annual_volatility_pct": 38.84,
+    "max_drawdown_pct": -68.05,
+    "monthly_var_95_pct": -14.68,
+    "sharpe_ratio": -0.39,
+    "quant_score": 44.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 534,
+        "nisa_required_capital_yen": 250980,
+        "specific_required_shares": 670,
+        "specific_required_capital_yen": 314900
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 1253490,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 1573090
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5334,
+        "nisa_required_capital_yen": 2506980,
+        "specific_required_shares": 6694,
+        "specific_required_capital_yen": 3146180
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16000,
+        "nisa_required_capital_yen": 7520000,
+        "specific_required_shares": 20080,
+        "specific_required_capital_yen": 9437600
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26667,
+        "nisa_required_capital_yen": 12533490,
+        "specific_required_shares": 33466,
+        "specific_required_capital_yen": 15729020
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111157,
+        "upper_90_yen": 157989,
+        "lower_10_yen": 79123
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 207514,
+        "upper_90_yen": 336137,
+        "lower_10_yen": 131417
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 291041,
+        "upper_90_yen": 520438,
+        "lower_10_yen": 169350
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 363447,
+        "upper_90_yen": 704886,
+        "lower_10_yen": 197815
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 426213,
+        "upper_90_yen": 885937,
+        "lower_10_yen": 219598
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 480621,
+        "upper_90_yen": 1061331,
+        "lower_10_yen": 236492
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 527786,
+        "upper_90_yen": 1229606,
+        "lower_10_yen": 249722
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 568671,
+        "upper_90_yen": 1389841,
+        "lower_10_yen": 260161
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 604112,
+        "upper_90_yen": 1541500,
+        "lower_10_yen": 268448
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 634834,
+        "upper_90_yen": 1684321,
+        "lower_10_yen": 275060
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ピー・ビーシステムズ(4447)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ピー・ビーシステムズ(4447)を1株(470円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小470円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは38.84%、幾何成長率は-19.08%",
+      "新NISAで月1万円の配当金を得るには5,334株（約2,506,980円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ピー・ビーシステムズは単元未満株（S株・かぶミニ等）を利用することで1株（約470円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は634,834円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.5円（利回り4.79%）です。月次95%VaR（最大想定損失率）は-14.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ピー・ビーシステムズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約470円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,334株（元本目安：約2,506,980円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 470.0
+  }
+}

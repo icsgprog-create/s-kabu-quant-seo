@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9311",
+    "name": "アサガミ",
+    "sector": "倉庫・運輸関連業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6970.0,
+    "min_s_kabu_yen": 6970,
+    "unit_lot_yen": 697000,
+    "dps_yen": 140.0,
+    "dividend_yield_pct": 2.01,
+    "raw_annual_return_pct": 14.08,
+    "capped_annual_return_pct": 14.08,
+    "geometric_growth_pct": 11.46,
+    "annual_volatility_pct": 22.9,
+    "max_drawdown_pct": -26.97,
+    "monthly_var_95_pct": -6.35,
+    "sharpe_ratio": 0.54,
+    "quant_score": 56.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 86,
+        "nisa_required_capital_yen": 599420,
+        "specific_required_shares": 108,
+        "specific_required_capital_yen": 752760
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 2990130,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 3749860
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 5980260,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 7499720
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2572,
+        "nisa_required_capital_yen": 17926840,
+        "specific_required_shares": 3227,
+        "specific_required_capital_yen": 22492190
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 29873420,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 37491630
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129176,
+        "upper_90_yen": 159502,
+        "lower_10_yen": 105032
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 276972,
+        "upper_90_yen": 372336,
+        "lower_10_yen": 207784
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 446070,
+        "upper_90_yen": 642487,
+        "lower_10_yen": 313704
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 639542,
+        "upper_90_yen": 978819,
+        "lower_10_yen": 425053
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 860900,
+        "upper_90_yen": 1392818,
+        "lower_10_yen": 543456
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1114165,
+        "upper_90_yen": 1898506,
+        "lower_10_yen": 670340
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1403935,
+        "upper_90_yen": 2512690,
+        "lower_10_yen": 807089
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1735471,
+        "upper_90_yen": 3255358,
+        "lower_10_yen": 955126
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2114794,
+        "upper_90_yen": 4150199,
+        "lower_10_yen": 1115955
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2548792,
+        "upper_90_yen": 5225219,
+        "lower_10_yen": 1291198
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アサガミ(9311)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アサガミ(9311)を1株(6,970円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,970円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.9%、幾何成長率は11.46%",
+      "新NISAで月1万円の配当金を得るには858株（約5,980,260円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アサガミは単元未満株（S株・かぶミニ等）を利用することで1株（約6,970円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,548,792円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり140.0円（利回り2.01%）です。月次95%VaR（最大想定損失率）は-6.35%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アサガミは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,970円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、858株（元本目安：約5,980,260円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6970.0
+  }
+}

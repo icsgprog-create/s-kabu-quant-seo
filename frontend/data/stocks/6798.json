@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6798",
+    "name": "ＳＭＫ",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3075.0,
+    "min_s_kabu_yen": 3075,
+    "unit_lot_yen": 307500,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 3.25,
+    "raw_annual_return_pct": 8.94,
+    "capped_annual_return_pct": 8.94,
+    "geometric_growth_pct": 4.85,
+    "annual_volatility_pct": 28.59,
+    "max_drawdown_pct": -30.44,
+    "monthly_var_95_pct": -11.25,
+    "sharpe_ratio": 0.25,
+    "quant_score": 53.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 369000,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 464325
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 1845000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 2315475
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 3690000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 4630950
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 11070000,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 13892850
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 18450000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 23154750
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125419,
+        "upper_90_yen": 163104,
+        "lower_10_yen": 97041
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261423,
+        "upper_90_yen": 377447,
+        "lower_10_yen": 183497
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 408908,
+        "upper_90_yen": 642072,
+        "lower_10_yen": 265785
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 568841,
+        "upper_90_yen": 960968,
+        "lower_10_yen": 346059
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 742274,
+        "upper_90_yen": 1339850,
+        "lower_10_yen": 425496
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 930345,
+        "upper_90_yen": 1785687,
+        "lower_10_yen": 504872
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1134292,
+        "upper_90_yen": 2306597,
+        "lower_10_yen": 584755
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1355453,
+        "upper_90_yen": 2911872,
+        "lower_10_yen": 665594
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1595281,
+        "upper_90_yen": 3612055,
+        "lower_10_yen": 747767
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1855352,
+        "upper_90_yen": 4419049,
+        "lower_10_yen": 831605
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＳＭＫ(6798)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＳＭＫ(6798)を1株(3,075円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,075円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.59%、幾何成長率は4.85%",
+      "新NISAで月1万円の配当金を得るには1,200株（約3,690,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＳＭＫは単元未満株（S株・かぶミニ等）を利用することで1株（約3,075円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,855,352円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り3.25%）です。月次95%VaR（最大想定損失率）は-11.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＳＭＫは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,075円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約3,690,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3075.0
+  }
+}

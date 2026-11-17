@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4461",
+    "name": "第一工業製薬",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 8770.0,
+    "min_s_kabu_yen": 8770,
+    "unit_lot_yen": 877000,
+    "dps_yen": 165.0,
+    "dividend_yield_pct": 1.88,
+    "raw_annual_return_pct": 22.11,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 7.25,
+    "annual_volatility_pct": 50.49,
+    "max_drawdown_pct": -52.78,
+    "monthly_var_95_pct": -20.46,
+    "sharpe_ratio": 0.16,
+    "quant_score": 24.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 73,
+        "nisa_required_capital_yen": 640210,
+        "specific_required_shares": 92,
+        "specific_required_capital_yen": 806840
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 364,
+        "nisa_required_capital_yen": 3192280,
+        "specific_required_shares": 457,
+        "specific_required_capital_yen": 4007890
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 728,
+        "nisa_required_capital_yen": 6384560,
+        "specific_required_shares": 913,
+        "specific_required_capital_yen": 8007010
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 19136140,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 24021030
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3637,
+        "nisa_required_capital_yen": 31896490,
+        "specific_required_shares": 4564,
+        "specific_required_capital_yen": 40026280
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126129,
+        "upper_90_yen": 201484,
+        "lower_10_yen": 80498
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 264321,
+        "upper_90_yen": 510493,
+        "lower_10_yen": 142652
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 415728,
+        "upper_90_yen": 935970,
+        "lower_10_yen": 196716
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 581614,
+        "upper_90_yen": 1497481,
+        "lower_10_yen": 245843
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 763365,
+        "upper_90_yen": 2220260,
+        "lower_10_yen": 291634
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 962496,
+        "upper_90_yen": 3134973,
+        "lower_10_yen": 335052
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1180671,
+        "upper_90_yen": 4278187,
+        "lower_10_yen": 376745
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1419711,
+        "upper_90_yen": 5693154,
+        "lower_10_yen": 417174
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1681610,
+        "upper_90_yen": 7430786,
+        "lower_10_yen": 456688
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1968556,
+        "upper_90_yen": 9550839,
+        "lower_10_yen": 495561
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "第一工業製薬(4461)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "第一工業製薬(4461)を1株(8,770円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小8,770円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは50.49%、幾何成長率は7.25%",
+      "新NISAで月1万円の配当金を得るには728株（約6,384,560円）が必要"
+    ],
+    "accumulation_strategy_analysis": "第一工業製薬は単元未満株（S株・かぶミニ等）を利用することで1株（約8,770円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,968,556円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり165.0円（利回り1.88%）です。月次95%VaR（最大想定損失率）は-20.46%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "第一工業製薬は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約8,770円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、728株（元本目安：約6,384,560円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 8770.0
+  }
+}

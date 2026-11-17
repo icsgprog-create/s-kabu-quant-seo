@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7345",
+    "name": "アイ・パートナーズフィナンシャル",
+    "sector": "その他金融業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 920.0,
+    "min_s_kabu_yen": 920,
+    "unit_lot_yen": 92000,
+    "dps_yen": 4.0,
+    "dividend_yield_pct": 0.43,
+    "raw_annual_return_pct": -1.05,
+    "capped_annual_return_pct": -1.05,
+    "geometric_growth_pct": -9.56,
+    "annual_volatility_pct": 41.27,
+    "max_drawdown_pct": -64.87,
+    "monthly_var_95_pct": -15.88,
+    "sharpe_ratio": -0.25,
+    "quant_score": 7.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2760000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 3463800
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 13800000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 17319000
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 27600000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 34637080
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 90000,
+        "nisa_required_capital_yen": 82800000,
+        "specific_required_shares": 112945,
+        "specific_required_capital_yen": 103909400
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 150000,
+        "nisa_required_capital_yen": 138000000,
+        "specific_required_shares": 188242,
+        "specific_required_capital_yen": 173182640
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114249,
+        "upper_90_yen": 166330,
+        "lower_10_yen": 79511
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 218530,
+        "upper_90_yen": 366883,
+        "lower_10_yen": 133941
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 313711,
+        "upper_90_yen": 587719,
+        "lower_10_yen": 175059
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 400588,
+        "upper_90_yen": 822501,
+        "lower_10_yen": 207259
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 479884,
+        "upper_90_yen": 1067031,
+        "lower_10_yen": 233005
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 552261,
+        "upper_90_yen": 1318185,
+        "lower_10_yen": 253885
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 618323,
+        "upper_90_yen": 1573505,
+        "lower_10_yen": 270993
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 678621,
+        "upper_90_yen": 1830996,
+        "lower_10_yen": 285124
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 733657,
+        "upper_90_yen": 2089012,
+        "lower_10_yen": 296871
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 783891,
+        "upper_90_yen": 2346178,
+        "lower_10_yen": 306690
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイ・パートナーズフィナンシャル(7345)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイ・パートナーズフィナンシャル(7345)を1株(920円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小920円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは41.27%、幾何成長率は-9.56%",
+      "新NISAで月1万円の配当金を得るには30,000株（約27,600,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイ・パートナーズフィナンシャルは単元未満株（S株・かぶミニ等）を利用することで1株（約920円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は783,891円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり4.0円（利回り0.43%）です。月次95%VaR（最大想定損失率）は-15.88%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイ・パートナーズフィナンシャルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約920円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、30,000株（元本目安：約27,600,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 920.0
+  }
+}

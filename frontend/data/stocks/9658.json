@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9658",
+    "name": "ビジネスブレイン太田昭和",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1605.0,
+    "min_s_kabu_yen": 1605,
+    "unit_lot_yen": 160500,
+    "dps_yen": 46.33,
+    "dividend_yield_pct": 2.89,
+    "raw_annual_return_pct": 22.26,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.77,
+    "annual_volatility_pct": 32.33,
+    "max_drawdown_pct": -36.24,
+    "monthly_var_95_pct": -11.69,
+    "sharpe_ratio": 0.52,
+    "quant_score": 53.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 259,
+        "nisa_required_capital_yen": 415695,
+        "specific_required_shares": 326,
+        "specific_required_capital_yen": 523230
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1295,
+        "nisa_required_capital_yen": 2078475,
+        "specific_required_shares": 1626,
+        "specific_required_capital_yen": 2609730
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2590,
+        "nisa_required_capital_yen": 4156950,
+        "specific_required_shares": 3251,
+        "specific_required_capital_yen": 5217855
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7770,
+        "nisa_required_capital_yen": 12470850,
+        "specific_required_shares": 9751,
+        "specific_required_capital_yen": 15650355
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12950,
+        "nisa_required_capital_yen": 20784750,
+        "specific_required_shares": 16252,
+        "specific_required_capital_yen": 26084460
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 132216,
+        "upper_90_yen": 178456,
+        "lower_10_yen": 98732
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 289970,
+        "upper_90_yen": 442696,
+        "lower_10_yen": 193133
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 478195,
+        "upper_90_yen": 807648,
+        "lower_10_yen": 290346
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 702775,
+        "upper_90_yen": 1298182,
+        "lower_10_yen": 393268
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 970734,
+        "upper_90_yen": 1947062,
+        "lower_10_yen": 504010
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1290449,
+        "upper_90_yen": 2796129,
+        "lower_10_yen": 624475
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1671917,
+        "upper_90_yen": 3898279,
+        "lower_10_yen": 756578
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2127067,
+        "upper_90_yen": 5320070,
+        "lower_10_yen": 902351
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2670129,
+        "upper_90_yen": 7145017,
+        "lower_10_yen": 1064021
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3318085,
+        "upper_90_yen": 9477713,
+        "lower_10_yen": 1244071
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビジネスブレイン太田昭和(9658)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビジネスブレイン太田昭和(9658)を1株(1,605円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,605円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.33%、幾何成長率は14.77%",
+      "新NISAで月1万円の配当金を得るには2,590株（約4,156,950円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビジネスブレイン太田昭和は単元未満株（S株・かぶミニ等）を利用することで1株（約1,605円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,318,085円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり46.33円（利回り2.89%）です。月次95%VaR（最大想定損失率）は-11.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビジネスブレイン太田昭和は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,605円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,590株（元本目安：約4,156,950円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1605.0
+  }
+}

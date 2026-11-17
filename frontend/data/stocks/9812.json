@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9812",
+    "name": "テーオーホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 197.0,
+    "min_s_kabu_yen": 197,
+    "unit_lot_yen": 19700,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -9.72,
+    "capped_annual_return_pct": -9.72,
+    "geometric_growth_pct": -28.3,
+    "annual_volatility_pct": 60.97,
+    "max_drawdown_pct": -68.9,
+    "monthly_var_95_pct": -19.15,
+    "sharpe_ratio": -0.48,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 103284,
+        "upper_90_yen": 179074,
+        "lower_10_yen": 61317
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 181107,
+        "upper_90_yen": 382844,
+        "lower_10_yen": 91288
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 239746,
+        "upper_90_yen": 585550,
+        "lower_10_yen": 108336
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 283929,
+        "upper_90_yen": 776965,
+        "lower_10_yen": 118571
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 317220,
+        "upper_90_yen": 952290,
+        "lower_10_yen": 124910
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 342304,
+        "upper_90_yen": 1109592,
+        "lower_10_yen": 128919
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 361205,
+        "upper_90_yen": 1248591,
+        "lower_10_yen": 131494
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 375446,
+        "upper_90_yen": 1369972,
+        "lower_10_yen": 133168
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 386177,
+        "upper_90_yen": 1474965,
+        "lower_10_yen": 134266
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 394262,
+        "upper_90_yen": 1565067,
+        "lower_10_yen": 134992
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "テーオーホールディングス(9812)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "テーオーホールディングス(9812)を1株(197円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小197円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは60.97%、幾何成長率は-28.3%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "テーオーホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約197円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は394,262円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-19.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "テーオーホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約197円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 197.0
+  }
+}

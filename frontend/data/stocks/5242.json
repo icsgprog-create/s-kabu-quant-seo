@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5242",
+    "name": "アイズ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2920.0,
+    "min_s_kabu_yen": 2920,
+    "unit_lot_yen": 292000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -9.1,
+    "capped_annual_return_pct": -9.1,
+    "geometric_growth_pct": -39.01,
+    "annual_volatility_pct": 77.34,
+    "max_drawdown_pct": -81.56,
+    "monthly_var_95_pct": -26.24,
+    "sharpe_ratio": -0.52,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 97757,
+        "upper_90_yen": 196155,
+        "lower_10_yen": 51044
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 163938,
+        "upper_90_yen": 420091,
+        "lower_10_yen": 70867
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 208742,
+        "upper_90_yen": 635803,
+        "lower_10_yen": 80248
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 239074,
+        "upper_90_yen": 830297,
+        "lower_10_yen": 85005
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 259609,
+        "upper_90_yen": 999002,
+        "lower_10_yen": 87516
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 273511,
+        "upper_90_yen": 1141543,
+        "lower_10_yen": 88877
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 282923,
+        "upper_90_yen": 1259672,
+        "lower_10_yen": 89629
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 289294,
+        "upper_90_yen": 1356112,
+        "lower_10_yen": 90051
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 293608,
+        "upper_90_yen": 1433897,
+        "lower_10_yen": 90291
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 296528,
+        "upper_90_yen": 1496011,
+        "lower_10_yen": 90428
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイズ(5242)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイズ(5242)を1株(2,920円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,920円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは77.34%、幾何成長率は-39.01%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイズは単元未満株（S株・かぶミニ等）を利用することで1株（約2,920円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は296,528円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-26.24%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,920円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2920.0
+  }
+}

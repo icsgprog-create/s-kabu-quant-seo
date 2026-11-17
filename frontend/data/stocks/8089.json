@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8089",
+    "name": "ナイス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1894.0,
+    "min_s_kabu_yen": 1894,
+    "unit_lot_yen": 189400,
+    "dps_yen": 75.0,
+    "dividend_yield_pct": 3.96,
+    "raw_annual_return_pct": 6.19,
+    "capped_annual_return_pct": 6.19,
+    "geometric_growth_pct": 2.63,
+    "annual_volatility_pct": 26.69,
+    "max_drawdown_pct": -37.66,
+    "monthly_var_95_pct": -10.86,
+    "sharpe_ratio": 0.21,
+    "quant_score": 60.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 160,
+        "nisa_required_capital_yen": 303040,
+        "specific_required_shares": 201,
+        "specific_required_capital_yen": 380694
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 1515200,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 1901576
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 3030400,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 3803152
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 9091200,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 11409456
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 15152000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 19015760
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124385,
+        "upper_90_yen": 158872,
+        "lower_10_yen": 97913
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 257245,
+        "upper_90_yen": 361961,
+        "lower_10_yen": 184968
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 399159,
+        "upper_90_yen": 606821,
+        "lower_10_yen": 267296
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 550742,
+        "upper_90_yen": 895444,
+        "lower_10_yen": 346962
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 712655,
+        "upper_90_yen": 1231172,
+        "lower_10_yen": 425090
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 885601,
+        "upper_90_yen": 1618195,
+        "lower_10_yen": 502407
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1070332,
+        "upper_90_yen": 2061401,
+        "lower_10_yen": 579432
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1267650,
+        "upper_90_yen": 2566338,
+        "lower_10_yen": 656565
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1478414,
+        "upper_90_yen": 3139219,
+        "lower_10_yen": 734127
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1703540,
+        "upper_90_yen": 3786954,
+        "lower_10_yen": 812391
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ナイス(8089)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ナイス(8089)を1株(1,894円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,894円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.69%、幾何成長率は2.63%",
+      "新NISAで月1万円の配当金を得るには1,600株（約3,030,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ナイスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,894円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,703,540円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり75.0円（利回り3.96%）です。月次95%VaR（最大想定損失率）は-10.86%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ナイスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,894円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,600株（元本目安：約3,030,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1894.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7475",
+    "name": "アルビス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3735.0,
+    "min_s_kabu_yen": 3735,
+    "unit_lot_yen": 373500,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 0.94,
+    "raw_annual_return_pct": 12.05,
+    "capped_annual_return_pct": 12.05,
+    "geometric_growth_pct": 9.86,
+    "annual_volatility_pct": 20.92,
+    "max_drawdown_pct": -26.64,
+    "monthly_var_95_pct": -4.82,
+    "sharpe_ratio": 0.47,
+    "quant_score": 48.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 1281105,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 1609785
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 6405525,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 8037720
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 12807315,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 16071705
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 38418210,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 48211380
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 64029105,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 80354790
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127289,
+        "upper_90_yen": 154243,
+        "lower_10_yen": 105394
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 269091,
+        "upper_90_yen": 352056,
+        "lower_10_yen": 207145
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 427061,
+        "upper_90_yen": 594365,
+        "lower_10_yen": 310192
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 603043,
+        "upper_90_yen": 885966,
+        "lower_10_yen": 416442
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 799090,
+        "upper_90_yen": 1233264,
+        "lower_10_yen": 527145
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1017489,
+        "upper_90_yen": 1643990,
+        "lower_10_yen": 643308
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1260790,
+        "upper_90_yen": 2127210,
+        "lower_10_yen": 765838
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1531832,
+        "upper_90_yen": 2693429,
+        "lower_10_yen": 895608
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1833778,
+        "upper_90_yen": 3354748,
+        "lower_10_yen": 1033494
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2170151,
+        "upper_90_yen": 4125060,
+        "lower_10_yen": 1180401
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アルビス(7475)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アルビス(7475)を1株(3,735円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,735円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.92%、幾何成長率は9.86%",
+      "新NISAで月1万円の配当金を得るには3,429株（約12,807,315円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アルビスは単元未満株（S株・かぶミニ等）を利用することで1株（約3,735円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,170,151円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り0.94%）です。月次95%VaR（最大想定損失率）は-4.82%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アルビスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,735円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約12,807,315円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3735.0
+  }
+}

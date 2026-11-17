@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8399",
+    "name": "琉球銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2508.0,
+    "min_s_kabu_yen": 2508,
+    "unit_lot_yen": 250800,
+    "dps_yen": 110.0,
+    "dividend_yield_pct": 4.39,
+    "raw_annual_return_pct": 28.24,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.51,
+    "annual_volatility_pct": 29.96,
+    "max_drawdown_pct": -30.61,
+    "monthly_var_95_pct": -12.01,
+    "sharpe_ratio": 0.63,
+    "quant_score": 70.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 110,
+        "nisa_required_capital_yen": 275880,
+        "specific_required_shares": 137,
+        "specific_required_capital_yen": 343596
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 1369368,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 1717980
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1091,
+        "nisa_required_capital_yen": 2736228,
+        "specific_required_shares": 1370,
+        "specific_required_capital_yen": 3435960
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3273,
+        "nisa_required_capital_yen": 8208684,
+        "specific_required_shares": 4108,
+        "specific_required_capital_yen": 10302864
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 13681140,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 17169768
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133876,
+        "upper_90_yen": 176805,
+        "lower_10_yen": 102056
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 297226,
+        "upper_90_yen": 440302,
+        "lower_10_yen": 203525
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 496541,
+        "upper_90_yen": 808480,
+        "lower_10_yen": 311555
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 739737,
+        "upper_90_yen": 1310133,
+        "lower_10_yen": 429555
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1036476,
+        "upper_90_yen": 1983613,
+        "lower_10_yen": 560387
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1398546,
+        "upper_90_yen": 2878724,
+        "lower_10_yen": 706924
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1840330,
+        "upper_90_yen": 4059606,
+        "lower_10_yen": 872279
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2379380,
+        "upper_90_yen": 5608534,
+        "lower_10_yen": 1059952
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3037109,
+        "upper_90_yen": 7630791,
+        "lower_10_yen": 1273951
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3839646,
+        "upper_90_yen": 10260864,
+        "lower_10_yen": 1518914
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "琉球銀行(8399)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "琉球銀行(8399)を1株(2,508円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,508円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.96%、幾何成長率は15.51%",
+      "新NISAで月1万円の配当金を得るには1,091株（約2,736,228円）が必要"
+    ],
+    "accumulation_strategy_analysis": "琉球銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約2,508円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,839,646円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり110.0円（利回り4.39%）です。月次95%VaR（最大想定損失率）は-12.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "琉球銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,508円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,091株（元本目安：約2,736,228円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2508.0
+  }
+}

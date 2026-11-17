@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3452",
+    "name": "ビーロット",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1361.0,
+    "min_s_kabu_yen": 1361,
+    "unit_lot_yen": 136100,
+    "dps_yen": 73.0,
+    "dividend_yield_pct": 5.36,
+    "raw_annual_return_pct": 22.47,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.83,
+    "annual_volatility_pct": 35.12,
+    "max_drawdown_pct": -37.48,
+    "monthly_var_95_pct": -11.65,
+    "sharpe_ratio": 0.52,
+    "quant_score": 67.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 165,
+        "nisa_required_capital_yen": 224565,
+        "specific_required_shares": 207,
+        "specific_required_capital_yen": 281727
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 822,
+        "nisa_required_capital_yen": 1118742,
+        "specific_required_shares": 1032,
+        "specific_required_capital_yen": 1404552
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1644,
+        "nisa_required_capital_yen": 2237484,
+        "specific_required_shares": 2063,
+        "specific_required_capital_yen": 2807743
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4932,
+        "nisa_required_capital_yen": 6712452,
+        "specific_required_shares": 6189,
+        "specific_required_capital_yen": 8423229
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8220,
+        "nisa_required_capital_yen": 11187420,
+        "specific_required_shares": 10315,
+        "specific_required_capital_yen": 14038715
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133354,
+        "upper_90_yen": 184841,
+        "lower_10_yen": 97104
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294932,
+        "upper_90_yen": 467869,
+        "lower_10_yen": 189602
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 490707,
+        "upper_90_yen": 869825,
+        "lower_10_yen": 285113
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 727918,
+        "upper_90_yen": 1424098,
+        "lower_10_yen": 386751
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1015333,
+        "upper_90_yen": 2175279,
+        "lower_10_yen": 496823
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1363580,
+        "upper_90_yen": 3181388,
+        "lower_10_yen": 617454
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1785532,
+        "upper_90_yen": 4517273,
+        "lower_10_yen": 750816
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2296789,
+        "upper_90_yen": 6279078,
+        "lower_10_yen": 899260
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2916252,
+        "upper_90_yen": 8589970,
+        "lower_10_yen": 1065396
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3666823,
+        "upper_90_yen": 11607418,
+        "lower_10_yen": 1252177
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビーロット(3452)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビーロット(3452)を1株(1,361円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,361円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.12%、幾何成長率は13.83%",
+      "新NISAで月1万円の配当金を得るには1,644株（約2,237,484円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビーロットは単元未満株（S株・かぶミニ等）を利用することで1株（約1,361円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,666,823円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり73.0円（利回り5.36%）です。月次95%VaR（最大想定損失率）は-11.65%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビーロットは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,361円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,644株（元本目安：約2,237,484円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1361.0
+  }
+}

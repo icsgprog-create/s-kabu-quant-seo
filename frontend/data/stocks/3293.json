@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "code": "3293",
+    "name": "アズマハウス",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 733.0,
+    "min_s_kabu_yen": 733,
+    "unit_lot_yen": 73300,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 4.77,
+    "raw_annual_return_pct": 4.12,
+    "capped_annual_return_pct": 4.12,
+    "geometric_growth_pct": 3.49,
+    "annual_volatility_pct": 11.21,
+    "max_drawdown_pct": -13.55,
+    "monthly_var_95_pct": -2.3,
+    "sharpe_ratio": 0.65,
+    "quant_score": 89.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 251419,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 315923
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 1257095,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 1577416
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 2513457,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 3154099
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 7539638,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 9461564
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 12565819,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 15769762
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125531,
+        "upper_90_yen": 139053,
+        "lower_10_yen": 113433
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261881,
+        "upper_90_yen": 301991,
+        "lower_10_yen": 227566
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 409983,
+        "upper_90_yen": 488221,
+        "lower_10_yen": 345365
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 570848,
+        "upper_90_yen": 699052,
+        "lower_10_yen": 468120
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 745577,
+        "upper_90_yen": 936408,
+        "lower_10_yen": 596759
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 935366,
+        "upper_90_yen": 1202615,
+        "lower_10_yen": 732077
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1141511,
+        "upper_90_yen": 1500348,
+        "lower_10_yen": 874817
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1365422,
+        "upper_90_yen": 1832622,
+        "lower_10_yen": 1025714
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1608631,
+        "upper_90_yen": 2202796,
+        "lower_10_yen": 1185514
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1872801,
+        "upper_90_yen": 2614598,
+        "lower_10_yen": 1354986
+      }
+    ]
+  },
+  "seo": {
+    "code": "3293",
+    "seo_title": "アズマハウス(3293)の1株投資データ｜利回り4.77%と低ボラティリティの特性",
+    "meta_description": "アズマハウス(3293)の定量分析。配当利回り4.77%、1株733円。年率ボラティリティ11.21%と低リスクな特徴や新NISA10年積立シミュレーション。",
+    "summary_points": [
+      "1株あたり約733円と非常に少額から始められる単元未満株対象",
+      "年率ボラティリティ11.21%、月次VaR-2.30%と極めて値動きが安定的",
+      "配当利回りは4.77%と手堅いインカム水準を保持"
+    ],
+    "accumulation_strategy_analysis": "1株約733円と低単価で、月1万円積立では10年で3,429株(元本約251万円)を形成できます。幾何平均成長率は3.49%とマイルドですが、10年中央値資産額は187万2,801円となり、株価下落リスクを抑えながらコツコツ配当を再投資する戦略に向いています。",
+    "dividend_and_risk_commentary": "配当利回りは4.77%、1株あたり年間35.0円の配当です。年率ボラティリティが11.21%、月次VaR(95%)が-2.30%とデータ群の中で最も値動きがマイルドであり、価格下落リスクの許容度が低い投資家にとって安定感のある数値傾向を示しています。",
+    "faqs": [
+      {
+        "question": "アズマハウスは何株から買えますか？",
+        "answer": "通常の単元は100株ですが、単元未満株(S株・ミニ株)サービスを利用すれば1株約733円から購入できます。"
+      },
+      {
+        "question": "値動きの安定性はどの程度ですか？",
+        "answer": "年率ボラティリティ11.21%は一般的な株式と比較して非常に低く、株価の急変動が比較的少ない傾向があります。"
+      }
+    ],
+    "is_ai_generated": true,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 733.0
+  }
+}

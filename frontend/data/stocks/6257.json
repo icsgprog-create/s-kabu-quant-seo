@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6257",
+    "name": "藤商事",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 991.0,
+    "min_s_kabu_yen": 991,
+    "unit_lot_yen": 99100,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 5.05,
+    "raw_annual_return_pct": 6.37,
+    "capped_annual_return_pct": 6.37,
+    "geometric_growth_pct": 2.55,
+    "annual_volatility_pct": 27.61,
+    "max_drawdown_pct": -37.11,
+    "monthly_var_95_pct": -10.01,
+    "sharpe_ratio": 0.24,
+    "quant_score": 68.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 237840,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 299282
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 1189200,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1492446
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 2378400,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 2984892
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 7135200,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 8954676
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 11892000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 14924460
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125072,
+        "upper_90_yen": 161156,
+        "lower_10_yen": 97633
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260020,
+        "upper_90_yen": 370509,
+        "lower_10_yen": 184767
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 405622,
+        "upper_90_yen": 626536,
+        "lower_10_yen": 267656
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 562721,
+        "upper_90_yen": 932409,
+        "lower_10_yen": 348402
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 732223,
+        "upper_90_yen": 1292860,
+        "lower_10_yen": 428155
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 915107,
+        "upper_90_yen": 1713692,
+        "lower_10_yen": 507671
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1112432,
+        "upper_90_yen": 2201662,
+        "lower_10_yen": 587496
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1325336,
+        "upper_90_yen": 2764474,
+        "lower_10_yen": 668063
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1555050,
+        "upper_90_yen": 3410823,
+        "lower_10_yen": 749728
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1802901,
+        "upper_90_yen": 4150474,
+        "lower_10_yen": 832804
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "藤商事(6257)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "藤商事(6257)を1株(991円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小991円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.61%、幾何成長率は2.55%",
+      "新NISAで月1万円の配当金を得るには2,400株（約2,378,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "藤商事は単元未満株（S株・かぶミニ等）を利用することで1株（約991円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,802,901円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り5.05%）です。月次95%VaR（最大想定損失率）は-10.01%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "藤商事は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約991円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約2,378,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 991.0
+  }
+}

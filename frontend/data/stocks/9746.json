@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9746",
+    "name": "ＴＫＣ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4350.0,
+    "min_s_kabu_yen": 4350,
+    "unit_lot_yen": 435000,
+    "dps_yen": 126.0,
+    "dividend_yield_pct": 2.9,
+    "raw_annual_return_pct": 7.73,
+    "capped_annual_return_pct": 7.73,
+    "geometric_growth_pct": 5.8,
+    "annual_volatility_pct": 19.67,
+    "max_drawdown_pct": -25.86,
+    "monthly_var_95_pct": -8.47,
+    "sharpe_ratio": 0.39,
+    "quant_score": 63.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 96,
+        "nisa_required_capital_yen": 417600,
+        "specific_required_shares": 120,
+        "specific_required_capital_yen": 522000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 477,
+        "nisa_required_capital_yen": 2074950,
+        "specific_required_shares": 598,
+        "specific_required_capital_yen": 2601300
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 953,
+        "nisa_required_capital_yen": 4145550,
+        "specific_required_shares": 1196,
+        "specific_required_capital_yen": 5202600
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2858,
+        "nisa_required_capital_yen": 12432300,
+        "specific_required_shares": 3586,
+        "specific_required_capital_yen": 15599100
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4762,
+        "nisa_required_capital_yen": 20714700,
+        "specific_required_shares": 5976,
+        "specific_required_capital_yen": 25995600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125826,
+        "upper_90_yen": 150664,
+        "lower_10_yen": 105392
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 263083,
+        "upper_90_yen": 338317,
+        "lower_10_yen": 205875
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 412809,
+        "upper_90_yen": 562134,
+        "lower_10_yen": 306088
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 576137,
+        "upper_90_yen": 824668,
+        "lower_10_yen": 407735
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 754301,
+        "upper_90_yen": 1129624,
+        "lower_10_yen": 511854
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 948651,
+        "upper_90_yen": 1481514,
+        "lower_10_yen": 619220
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1160656,
+        "upper_90_yen": 1885582,
+        "lower_10_yen": 730477
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1391921,
+        "upper_90_yen": 2347805,
+        "lower_10_yen": 846205
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1644194,
+        "upper_90_yen": 2874939,
+        "lower_10_yen": 966956
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1919385,
+        "upper_90_yen": 3474576,
+        "lower_10_yen": 1093266
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＴＫＣ(9746)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＴＫＣ(9746)を1株(4,350円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,350円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.67%、幾何成長率は5.8%",
+      "新NISAで月1万円の配当金を得るには953株（約4,145,550円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＴＫＣは単元未満株（S株・かぶミニ等）を利用することで1株（約4,350円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,919,385円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり126.0円（利回り2.9%）です。月次95%VaR（最大想定損失率）は-8.47%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＴＫＣは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,350円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、953株（元本目安：約4,145,550円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4350.0
+  }
+}

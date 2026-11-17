@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5576",
+    "name": "オービーシステム",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2965.0,
+    "min_s_kabu_yen": 2965,
+    "unit_lot_yen": 296500,
+    "dps_yen": 115.0,
+    "dividend_yield_pct": 3.88,
+    "raw_annual_return_pct": -2.99,
+    "capped_annual_return_pct": -2.99,
+    "geometric_growth_pct": -10.25,
+    "annual_volatility_pct": 38.11,
+    "max_drawdown_pct": -58.39,
+    "monthly_var_95_pct": -12.38,
+    "sharpe_ratio": -0.19,
+    "quant_score": 38.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 105,
+        "nisa_required_capital_yen": 311325,
+        "specific_required_shares": 131,
+        "specific_required_capital_yen": 388415
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 1547730,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 1942075
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1044,
+        "nisa_required_capital_yen": 3095460,
+        "specific_required_shares": 1310,
+        "specific_required_capital_yen": 3884150
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3131,
+        "nisa_required_capital_yen": 9283415,
+        "specific_required_shares": 3929,
+        "specific_required_capital_yen": 11649485
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 15471370,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 19414820
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115950,
+        "upper_90_yen": 164085,
+        "lower_10_yen": 82855
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 224746,
+        "upper_90_yen": 363174,
+        "lower_10_yen": 142502
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 326828,
+        "upper_90_yen": 585311,
+        "lower_10_yen": 189505
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 422611,
+        "upper_90_yen": 825263,
+        "lower_10_yen": 227793
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 512484,
+        "upper_90_yen": 1079587,
+        "lower_10_yen": 259587
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 596812,
+        "upper_90_yen": 1345695,
+        "lower_10_yen": 286334
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 675936,
+        "upper_90_yen": 1621502,
+        "lower_10_yen": 309050
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 750177,
+        "upper_90_yen": 1905264,
+        "lower_10_yen": 328487
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 819838,
+        "upper_90_yen": 2195480,
+        "lower_10_yen": 345217
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 885200,
+        "upper_90_yen": 2490841,
+        "lower_10_yen": 359689
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オービーシステム(5576)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オービーシステム(5576)を1株(2,965円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,965円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは38.11%、幾何成長率は-10.25%",
+      "新NISAで月1万円の配当金を得るには1,044株（約3,095,460円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オービーシステムは単元未満株（S株・かぶミニ等）を利用することで1株（約2,965円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は885,200円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり115.0円（利回り3.88%）です。月次95%VaR（最大想定損失率）は-12.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オービーシステムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,965円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,044株（元本目安：約3,095,460円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2965.0
+  }
+}

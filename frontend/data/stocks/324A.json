@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "324A",
+    "name": "ブッキングリゾート",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 611.0,
+    "min_s_kabu_yen": 611,
+    "unit_lot_yen": 61100,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -67.37,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -30.02,
+    "annual_volatility_pct": 54.8,
+    "max_drawdown_pct": -74.0,
+    "monthly_var_95_pct": -25.34,
+    "sharpe_ratio": -0.57,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 102374,
+        "upper_90_yen": 167551,
+        "lower_10_yen": 64029
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 178203,
+        "upper_90_yen": 347539,
+        "lower_10_yen": 96193
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 234370,
+        "upper_90_yen": 518715,
+        "lower_10_yen": 114697
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 275973,
+        "upper_90_yen": 674045,
+        "lower_10_yen": 125872
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 306789,
+        "upper_90_yen": 811180,
+        "lower_10_yen": 132812
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 329615,
+        "upper_90_yen": 930020,
+        "lower_10_yen": 137204
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 346521,
+        "upper_90_yen": 1031604,
+        "lower_10_yen": 140022
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 359044,
+        "upper_90_yen": 1117518,
+        "lower_10_yen": 141850
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 368320,
+        "upper_90_yen": 1189561,
+        "lower_10_yen": 143046
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 375191,
+        "upper_90_yen": 1249545,
+        "lower_10_yen": 143834
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ブッキングリゾート(324A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ブッキングリゾート(324A)を1株(611円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小611円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは54.8%、幾何成長率は-30.02%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ブッキングリゾートは単元未満株（S株・かぶミニ等）を利用することで1株（約611円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は375,191円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-25.34%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ブッキングリゾートは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約611円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 611.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6146",
+    "name": "ディスコ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 43390.0,
+    "min_s_kabu_yen": 43390,
+    "unit_lot_yen": 4339000,
+    "dps_yen": 562.0,
+    "dividend_yield_pct": 1.3,
+    "raw_annual_return_pct": 28.39,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 5.88,
+    "annual_volatility_pct": 53.13,
+    "max_drawdown_pct": -65.16,
+    "monthly_var_95_pct": -22.89,
+    "sharpe_ratio": 0.12,
+    "quant_score": 18.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 22,
+        "nisa_required_capital_yen": 954580,
+        "specific_required_shares": 27,
+        "specific_required_capital_yen": 1171530
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 107,
+        "nisa_required_capital_yen": 4642730,
+        "specific_required_shares": 134,
+        "specific_required_capital_yen": 5814260
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 214,
+        "nisa_required_capital_yen": 9285460,
+        "specific_required_shares": 268,
+        "specific_required_capital_yen": 11628520
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 641,
+        "nisa_required_capital_yen": 27812990,
+        "specific_required_shares": 804,
+        "specific_required_capital_yen": 34885560
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1068,
+        "nisa_required_capital_yen": 46340520,
+        "specific_required_shares": 1340,
+        "specific_required_capital_yen": 58142600
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124785,
+        "upper_90_yen": 204220,
+        "lower_10_yen": 77900
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258859,
+        "upper_90_yen": 516810,
+        "lower_10_yen": 135770
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 402911,
+        "upper_90_yen": 943979,
+        "lower_10_yen": 184534
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 557687,
+        "upper_90_yen": 1502233,
+        "lower_10_yen": 227561
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 723983,
+        "upper_90_yen": 2212892,
+        "lower_10_yen": 266557
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 902657,
+        "upper_90_yen": 3101550,
+        "lower_10_yen": 302544
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1094630,
+        "upper_90_yen": 4198246,
+        "lower_10_yen": 336198
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1300893,
+        "upper_90_yen": 5537899,
+        "lower_10_yen": 367996
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1522508,
+        "upper_90_yen": 7160875,
+        "lower_10_yen": 398291
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1760620,
+        "upper_90_yen": 9113692,
+        "lower_10_yen": 427354
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ディスコ(6146)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ディスコ(6146)を1株(43,390円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小43,390円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.13%、幾何成長率は5.88%",
+      "新NISAで月1万円の配当金を得るには214株（約9,285,460円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ディスコは単元未満株（S株・かぶミニ等）を利用することで1株（約43,390円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,760,620円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり562.0円（利回り1.3%）です。月次95%VaR（最大想定損失率）は-22.89%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ディスコは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約43,390円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、214株（元本目安：約9,285,460円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 43390.0
+  }
+}

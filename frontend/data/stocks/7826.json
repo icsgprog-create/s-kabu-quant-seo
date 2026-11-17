@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7826",
+    "name": "フルヤ金属",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7800.0,
+    "min_s_kabu_yen": 7800,
+    "unit_lot_yen": 780000,
+    "dps_yen": 165.0,
+    "dividend_yield_pct": 2.12,
+    "raw_annual_return_pct": 18.03,
+    "capped_annual_return_pct": 18.03,
+    "geometric_growth_pct": 5.6,
+    "annual_volatility_pct": 49.86,
+    "max_drawdown_pct": -56.81,
+    "monthly_var_95_pct": -19.64,
+    "sharpe_ratio": 0.13,
+    "quant_score": 25.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 73,
+        "nisa_required_capital_yen": 569400,
+        "specific_required_shares": 92,
+        "specific_required_capital_yen": 717600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 364,
+        "nisa_required_capital_yen": 2839200,
+        "specific_required_shares": 457,
+        "specific_required_capital_yen": 3564600
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 728,
+        "nisa_required_capital_yen": 5678400,
+        "specific_required_shares": 913,
+        "specific_required_capital_yen": 7121400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2182,
+        "nisa_required_capital_yen": 17019600,
+        "specific_required_shares": 2739,
+        "specific_required_capital_yen": 21364200
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3637,
+        "nisa_required_capital_yen": 28368600,
+        "specific_required_shares": 4564,
+        "specific_required_capital_yen": 35599200
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125154,
+        "upper_90_yen": 198626,
+        "lower_10_yen": 80362
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260349,
+        "upper_90_yen": 497800,
+        "lower_10_yen": 141796
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 406391,
+        "upper_90_yen": 902817,
+        "lower_10_yen": 194633
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 564151,
+        "upper_90_yen": 1428608,
+        "lower_10_yen": 242081
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 734568,
+        "upper_90_yen": 2094569,
+        "lower_10_yen": 285771
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 918658,
+        "upper_90_yen": 2924044,
+        "lower_10_yen": 326690
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1117519,
+        "upper_90_yen": 3944487,
+        "lower_10_yen": 365493
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1332334,
+        "upper_90_yen": 5187858,
+        "lower_10_yen": 402648
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1564385,
+        "upper_90_yen": 6691166,
+        "lower_10_yen": 438503
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1815054,
+        "upper_90_yen": 8497123,
+        "lower_10_yen": 473327
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フルヤ金属(7826)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フルヤ金属(7826)を1株(7,800円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,800円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは49.86%、幾何成長率は5.6%",
+      "新NISAで月1万円の配当金を得るには728株（約5,678,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フルヤ金属は単元未満株（S株・かぶミニ等）を利用することで1株（約7,800円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,815,054円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり165.0円（利回り2.12%）です。月次95%VaR（最大想定損失率）は-19.64%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フルヤ金属は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,800円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、728株（元本目安：約5,678,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7800.0
+  }
+}

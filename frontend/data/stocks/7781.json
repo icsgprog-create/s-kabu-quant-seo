@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7781",
+    "name": "平山ホールディングス",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 812.0,
+    "min_s_kabu_yen": 812,
+    "unit_lot_yen": 81200,
+    "dps_yen": 33.0,
+    "dividend_yield_pct": 4.06,
+    "raw_annual_return_pct": 20.51,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.1,
+    "annual_volatility_pct": 31.3,
+    "max_drawdown_pct": -38.54,
+    "monthly_var_95_pct": -9.1,
+    "sharpe_ratio": 0.58,
+    "quant_score": 65.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 364,
+        "nisa_required_capital_yen": 295568,
+        "specific_required_shares": 457,
+        "specific_required_capital_yen": 371084
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1819,
+        "nisa_required_capital_yen": 1477028,
+        "specific_required_shares": 2282,
+        "specific_required_capital_yen": 1852984
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3637,
+        "nisa_required_capital_yen": 2953244,
+        "specific_required_shares": 4564,
+        "specific_required_capital_yen": 3705968
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 8858920,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 11117092
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18182,
+        "nisa_required_capital_yen": 14763784,
+        "specific_required_shares": 22818,
+        "specific_required_capital_yen": 18528216
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133330,
+        "upper_90_yen": 178285,
+        "lower_10_yen": 100448
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 294828,
+        "upper_90_yen": 444410,
+        "lower_10_yen": 198667
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 490443,
+        "upper_90_yen": 815794,
+        "lower_10_yen": 301837
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 727384,
+        "upper_90_yen": 1320610,
+        "lower_10_yen": 413152
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1014382,
+        "upper_90_yen": 1996276,
+        "lower_10_yen": 535148
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1362011,
+        "upper_90_yen": 2891157,
+        "lower_10_yen": 670270
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1783080,
+        "upper_90_yen": 4067225,
+        "lower_10_yen": 821102
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2293105,
+        "upper_90_yen": 5603546,
+        "lower_10_yen": 990494
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2910877,
+        "upper_90_yen": 7600748,
+        "lower_10_yen": 1181657
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3659161,
+        "upper_90_yen": 10186655,
+        "lower_10_yen": 1398263
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "平山ホールディングス(7781)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "平山ホールディングス(7781)を1株(812円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小812円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.3%、幾何成長率は15.1%",
+      "新NISAで月1万円の配当金を得るには3,637株（約2,953,244円）が必要"
+    ],
+    "accumulation_strategy_analysis": "平山ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約812円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,659,161円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり33.0円（利回り4.06%）です。月次95%VaR（最大想定損失率）は-9.1%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "平山ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約812円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,637株（元本目安：約2,953,244円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 812.0
+  }
+}

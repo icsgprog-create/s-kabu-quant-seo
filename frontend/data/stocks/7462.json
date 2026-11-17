@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7462",
+    "name": "ＣＡＰＩＴＡ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 353.0,
+    "min_s_kabu_yen": 353,
+    "unit_lot_yen": 35300,
+    "dps_yen": 10.5,
+    "dividend_yield_pct": 2.97,
+    "raw_annual_return_pct": 11.28,
+    "capped_annual_return_pct": 11.28,
+    "geometric_growth_pct": 3.56,
+    "annual_volatility_pct": 39.3,
+    "max_drawdown_pct": -33.02,
+    "monthly_var_95_pct": -11.65,
+    "sharpe_ratio": 0.14,
+    "quant_score": 38.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1143,
+        "nisa_required_capital_yen": 403479,
+        "specific_required_shares": 1435,
+        "specific_required_capital_yen": 506555
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5715,
+        "nisa_required_capital_yen": 2017395,
+        "specific_required_shares": 7172,
+        "specific_required_capital_yen": 2531716
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 11429,
+        "nisa_required_capital_yen": 4034437,
+        "specific_required_shares": 14343,
+        "specific_required_capital_yen": 5063079
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 34286,
+        "nisa_required_capital_yen": 12102958,
+        "specific_required_shares": 43027,
+        "specific_required_capital_yen": 15188531
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 57143,
+        "nisa_required_capital_yen": 20171479,
+        "specific_required_shares": 71711,
+        "specific_required_capital_yen": 25313983
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124346,
+        "upper_90_yen": 178613,
+        "lower_10_yen": 87589
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 257089,
+        "upper_90_yen": 426702,
+        "lower_10_yen": 158862
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 398798,
+        "upper_90_yen": 743185,
+        "lower_10_yen": 222445
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 550076,
+        "upper_90_yen": 1133746,
+        "lower_10_yen": 281127
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 711571,
+        "upper_90_yen": 1606430,
+        "lower_10_yen": 336367
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 883973,
+        "upper_90_yen": 2170986,
+        "lower_10_yen": 389064
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1068017,
+        "upper_90_yen": 2838723,
+        "lower_10_yen": 439832
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1264491,
+        "upper_90_yen": 3622535,
+        "lower_10_yen": 489115
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1474234,
+        "upper_90_yen": 4536995,
+        "lower_10_yen": 537252
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1698141,
+        "upper_90_yen": 5598492,
+        "lower_10_yen": 584508
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＣＡＰＩＴＡ(7462)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＣＡＰＩＴＡ(7462)を1株(353円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小353円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.3%、幾何成長率は3.56%",
+      "新NISAで月1万円の配当金を得るには11,429株（約4,034,437円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＣＡＰＩＴＡは単元未満株（S株・かぶミニ等）を利用することで1株（約353円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,698,141円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.5円（利回り2.97%）です。月次95%VaR（最大想定損失率）は-11.65%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＣＡＰＩＴＡは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約353円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、11,429株（元本目安：約4,034,437円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 353.0
+  }
+}

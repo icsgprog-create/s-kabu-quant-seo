@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7135",
+    "name": "ジャパンクラフトホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 167.0,
+    "min_s_kabu_yen": 167,
+    "unit_lot_yen": 16700,
+    "dps_yen": 3.0,
+    "dividend_yield_pct": 1.8,
+    "raw_annual_return_pct": -15.75,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -19.0,
+    "annual_volatility_pct": 28.27,
+    "max_drawdown_pct": -71.93,
+    "monthly_var_95_pct": -14.28,
+    "sharpe_ratio": -0.64,
+    "quant_score": 31.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 668000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 838340
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 3340000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 4191533
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 6680000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 8383066
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 120000,
+        "nisa_required_capital_yen": 20040000,
+        "specific_required_shares": 150593,
+        "specific_required_capital_yen": 25149031
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 200000,
+        "nisa_required_capital_yen": 33400000,
+        "specific_required_shares": 250989,
+        "specific_required_capital_yen": 41915163
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109459,
+        "upper_90_yen": 141135,
+        "lower_10_yen": 85418
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 201620,
+        "upper_90_yen": 285195,
+        "lower_10_yen": 144484
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 279218,
+        "upper_90_yen": 423184,
+        "lower_10_yen": 188169
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 344554,
+        "upper_90_yen": 552190,
+        "lower_10_yen": 221284
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 399565,
+        "upper_90_yen": 671104,
+        "lower_10_yen": 246748
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 445883,
+        "upper_90_yen": 779668,
+        "lower_10_yen": 266519
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 484882,
+        "upper_90_yen": 878085,
+        "lower_10_yen": 281979
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 517718,
+        "upper_90_yen": 966817,
+        "lower_10_yen": 294135
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 545365,
+        "upper_90_yen": 1046463,
+        "lower_10_yen": 303735
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 568644,
+        "upper_90_yen": 1117693,
+        "lower_10_yen": 311344
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ジャパンクラフトホールディングス(7135)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ジャパンクラフトホールディングス(7135)を1株(167円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小167円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.27%、幾何成長率は-19.0%",
+      "新NISAで月1万円の配当金を得るには40,000株（約6,680,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ジャパンクラフトホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約167円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は568,644円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり3.0円（利回り1.8%）です。月次95%VaR（最大想定損失率）は-14.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ジャパンクラフトホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約167円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、40,000株（元本目安：約6,680,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 167.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8081",
+    "name": "カナデン",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2442.0,
+    "min_s_kabu_yen": 2442,
+    "unit_lot_yen": 244200,
+    "dps_yen": 86.0,
+    "dividend_yield_pct": 3.52,
+    "raw_annual_return_pct": 20.69,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.41,
+    "annual_volatility_pct": 26.79,
+    "max_drawdown_pct": -26.6,
+    "monthly_var_95_pct": -7.52,
+    "sharpe_ratio": 0.71,
+    "quant_score": 69.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 140,
+        "nisa_required_capital_yen": 341880,
+        "specific_required_shares": 176,
+        "specific_required_capital_yen": 429792
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 698,
+        "nisa_required_capital_yen": 1704516,
+        "specific_required_shares": 876,
+        "specific_required_capital_yen": 2139192
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1396,
+        "nisa_required_capital_yen": 3409032,
+        "specific_required_shares": 1752,
+        "specific_required_capital_yen": 4278384
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4187,
+        "nisa_required_capital_yen": 10224654,
+        "specific_required_shares": 5254,
+        "specific_required_capital_yen": 12830268
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6977,
+        "nisa_required_capital_yen": 17037834,
+        "specific_required_shares": 8756,
+        "specific_required_capital_yen": 21382152
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133903,
+        "upper_90_yen": 171656,
+        "lower_10_yen": 105017
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 297344,
+        "upper_90_yen": 422262,
+        "lower_10_yen": 211782
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 496841,
+        "upper_90_yen": 767573,
+        "lower_10_yen": 327148
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 740346,
+        "upper_90_yen": 1232778,
+        "lower_10_yen": 454696
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1037569,
+        "upper_90_yen": 1851263,
+        "lower_10_yen": 597607
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1400359,
+        "upper_90_yen": 2666169,
+        "lower_10_yen": 759190
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1843181,
+        "upper_90_yen": 3732773,
+        "lower_10_yen": 943104
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2383688,
+        "upper_90_yen": 5121634,
+        "lower_10_yen": 1153523
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3043432,
+        "upper_90_yen": 6922612,
+        "lower_10_yen": 1395273
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3848715,
+        "upper_90_yen": 9249960,
+        "lower_10_yen": 1673979
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "カナデン(8081)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "カナデン(8081)を1株(2,442円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,442円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.79%、幾何成長率は16.41%",
+      "新NISAで月1万円の配当金を得るには1,396株（約3,409,032円）が必要"
+    ],
+    "accumulation_strategy_analysis": "カナデンは単元未満株（S株・かぶミニ等）を利用することで1株（約2,442円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,848,715円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり86.0円（利回り3.52%）です。月次95%VaR（最大想定損失率）は-7.52%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "カナデンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,442円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,396株（元本目安：約3,409,032円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2442.0
+  }
+}

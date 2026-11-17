@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6369",
+    "name": "トーヨーカネツ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2153.0,
+    "min_s_kabu_yen": 2153,
+    "unit_lot_yen": 215300,
+    "dps_yen": 103.0,
+    "dividend_yield_pct": 4.78,
+    "raw_annual_return_pct": 15.72,
+    "capped_annual_return_pct": 15.72,
+    "geometric_growth_pct": 11.83,
+    "annual_volatility_pct": 27.89,
+    "max_drawdown_pct": -32.27,
+    "monthly_var_95_pct": -10.32,
+    "sharpe_ratio": 0.56,
+    "quant_score": 74.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 117,
+        "nisa_required_capital_yen": 251901,
+        "specific_required_shares": 147,
+        "specific_required_capital_yen": 316491
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 583,
+        "nisa_required_capital_yen": 1255199,
+        "specific_required_shares": 732,
+        "specific_required_capital_yen": 1575996
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1166,
+        "nisa_required_capital_yen": 2510398,
+        "specific_required_shares": 1463,
+        "specific_required_capital_yen": 3149839
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3496,
+        "nisa_required_capital_yen": 7526888,
+        "specific_required_shares": 4387,
+        "specific_required_capital_yen": 9445211
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5826,
+        "nisa_required_capital_yen": 12543378,
+        "specific_required_shares": 7311,
+        "specific_required_capital_yen": 15740583
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131450,
+        "upper_90_yen": 170145,
+        "lower_10_yen": 102153
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 286658,
+        "upper_90_yen": 412269,
+        "lower_10_yen": 201818
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 469918,
+        "upper_90_yen": 736640,
+        "lower_10_yen": 305463
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 686300,
+        "upper_90_yen": 1161103,
+        "lower_10_yen": 415852
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 941791,
+        "upper_90_yen": 1708936,
+        "lower_10_yen": 535074
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1243460,
+        "upper_90_yen": 2409398,
+        "lower_10_yen": 665055
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1599651,
+        "upper_90_yen": 3298838,
+        "lower_10_yen": 807756
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2020219,
+        "upper_90_yen": 4422190,
+        "lower_10_yen": 965266
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2516801,
+        "upper_90_yen": 5834838,
+        "lower_10_yen": 1139881
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3103134,
+        "upper_90_yen": 7604915,
+        "lower_10_yen": 1334156
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "トーヨーカネツ(6369)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "トーヨーカネツ(6369)を1株(2,153円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,153円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.89%、幾何成長率は11.83%",
+      "新NISAで月1万円の配当金を得るには1,166株（約2,510,398円）が必要"
+    ],
+    "accumulation_strategy_analysis": "トーヨーカネツは単元未満株（S株・かぶミニ等）を利用することで1株（約2,153円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,103,134円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり103.0円（利回り4.78%）です。月次95%VaR（最大想定損失率）は-10.32%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "トーヨーカネツは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,153円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,166株（元本目安：約2,510,398円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2153.0
+  }
+}

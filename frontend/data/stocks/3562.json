@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3562",
+    "name": "Ｎｏ．１",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1526.0,
+    "min_s_kabu_yen": 1526,
+    "unit_lot_yen": 152600,
+    "dps_yen": 99.5,
+    "dividend_yield_pct": 6.52,
+    "raw_annual_return_pct": 9.39,
+    "capped_annual_return_pct": 9.39,
+    "geometric_growth_pct": 1.16,
+    "annual_volatility_pct": 40.58,
+    "max_drawdown_pct": -41.46,
+    "monthly_var_95_pct": -16.49,
+    "sharpe_ratio": 0.16,
+    "quant_score": 53.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 121,
+        "nisa_required_capital_yen": 184646,
+        "specific_required_shares": 152,
+        "specific_required_capital_yen": 231952
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 604,
+        "nisa_required_capital_yen": 921704,
+        "specific_required_shares": 757,
+        "specific_required_capital_yen": 1155182
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1207,
+        "nisa_required_capital_yen": 1841882,
+        "specific_required_shares": 1514,
+        "specific_required_capital_yen": 2310364
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3619,
+        "nisa_required_capital_yen": 5522594,
+        "specific_required_shares": 4541,
+        "specific_required_capital_yen": 6929566
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6031,
+        "nisa_required_capital_yen": 9203306,
+        "specific_required_shares": 7568,
+        "specific_required_capital_yen": 11548768
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125126,
+        "upper_90_yen": 181976,
+        "lower_10_yen": 87120
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260239,
+        "upper_90_yen": 439778,
+        "lower_10_yen": 158193
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 406133,
+        "upper_90_yen": 774354,
+        "lower_10_yen": 221952
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 563671,
+        "upper_90_yen": 1193960,
+        "lower_10_yen": 281192
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 733781,
+        "upper_90_yen": 1709736,
+        "lower_10_yen": 337366
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 917466,
+        "upper_90_yen": 2335123,
+        "lower_10_yen": 391371
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1115810,
+        "upper_90_yen": 3085816,
+        "lower_10_yen": 443822
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1329983,
+        "upper_90_yen": 3979898,
+        "lower_10_yen": 495164
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1561248,
+        "upper_90_yen": 5038061,
+        "lower_10_yen": 545741
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1810969,
+        "upper_90_yen": 6283887,
+        "lower_10_yen": 595826
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｎｏ．１(3562)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｎｏ．１(3562)を1株(1,526円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,526円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは40.58%、幾何成長率は1.16%",
+      "新NISAで月1万円の配当金を得るには1,207株（約1,841,882円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｎｏ．１は単元未満株（S株・かぶミニ等）を利用することで1株（約1,526円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,810,969円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり99.5円（利回り6.52%）です。月次95%VaR（最大想定損失率）は-16.49%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｎｏ．１は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,526円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,207株（元本目安：約1,841,882円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1526.0
+  }
+}

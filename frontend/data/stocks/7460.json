@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7460",
+    "name": "ヤギ",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1530.0,
+    "min_s_kabu_yen": 1530,
+    "unit_lot_yen": 153000,
+    "dps_yen": 55.33,
+    "dividend_yield_pct": 3.62,
+    "raw_annual_return_pct": 27.5,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.93,
+    "annual_volatility_pct": 28.54,
+    "max_drawdown_pct": -31.63,
+    "monthly_var_95_pct": -9.16,
+    "sharpe_ratio": 0.65,
+    "quant_score": 66.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 217,
+        "nisa_required_capital_yen": 332010,
+        "specific_required_shares": 273,
+        "specific_required_capital_yen": 417690
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1085,
+        "nisa_required_capital_yen": 1660050,
+        "specific_required_shares": 1361,
+        "specific_required_capital_yen": 2082330
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2169,
+        "nisa_required_capital_yen": 3318570,
+        "specific_required_shares": 2722,
+        "specific_required_capital_yen": 4164660
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6507,
+        "nisa_required_capital_yen": 9955710,
+        "specific_required_shares": 8165,
+        "specific_required_capital_yen": 12492450
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10844,
+        "nisa_required_capital_yen": 16591320,
+        "specific_required_shares": 13608,
+        "specific_required_capital_yen": 20820240
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133611,
+        "upper_90_yen": 174111,
+        "lower_10_yen": 103161
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 296060,
+        "upper_90_yen": 430276,
+        "lower_10_yen": 206367
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 493571,
+        "upper_90_yen": 784670,
+        "lower_10_yen": 316564
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 733713,
+        "upper_90_yen": 1263335,
+        "lower_10_yen": 437136
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1025686,
+        "upper_90_yen": 1900792,
+        "lower_10_yen": 570949
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1380678,
+        "upper_90_yen": 2741621,
+        "lower_10_yen": 720899
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1812290,
+        "upper_90_yen": 3842890,
+        "lower_10_yen": 890129
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2337061,
+        "upper_90_yen": 5277361,
+        "lower_10_yen": 1082175
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2975096,
+        "upper_90_yen": 7137590,
+        "lower_10_yen": 1301084
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3750843,
+        "upper_90_yen": 9541100,
+        "lower_10_yen": 1551533
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヤギ(7460)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヤギ(7460)を1株(1,530円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,530円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.54%、幾何成長率は15.93%",
+      "新NISAで月1万円の配当金を得るには2,169株（約3,318,570円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヤギは単元未満株（S株・かぶミニ等）を利用することで1株（約1,530円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,750,843円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり55.33円（利回り3.62%）です。月次95%VaR（最大想定損失率）は-9.16%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヤギは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,530円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,169株（元本目安：約3,318,570円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1530.0
+  }
+}

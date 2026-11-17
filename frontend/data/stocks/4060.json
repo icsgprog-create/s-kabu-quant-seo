@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4060",
+    "name": "ｒａｋｕｍｏ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1127.0,
+    "min_s_kabu_yen": 1127,
+    "unit_lot_yen": 112700,
+    "dps_yen": 9.0,
+    "dividend_yield_pct": 0.8,
+    "raw_annual_return_pct": -8.46,
+    "capped_annual_return_pct": -8.46,
+    "geometric_growth_pct": -18.01,
+    "annual_volatility_pct": 43.69,
+    "max_drawdown_pct": -60.06,
+    "monthly_var_95_pct": -18.9,
+    "sharpe_ratio": -0.42,
+    "quant_score": 7.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 1503418,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 1886598
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 7513709,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 9429609
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 15027418,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 18858091
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 40000,
+        "nisa_required_capital_yen": 45080000,
+        "specific_required_shares": 50198,
+        "specific_required_capital_yen": 56573146
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 66667,
+        "nisa_required_capital_yen": 75133709,
+        "specific_required_shares": 83663,
+        "specific_required_capital_yen": 94288201
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 109455,
+        "upper_90_yen": 162518,
+        "lower_10_yen": 74813
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 201606,
+        "upper_90_yen": 346421,
+        "lower_10_yen": 121187
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 279190,
+        "upper_90_yen": 535331,
+        "lower_10_yen": 153132
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 344509,
+        "upper_90_yen": 722282,
+        "lower_10_yen": 175996
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 399502,
+        "upper_90_yen": 903300,
+        "lower_10_yen": 192727
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 445801,
+        "upper_90_yen": 1075999,
+        "lower_10_yen": 205154
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 484782,
+        "upper_90_yen": 1238976,
+        "lower_10_yen": 214486
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 517600,
+        "upper_90_yen": 1391481,
+        "lower_10_yen": 221555
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 545230,
+        "upper_90_yen": 1533218,
+        "lower_10_yen": 226945
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 568492,
+        "upper_90_yen": 1664204,
+        "lower_10_yen": 231079
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ｒａｋｕｍｏ(4060)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ｒａｋｕｍｏ(4060)を1株(1,127円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,127円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは43.69%、幾何成長率は-18.01%",
+      "新NISAで月1万円の配当金を得るには13,334株（約15,027,418円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ｒａｋｕｍｏは単元未満株（S株・かぶミニ等）を利用することで1株（約1,127円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は568,492円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり9.0円（利回り0.8%）です。月次95%VaR（最大想定損失率）は-18.9%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ｒａｋｕｍｏは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,127円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、13,334株（元本目安：約15,027,418円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1127.0
+  }
+}

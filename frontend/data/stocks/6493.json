@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6493",
+    "name": "ＮＩＴＴＡＮ",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 442.0,
+    "min_s_kabu_yen": 442,
+    "unit_lot_yen": 44200,
+    "dps_yen": 23.0,
+    "dividend_yield_pct": 5.2,
+    "raw_annual_return_pct": 10.28,
+    "capped_annual_return_pct": 10.28,
+    "geometric_growth_pct": 4.64,
+    "annual_volatility_pct": 33.59,
+    "max_drawdown_pct": -45.67,
+    "monthly_var_95_pct": -13.6,
+    "sharpe_ratio": 0.26,
+    "quant_score": 63.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 230724,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 289510
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 1153178,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 1447108
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 2306356,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 2894216
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 15653,
+        "nisa_required_capital_yen": 6918626,
+        "specific_required_shares": 19643,
+        "specific_required_capital_yen": 8682206
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 26087,
+        "nisa_required_capital_yen": 11530454,
+        "specific_required_shares": 32738,
+        "specific_required_capital_yen": 14470196
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126621,
+        "upper_90_yen": 172590,
+        "lower_10_yen": 93693
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266335,
+        "upper_90_yen": 411106,
+        "lower_10_yen": 175740
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 420497,
+        "upper_90_yen": 717567,
+        "lower_10_yen": 253407
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 590600,
+        "upper_90_yen": 1100320,
+        "lower_10_yen": 329087
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 778294,
+        "upper_90_yen": 1570469,
+        "lower_10_yen": 404082
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 985398,
+        "upper_90_yen": 2141477,
+        "lower_10_yen": 479250
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1213917,
+        "upper_90_yen": 2829222,
+        "lower_10_yen": 555225
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1466067,
+        "upper_90_yen": 3652222,
+        "lower_10_yen": 632518
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1744293,
+        "upper_90_yen": 4631946,
+        "lower_10_yen": 711565
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2051289,
+        "upper_90_yen": 5793203,
+        "lower_10_yen": 792757
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＮＩＴＴＡＮ(6493)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＮＩＴＴＡＮ(6493)を1株(442円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小442円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.59%、幾何成長率は4.64%",
+      "新NISAで月1万円の配当金を得るには5,218株（約2,306,356円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＮＩＴＴＡＮは単元未満株（S株・かぶミニ等）を利用することで1株（約442円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,051,289円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり23.0円（利回り5.2%）です。月次95%VaR（最大想定損失率）は-13.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＮＩＴＴＡＮは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約442円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,218株（元本目安：約2,306,356円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 442.0
+  }
+}

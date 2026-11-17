@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4848",
+    "name": "フルキャストホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1845.0,
+    "min_s_kabu_yen": 1845,
+    "unit_lot_yen": 184500,
+    "dps_yen": 64.0,
+    "dividend_yield_pct": 3.47,
+    "raw_annual_return_pct": -7.7,
+    "capped_annual_return_pct": -7.7,
+    "geometric_growth_pct": -12.79,
+    "annual_volatility_pct": 31.9,
+    "max_drawdown_pct": -61.92,
+    "monthly_var_95_pct": -14.39,
+    "sharpe_ratio": -0.32,
+    "quant_score": 40.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 188,
+        "nisa_required_capital_yen": 346860,
+        "specific_required_shares": 236,
+        "specific_required_capital_yen": 435420
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 938,
+        "nisa_required_capital_yen": 1730610,
+        "specific_required_shares": 1177,
+        "specific_required_capital_yen": 2171565
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 3459375,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 4343130
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5625,
+        "nisa_required_capital_yen": 10378125,
+        "specific_required_shares": 7060,
+        "specific_required_capital_yen": 13025700
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9375,
+        "nisa_required_capital_yen": 17296875,
+        "specific_required_shares": 11766,
+        "specific_required_capital_yen": 21708270
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114135,
+        "upper_90_yen": 152411,
+        "lower_10_yen": 86144
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 218118,
+        "upper_90_yen": 324747,
+        "lower_10_yen": 149028
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 312850,
+        "upper_90_yen": 506288,
+        "lower_10_yen": 198529
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 399155,
+        "upper_90_yen": 692390,
+        "lower_10_yen": 238592
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 477783,
+        "upper_90_yen": 880155,
+        "lower_10_yen": 271543
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 549416,
+        "upper_90_yen": 1067564,
+        "lower_10_yen": 298941
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 614677,
+        "upper_90_yen": 1253135,
+        "lower_10_yen": 321903
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 674132,
+        "upper_90_yen": 1435756,
+        "lower_10_yen": 341269
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 728298,
+        "upper_90_yen": 1614581,
+        "lower_10_yen": 357683
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 777646,
+        "upper_90_yen": 1788969,
+        "lower_10_yen": 371652
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フルキャストホールディングス(4848)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フルキャストホールディングス(4848)を1株(1,845円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,845円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.9%、幾何成長率は-12.79%",
+      "新NISAで月1万円の配当金を得るには1,875株（約3,459,375円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フルキャストホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,845円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は777,646円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり64.0円（利回り3.47%）です。月次95%VaR（最大想定損失率）は-14.39%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フルキャストホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,845円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,875株（元本目安：約3,459,375円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1845.0
+  }
+}

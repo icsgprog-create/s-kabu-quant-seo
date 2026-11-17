@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4069",
+    "name": "ＢｌｕｅＭｅｍｅ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 398.0,
+    "min_s_kabu_yen": 398,
+    "unit_lot_yen": 39800,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -37.72,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -34.62,
+    "annual_volatility_pct": 62.64,
+    "max_drawdown_pct": -86.31,
+    "monthly_var_95_pct": -31.84,
+    "sharpe_ratio": -0.57,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 99977,
+        "upper_90_yen": 175500,
+        "lower_10_yen": 58722
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 170700,
+        "upper_90_yen": 365325,
+        "lower_10_yen": 85304
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 220729,
+        "upper_90_yen": 544022,
+        "lower_10_yen": 99385
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 256120,
+        "upper_90_yen": 703454,
+        "lower_10_yen": 107270
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 281155,
+        "upper_90_yen": 841306,
+        "lower_10_yen": 111830
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 298865,
+        "upper_90_yen": 957987,
+        "lower_10_yen": 114524
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 311393,
+        "upper_90_yen": 1055215,
+        "lower_10_yen": 116142
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 320255,
+        "upper_90_yen": 1135253,
+        "lower_10_yen": 117125
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 326524,
+        "upper_90_yen": 1200499,
+        "lower_10_yen": 117728
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 330958,
+        "upper_90_yen": 1253257,
+        "lower_10_yen": 118102
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＢｌｕｅＭｅｍｅ(4069)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＢｌｕｅＭｅｍｅ(4069)を1株(398円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小398円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは62.64%、幾何成長率は-34.62%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＢｌｕｅＭｅｍｅは単元未満株（S株・かぶミニ等）を利用することで1株（約398円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は330,958円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-31.84%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＢｌｕｅＭｅｍｅは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約398円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 398.0
+  }
+}

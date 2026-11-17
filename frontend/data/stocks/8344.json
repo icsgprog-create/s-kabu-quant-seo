@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8344",
+    "name": "山形銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3935.0,
+    "min_s_kabu_yen": 3935,
+    "unit_lot_yen": 393500,
+    "dps_yen": 112.0,
+    "dividend_yield_pct": 2.85,
+    "raw_annual_return_pct": 34.39,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.74,
+    "annual_volatility_pct": 35.39,
+    "max_drawdown_pct": -34.8,
+    "monthly_var_95_pct": -11.66,
+    "sharpe_ratio": 0.44,
+    "quant_score": 48.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 108,
+        "nisa_required_capital_yen": 424980,
+        "specific_required_shares": 135,
+        "specific_required_capital_yen": 531225
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 536,
+        "nisa_required_capital_yen": 2109160,
+        "specific_required_shares": 673,
+        "specific_required_capital_yen": 2648255
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1072,
+        "nisa_required_capital_yen": 4218320,
+        "specific_required_shares": 1345,
+        "specific_required_capital_yen": 5292575
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3215,
+        "nisa_required_capital_yen": 12651025,
+        "specific_required_shares": 4034,
+        "specific_required_capital_yen": 15873790
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5358,
+        "nisa_required_capital_yen": 21083730,
+        "specific_required_shares": 6723,
+        "specific_required_capital_yen": 26455005
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131428,
+        "upper_90_yen": 182514,
+        "lower_10_yen": 95539
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 286563,
+        "upper_90_yen": 455345,
+        "lower_10_yen": 183998
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 469683,
+        "upper_90_yen": 833321,
+        "lower_10_yen": 272863
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 685833,
+        "upper_90_yen": 1341616,
+        "lower_10_yen": 364891
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 940974,
+        "upper_90_yen": 2013317,
+        "lower_10_yen": 461896
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1242138,
+        "upper_90_yen": 2890463,
+        "lower_10_yen": 565378
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1597627,
+        "upper_90_yen": 4025894,
+        "lower_10_yen": 676749
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2017241,
+        "upper_90_yen": 5485681,
+        "lower_10_yen": 797435
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2512545,
+        "upper_90_yen": 7352197,
+        "lower_10_yen": 928936
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3097194,
+        "upper_90_yen": 9727922,
+        "lower_10_yen": 1072878
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "山形銀行(8344)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "山形銀行(8344)を1株(3,935円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,935円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.39%、幾何成長率は13.74%",
+      "新NISAで月1万円の配当金を得るには1,072株（約4,218,320円）が必要"
+    ],
+    "accumulation_strategy_analysis": "山形銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約3,935円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,097,194円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり112.0円（利回り2.85%）です。月次95%VaR（最大想定損失率）は-11.66%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "山形銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,935円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,072株（元本目安：約4,218,320円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3935.0
+  }
+}

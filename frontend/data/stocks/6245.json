@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6245",
+    "name": "ヒラノテクシード",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1765.0,
+    "min_s_kabu_yen": 1765,
+    "unit_lot_yen": 176500,
+    "dps_yen": 84.0,
+    "dividend_yield_pct": 4.76,
+    "raw_annual_return_pct": -4.84,
+    "capped_annual_return_pct": -4.84,
+    "geometric_growth_pct": -11.61,
+    "annual_volatility_pct": 36.79,
+    "max_drawdown_pct": -52.69,
+    "monthly_var_95_pct": -16.08,
+    "sharpe_ratio": -0.21,
+    "quant_score": 46.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 143,
+        "nisa_required_capital_yen": 252395,
+        "specific_required_shares": 180,
+        "specific_required_capital_yen": 317700
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 715,
+        "nisa_required_capital_yen": 1261975,
+        "specific_required_shares": 897,
+        "specific_required_capital_yen": 1583205
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1429,
+        "nisa_required_capital_yen": 2522185,
+        "specific_required_shares": 1793,
+        "specific_required_capital_yen": 3164645
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 7564790,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 9493935
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7143,
+        "nisa_required_capital_yen": 12607395,
+        "specific_required_shares": 8964,
+        "specific_required_capital_yen": 15821460
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115650,
+        "upper_90_yen": 161655,
+        "lower_10_yen": 83603
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 223641,
+        "upper_90_yen": 355158,
+        "lower_10_yen": 144054
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 324480,
+        "upper_90_yen": 568747,
+        "lower_10_yen": 191749
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 418641,
+        "upper_90_yen": 797241,
+        "lower_10_yen": 230603
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 506566,
+        "upper_90_yen": 1037243,
+        "lower_10_yen": 262847
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 588668,
+        "upper_90_yen": 1286216,
+        "lower_10_yen": 289943
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 665332,
+        "upper_90_yen": 1542139,
+        "lower_10_yen": 312925
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 736920,
+        "upper_90_yen": 1803341,
+        "lower_10_yen": 332557
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 803766,
+        "upper_90_yen": 2068407,
+        "lower_10_yen": 349424
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 866185,
+        "upper_90_yen": 2336119,
+        "lower_10_yen": 363984
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヒラノテクシード(6245)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヒラノテクシード(6245)を1株(1,765円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,765円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.79%、幾何成長率は-11.61%",
+      "新NISAで月1万円の配当金を得るには1,429株（約2,522,185円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヒラノテクシードは単元未満株（S株・かぶミニ等）を利用することで1株（約1,765円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は866,185円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり84.0円（利回り4.76%）です。月次95%VaR（最大想定損失率）は-16.08%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヒラノテクシードは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,765円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,429株（元本目安：約2,522,185円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1765.0
+  }
+}

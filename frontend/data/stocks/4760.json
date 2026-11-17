@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4760",
+    "name": "アルファ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1146.0,
+    "min_s_kabu_yen": 1146,
+    "unit_lot_yen": 114600,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 6.11,
+    "raw_annual_return_pct": 0.15,
+    "capped_annual_return_pct": 0.15,
+    "geometric_growth_pct": -20.5,
+    "annual_volatility_pct": 64.27,
+    "max_drawdown_pct": -63.75,
+    "monthly_var_95_pct": -17.25,
+    "sharpe_ratio": -0.24,
+    "quant_score": 40.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 197112,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 247536
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 983268,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 1233096
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 1965390,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 2466192
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 5893878,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 7396284
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 9823512,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 12327522
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 111096,
+        "upper_90_yen": 199983,
+        "lower_10_yen": 63714
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 207301,
+        "upper_90_yen": 466461,
+        "lower_10_yen": 98770
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 290611,
+        "upper_90_yen": 775445,
+        "lower_10_yen": 121357
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 362753,
+        "upper_90_yen": 1114731,
+        "lower_10_yen": 136758
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 425227,
+        "upper_90_yen": 1475575,
+        "lower_10_yen": 147608
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 479326,
+        "upper_90_yen": 1851105,
+        "lower_10_yen": 155421
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 526174,
+        "upper_90_yen": 2235717,
+        "lower_10_yen": 161140
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 566742,
+        "upper_90_yen": 2624766,
+        "lower_10_yen": 165378
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 601873,
+        "upper_90_yen": 3014381,
+        "lower_10_yen": 168551
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 632295,
+        "upper_90_yen": 3401338,
+        "lower_10_yen": 170946
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アルファ(4760)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アルファ(4760)を1株(1,146円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,146円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは64.27%、幾何成長率は-20.5%",
+      "新NISAで月1万円の配当金を得るには1,715株（約1,965,390円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アルファは単元未満株（S株・かぶミニ等）を利用することで1株（約1,146円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は632,295円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り6.11%）です。月次95%VaR（最大想定損失率）は-17.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アルファは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,146円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約1,965,390円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1146.0
+  }
+}

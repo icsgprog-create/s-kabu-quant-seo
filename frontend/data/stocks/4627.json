@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4627",
+    "name": "ナトコ",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1929.0,
+    "min_s_kabu_yen": 1929,
+    "unit_lot_yen": 192900,
+    "dps_yen": 54.0,
+    "dividend_yield_pct": 2.8,
+    "raw_annual_return_pct": 8.08,
+    "capped_annual_return_pct": 8.08,
+    "geometric_growth_pct": 5.39,
+    "annual_volatility_pct": 23.19,
+    "max_drawdown_pct": -22.19,
+    "monthly_var_95_pct": -7.09,
+    "sharpe_ratio": 0.31,
+    "quant_score": 57.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 223,
+        "nisa_required_capital_yen": 430167,
+        "specific_required_shares": 279,
+        "specific_required_capital_yen": 538191
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1112,
+        "nisa_required_capital_yen": 2145048,
+        "specific_required_shares": 1395,
+        "specific_required_capital_yen": 2690955
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2223,
+        "nisa_required_capital_yen": 4288167,
+        "specific_required_shares": 2789,
+        "specific_required_capital_yen": 5379981
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 12860643,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 16139943
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11112,
+        "nisa_required_capital_yen": 21435048,
+        "specific_required_shares": 13944,
+        "specific_required_capital_yen": 26897976
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125478,
+        "upper_90_yen": 155210,
+        "lower_10_yen": 101856
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261664,
+        "upper_90_yen": 352141,
+        "lower_10_yen": 196148
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 409472,
+        "upper_90_yen": 589604,
+        "lower_10_yen": 288218
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 569894,
+        "upper_90_yen": 870366,
+        "lower_10_yen": 379927
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 744007,
+        "upper_90_yen": 1198522,
+        "lower_10_yen": 472345
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 932978,
+        "upper_90_yen": 1579087,
+        "lower_10_yen": 566210
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1138076,
+        "upper_90_yen": 2017892,
+        "lower_10_yen": 662100
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1360677,
+        "upper_90_yen": 2521591,
+        "lower_10_yen": 760499
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1602276,
+        "upper_90_yen": 3097699,
+        "lower_10_yen": 861838
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1864492,
+        "upper_90_yen": 3754656,
+        "lower_10_yen": 966518
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ナトコ(4627)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ナトコ(4627)を1株(1,929円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,929円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.19%、幾何成長率は5.39%",
+      "新NISAで月1万円の配当金を得るには2,223株（約4,288,167円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ナトコは単元未満株（S株・かぶミニ等）を利用することで1株（約1,929円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,864,492円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり54.0円（利回り2.8%）です。月次95%VaR（最大想定損失率）は-7.09%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ナトコは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,929円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,223株（元本目安：約4,288,167円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1929.0
+  }
+}

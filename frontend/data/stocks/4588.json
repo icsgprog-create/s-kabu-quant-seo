@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4588",
+    "name": "オンコリスバイオファーマ",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7620.0,
+    "min_s_kabu_yen": 7620,
+    "unit_lot_yen": 762000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 48.76,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": -4.84,
+    "annual_volatility_pct": 70.48,
+    "max_drawdown_pct": -47.96,
+    "monthly_var_95_pct": -23.04,
+    "sharpe_ratio": -0.08,
+    "quant_score": 2.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116906,
+        "upper_90_yen": 224255,
+        "lower_10_yen": 63307
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 228289,
+        "upper_90_yen": 565852,
+        "lower_10_yen": 100032
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 334410,
+        "upper_90_yen": 1013732,
+        "lower_10_yen": 125345
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 435516,
+        "upper_90_yen": 1567152,
+        "lower_10_yen": 143905
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 531846,
+        "upper_90_yen": 2227543,
+        "lower_10_yen": 158009
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 623625,
+        "upper_90_yen": 2997103,
+        "lower_10_yen": 168988
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 711067,
+        "upper_90_yen": 3878326,
+        "lower_10_yen": 177687
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 794378,
+        "upper_90_yen": 4873784,
+        "lower_10_yen": 184675
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 873753,
+        "upper_90_yen": 5986026,
+        "lower_10_yen": 190351
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 949378,
+        "upper_90_yen": 7217515,
+        "lower_10_yen": 195003
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "オンコリスバイオファーマ(4588)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "オンコリスバイオファーマ(4588)を1株(7,620円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,620円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは70.48%、幾何成長率は-4.84%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "オンコリスバイオファーマは単元未満株（S株・かぶミニ等）を利用することで1株（約7,620円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は949,378円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-23.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "オンコリスバイオファーマは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,620円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7620.0
+  }
+}

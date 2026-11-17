@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8411",
+    "name": "みずほフィナンシャルグループ",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7868.0,
+    "min_s_kabu_yen": 7868,
+    "unit_lot_yen": 786800,
+    "dps_yen": 172.5,
+    "dividend_yield_pct": 2.19,
+    "raw_annual_return_pct": 36.88,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.48,
+    "annual_volatility_pct": 33.21,
+    "max_drawdown_pct": -33.45,
+    "monthly_var_95_pct": -11.18,
+    "sharpe_ratio": 0.47,
+    "quant_score": 46.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 70,
+        "nisa_required_capital_yen": 550760,
+        "specific_required_shares": 88,
+        "specific_required_capital_yen": 692384
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 348,
+        "nisa_required_capital_yen": 2738064,
+        "specific_required_shares": 437,
+        "specific_required_capital_yen": 3438316
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 696,
+        "nisa_required_capital_yen": 5476128,
+        "specific_required_shares": 874,
+        "specific_required_capital_yen": 6876632
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2087,
+        "nisa_required_capital_yen": 16420516,
+        "specific_required_shares": 2620,
+        "specific_required_capital_yen": 20614160
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3479,
+        "nisa_required_capital_yen": 27372772,
+        "specific_required_shares": 4366,
+        "specific_required_capital_yen": 34351688
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131496,
+        "upper_90_yen": 178915,
+        "lower_10_yen": 97451
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 286855,
+        "upper_90_yen": 442799,
+        "lower_10_yen": 189143
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 470408,
+        "upper_90_yen": 805144,
+        "lower_10_yen": 282264
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 687273,
+        "upper_90_yen": 1288981,
+        "lower_10_yen": 379569
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 943493,
+        "upper_90_yen": 1924529,
+        "lower_10_yen": 482949
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1246212,
+        "upper_90_yen": 2750096,
+        "lower_10_yen": 594026
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1603868,
+        "upper_90_yen": 3813700,
+        "lower_10_yen": 714362
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2026431,
+        "upper_90_yen": 5175241,
+        "lower_10_yen": 845572
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2525679,
+        "upper_90_yen": 6909209,
+        "lower_10_yen": 989380
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3115529,
+        "upper_90_yen": 9108058,
+        "lower_10_yen": 1147672
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "みずほフィナンシャルグループ(8411)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "みずほフィナンシャルグループ(8411)を1株(7,868円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,868円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.21%、幾何成長率は14.48%",
+      "新NISAで月1万円の配当金を得るには696株（約5,476,128円）が必要"
+    ],
+    "accumulation_strategy_analysis": "みずほフィナンシャルグループは単元未満株（S株・かぶミニ等）を利用することで1株（約7,868円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,115,529円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり172.5円（利回り2.19%）です。月次95%VaR（最大想定損失率）は-11.18%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "みずほフィナンシャルグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,868円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、696株（元本目安：約5,476,128円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7868.0
+  }
+}

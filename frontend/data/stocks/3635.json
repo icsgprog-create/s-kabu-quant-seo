@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3635",
+    "name": "コーエーテクモホールディングス",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1919.0,
+    "min_s_kabu_yen": 1919,
+    "unit_lot_yen": 191900,
+    "dps_yen": 66.0,
+    "dividend_yield_pct": 3.44,
+    "raw_annual_return_pct": -3.79,
+    "capped_annual_return_pct": -3.79,
+    "geometric_growth_pct": -8.21,
+    "annual_volatility_pct": 29.71,
+    "max_drawdown_pct": -50.14,
+    "monthly_var_95_pct": -12.48,
+    "sharpe_ratio": -0.19,
+    "quant_score": 42.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 182,
+        "nisa_required_capital_yen": 349258,
+        "specific_required_shares": 229,
+        "specific_required_capital_yen": 439451
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 910,
+        "nisa_required_capital_yen": 1746290,
+        "specific_required_shares": 1141,
+        "specific_required_capital_yen": 2189579
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1819,
+        "nisa_required_capital_yen": 3490661,
+        "specific_required_shares": 2282,
+        "specific_required_capital_yen": 4379158
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 10468145,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 13137474
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9091,
+        "nisa_required_capital_yen": 17445629,
+        "specific_required_shares": 11409,
+        "specific_required_capital_yen": 21893871
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116952,
+        "upper_90_yen": 153230,
+        "lower_10_yen": 89870
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 228459,
+        "upper_90_yen": 331837,
+        "lower_10_yen": 159623
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 334775,
+        "upper_90_yen": 526771,
+        "lower_10_yen": 217677
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 436142,
+        "upper_90_yen": 734206,
+        "lower_10_yen": 267253
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 532789,
+        "upper_90_yen": 951701,
+        "lower_10_yen": 310228
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 624937,
+        "upper_90_yen": 1177464,
+        "lower_10_yen": 347860
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 712795,
+        "upper_90_yen": 1410080,
+        "lower_10_yen": 381059
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 796563,
+        "upper_90_yen": 1648385,
+        "lower_10_yen": 410516
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 876431,
+        "upper_90_yen": 1891389,
+        "lower_10_yen": 436776
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 952580,
+        "upper_90_yen": 2138236,
+        "lower_10_yen": 460274
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "コーエーテクモホールディングス(3635)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "コーエーテクモホールディングス(3635)を1株(1,919円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,919円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.71%、幾何成長率は-8.21%",
+      "新NISAで月1万円の配当金を得るには1,819株（約3,490,661円）が必要"
+    ],
+    "accumulation_strategy_analysis": "コーエーテクモホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,919円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は952,580円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり66.0円（利回り3.44%）です。月次95%VaR（最大想定損失率）は-12.48%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "コーエーテクモホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,919円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,819株（元本目安：約3,490,661円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1919.0
+  }
+}

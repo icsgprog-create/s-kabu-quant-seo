@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6324",
+    "name": "ハーモニック・ドライブ・システムズ",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4223.0,
+    "min_s_kabu_yen": 4223,
+    "unit_lot_yen": 422300,
+    "dps_yen": 22.0,
+    "dividend_yield_pct": 0.52,
+    "raw_annual_return_pct": -0.14,
+    "capped_annual_return_pct": -0.14,
+    "geometric_growth_pct": -18.9,
+    "annual_volatility_pct": 61.25,
+    "max_drawdown_pct": -65.8,
+    "monthly_var_95_pct": -27.87,
+    "sharpe_ratio": -0.32,
+    "quant_score": 4.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 546,
+        "nisa_required_capital_yen": 2305758,
+        "specific_required_shares": 685,
+        "specific_required_capital_yen": 2892755
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2728,
+        "nisa_required_capital_yen": 11520344,
+        "specific_required_shares": 3423,
+        "specific_required_capital_yen": 14455329
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 5455,
+        "nisa_required_capital_yen": 23036465,
+        "specific_required_shares": 6846,
+        "specific_required_capital_yen": 28910658
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 16364,
+        "nisa_required_capital_yen": 69105172,
+        "specific_required_shares": 20536,
+        "specific_required_capital_yen": 86723528
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 27273,
+        "nisa_required_capital_yen": 115173879,
+        "specific_required_shares": 34226,
+        "specific_required_capital_yen": 144536398
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 108781,
+        "upper_90_yen": 189997,
+        "lower_10_yen": 64113
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 199297,
+        "upper_90_yen": 428708,
+        "lower_10_yen": 98727
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 274617,
+        "upper_90_yen": 691139,
+        "lower_10_yen": 120454
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 337290,
+        "upper_90_yen": 965013,
+        "lower_10_yen": 134848
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 389441,
+        "upper_90_yen": 1242240,
+        "lower_10_yen": 144686
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 432836,
+        "upper_90_yen": 1517108,
+        "lower_10_yen": 151553
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 468945,
+        "upper_90_yen": 1785508,
+        "lower_10_yen": 156420
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 498992,
+        "upper_90_yen": 2044504,
+        "lower_10_yen": 159912
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 523994,
+        "upper_90_yen": 2292048,
+        "lower_10_yen": 162441
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 544798,
+        "upper_90_yen": 2526783,
+        "lower_10_yen": 164287
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ハーモニック・ドライブ・システムズ(6324)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ハーモニック・ドライブ・システムズ(6324)を1株(4,223円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,223円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは61.25%、幾何成長率は-18.9%",
+      "新NISAで月1万円の配当金を得るには5,455株（約23,036,465円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ハーモニック・ドライブ・システムズは単元未満株（S株・かぶミニ等）を利用することで1株（約4,223円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は544,798円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり22.0円（利回り0.52%）です。月次95%VaR（最大想定損失率）は-27.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ハーモニック・ドライブ・システムズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,223円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、5,455株（元本目安：約23,036,465円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4223.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7278",
+    "name": "エクセディ",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5190.0,
+    "min_s_kabu_yen": 5190,
+    "unit_lot_yen": 519000,
+    "dps_yen": 325.0,
+    "dividend_yield_pct": 6.26,
+    "raw_annual_return_pct": 27.56,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 17.0,
+    "annual_volatility_pct": 24.51,
+    "max_drawdown_pct": -20.52,
+    "monthly_var_95_pct": -7.49,
+    "sharpe_ratio": 0.91,
+    "quant_score": 88.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 37,
+        "nisa_required_capital_yen": 192030,
+        "specific_required_shares": 47,
+        "specific_required_capital_yen": 243930
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 960150,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 1204080
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 370,
+        "nisa_required_capital_yen": 1920300,
+        "specific_required_shares": 464,
+        "specific_required_capital_yen": 2408160
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1108,
+        "nisa_required_capital_yen": 5750520,
+        "specific_required_shares": 1391,
+        "specific_required_capital_yen": 7219290
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 9585930,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 12025230
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 136416,
+        "upper_90_yen": 171302,
+        "lower_10_yen": 109124
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 308552,
+        "upper_90_yen": 425909,
+        "lower_10_yen": 225659
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 525761,
+        "upper_90_yen": 784857,
+        "lower_10_yen": 357204
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 799846,
+        "upper_90_yen": 1280590,
+        "lower_10_yen": 508830
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1145700,
+        "upper_90_yen": 1956997,
+        "lower_10_yen": 685747
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1582114,
+        "upper_90_yen": 2872363,
+        "lower_10_yen": 893891
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 2132803,
+        "upper_90_yen": 4103610,
+        "lower_10_yen": 1140269
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2827688,
+        "upper_90_yen": 5751950,
+        "lower_10_yen": 1433288
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3704526,
+        "upper_90_yen": 7950298,
+        "lower_10_yen": 1783110
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 4810963,
+        "upper_90_yen": 10872948,
+        "lower_10_yen": 2202066
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エクセディ(7278)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エクセディ(7278)を1株(5,190円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,190円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.51%、幾何成長率は17.0%",
+      "新NISAで月1万円の配当金を得るには370株（約1,920,300円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エクセディは単元未満株（S株・かぶミニ等）を利用することで1株（約5,190円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は4,810,963円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり325.0円（利回り6.26%）です。月次95%VaR（最大想定損失率）は-7.49%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エクセディは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,190円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、370株（元本目安：約1,920,300円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5190.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6069",
+    "name": "トレンダーズ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 570.0,
+    "min_s_kabu_yen": 570,
+    "unit_lot_yen": 57000,
+    "dps_yen": 35.0,
+    "dividend_yield_pct": 6.14,
+    "raw_annual_return_pct": -7.84,
+    "capped_annual_return_pct": -7.84,
+    "geometric_growth_pct": -18.72,
+    "annual_volatility_pct": 46.65,
+    "max_drawdown_pct": -69.25,
+    "monthly_var_95_pct": -20.62,
+    "sharpe_ratio": -0.29,
+    "quant_score": 40.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 343,
+        "nisa_required_capital_yen": 195510,
+        "specific_required_shares": 431,
+        "specific_required_capital_yen": 245670
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 977550,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 1226640
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3429,
+        "nisa_required_capital_yen": 1954530,
+        "specific_required_shares": 4303,
+        "specific_required_capital_yen": 2452710
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10286,
+        "nisa_required_capital_yen": 5863020,
+        "specific_required_shares": 12908,
+        "specific_required_capital_yen": 7357560
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 9771510,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 12262980
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112171,
+        "upper_90_yen": 171447,
+        "lower_10_yen": 74631
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 211088,
+        "upper_90_yen": 378531,
+        "lower_10_yen": 122111
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 298315,
+        "upper_90_yen": 604301,
+        "lower_10_yen": 155911
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 375235,
+        "upper_90_yen": 840864,
+        "lower_10_yen": 180974
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 443065,
+        "upper_90_yen": 1083042,
+        "lower_10_yen": 200003
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 502879,
+        "upper_90_yen": 1327088,
+        "lower_10_yen": 214683
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 555626,
+        "upper_90_yen": 1570174,
+        "lower_10_yen": 226141
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 602139,
+        "upper_90_yen": 1810127,
+        "lower_10_yen": 235166
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 643156,
+        "upper_90_yen": 2045273,
+        "lower_10_yen": 242327
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 679326,
+        "upper_90_yen": 2274322,
+        "lower_10_yen": 248043
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "トレンダーズ(6069)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "トレンダーズ(6069)を1株(570円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小570円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは46.65%、幾何成長率は-18.72%",
+      "新NISAで月1万円の配当金を得るには3,429株（約1,954,530円）が必要"
+    ],
+    "accumulation_strategy_analysis": "トレンダーズは単元未満株（S株・かぶミニ等）を利用することで1株（約570円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は679,326円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり35.0円（利回り6.14%）です。月次95%VaR（最大想定損失率）は-20.62%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "トレンダーズは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約570円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,429株（元本目安：約1,954,530円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 570.0
+  }
+}

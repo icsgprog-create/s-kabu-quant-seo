@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4051",
+    "name": "ＧＭＯフィナンシャルゲート",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6310.0,
+    "min_s_kabu_yen": 6310,
+    "unit_lot_yen": 631000,
+    "dps_yen": 131.0,
+    "dividend_yield_pct": 2.08,
+    "raw_annual_return_pct": -18.23,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -28.77,
+    "annual_volatility_pct": 52.48,
+    "max_drawdown_pct": -72.53,
+    "monthly_var_95_pct": -23.11,
+    "sharpe_ratio": -0.53,
+    "quant_score": 16.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 92,
+        "nisa_required_capital_yen": 580520,
+        "specific_required_shares": 115,
+        "specific_required_capital_yen": 725650
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 459,
+        "nisa_required_capital_yen": 2896290,
+        "specific_required_shares": 575,
+        "specific_required_capital_yen": 3628250
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 917,
+        "nisa_required_capital_yen": 5786270,
+        "specific_required_shares": 1150,
+        "specific_required_capital_yen": 7256500
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2749,
+        "nisa_required_capital_yen": 17346190,
+        "specific_required_shares": 3449,
+        "specific_required_capital_yen": 21763190
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4581,
+        "nisa_required_capital_yen": 28906110,
+        "specific_required_shares": 5748,
+        "specific_required_capital_yen": 36269880
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 104152,
+        "upper_90_yen": 167088,
+        "lower_10_yen": 66325
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 183903,
+        "upper_90_yen": 349688,
+        "lower_10_yen": 101373
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 244971,
+        "upper_90_yen": 527303,
+        "lower_10_yen": 122448
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 291732,
+        "upper_90_yen": 692480,
+        "lower_10_yen": 135721
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 327539,
+        "upper_90_yen": 842110,
+        "lower_10_yen": 144307
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 354956,
+        "upper_90_yen": 975265,
+        "lower_10_yen": 149962
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 375951,
+        "upper_90_yen": 1092214,
+        "lower_10_yen": 153736
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 392027,
+        "upper_90_yen": 1193890,
+        "lower_10_yen": 156281
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 404336,
+        "upper_90_yen": 1281566,
+        "lower_10_yen": 158011
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 413762,
+        "upper_90_yen": 1356657,
+        "lower_10_yen": 159196
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＧＭＯフィナンシャルゲート(4051)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＧＭＯフィナンシャルゲート(4051)を1株(6,310円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,310円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは52.48%、幾何成長率は-28.77%",
+      "新NISAで月1万円の配当金を得るには917株（約5,786,270円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＧＭＯフィナンシャルゲートは単元未満株（S株・かぶミニ等）を利用することで1株（約6,310円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は413,762円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり131.0円（利回り2.08%）です。月次95%VaR（最大想定損失率）は-23.11%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＧＭＯフィナンシャルゲートは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,310円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、917株（元本目安：約5,786,270円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6310.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5391",
+    "name": "エーアンドエーマテリアル",
+    "sector": "ガラス・土石製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1391.0,
+    "min_s_kabu_yen": 1391,
+    "unit_lot_yen": 139100,
+    "dps_yen": 65.0,
+    "dividend_yield_pct": 4.67,
+    "raw_annual_return_pct": 12.71,
+    "capped_annual_return_pct": 12.71,
+    "geometric_growth_pct": 10.0,
+    "annual_volatility_pct": 23.29,
+    "max_drawdown_pct": -30.47,
+    "monthly_var_95_pct": -6.46,
+    "sharpe_ratio": 0.59,
+    "quant_score": 78.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 185,
+        "nisa_required_capital_yen": 257335,
+        "specific_required_shares": 232,
+        "specific_required_capital_yen": 322712
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 1285284,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 1612169
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1847,
+        "nisa_required_capital_yen": 2569177,
+        "specific_required_shares": 2317,
+        "specific_required_capital_yen": 3222947
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5539,
+        "nisa_required_capital_yen": 7704749,
+        "specific_required_shares": 6951,
+        "specific_required_capital_yen": 9668841
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 9231,
+        "nisa_required_capital_yen": 12840321,
+        "specific_required_shares": 11585,
+        "specific_required_capital_yen": 16114735
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130044,
+        "upper_90_yen": 161186,
+        "lower_10_yen": 105349
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 280642,
+        "upper_90_yen": 379424,
+        "lower_10_yen": 209397
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 455044,
+        "upper_90_yen": 660288,
+        "lower_10_yen": 317770
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 657012,
+        "upper_90_yen": 1014712,
+        "lower_10_yen": 432922
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 890902,
+        "upper_90_yen": 1456830,
+        "lower_10_yen": 556705
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1161762,
+        "upper_90_yen": 2004036,
+        "lower_10_yen": 690822
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1475433,
+        "upper_90_yen": 2677406,
+        "lower_10_yen": 836978
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1838683,
+        "upper_90_yen": 3502318,
+        "lower_10_yen": 996975
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2259349,
+        "upper_90_yen": 4509224,
+        "lower_10_yen": 1172758
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2746505,
+        "upper_90_yen": 5734596,
+        "lower_10_yen": 1366468
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エーアンドエーマテリアル(5391)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エーアンドエーマテリアル(5391)を1株(1,391円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,391円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.29%、幾何成長率は10.0%",
+      "新NISAで月1万円の配当金を得るには1,847株（約2,569,177円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エーアンドエーマテリアルは単元未満株（S株・かぶミニ等）を利用することで1株（約1,391円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,746,505円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり65.0円（利回り4.67%）です。月次95%VaR（最大想定損失率）は-6.46%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エーアンドエーマテリアルは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,391円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,847株（元本目安：約2,569,177円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1391.0
+  }
+}

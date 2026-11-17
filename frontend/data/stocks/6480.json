@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6480",
+    "name": "日本トムソン",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1250.0,
+    "min_s_kabu_yen": 1250,
+    "unit_lot_yen": 125000,
+    "dps_yen": 34.0,
+    "dividend_yield_pct": 2.72,
+    "raw_annual_return_pct": 13.93,
+    "capped_annual_return_pct": 13.93,
+    "geometric_growth_pct": 4.88,
+    "annual_volatility_pct": 42.55,
+    "max_drawdown_pct": -51.89,
+    "monthly_var_95_pct": -16.99,
+    "sharpe_ratio": 0.16,
+    "quant_score": 33.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 353,
+        "nisa_required_capital_yen": 441250,
+        "specific_required_shares": 443,
+        "specific_required_capital_yen": 553750
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1765,
+        "nisa_required_capital_yen": 2206250,
+        "specific_required_shares": 2215,
+        "specific_required_capital_yen": 2768750
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3530,
+        "nisa_required_capital_yen": 4412500,
+        "specific_required_shares": 4430,
+        "specific_required_capital_yen": 5537500
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10589,
+        "nisa_required_capital_yen": 13236250,
+        "specific_required_shares": 13288,
+        "specific_required_capital_yen": 16610000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 17648,
+        "nisa_required_capital_yen": 22060000,
+        "specific_required_shares": 22147,
+        "specific_required_capital_yen": 27683750
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125075,
+        "upper_90_yen": 185279,
+        "lower_10_yen": 85603
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260030,
+        "upper_90_yen": 450975,
+        "lower_10_yen": 154429
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 405646,
+        "upper_90_yen": 798604,
+        "lower_10_yen": 215573
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 562765,
+        "upper_90_yen": 1237412,
+        "lower_10_yen": 271929
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 732296,
+        "upper_90_yen": 1779771,
+        "lower_10_yen": 324993
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 915218,
+        "upper_90_yen": 2440587,
+        "lower_10_yen": 375685
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1112590,
+        "upper_90_yen": 3237279,
+        "lower_10_yen": 424628
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1325554,
+        "upper_90_yen": 4189938,
+        "lower_10_yen": 472274
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1555341,
+        "upper_90_yen": 5321587,
+        "lower_10_yen": 518967
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1803280,
+        "upper_90_yen": 6658511,
+        "lower_10_yen": 564978
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本トムソン(6480)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本トムソン(6480)を1株(1,250円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,250円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.55%、幾何成長率は4.88%",
+      "新NISAで月1万円の配当金を得るには3,530株（約4,412,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本トムソンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,250円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,803,280円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり34.0円（利回り2.72%）です。月次95%VaR（最大想定損失率）は-16.99%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本トムソンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,250円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,530株（元本目安：約4,412,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1250.0
+  }
+}

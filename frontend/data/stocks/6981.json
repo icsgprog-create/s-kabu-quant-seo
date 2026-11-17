@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6981",
+    "name": "村田製作所",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4851.0,
+    "min_s_kabu_yen": 4851,
+    "unit_lot_yen": 485100,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 1.44,
+    "raw_annual_return_pct": 12.09,
+    "capped_annual_return_pct": 12.09,
+    "geometric_growth_pct": 2.18,
+    "annual_volatility_pct": 44.51,
+    "max_drawdown_pct": -60.23,
+    "monthly_var_95_pct": -18.37,
+    "sharpe_ratio": 0.06,
+    "quant_score": 18.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 834372,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 1047816
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 4162158,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 5219676
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 8319465,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 10439352
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 24948693,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 31308354
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 41582772,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 52182207
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122385,
+        "upper_90_yen": 184420,
+        "lower_10_yen": 82453
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 249287,
+        "upper_90_yen": 442027,
+        "lower_10_yen": 145245
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 380872,
+        "upper_90_yen": 768860,
+        "lower_10_yen": 198363
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 517313,
+        "upper_90_yen": 1168235,
+        "lower_10_yen": 245065
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 658788,
+        "upper_90_yen": 1645606,
+        "lower_10_yen": 287056
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 805485,
+        "upper_90_yen": 2207716,
+        "lower_10_yen": 325386
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 957595,
+        "upper_90_yen": 2862330,
+        "lower_10_yen": 360768
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1115318,
+        "upper_90_yen": 3618154,
+        "lower_10_yen": 393711
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1278861,
+        "upper_90_yen": 4484816,
+        "lower_10_yen": 424596
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1448440,
+        "upper_90_yen": 5472886,
+        "lower_10_yen": 453721
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "村田製作所(6981)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "村田製作所(6981)を1株(4,851円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,851円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.51%、幾何成長率は2.18%",
+      "新NISAで月1万円の配当金を得るには1,715株（約8,319,465円）が必要"
+    ],
+    "accumulation_strategy_analysis": "村田製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約4,851円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,448,440円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り1.44%）です。月次95%VaR（最大想定損失率）は-18.37%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "村田製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,851円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約8,319,465円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4851.0
+  }
+}

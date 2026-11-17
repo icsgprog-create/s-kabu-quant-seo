@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8928",
+    "name": "穴吹興産",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2293.0,
+    "min_s_kabu_yen": 2293,
+    "unit_lot_yen": 229300,
+    "dps_yen": 78.0,
+    "dividend_yield_pct": 3.4,
+    "raw_annual_return_pct": 5.38,
+    "capped_annual_return_pct": 5.38,
+    "geometric_growth_pct": 3.79,
+    "annual_volatility_pct": 17.85,
+    "max_drawdown_pct": -22.37,
+    "monthly_var_95_pct": -6.0,
+    "sharpe_ratio": 0.35,
+    "quant_score": 68.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 154,
+        "nisa_required_capital_yen": 353122,
+        "specific_required_shares": 194,
+        "specific_required_capital_yen": 444842
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 770,
+        "nisa_required_capital_yen": 1765610,
+        "specific_required_shares": 966,
+        "specific_required_capital_yen": 2215038
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1539,
+        "nisa_required_capital_yen": 3528927,
+        "specific_required_shares": 1931,
+        "specific_required_capital_yen": 4427783
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 10584488,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 13283349
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7693,
+        "nisa_required_capital_yen": 17640049,
+        "specific_required_shares": 9654,
+        "specific_required_capital_yen": 22136622
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124793,
+        "upper_90_yen": 146913,
+        "lower_10_yen": 106260
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258888,
+        "upper_90_yen": 324998,
+        "lower_10_yen": 207304
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 402981,
+        "upper_90_yen": 532522,
+        "lower_10_yen": 307397
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 557816,
+        "upper_90_yen": 770712,
+        "lower_10_yen": 408078
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 724193,
+        "upper_90_yen": 1041683,
+        "lower_10_yen": 510259
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 902974,
+        "upper_90_yen": 1348096,
+        "lower_10_yen": 614591
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1095084,
+        "upper_90_yen": 1693052,
+        "lower_10_yen": 721597
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1301515,
+        "upper_90_yen": 2080063,
+        "lower_10_yen": 831722
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1523335,
+        "upper_90_yen": 2513050,
+        "lower_10_yen": 945376
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1761692,
+        "upper_90_yen": 2996361,
+        "lower_10_yen": 1062941
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "穴吹興産(8928)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "穴吹興産(8928)を1株(2,293円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,293円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.85%、幾何成長率は3.79%",
+      "新NISAで月1万円の配当金を得るには1,539株（約3,528,927円）が必要"
+    ],
+    "accumulation_strategy_analysis": "穴吹興産は単元未満株（S株・かぶミニ等）を利用することで1株（約2,293円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,761,692円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり78.0円（利回り3.4%）です。月次95%VaR（最大想定損失率）は-6.0%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "穴吹興産は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,293円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,539株（元本目安：約3,528,927円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2293.0
+  }
+}

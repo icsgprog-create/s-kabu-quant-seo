@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4528",
+    "name": "小野薬品工業",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2492.0,
+    "min_s_kabu_yen": 2492,
+    "unit_lot_yen": 249200,
+    "dps_yen": 80.0,
+    "dividend_yield_pct": 3.21,
+    "raw_annual_return_pct": 3.4,
+    "capped_annual_return_pct": 3.4,
+    "geometric_growth_pct": 0.48,
+    "annual_volatility_pct": 24.15,
+    "max_drawdown_pct": -58.53,
+    "monthly_var_95_pct": -11.0,
+    "sharpe_ratio": 0.11,
+    "quant_score": 54.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 150,
+        "nisa_required_capital_yen": 373800,
+        "specific_required_shares": 189,
+        "specific_required_capital_yen": 470988
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 1869000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 2347464
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 3738000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 4692436
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4500,
+        "nisa_required_capital_yen": 11214000,
+        "specific_required_shares": 5648,
+        "specific_required_capital_yen": 14074816
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 18690000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 23457196
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122433,
+        "upper_90_yen": 152659,
+        "lower_10_yen": 98629
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 249474,
+        "upper_90_yen": 339092,
+        "lower_10_yen": 185312
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 381296,
+        "upper_90_yen": 554968,
+        "lower_10_yen": 265871
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 518081,
+        "upper_90_yen": 799863,
+        "lower_10_yen": 342314
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 660014,
+        "upper_90_yen": 1074363,
+        "lower_10_yen": 415734
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 807289,
+        "upper_90_yen": 1379548,
+        "lower_10_yen": 486830
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 960107,
+        "upper_90_yen": 1716818,
+        "lower_10_yen": 556094
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1118677,
+        "upper_90_yen": 2087809,
+        "lower_10_yen": 623889
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1283216,
+        "upper_90_yen": 2494362,
+        "lower_10_yen": 690496
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1453948,
+        "upper_90_yen": 2938502,
+        "lower_10_yen": 756140
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "小野薬品工業(4528)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "小野薬品工業(4528)を1株(2,492円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,492円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.15%、幾何成長率は0.48%",
+      "新NISAで月1万円の配当金を得るには1,500株（約3,738,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "小野薬品工業は単元未満株（S株・かぶミニ等）を利用することで1株（約2,492円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,453,948円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり80.0円（利回り3.21%）です。月次95%VaR（最大想定損失率）は-11.0%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "小野薬品工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,492円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,500株（元本目安：約3,738,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2492.0
+  }
+}

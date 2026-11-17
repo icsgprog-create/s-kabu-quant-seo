@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "352A",
+    "name": "ＬＯＩＶＥ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 530.0,
+    "min_s_kabu_yen": 530,
+    "unit_lot_yen": 53000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -55.32,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -29.75,
+    "annual_volatility_pct": 54.31,
+    "max_drawdown_pct": -70.53,
+    "monthly_var_95_pct": -29.25,
+    "sharpe_ratio": -0.57,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 102515,
+        "upper_90_yen": 167052,
+        "lower_10_yen": 64370
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 178649,
+        "upper_90_yen": 346391,
+        "lower_10_yen": 96907
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 235192,
+        "upper_90_yen": 517024,
+        "lower_10_yen": 115718
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 277185,
+        "upper_90_yen": 671992,
+        "lower_10_yen": 127129
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 308372,
+        "upper_90_yen": 808958,
+        "lower_10_yen": 134246
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 331534,
+        "upper_90_yen": 927800,
+        "lower_10_yen": 138768
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 348735,
+        "upper_90_yen": 1029526,
+        "lower_10_yen": 141682
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 361510,
+        "upper_90_yen": 1115688,
+        "lower_10_yen": 143578
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 370998,
+        "upper_90_yen": 1188050,
+        "lower_10_yen": 144824
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 378044,
+        "upper_90_yen": 1248397,
+        "lower_10_yen": 145647
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＬＯＩＶＥ(352A)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＬＯＩＶＥ(352A)を1株(530円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小530円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは54.31%、幾何成長率は-29.75%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＬＯＩＶＥは単元未満株（S株・かぶミニ等）を利用することで1株（約530円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は378,044円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-29.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＬＯＩＶＥは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約530円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 530.0
+  }
+}

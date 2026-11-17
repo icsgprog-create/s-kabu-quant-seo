@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8200",
+    "name": "リンガーハット",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2547.0,
+    "min_s_kabu_yen": 2547,
+    "unit_lot_yen": 254700,
+    "dps_yen": 14.0,
+    "dividend_yield_pct": 0.55,
+    "raw_annual_return_pct": 2.99,
+    "capped_annual_return_pct": 2.99,
+    "geometric_growth_pct": 1.74,
+    "annual_volatility_pct": 15.8,
+    "max_drawdown_pct": -18.93,
+    "monthly_var_95_pct": -5.07,
+    "sharpe_ratio": 0.08,
+    "quant_score": 40.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 2185326,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 2740572
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 10916442,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 13700313
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 21832884,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 27398079
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 25715,
+        "nisa_required_capital_yen": 65496105,
+        "specific_required_shares": 32270,
+        "specific_required_capital_yen": 82191690
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 42858,
+        "nisa_required_capital_yen": 109159326,
+        "specific_required_shares": 53784,
+        "specific_required_capital_yen": 136987848
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 121500,
+        "upper_90_yen": 140271,
+        "lower_10_yen": 105441
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 245813,
+        "upper_90_yen": 299998,
+        "lower_10_yen": 202247
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 373005,
+        "upper_90_yen": 475595,
+        "lower_10_yen": 294408
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 503142,
+        "upper_90_yen": 666057,
+        "lower_10_yen": 383349
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 636293,
+        "upper_90_yen": 871023,
+        "lower_10_yen": 469862
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 772527,
+        "upper_90_yen": 1090424,
+        "lower_10_yen": 554468
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 911916,
+        "upper_90_yen": 1324355,
+        "lower_10_yen": 637534
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1054532,
+        "upper_90_yen": 1573017,
+        "lower_10_yen": 719339
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1200451,
+        "upper_90_yen": 1836687,
+        "lower_10_yen": 800100
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1349749,
+        "upper_90_yen": 2115704,
+        "lower_10_yen": 879994
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "リンガーハット(8200)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "リンガーハット(8200)を1株(2,547円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,547円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは15.8%、幾何成長率は1.74%",
+      "新NISAで月1万円の配当金を得るには8,572株（約21,832,884円）が必要"
+    ],
+    "accumulation_strategy_analysis": "リンガーハットは単元未満株（S株・かぶミニ等）を利用することで1株（約2,547円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,349,749円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.0円（利回り0.55%）です。月次95%VaR（最大想定損失率）は-5.07%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "リンガーハットは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,547円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,572株（元本目安：約21,832,884円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2547.0
+  }
+}

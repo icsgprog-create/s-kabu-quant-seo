@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3277",
+    "name": "サンセイランディック",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 773.0,
+    "min_s_kabu_yen": 773,
+    "unit_lot_yen": 77300,
+    "dps_yen": 26.5,
+    "dividend_yield_pct": 3.43,
+    "raw_annual_return_pct": 16.54,
+    "capped_annual_return_pct": 16.54,
+    "geometric_growth_pct": 13.5,
+    "annual_volatility_pct": 24.64,
+    "max_drawdown_pct": -25.2,
+    "monthly_var_95_pct": -6.58,
+    "sharpe_ratio": 0.65,
+    "quant_score": 69.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 453,
+        "nisa_required_capital_yen": 350169,
+        "specific_required_shares": 569,
+        "specific_required_capital_yen": 439837
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2265,
+        "nisa_required_capital_yen": 1750845,
+        "specific_required_shares": 2842,
+        "specific_required_capital_yen": 2196866
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4529,
+        "nisa_required_capital_yen": 3500917,
+        "specific_required_shares": 5683,
+        "specific_required_capital_yen": 4392959
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13585,
+        "nisa_required_capital_yen": 10501205,
+        "specific_required_shares": 17049,
+        "specific_required_capital_yen": 13178877
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 22642,
+        "nisa_required_capital_yen": 17502266,
+        "specific_required_shares": 28414,
+        "specific_required_capital_yen": 21964022
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131682,
+        "upper_90_yen": 165356,
+        "lower_10_yen": 105347
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 287660,
+        "upper_90_yen": 396377,
+        "lower_10_yen": 210801
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 472415,
+        "upper_90_yen": 702328,
+        "lower_10_yen": 322460
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 691257,
+        "upper_90_yen": 1099183,
+        "lower_10_yen": 443208
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 950475,
+        "upper_90_yen": 1607714,
+        "lower_10_yen": 575402
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1257518,
+        "upper_90_yen": 2253970,
+        "lower_10_yen": 721336
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1621210,
+        "upper_90_yen": 3070247,
+        "lower_10_yen": 883430
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2052003,
+        "upper_90_yen": 4096393,
+        "lower_10_yen": 1064333
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2562276,
+        "upper_90_yen": 5381437,
+        "lower_10_yen": 1267004
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3166694,
+        "upper_90_yen": 6985605,
+        "lower_10_yen": 1494786
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "サンセイランディック(3277)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "サンセイランディック(3277)を1株(773円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小773円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.64%、幾何成長率は13.5%",
+      "新NISAで月1万円の配当金を得るには4,529株（約3,500,917円）が必要"
+    ],
+    "accumulation_strategy_analysis": "サンセイランディックは単元未満株（S株・かぶミニ等）を利用することで1株（約773円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,166,694円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり26.5円（利回り3.43%）です。月次95%VaR（最大想定損失率）は-6.58%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "サンセイランディックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約773円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,529株（元本目安：約3,500,917円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 773.0
+  }
+}

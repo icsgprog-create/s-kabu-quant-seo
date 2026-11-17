@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8898",
+    "name": "センチュリー２１・ジャパン",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1110.0,
+    "min_s_kabu_yen": 1110,
+    "unit_lot_yen": 111000,
+    "dps_yen": 53.0,
+    "dividend_yield_pct": 4.77,
+    "raw_annual_return_pct": 5.87,
+    "capped_annual_return_pct": 5.87,
+    "geometric_growth_pct": 5.33,
+    "annual_volatility_pct": 10.34,
+    "max_drawdown_pct": -10.45,
+    "monthly_var_95_pct": -1.88,
+    "sharpe_ratio": 0.88,
+    "quant_score": 95.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 227,
+        "nisa_required_capital_yen": 251970,
+        "specific_required_shares": 285,
+        "specific_required_capital_yen": 316350
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1133,
+        "nisa_required_capital_yen": 1257630,
+        "specific_required_shares": 1421,
+        "specific_required_capital_yen": 1577310
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2265,
+        "nisa_required_capital_yen": 2514150,
+        "specific_required_shares": 2842,
+        "specific_required_capital_yen": 3154620
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6793,
+        "nisa_required_capital_yen": 7540230,
+        "specific_required_shares": 8525,
+        "specific_required_capital_yen": 9462750
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11321,
+        "nisa_required_capital_yen": 12566310,
+        "specific_required_shares": 14207,
+        "specific_required_capital_yen": 15769770
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126808,
+        "upper_90_yen": 139370,
+        "lower_10_yen": 115471
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 267104,
+        "upper_90_yen": 304730,
+        "lower_10_yen": 234531
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 422324,
+        "upper_90_yen": 496478,
+        "lower_10_yen": 360200
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 594056,
+        "upper_90_yen": 716879,
+        "lower_10_yen": 494024
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 784055,
+        "upper_90_yen": 968915,
+        "lower_10_yen": 637267
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 994265,
+        "upper_90_yen": 1256124,
+        "lower_10_yen": 791132
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1226836,
+        "upper_90_yen": 1582574,
+        "lower_10_yen": 956831
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1484147,
+        "upper_90_yen": 1952885,
+        "lower_10_yen": 1135631
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1768828,
+        "upper_90_yen": 2372275,
+        "lower_10_yen": 1328880
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2083792,
+        "upper_90_yen": 2846618,
+        "lower_10_yen": 1538025
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "センチュリー２１・ジャパン(8898)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "センチュリー２１・ジャパン(8898)を1株(1,110円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,110円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは10.34%、幾何成長率は5.33%",
+      "新NISAで月1万円の配当金を得るには2,265株（約2,514,150円）が必要"
+    ],
+    "accumulation_strategy_analysis": "センチュリー２１・ジャパンは単元未満株（S株・かぶミニ等）を利用することで1株（約1,110円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,083,792円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり53.0円（利回り4.77%）です。月次95%VaR（最大想定損失率）は-1.88%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "センチュリー２１・ジャパンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,110円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,265株（元本目安：約2,514,150円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1110.0
+  }
+}

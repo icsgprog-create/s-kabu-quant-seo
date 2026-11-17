@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4406",
+    "name": "新日本理化",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 243.0,
+    "min_s_kabu_yen": 243,
+    "unit_lot_yen": 24300,
+    "dps_yen": 4.5,
+    "dividend_yield_pct": 1.85,
+    "raw_annual_return_pct": -1.29,
+    "capped_annual_return_pct": -1.29,
+    "geometric_growth_pct": -6.98,
+    "annual_volatility_pct": 33.73,
+    "max_drawdown_pct": -44.8,
+    "monthly_var_95_pct": -11.48,
+    "sharpe_ratio": -0.18,
+    "quant_score": 26.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 648081,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 813321
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 3240162,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 4066119
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 26667,
+        "nisa_required_capital_yen": 6480081,
+        "specific_required_shares": 33466,
+        "specific_required_capital_yen": 8132238
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 80000,
+        "nisa_required_capital_yen": 19440000,
+        "specific_required_shares": 100396,
+        "specific_required_capital_yen": 24396228
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 133334,
+        "nisa_required_capital_yen": 32400162,
+        "specific_required_shares": 167326,
+        "specific_required_capital_yen": 40660218
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116725,
+        "upper_90_yen": 158688,
+        "lower_10_yen": 86611
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 227613,
+        "upper_90_yen": 348006,
+        "lower_10_yen": 151728
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 332958,
+        "upper_90_yen": 557670,
+        "lower_10_yen": 204739
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 433036,
+        "upper_90_yen": 783297,
+        "lower_10_yen": 249177
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 528110,
+        "upper_90_yen": 1022057,
+        "lower_10_yen": 287068
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 618430,
+        "upper_90_yen": 1271851,
+        "lower_10_yen": 319749
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 704235,
+        "upper_90_yen": 1531002,
+        "lower_10_yen": 348175
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 785749,
+        "upper_90_yen": 1798113,
+        "lower_10_yen": 373064
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 863189,
+        "upper_90_yen": 2071984,
+        "lower_10_yen": 394971
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 936756,
+        "upper_90_yen": 2351567,
+        "lower_10_yen": 414336
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "新日本理化(4406)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "新日本理化(4406)を1株(243円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小243円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.73%、幾何成長率は-6.98%",
+      "新NISAで月1万円の配当金を得るには26,667株（約6,480,081円）が必要"
+    ],
+    "accumulation_strategy_analysis": "新日本理化は単元未満株（S株・かぶミニ等）を利用することで1株（約243円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は936,756円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり4.5円（利回り1.85%）です。月次95%VaR（最大想定損失率）は-11.48%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "新日本理化は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約243円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、26,667株（元本目安：約6,480,081円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 243.0
+  }
+}

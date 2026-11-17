@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4847",
+    "name": "インテリジェント　ウェイブ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1540.0,
+    "min_s_kabu_yen": 1540,
+    "unit_lot_yen": 154000,
+    "dps_yen": 37.0,
+    "dividend_yield_pct": 2.4,
+    "raw_annual_return_pct": 23.66,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.86,
+    "annual_volatility_pct": 35.03,
+    "max_drawdown_pct": -35.03,
+    "monthly_var_95_pct": -10.34,
+    "sharpe_ratio": 0.44,
+    "quant_score": 45.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 325,
+        "nisa_required_capital_yen": 500500,
+        "specific_required_shares": 408,
+        "specific_required_capital_yen": 628320
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 2497880,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 3135440
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3244,
+        "nisa_required_capital_yen": 4995760,
+        "specific_required_shares": 4071,
+        "specific_required_capital_yen": 6269340
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9730,
+        "nisa_required_capital_yen": 14984200,
+        "specific_required_shares": 12211,
+        "specific_required_capital_yen": 18804940
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16217,
+        "nisa_required_capital_yen": 24974180,
+        "specific_required_shares": 20351,
+        "specific_required_capital_yen": 31340540
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131197,
+        "upper_90_yen": 181564,
+        "lower_10_yen": 95683
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285568,
+        "upper_90_yen": 451486,
+        "lower_10_yen": 184212
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 467208,
+        "upper_90_yen": 823650,
+        "lower_10_yen": 273010
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 680933,
+        "upper_90_yen": 1321888,
+        "lower_10_yen": 364798
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 932412,
+        "upper_90_yen": 1977464,
+        "lower_10_yen": 461353
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1228312,
+        "upper_90_yen": 2829972,
+        "lower_10_yen": 564135
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1576480,
+        "upper_90_yen": 3928987,
+        "lower_10_yen": 674506
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1986150,
+        "upper_90_yen": 5336262,
+        "lower_10_yen": 793830
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2468185,
+        "upper_90_yen": 7128482,
+        "lower_10_yen": 923541
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3035368,
+        "upper_90_yen": 9400682,
+        "lower_10_yen": 1065182
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "インテリジェント　ウェイブ(4847)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "インテリジェント　ウェイブ(4847)を1株(1,540円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,540円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.03%、幾何成長率は13.86%",
+      "新NISAで月1万円の配当金を得るには3,244株（約4,995,760円）が必要"
+    ],
+    "accumulation_strategy_analysis": "インテリジェント　ウェイブは単元未満株（S株・かぶミニ等）を利用することで1株（約1,540円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,035,368円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり37.0円（利回り2.4%）です。月次95%VaR（最大想定損失率）は-10.34%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "インテリジェント　ウェイブは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,540円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,244株（元本目安：約4,995,760円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1540.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5713",
+    "name": "住友金属鉱山",
+    "sector": "非鉄金属",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6695.0,
+    "min_s_kabu_yen": 6695,
+    "unit_lot_yen": 669500,
+    "dps_yen": 266.0,
+    "dividend_yield_pct": 3.97,
+    "raw_annual_return_pct": 11.64,
+    "capped_annual_return_pct": 11.64,
+    "geometric_growth_pct": 1.76,
+    "annual_volatility_pct": 44.46,
+    "max_drawdown_pct": -60.09,
+    "monthly_var_95_pct": -19.42,
+    "sharpe_ratio": 0.11,
+    "quant_score": 40.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 46,
+        "nisa_required_capital_yen": 307970,
+        "specific_required_shares": 57,
+        "specific_required_capital_yen": 381615
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 226,
+        "nisa_required_capital_yen": 1513070,
+        "specific_required_shares": 284,
+        "specific_required_capital_yen": 1901380
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 452,
+        "nisa_required_capital_yen": 3026140,
+        "specific_required_shares": 567,
+        "specific_required_capital_yen": 3796065
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1354,
+        "nisa_required_capital_yen": 9065030,
+        "specific_required_shares": 1699,
+        "specific_required_capital_yen": 11374805
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2256,
+        "nisa_required_capital_yen": 15103920,
+        "specific_required_shares": 2831,
+        "specific_required_capital_yen": 18953545
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123803,
+        "upper_90_yen": 186598,
+        "lower_10_yen": 83384
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 254912,
+        "upper_90_yen": 452627,
+        "lower_10_yen": 148286
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 393759,
+        "upper_90_yen": 797233,
+        "lower_10_yen": 204378
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 540801,
+        "upper_90_yen": 1227202,
+        "lower_10_yen": 254760
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 696520,
+        "upper_90_yen": 1751998,
+        "lower_10_yen": 301034
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 861431,
+        "upper_90_yen": 2383022,
+        "lower_10_yen": 344184
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1036074,
+        "upper_90_yen": 3133450,
+        "lower_10_yen": 384869
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1221024,
+        "upper_90_yen": 4018257,
+        "lower_10_yen": 423563
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1416889,
+        "upper_90_yen": 5054320,
+        "lower_10_yen": 460621
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1624315,
+        "upper_90_yen": 6260567,
+        "lower_10_yen": 496314
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "住友金属鉱山(5713)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "住友金属鉱山(5713)を1株(6,695円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,695円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.46%、幾何成長率は1.76%",
+      "新NISAで月1万円の配当金を得るには452株（約3,026,140円）が必要"
+    ],
+    "accumulation_strategy_analysis": "住友金属鉱山は単元未満株（S株・かぶミニ等）を利用することで1株（約6,695円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,624,315円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり266.0円（利回り3.97%）です。月次95%VaR（最大想定損失率）は-19.42%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "住友金属鉱山は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,695円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、452株（元本目安：約3,026,140円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6695.0
+  }
+}

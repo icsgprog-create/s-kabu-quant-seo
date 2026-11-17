@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8135",
+    "name": "ゼット",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 420.0,
+    "min_s_kabu_yen": 420,
+    "unit_lot_yen": 42000,
+    "dps_yen": 18.0,
+    "dividend_yield_pct": 4.29,
+    "raw_annual_return_pct": 7.4,
+    "capped_annual_return_pct": 7.4,
+    "geometric_growth_pct": 3.38,
+    "annual_volatility_pct": 28.34,
+    "max_drawdown_pct": -36.18,
+    "monthly_var_95_pct": -9.04,
+    "sharpe_ratio": 0.24,
+    "quant_score": 61.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 667,
+        "nisa_required_capital_yen": 280140,
+        "specific_required_shares": 837,
+        "specific_required_capital_yen": 351540
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3334,
+        "nisa_required_capital_yen": 1400280,
+        "specific_required_shares": 4184,
+        "specific_required_capital_yen": 1757280
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 2800140,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 3514140
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 8400000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 10541580
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 33334,
+        "nisa_required_capital_yen": 14000280,
+        "specific_required_shares": 41832,
+        "specific_required_capital_yen": 17569440
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125120,
+        "upper_90_yen": 162311,
+        "lower_10_yen": 97042
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260214,
+        "upper_90_yen": 374334,
+        "lower_10_yen": 183273
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 406076,
+        "upper_90_yen": 634662,
+        "lower_10_yen": 265088
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 563564,
+        "upper_90_yen": 946724,
+        "lower_10_yen": 344629
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 733606,
+        "upper_90_yen": 1315580,
+        "lower_10_yen": 423065
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 917202,
+        "upper_90_yen": 1747420,
+        "lower_10_yen": 501159
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1115432,
+        "upper_90_yen": 2249456,
+        "lower_10_yen": 579463
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1329462,
+        "upper_90_yen": 2829912,
+        "lower_10_yen": 658411
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1560553,
+        "upper_90_yen": 3498088,
+        "lower_10_yen": 738360
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1810064,
+        "upper_90_yen": 4264436,
+        "lower_10_yen": 819620
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ゼット(8135)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ゼット(8135)を1株(420円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小420円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.34%、幾何成長率は3.38%",
+      "新NISAで月1万円の配当金を得るには6,667株（約2,800,140円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ゼットは単元未満株（S株・かぶミニ等）を利用することで1株（約420円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,810,064円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり18.0円（利回り4.29%）です。月次95%VaR（最大想定損失率）は-9.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ゼットは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約420円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,667株（元本目安：約2,800,140円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 420.0
+  }
+}

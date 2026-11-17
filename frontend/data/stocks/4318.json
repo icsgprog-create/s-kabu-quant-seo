@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4318",
+    "name": "クイック",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 862.0,
+    "min_s_kabu_yen": 862,
+    "unit_lot_yen": 86200,
+    "dps_yen": 40.0,
+    "dividend_yield_pct": 4.64,
+    "raw_annual_return_pct": 15.53,
+    "capped_annual_return_pct": 15.53,
+    "geometric_growth_pct": 11.2,
+    "annual_volatility_pct": 29.43,
+    "max_drawdown_pct": -30.1,
+    "monthly_var_95_pct": -11.96,
+    "sharpe_ratio": 0.5,
+    "quant_score": 70.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 300,
+        "nisa_required_capital_yen": 258600,
+        "specific_required_shares": 377,
+        "specific_required_capital_yen": 324974
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1500,
+        "nisa_required_capital_yen": 1293000,
+        "specific_required_shares": 1883,
+        "specific_required_capital_yen": 1623146
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2586000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 3245430
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9000,
+        "nisa_required_capital_yen": 7758000,
+        "specific_required_shares": 11295,
+        "specific_required_capital_yen": 9736290
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 12930000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 16227150
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130887,
+        "upper_90_yen": 171838,
+        "lower_10_yen": 100349
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 284242,
+        "upper_90_yen": 416988,
+        "lower_10_yen": 196466
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 463920,
+        "upper_90_yen": 745158,
+        "lower_10_yen": 294957
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 674440,
+        "upper_90_yen": 1173708,
+        "lower_10_yen": 398458
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 921095,
+        "upper_90_yen": 1725255,
+        "lower_10_yen": 508836
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1210090,
+        "upper_90_yen": 2428113,
+        "lower_10_yen": 627725
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1548691,
+        "upper_90_yen": 3317283,
+        "lower_10_yen": 756724
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1945414,
+        "upper_90_yen": 4435790,
+        "lower_10_yen": 897492
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2410234,
+        "upper_90_yen": 5836370,
+        "lower_10_yen": 1051808
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2954841,
+        "upper_90_yen": 7583528,
+        "lower_10_yen": 1221620
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "クイック(4318)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "クイック(4318)を1株(862円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小862円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.43%、幾何成長率は11.2%",
+      "新NISAで月1万円の配当金を得るには3,000株（約2,586,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "クイックは単元未満株（S株・かぶミニ等）を利用することで1株（約862円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,954,841円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり40.0円（利回り4.64%）です。月次95%VaR（最大想定損失率）は-11.96%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "クイックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約862円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,000株（元本目安：約2,586,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 862.0
+  }
+}

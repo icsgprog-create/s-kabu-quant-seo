@@ -1,6 +1,6 @@
 import math
 from datetime import datetime, timezone
-from typing import Dict, Any, Optional, List
+from typing import Dict, Any, Optional
 import numpy as np
 import pandas as pd
 import yfinance as yf
@@ -11,23 +11,28 @@ class QuantEngine:
     TAX_RATE_SPECIFIC = 0.20315
 
     @classmethod
-    def calculate_stock_metrics(cls, code: str, fallback_name: str, fallback_sector: str) -> Optional[Dict[str, Any]]:
-        ticker_symbol = f"{code}.T"
-        ticker = yf.Ticker(ticker_symbol)
-        hist = ticker.history(period="5y", interval="1d", auto_adjust=False)
-        if hist is None or hist.empty or len(hist) < 60: return None
+    def compute_from_dataframe(cls, hist: pd.DataFrame, code: str, fallback_name: str, fallback_sector: str) -> Optional[Dict[str, Any]]:
+        if hist is None or hist.empty or "Close" not in hist.columns:
+            return None
         hist = hist.dropna(subset=["Close"])
-        if len(hist) < 60: return None
+        if len(hist) < 60:
+            return None
 
         close_prices = hist["Close"]
-        adj_close = hist["Adj Close"] if "Adj Close" in hist.columns else close_prices
+        adj_close = hist["Adj Close"] if "Adj Close" in hist.columns and not hist["Adj Close"].isna().all() else close_prices
         current_price = float(close_prices.iloc[-1])
+        if current_price <= 0 or math.isnan(current_price):
+            return None
 
-        log_returns = np.log(adj_close / adj_close.shift(1)).dropna()
-        if len(log_returns) < 30: return None
+        log_returns = np.log(adj_close / adj_close.shift(1)).replace([np.inf, -np.inf], np.nan).dropna()
+        if len(log_returns) < 30:
+            return None
 
         raw_annual_mu = float(log_returns.mean() * cls.TRADING_DAYS_PER_YEAR)
         annual_sigma = float(log_returns.std(ddof=1) * math.sqrt(cls.TRADING_DAYS_PER_YEAR))
+        if math.isnan(annual_sigma) or annual_sigma <= 0:
+            return None
+
         capped_annual_mu = max(-0.15, min(0.20, raw_annual_mu))
         sigma_sq = annual_sigma * annual_sigma
         geometric_growth = capped_annual_mu - (sigma_sq / 2.0)
@@ -36,17 +41,21 @@ class QuantEngine:
         drawdowns = (adj_close - rolling_max) / rolling_max
         max_drawdown = float(drawdowns.min())
 
-        monthly_log_returns = np.log(adj_close / adj_close.shift(20)).dropna()
-        var_95_monthly = float(np.percentile(monthly_log_returns, 5)) if len(monthly_log_returns) > 20 else float(-1.64485 * annual_sigma / math.sqrt(12.0))
+        monthly_log_returns = np.log(adj_close / adj_close.shift(20)).replace([np.inf, -np.inf], np.nan).dropna()
+        var_95_monthly = (
+            float(np.percentile(monthly_log_returns, 5))
+            if len(monthly_log_returns) > 20
+            else float(-1.64485 * annual_sigma / math.sqrt(12.0))
+        )
 
-        info = ticker.info if hasattr(ticker, "info") else {}
-        dps = float(info.get("dividendRate") or info.get("trailingAnnualDividendRate") or 0.0)
-        if dps == 0.0 and "Dividends" in hist.columns:
+        dps = 0.0
+        if "Dividends" in hist.columns:
             one_year_ago = hist.index[-1] - pd.Timedelta(days=365)
-            dps = float(hist.loc[hist.index >= one_year_ago, "Dividends"].sum())
+            dps = float(hist.loc[hist.index >= one_year_ago, "Dividends"].fillna(0.0).sum())
 
         dividend_yield = (dps / current_price) if current_price > 0 else 0.0
-        if dividend_yield > 0.25: dividend_yield, dps = 0.0, 0.0
+        if dividend_yield > 0.25 or dividend_yield < 0:
+            dividend_yield, dps = 0.0, 0.0
 
         sharpe_ratio = ((geometric_growth + dividend_yield) - cls.RISK_FREE_RATE) / annual_sigma if annual_sigma > 0 else 0.0
 
@@ -87,6 +96,13 @@ class QuantEngine:
             "sharpe_ratio": round(sharpe_ratio, 2), "quant_score": quant_score,
             "dividend_roadmap": dividend_roadmap, "default_10y_projection": default_projection,
         }
+
+    @classmethod
+    def calculate_stock_metrics(cls, code: str, fallback_name: str, fallback_sector: str) -> Optional[Dict[str, Any]]:
+        ticker_symbol = f"{code}.T"
+        ticker = yf.Ticker(ticker_symbol)
+        hist = ticker.history(period="5y", interval="1d", auto_adjust=False)
+        return cls.compute_from_dataframe(hist, code, fallback_name, fallback_sector)
 
     @classmethod
     def simulate_dca_projection(cls, monthly_contribution, initial_investment, years, geometric_growth, annual_sigma, dividend_yield, is_nisa):

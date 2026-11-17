@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6958",
+    "name": "日本シイエムケイ",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 685.0,
+    "min_s_kabu_yen": 685,
+    "unit_lot_yen": 68500,
+    "dps_yen": 20.0,
+    "dividend_yield_pct": 2.92,
+    "raw_annual_return_pct": 8.45,
+    "capped_annual_return_pct": 8.45,
+    "geometric_growth_pct": -1.48,
+    "annual_volatility_pct": 44.57,
+    "max_drawdown_pct": -59.38,
+    "monthly_var_95_pct": -19.14,
+    "sharpe_ratio": 0.01,
+    "quant_score": 29.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 411000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 515805
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 2055000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 2579025
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 4110000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 5158050
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 18000,
+        "nisa_required_capital_yen": 12330000,
+        "specific_required_shares": 22589,
+        "specific_required_capital_yen": 15473465
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 20550000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 25789565
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120938,
+        "upper_90_yen": 182198,
+        "lower_10_yen": 81502
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 243625,
+        "upper_90_yen": 431367,
+        "lower_10_yen": 142181
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 368087,
+        "upper_90_yen": 740762,
+        "lower_10_yen": 192383
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 494350,
+        "upper_90_yen": 1110741,
+        "lower_10_yen": 235554
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 622438,
+        "upper_90_yen": 1543496,
+        "lower_10_yen": 273523
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 752379,
+        "upper_90_yen": 2042133,
+        "lower_10_yen": 307426
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 884200,
+        "upper_90_yen": 2610356,
+        "lower_10_yen": 338038
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1017927,
+        "upper_90_yen": 3252330,
+        "lower_10_yen": 365920
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1153589,
+        "upper_90_yen": 3972616,
+        "lower_10_yen": 391491
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1291213,
+        "upper_90_yen": 4776137,
+        "lower_10_yen": 415079
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本シイエムケイ(6958)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本シイエムケイ(6958)を1株(685円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小685円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.57%、幾何成長率は-1.48%",
+      "新NISAで月1万円の配当金を得るには6,000株（約4,110,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本シイエムケイは単元未満株（S株・かぶミニ等）を利用することで1株（約685円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,291,213円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり20.0円（利回り2.92%）です。月次95%VaR（最大想定損失率）は-19.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本シイエムケイは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約685円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、6,000株（元本目安：約4,110,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 685.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3560",
+    "name": "ほぼ日",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5000.0,
+    "min_s_kabu_yen": 5000,
+    "unit_lot_yen": 500000,
+    "dps_yen": 100.0,
+    "dividend_yield_pct": 2.0,
+    "raw_annual_return_pct": 9.35,
+    "capped_annual_return_pct": 9.35,
+    "geometric_growth_pct": 6.49,
+    "annual_volatility_pct": 23.95,
+    "max_drawdown_pct": -22.01,
+    "monthly_var_95_pct": -6.38,
+    "sharpe_ratio": 0.31,
+    "quant_score": 49.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 120,
+        "nisa_required_capital_yen": 600000,
+        "specific_required_shares": 151,
+        "specific_required_capital_yen": 755000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 600,
+        "nisa_required_capital_yen": 3000000,
+        "specific_required_shares": 753,
+        "specific_required_capital_yen": 3765000
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 6000000,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 7530000
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3600,
+        "nisa_required_capital_yen": 18000000,
+        "specific_required_shares": 4518,
+        "specific_required_capital_yen": 22590000
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 30000000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 37650000
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125682,
+        "upper_90_yen": 156570,
+        "lower_10_yen": 101328
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262493,
+        "upper_90_yen": 356823,
+        "lower_10_yen": 194916
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 411420,
+        "upper_90_yen": 599840,
+        "lower_10_yen": 286253
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 573535,
+        "upper_90_yen": 888829,
+        "lower_10_yen": 377246
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 750007,
+        "upper_90_yen": 1228426,
+        "lower_10_yen": 468989
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 942107,
+        "upper_90_yen": 1624283,
+        "lower_10_yen": 562243
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1151218,
+        "upper_90_yen": 2082981,
+        "lower_10_yen": 657600
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1378847,
+        "upper_90_yen": 2612046,
+        "lower_10_yen": 755563
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1626634,
+        "upper_90_yen": 3220003,
+        "lower_10_yen": 856577
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1896364,
+        "upper_90_yen": 3916461,
+        "lower_10_yen": 961062
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ほぼ日(3560)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ほぼ日(3560)を1株(5,000円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,000円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.95%、幾何成長率は6.49%",
+      "新NISAで月1万円の配当金を得るには1,200株（約6,000,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ほぼ日は単元未満株（S株・かぶミニ等）を利用することで1株（約5,000円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,896,364円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり100.0円（利回り2.0%）です。月次95%VaR（最大想定損失率）は-6.38%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ほぼ日は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,000円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,200株（元本目安：約6,000,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5000.0
+  }
+}

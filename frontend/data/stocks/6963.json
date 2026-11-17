@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6963",
+    "name": "ローム",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2726.5,
+    "min_s_kabu_yen": 2727,
+    "unit_lot_yen": 272650,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 1.83,
+    "raw_annual_return_pct": 0.46,
+    "capped_annual_return_pct": 0.46,
+    "geometric_growth_pct": -8.69,
+    "annual_volatility_pct": 42.78,
+    "max_drawdown_pct": -67.34,
+    "monthly_var_95_pct": -18.25,
+    "sharpe_ratio": -0.18,
+    "quant_score": 17.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 654360,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 823403
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 3271800,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 4106109
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 6543600,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 8212218
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 19630800,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 24636654
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 32718000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 41061090
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 115647,
+        "upper_90_yen": 170865,
+        "lower_10_yen": 79381
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 223629,
+        "upper_90_yen": 383675,
+        "lower_10_yen": 134398
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 324454,
+        "upper_90_yen": 625015,
+        "lower_10_yen": 176624
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 418597,
+        "upper_90_yen": 888946,
+        "lower_10_yen": 210264
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 506501,
+        "upper_90_yen": 1171504,
+        "lower_10_yen": 237648
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 588578,
+        "upper_90_yen": 1469665,
+        "lower_10_yen": 260267
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 665215,
+        "upper_90_yen": 1780956,
+        "lower_10_yen": 279153
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 736774,
+        "upper_90_yen": 2103280,
+        "lower_10_yen": 295052
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 803589,
+        "upper_90_yen": 2434810,
+        "lower_10_yen": 308528
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 865976,
+        "upper_90_yen": 2773931,
+        "lower_10_yen": 320013
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ローム(6963)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ローム(6963)を1株(2,727円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,727円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.78%、幾何成長率は-8.69%",
+      "新NISAで月1万円の配当金を得るには2,400株（約6,543,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ロームは単元未満株（S株・かぶミニ等）を利用することで1株（約2,727円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は865,976円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り1.83%）です。月次95%VaR（最大想定損失率）は-18.25%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ロームは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,727円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約6,543,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2726.5
+  }
+}

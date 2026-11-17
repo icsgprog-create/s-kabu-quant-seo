@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7735",
+    "name": "ＳＣＲＥＥＮホールディングス",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 7768.0,
+    "min_s_kabu_yen": 7768,
+    "unit_lot_yen": 776800,
+    "dps_yen": 145.0,
+    "dividend_yield_pct": 1.87,
+    "raw_annual_return_pct": 21.58,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 7.03,
+    "annual_volatility_pct": 50.93,
+    "max_drawdown_pct": -60.0,
+    "monthly_var_95_pct": -19.11,
+    "sharpe_ratio": 0.16,
+    "quant_score": 23.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 83,
+        "nisa_required_capital_yen": 644744,
+        "specific_required_shares": 104,
+        "specific_required_capital_yen": 807872
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 3215952,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 4039360
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 828,
+        "nisa_required_capital_yen": 6431904,
+        "specific_required_shares": 1039,
+        "specific_required_capital_yen": 8070952
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2483,
+        "nisa_required_capital_yen": 19287944,
+        "specific_required_shares": 3116,
+        "specific_required_capital_yen": 24205088
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 32143984,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 40339224
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125967,
+        "upper_90_yen": 202035,
+        "lower_10_yen": 80099
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 263655,
+        "upper_90_yen": 512053,
+        "lower_10_yen": 141607
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 414157,
+        "upper_90_yen": 938754,
+        "lower_10_yen": 194875
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 578664,
+        "upper_90_yen": 1501460,
+        "lower_10_yen": 243089
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 758479,
+        "upper_90_yen": 2225080,
+        "lower_10_yen": 287859
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 955028,
+        "upper_90_yen": 3139841,
+        "lower_10_yen": 330157
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1169867,
+        "upper_90_yen": 4281724,
+        "lower_10_yen": 370633
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1404699,
+        "upper_90_yen": 5693204,
+        "lower_10_yen": 409748
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1661383,
+        "upper_90_yen": 7424182,
+        "lower_10_yen": 447851
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1941954,
+        "upper_90_yen": 9533108,
+        "lower_10_yen": 485212
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＳＣＲＥＥＮホールディングス(7735)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＳＣＲＥＥＮホールディングス(7735)を1株(7,768円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小7,768円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは50.93%、幾何成長率は7.03%",
+      "新NISAで月1万円の配当金を得るには828株（約6,431,904円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＳＣＲＥＥＮホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約7,768円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,941,954円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり145.0円（利回り1.87%）です。月次95%VaR（最大想定損失率）は-19.11%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＳＣＲＥＥＮホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約7,768円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、828株（元本目安：約6,431,904円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 7768.0
+  }
+}

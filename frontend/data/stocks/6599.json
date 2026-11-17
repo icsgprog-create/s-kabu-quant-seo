@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6599",
+    "name": "エブレン",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3240.0,
+    "min_s_kabu_yen": 3240,
+    "unit_lot_yen": 324000,
+    "dps_yen": 48.0,
+    "dividend_yield_pct": 1.48,
+    "raw_annual_return_pct": 2.88,
+    "capped_annual_return_pct": 2.88,
+    "geometric_growth_pct": -3.77,
+    "annual_volatility_pct": 36.47,
+    "max_drawdown_pct": -36.91,
+    "monthly_var_95_pct": -10.57,
+    "sharpe_ratio": -0.09,
+    "quant_score": 23.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 250,
+        "nisa_required_capital_yen": 810000,
+        "specific_required_shares": 314,
+        "specific_required_capital_yen": 1017360
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1250,
+        "nisa_required_capital_yen": 4050000,
+        "specific_required_shares": 1569,
+        "specific_required_capital_yen": 5083560
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2500,
+        "nisa_required_capital_yen": 8100000,
+        "specific_required_shares": 3138,
+        "specific_required_capital_yen": 10167120
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 24300000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 30498120
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12500,
+        "nisa_required_capital_yen": 40500000,
+        "specific_required_shares": 15687,
+        "specific_required_capital_yen": 50825880
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118527,
+        "upper_90_yen": 165397,
+        "lower_10_yen": 85808
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 234376,
+        "upper_90_yen": 372070,
+        "lower_10_yen": 150940
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 347608,
+        "upper_90_yen": 610471,
+        "lower_10_yen": 204818
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 458283,
+        "upper_90_yen": 877088,
+        "lower_10_yen": 250819
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 566458,
+        "upper_90_yen": 1169903,
+        "lower_10_yen": 290822
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 672189,
+        "upper_90_yen": 1487554,
+        "lower_10_yen": 326043
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 775532,
+        "upper_90_yen": 1829035,
+        "lower_10_yen": 357340
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 876540,
+        "upper_90_yen": 2193556,
+        "lower_10_yen": 385346
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 975267,
+        "upper_90_yen": 2580467,
+        "lower_10_yen": 410551
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1071763,
+        "upper_90_yen": 2989215,
+        "lower_10_yen": 433343
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エブレン(6599)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エブレン(6599)を1株(3,240円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,240円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.47%、幾何成長率は-3.77%",
+      "新NISAで月1万円の配当金を得るには2,500株（約8,100,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エブレンは単元未満株（S株・かぶミニ等）を利用することで1株（約3,240円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,071,763円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり48.0円（利回り1.48%）です。月次95%VaR（最大想定損失率）は-10.57%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エブレンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,240円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,500株（元本目安：約8,100,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3240.0
+  }
+}

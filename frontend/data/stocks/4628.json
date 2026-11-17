@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4628",
+    "name": "エスケー化研",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 10380.0,
+    "min_s_kabu_yen": 10380,
+    "unit_lot_yen": 1038000,
+    "dps_yen": 230.0,
+    "dividend_yield_pct": 2.22,
+    "raw_annual_return_pct": 7.7,
+    "capped_annual_return_pct": 7.7,
+    "geometric_growth_pct": 4.98,
+    "annual_volatility_pct": 23.3,
+    "max_drawdown_pct": -25.62,
+    "monthly_var_95_pct": -7.03,
+    "sharpe_ratio": 0.27,
+    "quant_score": 51.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 53,
+        "nisa_required_capital_yen": 550140,
+        "specific_required_shares": 66,
+        "specific_required_capital_yen": 685080
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 261,
+        "nisa_required_capital_yen": 2709180,
+        "specific_required_shares": 328,
+        "specific_required_capital_yen": 3404640
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 5418360,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 6798900
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1566,
+        "nisa_required_capital_yen": 16255080,
+        "specific_required_shares": 1965,
+        "specific_required_capital_yen": 20396700
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 27081420,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 33984120
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124798,
+        "upper_90_yen": 154502,
+        "lower_10_yen": 101223
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 258912,
+        "upper_90_yen": 348762,
+        "lower_10_yen": 193924
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 403035,
+        "upper_90_yen": 580816,
+        "lower_10_yen": 283502
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 557917,
+        "upper_90_yen": 852595,
+        "lower_10_yen": 371811
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 724358,
+        "upper_90_yen": 1167235,
+        "lower_10_yen": 459893
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 903223,
+        "upper_90_yen": 1528644,
+        "lower_10_yen": 548445
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1095439,
+        "upper_90_yen": 1941377,
+        "lower_10_yen": 637988
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1302001,
+        "upper_90_yen": 2410605,
+        "lower_10_yen": 728943
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1523982,
+        "upper_90_yen": 2942130,
+        "lower_10_yen": 821668
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1762532,
+        "upper_90_yen": 3542419,
+        "lower_10_yen": 916484
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エスケー化研(4628)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エスケー化研(4628)を1株(10,380円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小10,380円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.3%、幾何成長率は4.98%",
+      "新NISAで月1万円の配当金を得るには522株（約5,418,360円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エスケー化研は単元未満株（S株・かぶミニ等）を利用することで1株（約10,380円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,762,532円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり230.0円（利回り2.22%）です。月次95%VaR（最大想定損失率）は-7.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エスケー化研は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約10,380円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、522株（元本目安：約5,418,360円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 10380.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4388",
+    "name": "エーアイ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 309.0,
+    "min_s_kabu_yen": 309,
+    "unit_lot_yen": 30900,
+    "dps_yen": 4.0,
+    "dividend_yield_pct": 1.29,
+    "raw_annual_return_pct": -24.34,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -30.01,
+    "annual_volatility_pct": 54.79,
+    "max_drawdown_pct": -79.59,
+    "monthly_var_95_pct": -21.84,
+    "sharpe_ratio": -0.54,
+    "quant_score": 10.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 3000,
+        "nisa_required_capital_yen": 927000,
+        "specific_required_shares": 3765,
+        "specific_required_capital_yen": 1163385
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 15000,
+        "nisa_required_capital_yen": 4635000,
+        "specific_required_shares": 18825,
+        "specific_required_capital_yen": 5816925
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 9270000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 11633541
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 90000,
+        "nisa_required_capital_yen": 27810000,
+        "specific_required_shares": 112945,
+        "specific_required_capital_yen": 34900005
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 150000,
+        "nisa_required_capital_yen": 46350000,
+        "specific_required_shares": 188242,
+        "specific_required_capital_yen": 58166778
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 103064,
+        "upper_90_yen": 168762,
+        "lower_10_yen": 64429
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 180403,
+        "upper_90_yen": 352366,
+        "lower_10_yen": 97226
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 238436,
+        "upper_90_yen": 529245,
+        "lower_10_yen": 116344
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 281984,
+        "upper_90_yen": 691838,
+        "lower_10_yen": 128041
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 314662,
+        "upper_90_yen": 837254,
+        "lower_10_yen": 135401
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 339183,
+        "upper_90_yen": 964913,
+        "lower_10_yen": 140120
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 357584,
+        "upper_90_yen": 1075457,
+        "lower_10_yen": 143187
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 371391,
+        "upper_90_yen": 1170170,
+        "lower_10_yen": 145203
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 381752,
+        "upper_90_yen": 1250627,
+        "lower_10_yen": 146539
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 389526,
+        "upper_90_yen": 1318491,
+        "lower_10_yen": 147430
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エーアイ(4388)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エーアイ(4388)を1株(309円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小309円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは54.79%、幾何成長率は-30.01%",
+      "新NISAで月1万円の配当金を得るには30,000株（約9,270,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エーアイは単元未満株（S株・かぶミニ等）を利用することで1株（約309円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は389,526円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり4.0円（利回り1.29%）です。月次95%VaR（最大想定損失率）は-21.84%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エーアイは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約309円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、30,000株（元本目安：約9,270,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 309.0
+  }
+}

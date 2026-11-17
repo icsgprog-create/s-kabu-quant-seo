@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6718",
+    "name": "アイホン",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2708.0,
+    "min_s_kabu_yen": 2708,
+    "unit_lot_yen": 270800,
+    "dps_yen": 130.0,
+    "dividend_yield_pct": 4.8,
+    "raw_annual_return_pct": 8.31,
+    "capped_annual_return_pct": 8.31,
+    "geometric_growth_pct": 5.42,
+    "annual_volatility_pct": 24.04,
+    "max_drawdown_pct": -26.4,
+    "monthly_var_95_pct": -7.92,
+    "sharpe_ratio": 0.38,
+    "quant_score": 74.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 93,
+        "nisa_required_capital_yen": 251844,
+        "specific_required_shares": 116,
+        "specific_required_capital_yen": 314128
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 1251096,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 1570640
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 924,
+        "nisa_required_capital_yen": 2502192,
+        "specific_required_shares": 1159,
+        "specific_required_capital_yen": 3138572
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2770,
+        "nisa_required_capital_yen": 7501160,
+        "specific_required_shares": 3476,
+        "specific_required_capital_yen": 9413008
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 12500128,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 15687444
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126885,
+        "upper_90_yen": 158245,
+        "lower_10_yen": 102187
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 267423,
+        "upper_90_yen": 364269,
+        "lower_10_yen": 198177
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 423083,
+        "upper_90_yen": 618753,
+        "lower_10_yen": 293464
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 595492,
+        "upper_90_yen": 926762,
+        "lower_10_yen": 390024
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 786452,
+        "upper_90_yen": 1295138,
+        "lower_10_yen": 489058
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 997960,
+        "upper_90_yen": 1732155,
+        "lower_10_yen": 591460
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1232227,
+        "upper_90_yen": 2247520,
+        "lower_10_yen": 697981
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1491701,
+        "upper_90_yen": 2852465,
+        "lower_10_yen": 809304
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1779095,
+        "upper_90_yen": 3559911,
+        "lower_10_yen": 926082
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2097412,
+        "upper_90_yen": 4384667,
+        "lower_10_yen": 1048963
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "アイホン(6718)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "アイホン(6718)を1株(2,708円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,708円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは24.04%、幾何成長率は5.42%",
+      "新NISAで月1万円の配当金を得るには924株（約2,502,192円）が必要"
+    ],
+    "accumulation_strategy_analysis": "アイホンは単元未満株（S株・かぶミニ等）を利用することで1株（約2,708円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,097,412円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり130.0円（利回り4.8%）です。月次95%VaR（最大想定損失率）は-7.92%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "アイホンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,708円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、924株（元本目安：約2,502,192円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2708.0
+  }
+}

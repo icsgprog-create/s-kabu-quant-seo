@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6849",
+    "name": "日本光電工業",
+    "sector": "電気機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1550.0,
+    "min_s_kabu_yen": 1550,
+    "unit_lot_yen": 155000,
+    "dps_yen": 32.0,
+    "dividend_yield_pct": 2.06,
+    "raw_annual_return_pct": -0.25,
+    "capped_annual_return_pct": -0.25,
+    "geometric_growth_pct": -4.8,
+    "annual_volatility_pct": 30.15,
+    "max_drawdown_pct": -43.23,
+    "monthly_var_95_pct": -12.57,
+    "sharpe_ratio": -0.12,
+    "quant_score": 33.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 375,
+        "nisa_required_capital_yen": 581250,
+        "specific_required_shares": 471,
+        "specific_required_capital_yen": 730050
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1875,
+        "nisa_required_capital_yen": 2906250,
+        "specific_required_shares": 2354,
+        "specific_required_capital_yen": 3648700
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 5812500,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 7295850
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11250,
+        "nisa_required_capital_yen": 17437500,
+        "specific_required_shares": 14119,
+        "specific_required_capital_yen": 21884450
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18750,
+        "nisa_required_capital_yen": 29062500,
+        "specific_required_shares": 23531,
+        "specific_required_capital_yen": 36473050
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118239,
+        "upper_90_yen": 155614,
+        "lower_10_yen": 90469
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 233289,
+        "upper_90_yen": 341224,
+        "lower_10_yen": 161928
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 345235,
+        "upper_90_yen": 548358,
+        "lower_10_yen": 222504
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 454162,
+        "upper_90_yen": 773658,
+        "lower_10_yen": 275213
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 560150,
+        "upper_90_yen": 1015066,
+        "lower_10_yen": 321778
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 663280,
+        "upper_90_yen": 1271112,
+        "lower_10_yen": 363339
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 763627,
+        "upper_90_yen": 1540651,
+        "lower_10_yen": 400716
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 861267,
+        "upper_90_yen": 1822747,
+        "lower_10_yen": 434525
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 956274,
+        "upper_90_yen": 2116600,
+        "lower_10_yen": 465253
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1048718,
+        "upper_90_yen": 2421512,
+        "lower_10_yen": 493290
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "日本光電工業(6849)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "日本光電工業(6849)を1株(1,550円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,550円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.15%、幾何成長率は-4.8%",
+      "新NISAで月1万円の配当金を得るには3,750株（約5,812,500円）が必要"
+    ],
+    "accumulation_strategy_analysis": "日本光電工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,550円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,048,718円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり32.0円（利回り2.06%）です。月次95%VaR（最大想定損失率）は-12.57%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "日本光電工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,550円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,750株（元本目安：約5,812,500円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1550.0
+  }
+}

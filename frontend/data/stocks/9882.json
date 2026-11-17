@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9882",
+    "name": "イエローハット",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1747.0,
+    "min_s_kabu_yen": 1747,
+    "unit_lot_yen": 174700,
+    "dps_yen": 67.0,
+    "dividend_yield_pct": 3.84,
+    "raw_annual_return_pct": 18.46,
+    "capped_annual_return_pct": 18.46,
+    "geometric_growth_pct": 16.4,
+    "annual_volatility_pct": 20.33,
+    "max_drawdown_pct": -16.67,
+    "monthly_var_95_pct": -5.33,
+    "sharpe_ratio": 0.95,
+    "quant_score": 84.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 180,
+        "nisa_required_capital_yen": 314460,
+        "specific_required_shares": 225,
+        "specific_required_capital_yen": 393075
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 896,
+        "nisa_required_capital_yen": 1565312,
+        "specific_required_shares": 1124,
+        "specific_required_capital_yen": 1963628
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1792,
+        "nisa_required_capital_yen": 3130624,
+        "specific_required_shares": 2248,
+        "specific_required_capital_yen": 3927256
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5374,
+        "nisa_required_capital_yen": 9388378,
+        "specific_required_shares": 6743,
+        "specific_required_capital_yen": 11780021
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8956,
+        "nisa_required_capital_yen": 15646132,
+        "specific_required_shares": 11239,
+        "specific_required_capital_yen": 19634533
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134124,
+        "upper_90_yen": 161880,
+        "lower_10_yen": 111473
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298321,
+        "upper_90_yen": 388975,
+        "lower_10_yen": 230302
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 499334,
+        "upper_90_yen": 693799,
+        "lower_10_yen": 362931
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 745417,
+        "upper_90_yen": 1096005,
+        "lower_10_yen": 513553
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1046677,
+        "upper_90_yen": 1621394,
+        "lower_10_yen": 686349
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1415484,
+        "upper_90_yen": 2303019,
+        "lower_10_yen": 885951
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1866985,
+        "upper_90_yen": 3182896,
+        "lower_10_yen": 1117684
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2419719,
+        "upper_90_yen": 4314245,
+        "lower_10_yen": 1387779
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3096387,
+        "upper_90_yen": 5764355,
+        "lower_10_yen": 1703586
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3924775,
+        "upper_90_yen": 7618179,
+        "lower_10_yen": 2073808
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "イエローハット(9882)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "イエローハット(9882)を1株(1,747円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,747円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは20.33%、幾何成長率は16.4%",
+      "新NISAで月1万円の配当金を得るには1,792株（約3,130,624円）が必要"
+    ],
+    "accumulation_strategy_analysis": "イエローハットは単元未満株（S株・かぶミニ等）を利用することで1株（約1,747円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,924,775円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり67.0円（利回り3.84%）です。月次95%VaR（最大想定損失率）は-5.33%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "イエローハットは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,747円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,792株（元本目安：約3,130,624円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1747.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3494",
+    "name": "マリオン",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 357.0,
+    "min_s_kabu_yen": 357,
+    "unit_lot_yen": 35700,
+    "dps_yen": 7.0,
+    "dividend_yield_pct": 1.96,
+    "raw_annual_return_pct": 9.86,
+    "capped_annual_return_pct": 9.86,
+    "geometric_growth_pct": -7.9,
+    "annual_volatility_pct": 59.61,
+    "max_drawdown_pct": -62.16,
+    "monthly_var_95_pct": -13.95,
+    "sharpe_ratio": -0.12,
+    "quant_score": 17.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 612255,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 768264
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 3060204,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 3840249
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 17143,
+        "nisa_required_capital_yen": 6120051,
+        "specific_required_shares": 21514,
+        "specific_required_capital_yen": 7680498
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 51429,
+        "nisa_required_capital_yen": 18360153,
+        "specific_required_shares": 64540,
+        "specific_required_capital_yen": 23040780
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 85715,
+        "nisa_required_capital_yen": 30600255,
+        "specific_required_shares": 107567,
+        "specific_required_capital_yen": 38401419
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116216,
+        "upper_90_yen": 201043,
+        "lower_10_yen": 69036
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 225728,
+        "upper_90_yen": 483298,
+        "lower_10_yen": 111866
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 328922,
+        "upper_90_yen": 831847,
+        "lower_10_yen": 142564
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 426162,
+        "upper_90_yen": 1241126,
+        "lower_10_yen": 165747
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 517793,
+        "upper_90_yen": 1707717,
+        "lower_10_yen": 183790
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 604138,
+        "upper_90_yen": 2229063,
+        "lower_10_yen": 198121
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 685501,
+        "upper_90_yen": 2803021,
+        "lower_10_yen": 209677
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 762171,
+        "upper_90_yen": 3427670,
+        "lower_10_yen": 219102
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 834417,
+        "upper_90_yen": 4101207,
+        "lower_10_yen": 226863
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 902496,
+        "upper_90_yen": 4821898,
+        "lower_10_yen": 233302
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "マリオン(3494)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "マリオン(3494)を1株(357円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小357円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは59.61%、幾何成長率は-7.9%",
+      "新NISAで月1万円の配当金を得るには17,143株（約6,120,051円）が必要"
+    ],
+    "accumulation_strategy_analysis": "マリオンは単元未満株（S株・かぶミニ等）を利用することで1株（約357円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は902,496円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり7.0円（利回り1.96%）です。月次95%VaR（最大想定損失率）は-13.95%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "マリオンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約357円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、17,143株（元本目安：約6,120,051円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 357.0
+  }
+}

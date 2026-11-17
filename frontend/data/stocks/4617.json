@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4617",
+    "name": "中国塗料",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3335.0,
+    "min_s_kabu_yen": 3335,
+    "unit_lot_yen": 333500,
+    "dps_yen": 113.0,
+    "dividend_yield_pct": 3.39,
+    "raw_annual_return_pct": 31.37,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.79,
+    "annual_volatility_pct": 35.24,
+    "max_drawdown_pct": -36.9,
+    "monthly_var_95_pct": -11.12,
+    "sharpe_ratio": 0.46,
+    "quant_score": 53.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 107,
+        "nisa_required_capital_yen": 356845,
+        "specific_required_shares": 134,
+        "specific_required_capital_yen": 446890
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 531,
+        "nisa_required_capital_yen": 1770885,
+        "specific_required_shares": 667,
+        "specific_required_capital_yen": 2224445
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1062,
+        "nisa_required_capital_yen": 3541770,
+        "specific_required_shares": 1333,
+        "specific_required_capital_yen": 4445555
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3186,
+        "nisa_required_capital_yen": 10625310,
+        "specific_required_shares": 3999,
+        "specific_required_capital_yen": 13336665
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5310,
+        "nisa_required_capital_yen": 17708850,
+        "specific_required_shares": 6664,
+        "specific_required_capital_yen": 22224440
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131864,
+        "upper_90_yen": 182883,
+        "lower_10_yen": 95972
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288447,
+        "upper_90_yen": 457602,
+        "lower_10_yen": 185467
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 474380,
+        "upper_90_yen": 840197,
+        "lower_10_yen": 275977
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 695166,
+        "upper_90_yen": 1357483,
+        "lower_10_yen": 370324
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 957338,
+        "upper_90_yen": 2044812,
+        "lower_10_yen": 470419
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1268653,
+        "upper_90_yen": 2947336,
+        "lower_10_yen": 577885
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1638324,
+        "upper_90_yen": 4122131,
+        "lower_10_yen": 694284
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2077289,
+        "upper_90_yen": 5640994,
+        "lower_10_yen": 821219
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2598536,
+        "upper_90_yen": 7593982,
+        "lower_10_yen": 960408
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3217491,
+        "upper_90_yen": 10093819,
+        "lower_10_yen": 1113727
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "中国塗料(4617)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "中国塗料(4617)を1株(3,335円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,335円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは35.24%、幾何成長率は13.79%",
+      "新NISAで月1万円の配当金を得るには1,062株（約3,541,770円）が必要"
+    ],
+    "accumulation_strategy_analysis": "中国塗料は単元未満株（S株・かぶミニ等）を利用することで1株（約3,335円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,217,491円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり113.0円（利回り3.39%）です。月次95%VaR（最大想定損失率）は-11.12%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "中国塗料は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,335円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,062株（元本目安：約3,541,770円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3335.0
+  }
+}

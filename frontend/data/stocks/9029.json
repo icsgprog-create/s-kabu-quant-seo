@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9029",
+    "name": "ヒガシホールディングス",
+    "sector": "陸運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1613.0,
+    "min_s_kabu_yen": 1613,
+    "unit_lot_yen": 161300,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 3.72,
+    "raw_annual_return_pct": 20.88,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 15.76,
+    "annual_volatility_pct": 29.11,
+    "max_drawdown_pct": -29.44,
+    "monthly_var_95_pct": -9.27,
+    "sharpe_ratio": 0.63,
+    "quant_score": 66.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 322600,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 404863
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 1613000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 2024315
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 3226000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 4048630
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 9678000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 12145890
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 16130000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 20243150
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133566,
+        "upper_90_yen": 174977,
+        "lower_10_yen": 102607
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 295864,
+        "upper_90_yen": 433226,
+        "lower_10_yen": 204797
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 493073,
+        "upper_90_yen": 791205,
+        "lower_10_yen": 313562
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 732704,
+        "upper_90_yen": 1275428,
+        "lower_10_yen": 432246
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1023882,
+        "upper_90_yen": 1921065,
+        "lower_10_yen": 563649
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1377695,
+        "upper_90_yen": 2773549,
+        "lower_10_yen": 710571
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1807617,
+        "upper_90_yen": 3891060,
+        "lower_10_yen": 876040
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2330018,
+        "upper_90_yen": 5347806,
+        "lower_10_yen": 1063449
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2964794,
+        "upper_90_yen": 7238203,
+        "lower_10_yen": 1276672
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3736116,
+        "upper_90_yen": 9682174,
+        "lower_10_yen": 1520176
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヒガシホールディングス(9029)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヒガシホールディングス(9029)を1株(1,613円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,613円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.11%、幾何成長率は15.76%",
+      "新NISAで月1万円の配当金を得るには2,000株（約3,226,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヒガシホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,613円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,736,116円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り3.72%）です。月次95%VaR（最大想定損失率）は-9.27%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヒガシホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,613円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約3,226,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1613.0
+  }
+}

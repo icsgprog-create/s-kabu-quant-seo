@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7857",
+    "name": "セキ",
+    "sector": "その他製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1276.0,
+    "min_s_kabu_yen": 1276,
+    "unit_lot_yen": 127600,
+    "dps_yen": 26.0,
+    "dividend_yield_pct": 2.04,
+    "raw_annual_return_pct": -4.18,
+    "capped_annual_return_pct": -4.18,
+    "geometric_growth_pct": -5.15,
+    "annual_volatility_pct": 13.92,
+    "max_drawdown_pct": -22.58,
+    "monthly_var_95_pct": -4.29,
+    "sharpe_ratio": -0.3,
+    "quant_score": 46.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 462,
+        "nisa_required_capital_yen": 589512,
+        "specific_required_shares": 580,
+        "specific_required_capital_yen": 740080
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2308,
+        "nisa_required_capital_yen": 2945008,
+        "specific_required_shares": 2897,
+        "specific_required_capital_yen": 3696572
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4616,
+        "nisa_required_capital_yen": 5890016,
+        "specific_required_shares": 5793,
+        "specific_required_capital_yen": 7391868
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 13847,
+        "nisa_required_capital_yen": 17668772,
+        "specific_required_shares": 17377,
+        "specific_required_capital_yen": 22173052
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 23077,
+        "nisa_required_capital_yen": 29446252,
+        "specific_required_shares": 28961,
+        "specific_required_capital_yen": 36954236
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118001,
+        "upper_90_yen": 133839,
+        "lower_10_yen": 104193
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 232391,
+        "upper_90_yen": 276460,
+        "lower_10_yen": 195979
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 343280,
+        "upper_90_yen": 423765,
+        "lower_10_yen": 279477
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 450776,
+        "upper_90_yen": 574108,
+        "lower_10_yen": 356351
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 554982,
+        "upper_90_yen": 726488,
+        "lower_10_yen": 427623
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 655998,
+        "upper_90_yen": 880206,
+        "lower_10_yen": 494014
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 753923,
+        "upper_90_yen": 1034736,
+        "lower_10_yen": 556075
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 848852,
+        "upper_90_yen": 1189666,
+        "lower_10_yen": 614244
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 940874,
+        "upper_90_yen": 1344659,
+        "lower_10_yen": 668885
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1030081,
+        "upper_90_yen": 1499436,
+        "lower_10_yen": 720303
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セキ(7857)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セキ(7857)を1株(1,276円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,276円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは13.92%、幾何成長率は-5.15%",
+      "新NISAで月1万円の配当金を得るには4,616株（約5,890,016円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セキは単元未満株（S株・かぶミニ等）を利用することで1株（約1,276円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,030,081円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり26.0円（利回り2.04%）です。月次95%VaR（最大想定損失率）は-4.29%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セキは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,276円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,616株（元本目安：約5,890,016円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1276.0
+  }
+}

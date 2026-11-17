@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3222",
+    "name": "ユナイテッド・スーパーマーケット・ホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 804.0,
+    "min_s_kabu_yen": 804,
+    "unit_lot_yen": 80400,
+    "dps_yen": 16.0,
+    "dividend_yield_pct": 1.99,
+    "raw_annual_return_pct": -3.21,
+    "capped_annual_return_pct": -3.21,
+    "geometric_growth_pct": -5.15,
+    "annual_volatility_pct": 19.72,
+    "max_drawdown_pct": -37.21,
+    "monthly_var_95_pct": -10.63,
+    "sharpe_ratio": -0.21,
+    "quant_score": 41.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 750,
+        "nisa_required_capital_yen": 603000,
+        "specific_required_shares": 942,
+        "specific_required_capital_yen": 757368
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 3750,
+        "nisa_required_capital_yen": 3015000,
+        "specific_required_shares": 4707,
+        "specific_required_capital_yen": 3784428
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 7500,
+        "nisa_required_capital_yen": 6030000,
+        "specific_required_shares": 9413,
+        "specific_required_capital_yen": 7568052
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 22500,
+        "nisa_required_capital_yen": 18090000,
+        "specific_required_shares": 28237,
+        "specific_required_capital_yen": 22702548
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 37500,
+        "nisa_required_capital_yen": 30150000,
+        "specific_required_shares": 47061,
+        "specific_required_capital_yen": 37837044
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 117965,
+        "upper_90_yen": 141060,
+        "lower_10_yen": 98946
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 232256,
+        "upper_90_yen": 297284,
+        "lower_10_yen": 182632
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 342985,
+        "upper_90_yen": 462851,
+        "lower_10_yen": 256726
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 450266,
+        "upper_90_yen": 635392,
+        "lower_10_yen": 323454
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 554204,
+        "upper_90_yen": 813442,
+        "lower_10_yen": 384146
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 654904,
+        "upper_90_yen": 995954,
+        "lower_10_yen": 439721
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 752467,
+        "upper_90_yen": 1182122,
+        "lower_10_yen": 490860
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 846991,
+        "upper_90_yen": 1371298,
+        "lower_10_yen": 538098
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 938570,
+        "upper_90_yen": 1562939,
+        "lower_10_yen": 581867
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1027296,
+        "upper_90_yen": 1756584,
+        "lower_10_yen": 622526
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ユナイテッド・スーパーマーケット・ホールディングス(3222)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ユナイテッド・スーパーマーケット・ホールディングス(3222)を1株(804円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小804円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは19.72%、幾何成長率は-5.15%",
+      "新NISAで月1万円の配当金を得るには7,500株（約6,030,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ユナイテッド・スーパーマーケット・ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約804円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,027,296円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり16.0円（利回り1.99%）です。月次95%VaR（最大想定損失率）は-10.63%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ユナイテッド・スーパーマーケット・ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約804円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、7,500株（元本目安：約6,030,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 804.0
+  }
+}

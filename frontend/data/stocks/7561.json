@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7561",
+    "name": "ハークスレイホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 651.0,
+    "min_s_kabu_yen": 651,
+    "unit_lot_yen": 65100,
+    "dps_yen": 29.0,
+    "dividend_yield_pct": 4.45,
+    "raw_annual_return_pct": 10.34,
+    "capped_annual_return_pct": 10.34,
+    "geometric_growth_pct": 5.3,
+    "annual_volatility_pct": 31.76,
+    "max_drawdown_pct": -38.37,
+    "monthly_var_95_pct": -11.89,
+    "sharpe_ratio": 0.28,
+    "quant_score": 60.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 414,
+        "nisa_required_capital_yen": 269514,
+        "specific_required_shares": 520,
+        "specific_required_capital_yen": 338520
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 1346919,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 1690647
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 2693838,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 3380643
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12414,
+        "nisa_required_capital_yen": 8081514,
+        "specific_required_shares": 15579,
+        "specific_required_capital_yen": 10141929
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20690,
+        "nisa_required_capital_yen": 13469190,
+        "specific_required_shares": 25965,
+        "specific_required_capital_yen": 16903215
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126559,
+        "upper_90_yen": 169574,
+        "lower_10_yen": 95181
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 266082,
+        "upper_90_yen": 400891,
+        "lower_10_yen": 179527
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 419896,
+        "upper_90_yen": 695390,
+        "lower_10_yen": 259972
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 589467,
+        "upper_90_yen": 1060405,
+        "lower_10_yen": 338823
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 776407,
+        "upper_90_yen": 1505758,
+        "lower_10_yen": 417352
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 982495,
+        "upper_90_yen": 2043350,
+        "lower_10_yen": 496406
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1209695,
+        "upper_90_yen": 2687191,
+        "lower_10_yen": 576622
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1460166,
+        "upper_90_yen": 3453570,
+        "lower_10_yen": 658520
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1736295,
+        "upper_90_yen": 4361317,
+        "lower_10_yen": 742549
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2040708,
+        "upper_90_yen": 5432118,
+        "lower_10_yen": 829121
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ハークスレイホールディングス(7561)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ハークスレイホールディングス(7561)を1株(651円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小651円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.76%、幾何成長率は5.3%",
+      "新NISAで月1万円の配当金を得るには4,138株（約2,693,838円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ハークスレイホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約651円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,040,708円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり29.0円（利回り4.45%）です。月次95%VaR（最大想定損失率）は-11.89%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ハークスレイホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約651円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,138株（元本目安：約2,693,838円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 651.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4792",
+    "name": "山田コンサルティンググループ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1617.0,
+    "min_s_kabu_yen": 1617,
+    "unit_lot_yen": 161700,
+    "dps_yen": 77.0,
+    "dividend_yield_pct": 4.76,
+    "raw_annual_return_pct": 10.58,
+    "capped_annual_return_pct": 10.58,
+    "geometric_growth_pct": 5.93,
+    "annual_volatility_pct": 30.49,
+    "max_drawdown_pct": -38.7,
+    "monthly_var_95_pct": -8.35,
+    "sharpe_ratio": 0.32,
+    "quant_score": 65.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 156,
+        "nisa_required_capital_yen": 252252,
+        "specific_required_shares": 196,
+        "specific_required_capital_yen": 316932
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 780,
+        "nisa_required_capital_yen": 1261260,
+        "specific_required_shares": 978,
+        "specific_required_capital_yen": 1581426
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1559,
+        "nisa_required_capital_yen": 2520903,
+        "specific_required_shares": 1956,
+        "specific_required_capital_yen": 3162852
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4676,
+        "nisa_required_capital_yen": 7561092,
+        "specific_required_shares": 5868,
+        "specific_required_capital_yen": 9488556
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 7793,
+        "nisa_required_capital_yen": 12601281,
+        "specific_required_shares": 9779,
+        "specific_required_capital_yen": 15812643
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127214,
+        "upper_90_yen": 168484,
+        "lower_10_yen": 96732
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 268780,
+        "upper_90_yen": 398515,
+        "lower_10_yen": 184037
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 426318,
+        "upper_90_yen": 692438,
+        "lower_10_yen": 268580
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 601631,
+        "upper_90_yen": 1058453,
+        "lower_10_yen": 352625
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 796722,
+        "upper_90_yen": 1507410,
+        "lower_10_yen": 437460
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1013824,
+        "upper_90_yen": 2052480,
+        "lower_10_yen": 523982
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1255421,
+        "upper_90_yen": 2709249,
+        "lower_10_yen": 612897
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1524275,
+        "upper_90_yen": 3495968,
+        "lower_10_yen": 704814
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1823462,
+        "upper_90_yen": 4433894,
+        "lower_10_yen": 800286
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2156404,
+        "upper_90_yen": 5547704,
+        "lower_10_yen": 899843
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "山田コンサルティンググループ(4792)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "山田コンサルティンググループ(4792)を1株(1,617円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,617円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.49%、幾何成長率は5.93%",
+      "新NISAで月1万円の配当金を得るには1,559株（約2,520,903円）が必要"
+    ],
+    "accumulation_strategy_analysis": "山田コンサルティンググループは単元未満株（S株・かぶミニ等）を利用することで1株（約1,617円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,156,404円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり77.0円（利回り4.76%）です。月次95%VaR（最大想定損失率）は-8.35%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "山田コンサルティンググループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,617円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,559株（元本目安：約2,520,903円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1617.0
+  }
+}

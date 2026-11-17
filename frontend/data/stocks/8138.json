@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8138",
+    "name": "三京化成",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4205.0,
+    "min_s_kabu_yen": 4205,
+    "unit_lot_yen": 420500,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 1.66,
+    "raw_annual_return_pct": 8.76,
+    "capped_annual_return_pct": 8.76,
+    "geometric_growth_pct": 4.61,
+    "annual_volatility_pct": 28.81,
+    "max_drawdown_pct": -33.19,
+    "monthly_var_95_pct": -9.79,
+    "sharpe_ratio": 0.18,
+    "quant_score": 39.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 723260,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 908280
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 3607890,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 4524580
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 7211575,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 9049160
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 21626315,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 27139070
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 36045260,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 45233185
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124166,
+        "upper_90_yen": 161733,
+        "lower_10_yen": 95929
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 256367,
+        "upper_90_yen": 370751,
+        "lower_10_yen": 179700
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 397124,
+        "upper_90_yen": 624377,
+        "lower_10_yen": 257904
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 546989,
+        "upper_90_yen": 924712,
+        "lower_10_yen": 332745
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 706553,
+        "upper_90_yen": 1275310,
+        "lower_10_yen": 405411
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 876442,
+        "upper_90_yen": 1680626,
+        "lower_10_yen": 476657
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1057326,
+        "upper_90_yen": 2145857,
+        "lower_10_yen": 547015
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1249915,
+        "upper_90_yen": 2676899,
+        "lower_10_yen": 616886
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1454967,
+        "upper_90_yen": 3280351,
+        "lower_10_yen": 686586
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1673289,
+        "upper_90_yen": 3963543,
+        "lower_10_yen": 756374
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "三京化成(8138)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "三京化成(8138)を1株(4,205円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,205円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.81%、幾何成長率は4.61%",
+      "新NISAで月1万円の配当金を得るには1,715株（約7,211,575円）が必要"
+    ],
+    "accumulation_strategy_analysis": "三京化成は単元未満株（S株・かぶミニ等）を利用することで1株（約4,205円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,673,289円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り1.66%）です。月次95%VaR（最大想定損失率）は-9.79%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "三京化成は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,205円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約7,211,575円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4205.0
+  }
+}

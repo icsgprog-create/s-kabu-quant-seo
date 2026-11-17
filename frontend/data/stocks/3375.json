@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3375",
+    "name": "ＺＯＡ",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1609.0,
+    "min_s_kabu_yen": 1609,
+    "unit_lot_yen": 160900,
+    "dps_yen": 75.0,
+    "dividend_yield_pct": 4.66,
+    "raw_annual_return_pct": 8.08,
+    "capped_annual_return_pct": 8.08,
+    "geometric_growth_pct": 3.74,
+    "annual_volatility_pct": 29.47,
+    "max_drawdown_pct": -33.54,
+    "monthly_var_95_pct": -8.08,
+    "sharpe_ratio": 0.25,
+    "quant_score": 64.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 160,
+        "nisa_required_capital_yen": 257440,
+        "specific_required_shares": 201,
+        "specific_required_capital_yen": 323409
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 800,
+        "nisa_required_capital_yen": 1287200,
+        "specific_required_shares": 1004,
+        "specific_required_capital_yen": 1615436
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1600,
+        "nisa_required_capital_yen": 2574400,
+        "specific_required_shares": 2008,
+        "specific_required_capital_yen": 3230872
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4800,
+        "nisa_required_capital_yen": 7723200,
+        "specific_required_shares": 6024,
+        "specific_required_capital_yen": 9692616
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 12872000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 16154360
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125621,
+        "upper_90_yen": 164711,
+        "lower_10_yen": 96442
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262247,
+        "upper_90_yen": 383062,
+        "lower_10_yen": 182098
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 410842,
+        "upper_90_yen": 654499,
+        "lower_10_yen": 263539
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 572454,
+        "upper_90_yen": 983624,
+        "lower_10_yen": 342963
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 748224,
+        "upper_90_yen": 1376906,
+        "lower_10_yen": 421571
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 939392,
+        "upper_90_yen": 1842210,
+        "lower_10_yen": 500153
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1147307,
+        "upper_90_yen": 2388711,
+        "lower_10_yen": 579289
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1373436,
+        "upper_90_yen": 3026937,
+        "lower_10_yen": 659440
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1619374,
+        "upper_90_yen": 3768877,
+        "lower_10_yen": 740992
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1886857,
+        "upper_90_yen": 4628116,
+        "lower_10_yen": 824286
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＺＯＡ(3375)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＺＯＡ(3375)を1株(1,609円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,609円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.47%、幾何成長率は3.74%",
+      "新NISAで月1万円の配当金を得るには1,600株（約2,574,400円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＺＯＡは単元未満株（S株・かぶミニ等）を利用することで1株（約1,609円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,886,857円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり75.0円（利回り4.66%）です。月次95%VaR（最大想定損失率）は-8.08%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＺＯＡは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,609円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,600株（元本目安：約2,574,400円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1609.0
+  }
+}

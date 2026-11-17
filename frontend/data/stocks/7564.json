@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7564",
+    "name": "ワークマン",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 5460.0,
+    "min_s_kabu_yen": 5460,
+    "unit_lot_yen": 546000,
+    "dps_yen": 89.0,
+    "dividend_yield_pct": 1.63,
+    "raw_annual_return_pct": -1.34,
+    "capped_annual_return_pct": -1.34,
+    "geometric_growth_pct": -6.87,
+    "annual_volatility_pct": 33.27,
+    "max_drawdown_pct": -47.67,
+    "monthly_var_95_pct": -16.89,
+    "sharpe_ratio": -0.19,
+    "quant_score": 25.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 135,
+        "nisa_required_capital_yen": 737100,
+        "specific_required_shares": 170,
+        "specific_required_capital_yen": 928200
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 675,
+        "nisa_required_capital_yen": 3685500,
+        "specific_required_shares": 847,
+        "specific_required_capital_yen": 4624620
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1349,
+        "nisa_required_capital_yen": 7365540,
+        "specific_required_shares": 1693,
+        "specific_required_capital_yen": 9243780
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 4045,
+        "nisa_required_capital_yen": 22085700,
+        "specific_required_shares": 5077,
+        "specific_required_capital_yen": 27720420
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 6742,
+        "nisa_required_capital_yen": 36811320,
+        "specific_required_shares": 8461,
+        "specific_required_capital_yen": 46197060
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116654,
+        "upper_90_yen": 157905,
+        "lower_10_yen": 86914
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 227350,
+        "upper_90_yen": 345495,
+        "lower_10_yen": 152398
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 332393,
+        "upper_90_yen": 552572,
+        "lower_10_yen": 205762
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 432072,
+        "upper_90_yen": 774781,
+        "lower_10_yen": 250524
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 526660,
+        "upper_90_yen": 1009309,
+        "lower_10_yen": 288704
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 616417,
+        "upper_90_yen": 1254072,
+        "lower_10_yen": 321641
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 701590,
+        "upper_90_yen": 1507409,
+        "lower_10_yen": 350294
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 782414,
+        "upper_90_yen": 1767937,
+        "lower_10_yen": 375380
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 859110,
+        "upper_90_yen": 2034477,
+        "lower_10_yen": 397459
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 931889,
+        "upper_90_yen": 2305997,
+        "lower_10_yen": 416974
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ワークマン(7564)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ワークマン(7564)を1株(5,460円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小5,460円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.27%、幾何成長率は-6.87%",
+      "新NISAで月1万円の配当金を得るには1,349株（約7,365,540円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ワークマンは単元未満株（S株・かぶミニ等）を利用することで1株（約5,460円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は931,889円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり89.0円（利回り1.63%）です。月次95%VaR（最大想定損失率）は-16.89%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ワークマンは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約5,460円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,349株（元本目安：約7,365,540円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 5460.0
+  }
+}

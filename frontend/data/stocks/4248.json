@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4248",
+    "name": "竹本容器",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 868.0,
+    "min_s_kabu_yen": 868,
+    "unit_lot_yen": 86800,
+    "dps_yen": 37.0,
+    "dividend_yield_pct": 4.26,
+    "raw_annual_return_pct": 4.76,
+    "capped_annual_return_pct": 4.76,
+    "geometric_growth_pct": 3.53,
+    "annual_volatility_pct": 15.72,
+    "max_drawdown_pct": -14.5,
+    "monthly_var_95_pct": -4.15,
+    "sharpe_ratio": 0.43,
+    "quant_score": 79.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 325,
+        "nisa_required_capital_yen": 282100,
+        "specific_required_shares": 408,
+        "specific_required_capital_yen": 354144
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1622,
+        "nisa_required_capital_yen": 1407896,
+        "specific_required_shares": 2036,
+        "specific_required_capital_yen": 1767248
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3244,
+        "nisa_required_capital_yen": 2815792,
+        "specific_required_shares": 4071,
+        "specific_required_capital_yen": 3533628
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9730,
+        "nisa_required_capital_yen": 8445640,
+        "specific_required_shares": 12211,
+        "specific_required_capital_yen": 10599148
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 16217,
+        "nisa_required_capital_yen": 14076356,
+        "specific_required_shares": 20351,
+        "specific_required_capital_yen": 17664668
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125205,
+        "upper_90_yen": 144541,
+        "lower_10_yen": 108660
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 260557,
+        "upper_90_yen": 318297,
+        "lower_10_yen": 214154
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 406878,
+        "upper_90_yen": 520033,
+        "lower_10_yen": 320318
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 565058,
+        "upper_90_yen": 751149,
+        "lower_10_yen": 428604
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 736057,
+        "upper_90_yen": 1013863,
+        "lower_10_yen": 539927
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 920914,
+        "upper_90_yen": 1310916,
+        "lower_10_yen": 654981
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1120752,
+        "upper_90_yen": 1645484,
+        "lower_10_yen": 774360
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1336786,
+        "upper_90_yen": 2021165,
+        "lower_10_yen": 898604
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1570327,
+        "upper_90_yen": 2441979,
+        "lower_10_yen": 1028226
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1822796,
+        "upper_90_yen": 2912395,
+        "lower_10_yen": 1163736
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "竹本容器(4248)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "竹本容器(4248)を1株(868円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小868円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは15.72%、幾何成長率は3.53%",
+      "新NISAで月1万円の配当金を得るには3,244株（約2,815,792円）が必要"
+    ],
+    "accumulation_strategy_analysis": "竹本容器は単元未満株（S株・かぶミニ等）を利用することで1株（約868円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,822,796円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり37.0円（利回り4.26%）です。月次95%VaR（最大想定損失率）は-4.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "竹本容器は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約868円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,244株（元本目安：約2,815,792円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 868.0
+  }
+}

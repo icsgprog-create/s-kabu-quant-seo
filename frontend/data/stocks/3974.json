@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3974",
+    "name": "ＳＣＡＴ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 508.0,
+    "min_s_kabu_yen": 508,
+    "unit_lot_yen": 50800,
+    "dps_yen": 14.5,
+    "dividend_yield_pct": 2.85,
+    "raw_annual_return_pct": 2.45,
+    "capped_annual_return_pct": 2.45,
+    "geometric_growth_pct": -1.9,
+    "annual_volatility_pct": 29.47,
+    "max_drawdown_pct": -43.75,
+    "monthly_var_95_pct": -13.93,
+    "sharpe_ratio": -0.0,
+    "quant_score": 43.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 828,
+        "nisa_required_capital_yen": 420624,
+        "specific_required_shares": 1039,
+        "specific_required_capital_yen": 527812
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 4138,
+        "nisa_required_capital_yen": 2102104,
+        "specific_required_shares": 5193,
+        "specific_required_capital_yen": 2638044
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 8276,
+        "nisa_required_capital_yen": 4204208,
+        "specific_required_shares": 10386,
+        "specific_required_capital_yen": 5276088
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 24828,
+        "nisa_required_capital_yen": 12612624,
+        "specific_required_shares": 31158,
+        "specific_required_capital_yen": 15828264
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 41380,
+        "nisa_required_capital_yen": 21021040,
+        "specific_required_shares": 51929,
+        "specific_required_capital_yen": 26379932
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 120625,
+        "upper_90_yen": 157895,
+        "lower_10_yen": 92767
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 242413,
+        "upper_90_yen": 352354,
+        "lower_10_yen": 169190
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 365374,
+        "upper_90_yen": 576810,
+        "lower_10_yen": 236629
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 489520,
+        "upper_90_yen": 829488,
+        "lower_10_yen": 297675
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 614862,
+        "upper_90_yen": 1109799,
+        "lower_10_yen": 353759
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 741412,
+        "upper_90_yen": 1417686,
+        "lower_10_yen": 405802
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 869181,
+        "upper_90_yen": 1753390,
+        "lower_10_yen": 454453
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 998182,
+        "upper_90_yen": 2117348,
+        "lower_10_yen": 500193
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1128425,
+        "upper_90_yen": 2510131,
+        "lower_10_yen": 543396
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1259923,
+        "upper_90_yen": 2932413,
+        "lower_10_yen": 584357
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＳＣＡＴ(3974)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＳＣＡＴ(3974)を1株(508円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小508円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは29.47%、幾何成長率は-1.9%",
+      "新NISAで月1万円の配当金を得るには8,276株（約4,204,208円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＳＣＡＴは単元未満株（S株・かぶミニ等）を利用することで1株（約508円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,259,923円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり14.5円（利回り2.85%）です。月次95%VaR（最大想定損失率）は-13.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＳＣＡＴは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約508円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、8,276株（元本目安：約4,204,208円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 508.0
+  }
+}

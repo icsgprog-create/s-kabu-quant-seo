@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7219",
+    "name": "エッチ・ケー・エス",
+    "sector": "輸送用機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2434.0,
+    "min_s_kabu_yen": 2434,
+    "unit_lot_yen": 243400,
+    "dps_yen": 107.0,
+    "dividend_yield_pct": 4.4,
+    "raw_annual_return_pct": 8.5,
+    "capped_annual_return_pct": 8.5,
+    "geometric_growth_pct": 6.22,
+    "annual_volatility_pct": 21.37,
+    "max_drawdown_pct": -27.46,
+    "monthly_var_95_pct": -6.17,
+    "sharpe_ratio": 0.45,
+    "quant_score": 75.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 113,
+        "nisa_required_capital_yen": 275042,
+        "specific_required_shares": 141,
+        "specific_required_capital_yen": 343194
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 561,
+        "nisa_required_capital_yen": 1365474,
+        "specific_required_shares": 704,
+        "specific_required_capital_yen": 1713536
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1122,
+        "nisa_required_capital_yen": 2730948,
+        "specific_required_shares": 1408,
+        "specific_required_capital_yen": 3427072
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 3365,
+        "nisa_required_capital_yen": 8190410,
+        "specific_required_shares": 4223,
+        "specific_required_capital_yen": 10278782
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 5608,
+        "nisa_required_capital_yen": 13649872,
+        "specific_required_shares": 7038,
+        "specific_required_capital_yen": 17130492
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127160,
+        "upper_90_yen": 154719,
+        "lower_10_yen": 104873
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 268559,
+        "upper_90_yen": 353369,
+        "lower_10_yen": 205623
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 425790,
+        "upper_90_yen": 596747,
+        "lower_10_yen": 307263
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 600627,
+        "upper_90_yen": 889578,
+        "lower_10_yen": 411696
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 795042,
+        "upper_90_yen": 1238196,
+        "lower_10_yen": 520153
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1011225,
+        "upper_90_yen": 1650248,
+        "lower_10_yen": 633605
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1251614,
+        "upper_90_yen": 2134701,
+        "lower_10_yen": 752916
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1518921,
+        "upper_90_yen": 2701933,
+        "lower_10_yen": 878910
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1816159,
+        "upper_90_yen": 3363883,
+        "lower_10_yen": 1012404
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2146679,
+        "upper_90_yen": 4134244,
+        "lower_10_yen": 1154235
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "エッチ・ケー・エス(7219)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "エッチ・ケー・エス(7219)を1株(2,434円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,434円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.37%、幾何成長率は6.22%",
+      "新NISAで月1万円の配当金を得るには1,122株（約2,730,948円）が必要"
+    ],
+    "accumulation_strategy_analysis": "エッチ・ケー・エスは単元未満株（S株・かぶミニ等）を利用することで1株（約2,434円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,146,679円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり107.0円（利回り4.4%）です。月次95%VaR（最大想定損失率）は-6.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "エッチ・ケー・エスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,434円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,122株（元本目安：約2,730,948円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2434.0
+  }
+}

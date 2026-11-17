@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4386",
+    "name": "ＳＩＧグループ",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 869.0,
+    "min_s_kabu_yen": 869,
+    "unit_lot_yen": 86900,
+    "dps_yen": 31.0,
+    "dividend_yield_pct": 3.57,
+    "raw_annual_return_pct": 7.58,
+    "capped_annual_return_pct": 7.58,
+    "geometric_growth_pct": 1.09,
+    "annual_volatility_pct": 36.01,
+    "max_drawdown_pct": -37.16,
+    "monthly_var_95_pct": -10.15,
+    "sharpe_ratio": 0.1,
+    "quant_score": 45.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 388,
+        "nisa_required_capital_yen": 337172,
+        "specific_required_shares": 486,
+        "specific_required_capital_yen": 422334
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1936,
+        "nisa_required_capital_yen": 1682384,
+        "specific_required_shares": 2429,
+        "specific_required_capital_yen": 2110801
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3871,
+        "nisa_required_capital_yen": 3363899,
+        "specific_required_shares": 4858,
+        "specific_required_capital_yen": 4221602
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 11613,
+        "nisa_required_capital_yen": 10091697,
+        "specific_required_shares": 14574,
+        "specific_required_capital_yen": 12664806
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 19355,
+        "nisa_required_capital_yen": 16819495,
+        "specific_required_shares": 24290,
+        "specific_required_capital_yen": 21108010
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123079,
+        "upper_90_yen": 171359,
+        "lower_10_yen": 89279
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 252029,
+        "upper_90_yen": 399994,
+        "lower_10_yen": 162219
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 387132,
+        "upper_90_yen": 682047,
+        "lower_10_yen": 227046
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 528679,
+        "upper_90_yen": 1019560,
+        "lower_10_yen": 286483
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 676980,
+        "upper_90_yen": 1416287,
+        "lower_10_yen": 341972
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 832355,
+        "upper_90_yen": 1876991,
+        "lower_10_yen": 394415
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 995143,
+        "upper_90_yen": 2407225,
+        "lower_10_yen": 444427
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1165696,
+        "upper_90_yen": 3013253,
+        "lower_10_yen": 492454
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1344387,
+        "upper_90_yen": 3702041,
+        "lower_10_yen": 538835
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1531602,
+        "upper_90_yen": 4481265,
+        "lower_10_yen": 583835
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＳＩＧグループ(4386)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＳＩＧグループ(4386)を1株(869円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小869円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.01%、幾何成長率は1.09%",
+      "新NISAで月1万円の配当金を得るには3,871株（約3,363,899円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＳＩＧグループは単元未満株（S株・かぶミニ等）を利用することで1株（約869円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,531,602円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり31.0円（利回り3.57%）です。月次95%VaR（最大想定損失率）は-10.15%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＳＩＧグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約869円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,871株（元本目安：約3,363,899円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 869.0
+  }
+}

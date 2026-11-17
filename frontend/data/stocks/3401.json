@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3401",
+    "name": "帝人",
+    "sector": "繊維製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1756.5,
+    "min_s_kabu_yen": 1757,
+    "unit_lot_yen": 175650,
+    "dps_yen": 50.0,
+    "dividend_yield_pct": 2.85,
+    "raw_annual_return_pct": 7.47,
+    "capped_annual_return_pct": 7.47,
+    "geometric_growth_pct": 3.58,
+    "annual_volatility_pct": 27.91,
+    "max_drawdown_pct": -30.18,
+    "monthly_var_95_pct": -9.74,
+    "sharpe_ratio": 0.19,
+    "quant_score": 49.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 240,
+        "nisa_required_capital_yen": 421560,
+        "specific_required_shares": 302,
+        "specific_required_capital_yen": 530463
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 2107800,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 2645289
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2400,
+        "nisa_required_capital_yen": 4215600,
+        "specific_required_shares": 3012,
+        "specific_required_capital_yen": 5290578
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7200,
+        "nisa_required_capital_yen": 12646800,
+        "specific_required_shares": 9036,
+        "specific_required_capital_yen": 15871734
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 21078000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 26452890
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124269,
+        "upper_90_yen": 160527,
+        "lower_10_yen": 96773
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 256782,
+        "upper_90_yen": 367060,
+        "lower_10_yen": 181942
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 398084,
+        "upper_90_yen": 617030,
+        "lower_10_yen": 261900
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 548758,
+        "upper_90_yen": 912504,
+        "lower_10_yen": 338793
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 709428,
+        "upper_90_yen": 1256962,
+        "lower_10_yen": 413780
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 880755,
+        "upper_90_yen": 1654760,
+        "lower_10_yen": 487603
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1063446,
+        "upper_90_yen": 2110985,
+        "lower_10_yen": 560790
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1258256,
+        "upper_90_yen": 2631407,
+        "lower_10_yen": 633739
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1465987,
+        "upper_90_yen": 3222485,
+        "lower_10_yen": 706768
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1687498,
+        "upper_90_yen": 3891403,
+        "lower_10_yen": 780141
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "帝人(3401)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "帝人(3401)を1株(1,757円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,757円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.91%、幾何成長率は3.58%",
+      "新NISAで月1万円の配当金を得るには2,400株（約4,215,600円）が必要"
+    ],
+    "accumulation_strategy_analysis": "帝人は単元未満株（S株・かぶミニ等）を利用することで1株（約1,757円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,687,498円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり50.0円（利回り2.85%）です。月次95%VaR（最大想定損失率）は-9.74%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "帝人は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,757円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,400株（元本目安：約4,215,600円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1756.5
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8334",
+    "name": "群馬銀行",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2428.5,
+    "min_s_kabu_yen": 2429,
+    "unit_lot_yen": 242850,
+    "dps_yen": 69.0,
+    "dividend_yield_pct": 2.84,
+    "raw_annual_return_pct": 42.82,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.29,
+    "annual_volatility_pct": 33.8,
+    "max_drawdown_pct": -27.86,
+    "monthly_var_95_pct": -10.04,
+    "sharpe_ratio": 0.48,
+    "quant_score": 50.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 174,
+        "nisa_required_capital_yen": 422559,
+        "specific_required_shares": 219,
+        "specific_required_capital_yen": 531842
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 870,
+        "nisa_required_capital_yen": 2112795,
+        "specific_required_shares": 1092,
+        "specific_required_capital_yen": 2651922
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1740,
+        "nisa_required_capital_yen": 4225590,
+        "specific_required_shares": 2183,
+        "specific_required_capital_yen": 5301416
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5218,
+        "nisa_required_capital_yen": 12671913,
+        "specific_required_shares": 6548,
+        "specific_required_capital_yen": 15901818
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8696,
+        "nisa_required_capital_yen": 21118236,
+        "specific_required_shares": 10913,
+        "specific_required_capital_yen": 26502220
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131825,
+        "upper_90_yen": 180383,
+        "lower_10_yen": 97172
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 288278,
+        "upper_90_yen": 448664,
+        "lower_10_yen": 188643
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 473959,
+        "upper_90_yen": 819693,
+        "lower_10_yen": 281709
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 694328,
+        "upper_90_yen": 1318444,
+        "lower_10_yen": 379184
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 955865,
+        "upper_90_yen": 1977780,
+        "lower_10_yen": 483016
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1266262,
+        "upper_90_yen": 2839564,
+        "lower_10_yen": 594893
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1634646,
+        "upper_90_yen": 3956561,
+        "lower_10_yen": 716458
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2071851,
+        "upper_90_yen": 5394958,
+        "lower_10_yen": 849416
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2590733,
+        "upper_90_yen": 7237536,
+        "lower_10_yen": 995603
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3206550,
+        "upper_90_yen": 9587623,
+        "lower_10_yen": 1157037
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "群馬銀行(8334)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "群馬銀行(8334)を1株(2,429円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,429円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.8%、幾何成長率は14.29%",
+      "新NISAで月1万円の配当金を得るには1,740株（約4,225,590円）が必要"
+    ],
+    "accumulation_strategy_analysis": "群馬銀行は単元未満株（S株・かぶミニ等）を利用することで1株（約2,429円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,206,550円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり69.0円（利回り2.84%）です。月次95%VaR（最大想定損失率）は-10.04%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "群馬銀行は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,429円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,740株（元本目安：約4,225,590円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2428.5
+  }
+}

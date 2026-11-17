@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5951",
+    "name": "ダイニチ工業",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1067.0,
+    "min_s_kabu_yen": 1067,
+    "unit_lot_yen": 106700,
+    "dps_yen": 28.0,
+    "dividend_yield_pct": 2.62,
+    "raw_annual_return_pct": 8.55,
+    "capped_annual_return_pct": 8.55,
+    "geometric_growth_pct": 5.36,
+    "annual_volatility_pct": 25.28,
+    "max_drawdown_pct": -23.05,
+    "monthly_var_95_pct": -7.59,
+    "sharpe_ratio": 0.28,
+    "quant_score": 52.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 457743,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 574046
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2143,
+        "nisa_required_capital_yen": 2286581,
+        "specific_required_shares": 2690,
+        "specific_required_capital_yen": 2870230
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 4573162,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 5739393
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12858,
+        "nisa_required_capital_yen": 13719486,
+        "specific_required_shares": 16135,
+        "specific_required_capital_yen": 17216045
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 21429,
+        "nisa_required_capital_yen": 22864743,
+        "specific_required_shares": 26892,
+        "specific_required_capital_yen": 28693764
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125337,
+        "upper_90_yen": 158050,
+        "lower_10_yen": 99878
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 261090,
+        "upper_90_yen": 360974,
+        "lower_10_yen": 190825
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 408127,
+        "upper_90_yen": 607477,
+        "lower_10_yen": 278607
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 567385,
+        "upper_90_yen": 900572,
+        "lower_10_yen": 365195
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 739879,
+        "upper_90_yen": 1244722,
+        "lower_10_yen": 451694
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 926710,
+        "upper_90_yen": 1645392,
+        "lower_10_yen": 538846
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1129069,
+        "upper_90_yen": 2108944,
+        "lower_10_yen": 627214
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1348247,
+        "upper_90_yen": 2642636,
+        "lower_10_yen": 717252
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1585642,
+        "upper_90_yen": 3254670,
+        "lower_10_yen": 809356
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1842767,
+        "upper_90_yen": 3954264,
+        "lower_10_yen": 903880
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ダイニチ工業(5951)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ダイニチ工業(5951)を1株(1,067円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,067円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.28%、幾何成長率は5.36%",
+      "新NISAで月1万円の配当金を得るには4,286株（約4,573,162円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ダイニチ工業は単元未満株（S株・かぶミニ等）を利用することで1株（約1,067円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,842,767円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり28.0円（利回り2.62%）です。月次95%VaR（最大想定損失率）は-7.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ダイニチ工業は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,067円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,286株（元本目安：約4,573,162円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1067.0
+  }
+}

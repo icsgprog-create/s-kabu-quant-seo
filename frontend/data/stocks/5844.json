@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5844",
+    "name": "京都フィナンシャルグループ",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4016.0,
+    "min_s_kabu_yen": 4016,
+    "unit_lot_yen": 401600,
+    "dps_yen": 190.0,
+    "dividend_yield_pct": 4.73,
+    "raw_annual_return_pct": 26.36,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.71,
+    "annual_volatility_pct": 32.52,
+    "max_drawdown_pct": -36.02,
+    "monthly_var_95_pct": -10.03,
+    "sharpe_ratio": 0.57,
+    "quant_score": 69.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 64,
+        "nisa_required_capital_yen": 257024,
+        "specific_required_shares": 80,
+        "specific_required_capital_yen": 321280
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 316,
+        "nisa_required_capital_yen": 1269056,
+        "specific_required_shares": 397,
+        "specific_required_capital_yen": 1594352
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 632,
+        "nisa_required_capital_yen": 2538112,
+        "specific_required_shares": 793,
+        "specific_required_capital_yen": 3184688
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1895,
+        "nisa_required_capital_yen": 7610320,
+        "specific_required_shares": 2378,
+        "specific_required_capital_yen": 9550048
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 12682528,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 15915408
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133536,
+        "upper_90_yen": 180640,
+        "lower_10_yen": 99503
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 295730,
+        "upper_90_yen": 453211,
+        "lower_10_yen": 196244
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 492732,
+        "upper_90_yen": 836749,
+        "lower_10_yen": 297577
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 732014,
+        "upper_90_yen": 1361888,
+        "lower_10_yen": 406717
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1022647,
+        "upper_90_yen": 2069452,
+        "lower_10_yen": 526190
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1375655,
+        "upper_90_yen": 3012459,
+        "lower_10_yen": 658421
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1804421,
+        "upper_90_yen": 4259172,
+        "lower_10_yen": 805963
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2325206,
+        "upper_90_yen": 5897115,
+        "lower_10_yen": 971625
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2957757,
+        "upper_90_yen": 8038222,
+        "lower_10_yen": 1158579
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3726061,
+        "upper_90_yen": 10825380,
+        "lower_10_yen": 1370448
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "京都フィナンシャルグループ(5844)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "京都フィナンシャルグループ(5844)を1株(4,016円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,016円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.52%、幾何成長率は14.71%",
+      "新NISAで月1万円の配当金を得るには632株（約2,538,112円）が必要"
+    ],
+    "accumulation_strategy_analysis": "京都フィナンシャルグループは単元未満株（S株・かぶミニ等）を利用することで1株（約4,016円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,726,061円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり190.0円（利回り4.73%）です。月次95%VaR（最大想定損失率）は-10.03%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "京都フィナンシャルグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,016円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、632株（元本目安：約2,538,112円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4016.0
+  }
+}

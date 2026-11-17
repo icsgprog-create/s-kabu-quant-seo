@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9535",
+    "name": "広島ガス",
+    "sector": "電気・ガス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 400.0,
+    "min_s_kabu_yen": 400,
+    "unit_lot_yen": 40000,
+    "dps_yen": 12.0,
+    "dividend_yield_pct": 3.0,
+    "raw_annual_return_pct": 5.23,
+    "capped_annual_return_pct": 5.23,
+    "geometric_growth_pct": 3.71,
+    "annual_volatility_pct": 17.44,
+    "max_drawdown_pct": -18.42,
+    "monthly_var_95_pct": -4.75,
+    "sharpe_ratio": 0.33,
+    "quant_score": 64.7,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 400000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 502000
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 5000,
+        "nisa_required_capital_yen": 2000000,
+        "specific_required_shares": 6275,
+        "specific_required_capital_yen": 2510000
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 4000000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 5020000
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 30000,
+        "nisa_required_capital_yen": 12000000,
+        "specific_required_shares": 37649,
+        "specific_required_capital_yen": 15059600
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 50000,
+        "nisa_required_capital_yen": 20000000,
+        "specific_required_shares": 62748,
+        "specific_required_capital_yen": 25099200
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 124463,
+        "upper_90_yen": 145962,
+        "lower_10_yen": 106377
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 257561,
+        "upper_90_yen": 321563,
+        "lower_10_yen": 207329
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 399894,
+        "upper_90_yen": 524829,
+        "lower_10_yen": 307034
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 552100,
+        "upper_90_yen": 756657,
+        "lower_10_yen": 406995
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 714867,
+        "upper_90_yen": 1018777,
+        "lower_10_yen": 508089
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 888925,
+        "upper_90_yen": 1313410,
+        "lower_10_yen": 610936
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1075059,
+        "upper_90_yen": 1643152,
+        "lower_10_yen": 716022
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1274107,
+        "upper_90_yen": 2010949,
+        "lower_10_yen": 823760
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1486964,
+        "upper_90_yen": 2420077,
+        "lower_10_yen": 934516
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1714588,
+        "upper_90_yen": 2874162,
+        "lower_10_yen": 1048632
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "広島ガス(9535)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "広島ガス(9535)を1株(400円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小400円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは17.44%、幾何成長率は3.71%",
+      "新NISAで月1万円の配当金を得るには10,000株（約4,000,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "広島ガスは単元未満株（S株・かぶミニ等）を利用することで1株（約400円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,714,588円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり12.0円（利回り3.0%）です。月次95%VaR（最大想定損失率）は-4.75%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "広島ガスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約400円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、10,000株（元本目安：約4,000,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 400.0
+  }
+}

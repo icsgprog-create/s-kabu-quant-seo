@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "8041",
+    "name": "ＯＵＧホールディングス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4030.0,
+    "min_s_kabu_yen": 4030,
+    "unit_lot_yen": 403000,
+    "dps_yen": 167.0,
+    "dividend_yield_pct": 4.14,
+    "raw_annual_return_pct": 12.17,
+    "capped_annual_return_pct": 12.17,
+    "geometric_growth_pct": 9.9,
+    "annual_volatility_pct": 21.3,
+    "max_drawdown_pct": -22.11,
+    "monthly_var_95_pct": -6.97,
+    "sharpe_ratio": 0.61,
+    "quant_score": 77.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 72,
+        "nisa_required_capital_yen": 290160,
+        "specific_required_shares": 91,
+        "specific_required_capital_yen": 366730
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 360,
+        "nisa_required_capital_yen": 1450800,
+        "specific_required_shares": 451,
+        "specific_required_capital_yen": 1817530
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 719,
+        "nisa_required_capital_yen": 2897570,
+        "specific_required_shares": 902,
+        "specific_required_capital_yen": 3635060
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2156,
+        "nisa_required_capital_yen": 8688680,
+        "specific_required_shares": 2706,
+        "specific_required_capital_yen": 10905180
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 3593,
+        "nisa_required_capital_yen": 14479790,
+        "specific_required_shares": 4509,
+        "specific_required_capital_yen": 18171270
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 129588,
+        "upper_90_yen": 157666,
+        "lower_10_yen": 106876
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 278711,
+        "upper_90_yen": 367015,
+        "lower_10_yen": 213207
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 450313,
+        "upper_90_yen": 632347,
+        "lower_10_yen": 324257
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 647782,
+        "upper_90_yen": 962631,
+        "lower_10_yen": 442371
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 875019,
+        "upper_90_yen": 1369451,
+        "lower_10_yen": 569341
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1136510,
+        "upper_90_yen": 1866962,
+        "lower_10_yen": 706819
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1437419,
+        "upper_90_yen": 2472171,
+        "lower_10_yen": 856466
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1783688,
+        "upper_90_yen": 3205376,
+        "lower_10_yen": 1020031
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2182155,
+        "upper_90_yen": 4090709,
+        "lower_10_yen": 1199403
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2640687,
+        "upper_90_yen": 5156806,
+        "lower_10_yen": 1396651
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＯＵＧホールディングス(8041)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＯＵＧホールディングス(8041)を1株(4,030円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,030円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは21.3%、幾何成長率は9.9%",
+      "新NISAで月1万円の配当金を得るには719株（約2,897,570円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＯＵＧホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約4,030円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,640,687円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり167.0円（利回り4.14%）です。月次95%VaR（最大想定損失率）は-6.97%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＯＵＧホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,030円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、719株（元本目安：約2,897,570円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4030.0
+  }
+}

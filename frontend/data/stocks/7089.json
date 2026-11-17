@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7089",
+    "name": "フォースタートアップス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1472.0,
+    "min_s_kabu_yen": 1472,
+    "unit_lot_yen": 147200,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -13.27,
+    "capped_annual_return_pct": -13.27,
+    "geometric_growth_pct": -29.67,
+    "annual_volatility_pct": 57.27,
+    "max_drawdown_pct": -86.67,
+    "monthly_var_95_pct": -24.93,
+    "sharpe_ratio": -0.54,
+    "quant_score": 0.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 102558,
+        "upper_90_yen": 171739,
+        "lower_10_yen": 62828
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 178789,
+        "upper_90_yen": 359914,
+        "lower_10_yen": 93937
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 235450,
+        "upper_90_yen": 541520,
+        "lower_10_yen": 111693
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 277565,
+        "upper_90_yen": 708402,
+        "lower_10_yen": 122355
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 308869,
+        "upper_90_yen": 857421,
+        "lower_10_yen": 128947
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 332136,
+        "upper_90_yen": 987927,
+        "lower_10_yen": 133104
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 349431,
+        "upper_90_yen": 1100596,
+        "lower_10_yen": 135763
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 362286,
+        "upper_90_yen": 1196790,
+        "lower_10_yen": 137484
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 371840,
+        "upper_90_yen": 1278188,
+        "lower_10_yen": 138607
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 378942,
+        "upper_90_yen": 1346555,
+        "lower_10_yen": 139345
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フォースタートアップス(7089)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フォースタートアップス(7089)を1株(1,472円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,472円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは57.27%、幾何成長率は-29.67%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フォースタートアップスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,472円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は378,942円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-24.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フォースタートアップスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,472円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1472.0
+  }
+}

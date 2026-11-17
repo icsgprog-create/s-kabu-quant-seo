@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9110",
+    "name": "ＮＳユナイテッド海運",
+    "sector": "海運業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 10540.0,
+    "min_s_kabu_yen": 10540,
+    "unit_lot_yen": 1054000,
+    "dps_yen": 205.0,
+    "dividend_yield_pct": 1.94,
+    "raw_annual_return_pct": 29.51,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 13.4,
+    "annual_volatility_pct": 36.32,
+    "max_drawdown_pct": -33.06,
+    "monthly_var_95_pct": -14.45,
+    "sharpe_ratio": 0.4,
+    "quant_score": 39.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 59,
+        "nisa_required_capital_yen": 621860,
+        "specific_required_shares": 74,
+        "specific_required_capital_yen": 779960
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 293,
+        "nisa_required_capital_yen": 3088220,
+        "specific_required_shares": 368,
+        "specific_required_capital_yen": 3878720
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 586,
+        "nisa_required_capital_yen": 6176440,
+        "specific_required_shares": 735,
+        "specific_required_capital_yen": 7746900
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1757,
+        "nisa_required_capital_yen": 18518780,
+        "specific_required_shares": 2204,
+        "specific_required_capital_yen": 23230160
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2927,
+        "nisa_required_capital_yen": 30850580,
+        "specific_required_shares": 3673,
+        "specific_required_capital_yen": 38713420
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130530,
+        "upper_90_yen": 182801,
+        "lower_10_yen": 94138
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 282714,
+        "upper_90_yen": 454408,
+        "lower_10_yen": 179660
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 460143,
+        "upper_90_yen": 827649,
+        "lower_10_yen": 264154
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 667006,
+        "upper_90_yen": 1325128,
+        "lower_10_yen": 350282
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 908186,
+        "upper_90_yen": 1976403,
+        "lower_10_yen": 439683
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1189374,
+        "upper_90_yen": 2818680,
+        "lower_10_yen": 533632
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1517210,
+        "upper_90_yen": 3898212,
+        "lower_10_yen": 633258
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1899429,
+        "upper_90_yen": 5272185,
+        "lower_10_yen": 739649
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2345055,
+        "upper_90_yen": 7011071,
+        "lower_10_yen": 853910
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2864605,
+        "upper_90_yen": 9201524,
+        "lower_10_yen": 977199
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＮＳユナイテッド海運(9110)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＮＳユナイテッド海運(9110)を1株(10,540円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小10,540円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは36.32%、幾何成長率は13.4%",
+      "新NISAで月1万円の配当金を得るには586株（約6,176,440円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＮＳユナイテッド海運は単元未満株（S株・かぶミニ等）を利用することで1株（約10,540円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,864,605円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり205.0円（利回り1.94%）です。月次95%VaR（最大想定損失率）は-14.45%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＮＳユナイテッド海運は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約10,540円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、586株（元本目安：約6,176,440円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 10540.0
+  }
+}

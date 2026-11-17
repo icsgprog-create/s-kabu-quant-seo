@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7570",
+    "name": "橋本総業ホールディングス",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1255.0,
+    "min_s_kabu_yen": 1255,
+    "unit_lot_yen": 125500,
+    "dps_yen": 51.0,
+    "dividend_yield_pct": 4.06,
+    "raw_annual_return_pct": 7.59,
+    "capped_annual_return_pct": 7.59,
+    "geometric_growth_pct": 4.3,
+    "annual_volatility_pct": 25.68,
+    "max_drawdown_pct": -27.36,
+    "monthly_var_95_pct": -7.78,
+    "sharpe_ratio": 0.29,
+    "quant_score": 64.0,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 236,
+        "nisa_required_capital_yen": 296180,
+        "specific_required_shares": 296,
+        "specific_required_capital_yen": 371480
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1177,
+        "nisa_required_capital_yen": 1477135,
+        "specific_required_shares": 1477,
+        "specific_required_capital_yen": 1853635
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2353,
+        "nisa_required_capital_yen": 2953015,
+        "specific_required_shares": 2953,
+        "specific_required_capital_yen": 3706015
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7059,
+        "nisa_required_capital_yen": 8859045,
+        "specific_required_shares": 8859,
+        "specific_required_capital_yen": 11118045
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11765,
+        "nisa_required_capital_yen": 14765075,
+        "specific_required_shares": 14765,
+        "specific_required_capital_yen": 18530075
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125595,
+        "upper_90_yen": 158984,
+        "lower_10_yen": 99716
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262140,
+        "upper_90_yen": 364425,
+        "lower_10_yen": 190604
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 410590,
+        "upper_90_yen": 615381,
+        "lower_10_yen": 278495
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 571982,
+        "upper_90_yen": 915340,
+        "lower_10_yen": 365388
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 747447,
+        "upper_90_yen": 1269332,
+        "lower_10_yen": 452403
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 938209,
+        "upper_90_yen": 1683489,
+        "lower_10_yen": 540305
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1145603,
+        "upper_90_yen": 2164955,
+        "lower_10_yen": 629672
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1371079,
+        "upper_90_yen": 2721901,
+        "lower_10_yen": 720982
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1616214,
+        "upper_90_yen": 3363592,
+        "lower_10_yen": 814651
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1882722,
+        "upper_90_yen": 4100480,
+        "lower_10_yen": 911061
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "橋本総業ホールディングス(7570)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "橋本総業ホールディングス(7570)を1株(1,255円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,255円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは25.68%、幾何成長率は4.3%",
+      "新NISAで月1万円の配当金を得るには2,353株（約2,953,015円）が必要"
+    ],
+    "accumulation_strategy_analysis": "橋本総業ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,255円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,882,722円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり51.0円（利回り4.06%）です。月次95%VaR（最大想定損失率）は-7.78%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "橋本総業ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,255円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,353株（元本目安：約2,953,015円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1255.0
+  }
+}

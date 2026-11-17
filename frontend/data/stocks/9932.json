@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9932",
+    "name": "杉本商事",
+    "sector": "卸売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1185.0,
+    "min_s_kabu_yen": 1185,
+    "unit_lot_yen": 118500,
+    "dps_yen": 54.0,
+    "dividend_yield_pct": 4.56,
+    "raw_annual_return_pct": 3.96,
+    "capped_annual_return_pct": 3.96,
+    "geometric_growth_pct": -1.09,
+    "annual_volatility_pct": 31.77,
+    "max_drawdown_pct": -42.52,
+    "monthly_var_95_pct": -10.59,
+    "sharpe_ratio": 0.08,
+    "quant_score": 56.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 223,
+        "nisa_required_capital_yen": 264255,
+        "specific_required_shares": 279,
+        "specific_required_capital_yen": 330615
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1112,
+        "nisa_required_capital_yen": 1317720,
+        "specific_required_shares": 1395,
+        "specific_required_capital_yen": 1653075
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2223,
+        "nisa_required_capital_yen": 2634255,
+        "specific_required_shares": 2789,
+        "specific_required_capital_yen": 3304965
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6667,
+        "nisa_required_capital_yen": 7900395,
+        "specific_required_shares": 8367,
+        "specific_required_capital_yen": 9914895
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11112,
+        "nisa_required_capital_yen": 13167720,
+        "specific_required_shares": 13944,
+        "specific_required_capital_yen": 16523640
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 122281,
+        "upper_90_yen": 163613,
+        "lower_10_yen": 92096
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 248874,
+        "upper_90_yen": 373369,
+        "lower_10_yen": 168672
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 379934,
+        "upper_90_yen": 624215,
+        "lower_10_yen": 237240
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 515616,
+        "upper_90_yen": 916231,
+        "lower_10_yen": 300344
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 656084,
+        "upper_90_yen": 1250852,
+        "lower_10_yen": 359354
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 801506,
+        "upper_90_yen": 1630207,
+        "lower_10_yen": 415136
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 952059,
+        "upper_90_yen": 2056892,
+        "lower_10_yen": 468285
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1107921,
+        "upper_90_yen": 2533877,
+        "lower_10_yen": 519239
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1269282,
+        "upper_90_yen": 3064460,
+        "lower_10_yen": 568331
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1436334,
+        "upper_90_yen": 3652252,
+        "lower_10_yen": 615825
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "杉本商事(9932)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "杉本商事(9932)を1株(1,185円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,185円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは31.77%、幾何成長率は-1.09%",
+      "新NISAで月1万円の配当金を得るには2,223株（約2,634,255円）が必要"
+    ],
+    "accumulation_strategy_analysis": "杉本商事は単元未満株（S株・かぶミニ等）を利用することで1株（約1,185円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,436,334円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり54.0円（利回り4.56%）です。月次95%VaR（最大想定損失率）は-10.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "杉本商事は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,185円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,223株（元本目安：約2,634,255円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1185.0
+  }
+}

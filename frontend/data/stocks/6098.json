@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6098",
+    "name": "リクルートホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 18195.0,
+    "min_s_kabu_yen": 18195,
+    "unit_lot_yen": 1819500,
+    "dps_yen": 25.5,
+    "dividend_yield_pct": 0.14,
+    "raw_annual_return_pct": 18.32,
+    "capped_annual_return_pct": 18.32,
+    "geometric_growth_pct": 9.29,
+    "annual_volatility_pct": 42.49,
+    "max_drawdown_pct": -55.41,
+    "monthly_var_95_pct": -18.88,
+    "sharpe_ratio": 0.2,
+    "quant_score": 13.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 471,
+        "nisa_required_capital_yen": 8569845,
+        "specific_required_shares": 591,
+        "specific_required_capital_yen": 10753245
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2353,
+        "nisa_required_capital_yen": 42812835,
+        "specific_required_shares": 2953,
+        "specific_required_capital_yen": 53729835
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4706,
+        "nisa_required_capital_yen": 85625670,
+        "specific_required_shares": 5906,
+        "specific_required_capital_yen": 107459670
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 14118,
+        "nisa_required_capital_yen": 256877010,
+        "specific_required_shares": 17717,
+        "specific_required_capital_yen": 322360815
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 23530,
+        "nisa_required_capital_yen": 428128350,
+        "specific_required_shares": 29529,
+        "specific_required_capital_yen": 537280155
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126339,
+        "upper_90_yen": 187167,
+        "lower_10_yen": 86455
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 265178,
+        "upper_90_yen": 460364,
+        "lower_10_yen": 157299
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 417754,
+        "upper_90_yen": 824299,
+        "lower_10_yen": 221420
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 585426,
+        "upper_90_yen": 1292071,
+        "lower_10_yen": 281627
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 769689,
+        "upper_90_yen": 1880800,
+        "lower_10_yen": 339376
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 972183,
+        "upper_90_yen": 2611250,
+        "lower_10_yen": 395573
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1194712,
+        "upper_90_yen": 3508036,
+        "lower_10_yen": 450844
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1439260,
+        "upper_90_yen": 4600055,
+        "lower_10_yen": 505652
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1708003,
+        "upper_90_yen": 5921058,
+        "lower_10_yen": 560364
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2003337,
+        "upper_90_yen": 7510339,
+        "lower_10_yen": 615281
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "リクルートホールディングス(6098)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "リクルートホールディングス(6098)を1株(18,195円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小18,195円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは42.49%、幾何成長率は9.29%",
+      "新NISAで月1万円の配当金を得るには4,706株（約85,625,670円）が必要"
+    ],
+    "accumulation_strategy_analysis": "リクルートホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約18,195円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,003,337円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり25.5円（利回り0.14%）です。月次95%VaR（最大想定損失率）は-18.88%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "リクルートホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約18,195円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,706株（元本目安：約85,625,670円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 18195.0
+  }
+}

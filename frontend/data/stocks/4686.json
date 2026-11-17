@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4686",
+    "name": "ジャストシステム",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 4795.0,
+    "min_s_kabu_yen": 4795,
+    "unit_lot_yen": 479500,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 0.63,
+    "raw_annual_return_pct": -3.29,
+    "capped_annual_return_pct": -3.29,
+    "geometric_growth_pct": -8.78,
+    "annual_volatility_pct": 33.15,
+    "max_drawdown_pct": -59.56,
+    "monthly_var_95_pct": -19.55,
+    "sharpe_ratio": -0.28,
+    "quant_score": 16.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 1918000,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 2407090
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 9590000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 12035450
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 19180000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 24070900
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 57540000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 72212700
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 95900000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 120349705
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114845,
+        "upper_90_yen": 155175,
+        "lower_10_yen": 85718
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 220693,
+        "upper_90_yen": 334147,
+        "lower_10_yen": 148474
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 318249,
+        "upper_90_yen": 525952,
+        "lower_10_yen": 198166
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 408164,
+        "upper_90_yen": 725784,
+        "lower_10_yen": 238666
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 491034,
+        "upper_90_yen": 930567,
+        "lower_10_yen": 272230
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 567413,
+        "upper_90_yen": 1138081,
+        "lower_10_yen": 300361
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 637809,
+        "upper_90_yen": 1346634,
+        "lower_10_yen": 324136
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 702690,
+        "upper_90_yen": 1554890,
+        "lower_10_yen": 344360
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 762489,
+        "upper_90_yen": 1761777,
+        "lower_10_yen": 361651
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 817603,
+        "upper_90_yen": 1966427,
+        "lower_10_yen": 376500
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ジャストシステム(4686)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ジャストシステム(4686)を1株(4,795円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小4,795円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.15%、幾何成長率は-8.78%",
+      "新NISAで月1万円の配当金を得るには4,000株（約19,180,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ジャストシステムは単元未満株（S株・かぶミニ等）を利用することで1株（約4,795円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は817,603円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り0.63%）です。月次95%VaR（最大想定損失率）は-19.55%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ジャストシステムは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約4,795円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約19,180,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 4795.0
+  }
+}

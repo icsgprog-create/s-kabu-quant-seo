@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7096",
+    "name": "ステムセル研究所",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 640.0,
+    "min_s_kabu_yen": 640,
+    "unit_lot_yen": 64000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": -29.33,
+    "capped_annual_return_pct": -15.0,
+    "geometric_growth_pct": -24.78,
+    "annual_volatility_pct": 44.23,
+    "max_drawdown_pct": -80.13,
+    "monthly_var_95_pct": -22.32,
+    "sharpe_ratio": -0.58,
+    "quant_score": 0.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 105193,
+        "upper_90_yen": 156565,
+        "lower_10_yen": 71759
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 187297,
+        "upper_90_yen": 321595,
+        "lower_10_yen": 112787
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 251380,
+        "upper_90_yen": 479192,
+        "lower_10_yen": 138913
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 301397,
+        "upper_90_yen": 624093,
+        "lower_10_yen": 156211
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 340436,
+        "upper_90_yen": 754403,
+        "lower_10_yen": 167923
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 370906,
+        "upper_90_yen": 869844,
+        "lower_10_yen": 175975
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 394688,
+        "upper_90_yen": 970989,
+        "lower_10_yen": 181573
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 413250,
+        "upper_90_yen": 1058851,
+        "lower_10_yen": 185497
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 427737,
+        "upper_90_yen": 1134649,
+        "lower_10_yen": 188269
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 439045,
+        "upper_90_yen": 1199666,
+        "lower_10_yen": 190237
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ステムセル研究所(7096)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ステムセル研究所(7096)を1株(640円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小640円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは44.23%、幾何成長率は-24.78%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ステムセル研究所は単元未満株（S株・かぶミニ等）を利用することで1株（約640円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は439,045円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-22.32%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ステムセル研究所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約640円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 640.0
+  }
+}

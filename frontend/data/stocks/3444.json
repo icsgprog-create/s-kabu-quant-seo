@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3444",
+    "name": "菊池製作所",
+    "sector": "金属製品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 737.0,
+    "min_s_kabu_yen": 737,
+    "unit_lot_yen": 73700,
+    "dps_yen": 10.0,
+    "dividend_yield_pct": 1.36,
+    "raw_annual_return_pct": 2.5,
+    "capped_annual_return_pct": 2.5,
+    "geometric_growth_pct": -11.6,
+    "annual_volatility_pct": 53.11,
+    "max_drawdown_pct": -64.45,
+    "monthly_var_95_pct": -18.68,
+    "sharpe_ratio": -0.21,
+    "quant_score": 10.9,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 1200,
+        "nisa_required_capital_yen": 884400,
+        "specific_required_shares": 1506,
+        "specific_required_capital_yen": 1109922
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 4422000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 5549610
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 8844000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 11099220
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 36000,
+        "nisa_required_capital_yen": 26532000,
+        "specific_required_shares": 45178,
+        "specific_required_capital_yen": 33296186
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 60000,
+        "nisa_required_capital_yen": 44220000,
+        "specific_required_shares": 75297,
+        "specific_required_capital_yen": 55493889
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 113573,
+        "upper_90_yen": 184508,
+        "lower_10_yen": 71443
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 216090,
+        "upper_90_yen": 422480,
+        "lower_10_yen": 115887
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 308627,
+        "upper_90_yen": 695894,
+        "lower_10_yen": 147325
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 392155,
+        "upper_90_yen": 996195,
+        "lower_10_yen": 170622
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 467551,
+        "upper_90_yen": 1317430,
+        "lower_10_yen": 188355
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 535608,
+        "upper_90_yen": 1654949,
+        "lower_10_yen": 202102
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 597039,
+        "upper_90_yen": 2004920,
+        "lower_10_yen": 212901
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 652490,
+        "upper_90_yen": 2364095,
+        "lower_10_yen": 221472
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 702543,
+        "upper_90_yen": 2729679,
+        "lower_10_yen": 228333
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 747723,
+        "upper_90_yen": 3099244,
+        "lower_10_yen": 233862
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "菊池製作所(3444)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "菊池製作所(3444)を1株(737円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小737円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは53.11%、幾何成長率は-11.6%",
+      "新NISAで月1万円の配当金を得るには12,000株（約8,844,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "菊池製作所は単元未満株（S株・かぶミニ等）を利用することで1株（約737円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は747,723円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり10.0円（利回り1.36%）です。月次95%VaR（最大想定損失率）は-18.68%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "菊池製作所は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約737円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、12,000株（元本目安：約8,844,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 737.0
+  }
+}

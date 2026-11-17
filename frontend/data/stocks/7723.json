@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7723",
+    "name": "愛知時計電機",
+    "sector": "精密機器",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2639.0,
+    "min_s_kabu_yen": 2639,
+    "unit_lot_yen": 263900,
+    "dps_yen": 128.0,
+    "dividend_yield_pct": 4.85,
+    "raw_annual_return_pct": 14.65,
+    "capped_annual_return_pct": 14.65,
+    "geometric_growth_pct": 10.08,
+    "annual_volatility_pct": 30.26,
+    "max_drawdown_pct": -38.37,
+    "monthly_var_95_pct": -10.17,
+    "sharpe_ratio": 0.46,
+    "quant_score": 70.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 94,
+        "nisa_required_capital_yen": 248066,
+        "specific_required_shares": 118,
+        "specific_required_capital_yen": 311402
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 469,
+        "nisa_required_capital_yen": 1237691,
+        "specific_required_shares": 589,
+        "specific_required_capital_yen": 1554371
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 938,
+        "nisa_required_capital_yen": 2475382,
+        "specific_required_shares": 1177,
+        "specific_required_capital_yen": 3106103
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2813,
+        "nisa_required_capital_yen": 7423507,
+        "specific_required_shares": 3530,
+        "specific_required_capital_yen": 9315670
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4688,
+        "nisa_required_capital_yen": 12371632,
+        "specific_required_shares": 5883,
+        "specific_required_capital_yen": 15525237
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 130226,
+        "upper_90_yen": 172267,
+        "lower_10_yen": 99128
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 281417,
+        "upper_90_yen": 417154,
+        "lower_10_yen": 192663
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 456948,
+        "upper_90_yen": 743219,
+        "lower_10_yen": 287273
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 660739,
+        "upper_90_yen": 1166442,
+        "lower_10_yen": 385489
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 897338,
+        "upper_90_yen": 1707612,
+        "lower_10_yen": 489000
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1172027,
+        "upper_90_yen": 2392597,
+        "lower_10_yen": 599217
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1490939,
+        "upper_90_yen": 3253133,
+        "lower_10_yen": 717460
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1861193,
+        "upper_90_yen": 4327927,
+        "lower_10_yen": 845061
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2291054,
+        "upper_90_yen": 5664030,
+        "lower_10_yen": 983410
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2790119,
+        "upper_90_yen": 7318519,
+        "lower_10_yen": 1133998
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "愛知時計電機(7723)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "愛知時計電機(7723)を1株(2,639円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,639円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは30.26%、幾何成長率は10.08%",
+      "新NISAで月1万円の配当金を得るには938株（約2,475,382円）が必要"
+    ],
+    "accumulation_strategy_analysis": "愛知時計電機は単元未満株（S株・かぶミニ等）を利用することで1株（約2,639円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,790,119円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり128.0円（利回り4.85%）です。月次95%VaR（最大想定損失率）は-10.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "愛知時計電機は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,639円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、938株（元本目安：約2,475,382円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2639.0
+  }
+}

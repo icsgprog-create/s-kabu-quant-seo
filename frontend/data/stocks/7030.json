@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7030",
+    "name": "スプリックス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1329.0,
+    "min_s_kabu_yen": 1329,
+    "unit_lot_yen": 132900,
+    "dps_yen": 38.0,
+    "dividend_yield_pct": 2.86,
+    "raw_annual_return_pct": 1.49,
+    "capped_annual_return_pct": 1.49,
+    "geometric_growth_pct": -3.96,
+    "annual_volatility_pct": 33.02,
+    "max_drawdown_pct": -58.06,
+    "monthly_var_95_pct": -15.69,
+    "sharpe_ratio": -0.06,
+    "quant_score": 38.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 316,
+        "nisa_required_capital_yen": 419964,
+        "specific_required_shares": 397,
+        "specific_required_capital_yen": 527613
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1579,
+        "nisa_required_capital_yen": 2098491,
+        "specific_required_shares": 1982,
+        "specific_required_capital_yen": 2634078
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 4196982,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 5266827
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9474,
+        "nisa_required_capital_yen": 12590946,
+        "specific_required_shares": 11889,
+        "specific_required_capital_yen": 15800481
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15790,
+        "nisa_required_capital_yen": 20984910,
+        "specific_required_shares": 19815,
+        "specific_required_capital_yen": 26334135
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119287,
+        "upper_90_yen": 161275,
+        "lower_10_yen": 88969
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 237266,
+        "upper_90_yen": 360547,
+        "lower_10_yen": 158991
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 353954,
+        "upper_90_yen": 589533,
+        "lower_10_yen": 218540
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 469363,
+        "upper_90_yen": 845390,
+        "lower_10_yen": 270652
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 583507,
+        "upper_90_yen": 1126615,
+        "lower_10_yen": 317019
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 696401,
+        "upper_90_yen": 1432294,
+        "lower_10_yen": 358741
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 808058,
+        "upper_90_yen": 1761837,
+        "lower_10_yen": 396594
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 918492,
+        "upper_90_yen": 2114845,
+        "lower_10_yen": 431159
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1027716,
+        "upper_90_yen": 2491050,
+        "lower_10_yen": 462884
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1135743,
+        "upper_90_yen": 2890273,
+        "lower_10_yen": 492127
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "スプリックス(7030)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "スプリックス(7030)を1株(1,329円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,329円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.02%、幾何成長率は-3.96%",
+      "新NISAで月1万円の配当金を得るには3,158株（約4,196,982円）が必要"
+    ],
+    "accumulation_strategy_analysis": "スプリックスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,329円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,135,743円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり38.0円（利回り2.86%）です。月次95%VaR（最大想定損失率）は-15.69%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "スプリックスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,329円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,158株（元本目安：約4,196,982円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1329.0
+  }
+}

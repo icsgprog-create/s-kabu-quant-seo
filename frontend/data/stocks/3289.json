@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3289",
+    "name": "東急不動産ホールディングス",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1224.5,
+    "min_s_kabu_yen": 1225,
+    "unit_lot_yen": 122450,
+    "dps_yen": 51.0,
+    "dividend_yield_pct": 4.16,
+    "raw_annual_return_pct": 16.35,
+    "capped_annual_return_pct": 16.35,
+    "geometric_growth_pct": 12.41,
+    "annual_volatility_pct": 28.09,
+    "max_drawdown_pct": -33.73,
+    "monthly_var_95_pct": -8.59,
+    "sharpe_ratio": 0.55,
+    "quant_score": 69.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 236,
+        "nisa_required_capital_yen": 288982,
+        "specific_required_shares": 296,
+        "specific_required_capital_yen": 362452
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1177,
+        "nisa_required_capital_yen": 1441236,
+        "specific_required_shares": 1477,
+        "specific_required_capital_yen": 1808586
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2353,
+        "nisa_required_capital_yen": 2881248,
+        "specific_required_shares": 2953,
+        "specific_required_capital_yen": 3615948
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 7059,
+        "nisa_required_capital_yen": 8643746,
+        "specific_required_shares": 8859,
+        "specific_required_capital_yen": 10847846
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 11765,
+        "nisa_required_capital_yen": 14406242,
+        "specific_required_shares": 14765,
+        "specific_required_capital_yen": 18079742
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131418,
+        "upper_90_yen": 170426,
+        "lower_10_yen": 101944
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 286522,
+        "upper_90_yen": 413174,
+        "lower_10_yen": 201222
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 469580,
+        "upper_90_yen": 738538,
+        "lower_10_yen": 304325
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 685631,
+        "upper_90_yen": 1164437,
+        "lower_10_yen": 414006
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 940620,
+        "upper_90_yen": 1714242,
+        "lower_10_yen": 532335
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1241566,
+        "upper_90_yen": 2417329,
+        "lower_10_yen": 661212
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1596750,
+        "upper_90_yen": 3310192,
+        "lower_10_yen": 802564
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2015950,
+        "upper_90_yen": 4437933,
+        "lower_10_yen": 958443
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2510701,
+        "upper_90_yen": 5856138,
+        "lower_10_yen": 1131094
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3094621,
+        "upper_90_yen": 7633183,
+        "lower_10_yen": 1323019
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "東急不動産ホールディングス(3289)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "東急不動産ホールディングス(3289)を1株(1,225円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,225円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは28.09%、幾何成長率は12.41%",
+      "新NISAで月1万円の配当金を得るには2,353株（約2,881,248円）が必要"
+    ],
+    "accumulation_strategy_analysis": "東急不動産ホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,225円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,094,621円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり51.0円（利回り4.16%）です。月次95%VaR（最大想定損失率）は-8.59%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "東急不動産ホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,225円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,353株（元本目安：約2,881,248円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1224.5
+  }
+}

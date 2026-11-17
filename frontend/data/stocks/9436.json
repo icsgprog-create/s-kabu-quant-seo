@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9436",
+    "name": "沖縄セルラー電話",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 3450.0,
+    "min_s_kabu_yen": 3450,
+    "unit_lot_yen": 345000,
+    "dps_yen": 70.0,
+    "dividend_yield_pct": 2.03,
+    "raw_annual_return_pct": 23.02,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 18.21,
+    "annual_volatility_pct": 18.92,
+    "max_drawdown_pct": -27.74,
+    "monthly_var_95_pct": -4.28,
+    "sharpe_ratio": 1.02,
+    "quant_score": 72.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 172,
+        "nisa_required_capital_yen": 593400,
+        "specific_required_shares": 216,
+        "specific_required_capital_yen": 745200
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 2960100,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 3712200
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 1715,
+        "nisa_required_capital_yen": 5916750,
+        "specific_required_shares": 2152,
+        "specific_required_capital_yen": 7424400
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 5143,
+        "nisa_required_capital_yen": 17743350,
+        "specific_required_shares": 6454,
+        "specific_required_capital_yen": 22266300
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 8572,
+        "nisa_required_capital_yen": 29573400,
+        "specific_required_shares": 10757,
+        "specific_required_capital_yen": 37111650
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 134131,
+        "upper_90_yen": 159767,
+        "lower_10_yen": 112912
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 298353,
+        "upper_90_yen": 381820,
+        "lower_10_yen": 234461
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 499416,
+        "upper_90_yen": 678004,
+        "lower_10_yen": 371017
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 745585,
+        "upper_90_yen": 1066817,
+        "lower_10_yen": 526928
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1046979,
+        "upper_90_yen": 1572474,
+        "lower_10_yen": 706620
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1415987,
+        "upper_90_yen": 2225919,
+        "lower_10_yen": 915049
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1867777,
+        "upper_90_yen": 3066395,
+        "lower_10_yen": 1157949
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2420920,
+        "upper_90_yen": 4143503,
+        "lower_10_yen": 1442058
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3098154,
+        "upper_90_yen": 5519817,
+        "lower_10_yen": 1775348
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3927317,
+        "upper_90_yen": 7274177,
+        "lower_10_yen": 2167285
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "沖縄セルラー電話(9436)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "沖縄セルラー電話(9436)を1株(3,450円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小3,450円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは18.92%、幾何成長率は18.21%",
+      "新NISAで月1万円の配当金を得るには1,715株（約5,916,750円）が必要"
+    ],
+    "accumulation_strategy_analysis": "沖縄セルラー電話は単元未満株（S株・かぶミニ等）を利用することで1株（約3,450円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,927,317円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり70.0円（利回り2.03%）です。月次95%VaR（最大想定損失率）は-4.28%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "沖縄セルラー電話は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約3,450円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、1,715株（元本目安：約5,916,750円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 3450.0
+  }
+}

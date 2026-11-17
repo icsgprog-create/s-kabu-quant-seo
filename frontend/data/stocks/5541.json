@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "5541",
+    "name": "大平洋金属",
+    "sector": "鉄鋼",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2098.0,
+    "min_s_kabu_yen": 2098,
+    "unit_lot_yen": 209800,
+    "dps_yen": 140.0,
+    "dividend_yield_pct": 6.67,
+    "raw_annual_return_pct": 2.98,
+    "capped_annual_return_pct": 2.98,
+    "geometric_growth_pct": -7.3,
+    "annual_volatility_pct": 45.34,
+    "max_drawdown_pct": -74.01,
+    "monthly_var_95_pct": -17.54,
+    "sharpe_ratio": -0.04,
+    "quant_score": 44.1,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 86,
+        "nisa_required_capital_yen": 180428,
+        "specific_required_shares": 108,
+        "specific_required_capital_yen": 226584
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 429,
+        "nisa_required_capital_yen": 900042,
+        "specific_required_shares": 538,
+        "specific_required_capital_yen": 1128724
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 858,
+        "nisa_required_capital_yen": 1800084,
+        "specific_required_shares": 1076,
+        "specific_required_capital_yen": 2257448
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 2572,
+        "nisa_required_capital_yen": 5396056,
+        "specific_required_shares": 3227,
+        "specific_required_capital_yen": 6770246
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 4286,
+        "nisa_required_capital_yen": 8992028,
+        "specific_required_shares": 5379,
+        "specific_required_capital_yen": 11285142
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 119596,
+        "upper_90_yen": 181358,
+        "lower_10_yen": 80117
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 238450,
+        "upper_90_yen": 425646,
+        "lower_10_yen": 138210
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 356567,
+        "upper_90_yen": 723869,
+        "lower_10_yen": 185122
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 473950,
+        "upper_90_yen": 1074236,
+        "lower_10_yen": 224527
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 590605,
+        "upper_90_yen": 1476708,
+        "lower_10_yen": 258391
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 706537,
+        "upper_90_yen": 1932019,
+        "lower_10_yen": 287947
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 821748,
+        "upper_90_yen": 2441335,
+        "lower_10_yen": 314037
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 936245,
+        "upper_90_yen": 3006095,
+        "lower_10_yen": 337271
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1050031,
+        "upper_90_yen": 3627931,
+        "lower_10_yen": 358109
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1163111,
+        "upper_90_yen": 4308621,
+        "lower_10_yen": 376908
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "大平洋金属(5541)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "大平洋金属(5541)を1株(2,098円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,098円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは45.34%、幾何成長率は-7.3%",
+      "新NISAで月1万円の配当金を得るには858株（約1,800,084円）が必要"
+    ],
+    "accumulation_strategy_analysis": "大平洋金属は単元未満株（S株・かぶミニ等）を利用することで1株（約2,098円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,163,111円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり140.0円（利回り6.67%）です。月次95%VaR（最大想定損失率）は-17.54%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "大平洋金属は1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,098円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、858株（元本目安：約1,800,084円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2098.0
+  }
+}

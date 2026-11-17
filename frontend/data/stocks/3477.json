@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3477",
+    "name": "フォーライフ",
+    "sector": "不動産業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 773.0,
+    "min_s_kabu_yen": 773,
+    "unit_lot_yen": 77300,
+    "dps_yen": 30.0,
+    "dividend_yield_pct": 3.88,
+    "raw_annual_return_pct": 7.3,
+    "capped_annual_return_pct": 7.3,
+    "geometric_growth_pct": 4.64,
+    "annual_volatility_pct": 23.05,
+    "max_drawdown_pct": -31.71,
+    "monthly_var_95_pct": -7.17,
+    "sharpe_ratio": 0.33,
+    "quant_score": 66.2,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 400,
+        "nisa_required_capital_yen": 309200,
+        "specific_required_shares": 502,
+        "specific_required_capital_yen": 388046
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 1546000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 1940230
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 4000,
+        "nisa_required_capital_yen": 3092000,
+        "specific_required_shares": 5020,
+        "specific_required_capital_yen": 3880460
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 12000,
+        "nisa_required_capital_yen": 9276000,
+        "specific_required_shares": 15060,
+        "specific_required_capital_yen": 11641380
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 20000,
+        "nisa_required_capital_yen": 15460000,
+        "specific_required_shares": 25099,
+        "specific_required_capital_yen": 19401527
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 125708,
+        "upper_90_yen": 155292,
+        "lower_10_yen": 102171
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 262600,
+        "upper_90_yen": 352787,
+        "lower_10_yen": 197169
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 411671,
+        "upper_90_yen": 591565,
+        "lower_10_yen": 290302
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 574006,
+        "upper_90_yen": 874672,
+        "lower_10_yen": 383433
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 750783,
+        "upper_90_yen": 1206519,
+        "lower_10_yen": 477641
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 943288,
+        "upper_90_yen": 1592488,
+        "lower_10_yen": 573686
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1152921,
+        "upper_90_yen": 2038841,
+        "lower_10_yen": 672169
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1381205,
+        "upper_90_yen": 2552735,
+        "lower_10_yen": 773602
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1629799,
+        "upper_90_yen": 3142271,
+        "lower_10_yen": 878451
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1900511,
+        "upper_90_yen": 3816580,
+        "lower_10_yen": 987153
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "フォーライフ(3477)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "フォーライフ(3477)を1株(773円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小773円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは23.05%、幾何成長率は4.64%",
+      "新NISAで月1万円の配当金を得るには4,000株（約3,092,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "フォーライフは単元未満株（S株・かぶミニ等）を利用することで1株（約773円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,900,511円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり30.0円（利回り3.88%）です。月次95%VaR（最大想定損失率）は-7.17%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "フォーライフは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約773円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、4,000株（元本目安：約3,092,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 773.0
+  }
+}

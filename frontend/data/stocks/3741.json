@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3741",
+    "name": "セック",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2558.0,
+    "min_s_kabu_yen": 2558,
+    "unit_lot_yen": 255800,
+    "dps_yen": 60.0,
+    "dividend_yield_pct": 2.35,
+    "raw_annual_return_pct": 16.99,
+    "capped_annual_return_pct": 16.99,
+    "geometric_growth_pct": 9.0,
+    "annual_volatility_pct": 39.96,
+    "max_drawdown_pct": -40.45,
+    "monthly_var_95_pct": -13.94,
+    "sharpe_ratio": 0.26,
+    "quant_score": 35.3,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 200,
+        "nisa_required_capital_yen": 511600,
+        "specific_required_shares": 251,
+        "specific_required_capital_yen": 642058
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1000,
+        "nisa_required_capital_yen": 2558000,
+        "specific_required_shares": 1255,
+        "specific_required_capital_yen": 3210290
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2000,
+        "nisa_required_capital_yen": 5116000,
+        "specific_required_shares": 2510,
+        "specific_required_capital_yen": 6420580
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6000,
+        "nisa_required_capital_yen": 15348000,
+        "specific_required_shares": 7530,
+        "specific_required_capital_yen": 19261740
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10000,
+        "nisa_required_capital_yen": 25580000,
+        "specific_required_shares": 12550,
+        "specific_required_capital_yen": 32102900
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 127676,
+        "upper_90_yen": 184810,
+        "lower_10_yen": 89278
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 270695,
+        "upper_90_yen": 455164,
+        "lower_10_yen": 165206
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 430900,
+        "upper_90_yen": 818075,
+        "lower_10_yen": 236080
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 610358,
+        "upper_90_yen": 1289113,
+        "lower_10_yen": 304555
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 811381,
+        "upper_90_yen": 1888532,
+        "lower_10_yen": 372052
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1036562,
+        "upper_90_yen": 2641142,
+        "lower_10_yen": 439492
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1288803,
+        "upper_90_yen": 3576775,
+        "lower_10_yen": 507551
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1571357,
+        "upper_90_yen": 4731020,
+        "lower_10_yen": 576769
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1887865,
+        "upper_90_yen": 6146139,
+        "lower_10_yen": 647605
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 2242409,
+        "upper_90_yen": 7872193,
+        "lower_10_yen": 720472
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "セック(3741)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "セック(3741)を1株(2,558円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,558円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは39.96%、幾何成長率は9.0%",
+      "新NISAで月1万円の配当金を得るには2,000株（約5,116,000円）が必要"
+    ],
+    "accumulation_strategy_analysis": "セックは単元未満株（S株・かぶミニ等）を利用することで1株（約2,558円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は2,242,409円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり60.0円（利回り2.35%）です。月次95%VaR（最大想定損失率）は-13.94%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "セックは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,558円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,000株（元本目安：約5,116,000円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2558.0
+  }
+}

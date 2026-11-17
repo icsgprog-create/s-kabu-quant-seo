@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4506",
+    "name": "住友ファーマ",
+    "sector": "医薬品",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1970.0,
+    "min_s_kabu_yen": 1970,
+    "unit_lot_yen": 197000,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 6.03,
+    "capped_annual_return_pct": 6.03,
+    "geometric_growth_pct": -8.81,
+    "annual_volatility_pct": 54.48,
+    "max_drawdown_pct": -80.47,
+    "monthly_var_95_pct": -24.93,
+    "sharpe_ratio": -0.18,
+    "quant_score": 0.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 114444,
+        "upper_90_yen": 188441,
+        "lower_10_yen": 71108
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 219234,
+        "upper_90_yen": 437162,
+        "lower_10_yen": 115553
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 315186,
+        "upper_90_yen": 728830,
+        "lower_10_yen": 147246
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 403045,
+        "upper_90_yen": 1055435,
+        "lower_10_yen": 170948
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 483493,
+        "upper_90_yen": 1411391,
+        "lower_10_yen": 189170
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 557156,
+        "upper_90_yen": 1792267,
+        "lower_10_yen": 203443
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 624605,
+        "upper_90_yen": 2194318,
+        "lower_10_yen": 214776
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 686365,
+        "upper_90_yen": 2614278,
+        "lower_10_yen": 223870
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 742916,
+        "upper_90_yen": 3049236,
+        "lower_10_yen": 231232
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 794698,
+        "upper_90_yen": 3496572,
+        "lower_10_yen": 237232
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "住友ファーマ(4506)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "住友ファーマ(4506)を1株(1,970円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,970円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは54.48%、幾何成長率は-8.81%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "住友ファーマは単元未満株（S株・かぶミニ等）を利用することで1株（約1,970円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は794,698円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-24.93%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "住友ファーマは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,970円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1970.0
+  }
+}

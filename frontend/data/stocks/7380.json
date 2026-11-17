@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7380",
+    "name": "十六フィナンシャルグループ",
+    "sector": "銀行業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 2224.0,
+    "min_s_kabu_yen": 2224,
+    "unit_lot_yen": 222400,
+    "dps_yen": 33.0,
+    "dividend_yield_pct": 1.48,
+    "raw_annual_return_pct": 37.91,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 14.86,
+    "annual_volatility_pct": 32.06,
+    "max_drawdown_pct": -30.18,
+    "monthly_var_95_pct": -10.07,
+    "sharpe_ratio": 0.48,
+    "quant_score": 41.8,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 364,
+        "nisa_required_capital_yen": 809536,
+        "specific_required_shares": 457,
+        "specific_required_capital_yen": 1016368
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1819,
+        "nisa_required_capital_yen": 4045456,
+        "specific_required_shares": 2282,
+        "specific_required_capital_yen": 5075168
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3637,
+        "nisa_required_capital_yen": 8088688,
+        "specific_required_shares": 4564,
+        "specific_required_capital_yen": 10150336
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 10910,
+        "nisa_required_capital_yen": 24263840,
+        "specific_required_shares": 13691,
+        "specific_required_capital_yen": 30448784
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 18182,
+        "nisa_required_capital_yen": 40436768,
+        "specific_required_shares": 22818,
+        "specific_required_capital_yen": 50747232
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 131254,
+        "upper_90_yen": 176643,
+        "lower_10_yen": 98287
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 285816,
+        "upper_90_yen": 434349,
+        "lower_10_yen": 191199
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 467823,
+        "upper_90_yen": 785209,
+        "lower_10_yen": 285745
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 682150,
+        "upper_90_yen": 1250182,
+        "lower_10_yen": 384635
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 934535,
+        "upper_90_yen": 1856694,
+        "lower_10_yen": 489741
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1231738,
+        "upper_90_yen": 2639353,
+        "lower_10_yen": 602670
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1581716,
+        "upper_90_yen": 3641324,
+        "lower_10_yen": 724978
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1993840,
+        "upper_90_yen": 4916165,
+        "lower_10_yen": 858270
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 2479147,
+        "upper_90_yen": 6530132,
+        "lower_10_yen": 1004257
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3050631,
+        "upper_90_yen": 8565026,
+        "lower_10_yen": 1164813
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "十六フィナンシャルグループ(7380)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "十六フィナンシャルグループ(7380)を1株(2,224円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小2,224円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは32.06%、幾何成長率は14.86%",
+      "新NISAで月1万円の配当金を得るには3,637株（約8,088,688円）が必要"
+    ],
+    "accumulation_strategy_analysis": "十六フィナンシャルグループは単元未満株（S株・かぶミニ等）を利用することで1株（約2,224円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,050,631円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり33.0円（利回り1.48%）です。月次95%VaR（最大想定損失率）は-10.07%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "十六フィナンシャルグループは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約2,224円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,637株（元本目安：約8,088,688円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 2224.0
+  }
+}

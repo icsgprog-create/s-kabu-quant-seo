@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9791",
+    "name": "ビケンテクノ",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1062.0,
+    "min_s_kabu_yen": 1062,
+    "unit_lot_yen": 106200,
+    "dps_yen": 38.0,
+    "dividend_yield_pct": 3.58,
+    "raw_annual_return_pct": 4.91,
+    "capped_annual_return_pct": 4.91,
+    "geometric_growth_pct": 2.38,
+    "annual_volatility_pct": 22.52,
+    "max_drawdown_pct": -31.7,
+    "monthly_var_95_pct": -7.87,
+    "sharpe_ratio": 0.22,
+    "quant_score": 61.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 316,
+        "nisa_required_capital_yen": 335592,
+        "specific_required_shares": 397,
+        "specific_required_capital_yen": 421614
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1579,
+        "nisa_required_capital_yen": 1676898,
+        "specific_required_shares": 1982,
+        "specific_required_capital_yen": 2104884
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 3158,
+        "nisa_required_capital_yen": 3353796,
+        "specific_required_shares": 3963,
+        "specific_required_capital_yen": 4208706
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 9474,
+        "nisa_required_capital_yen": 10061388,
+        "specific_required_shares": 11889,
+        "specific_required_capital_yen": 12626118
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 15790,
+        "nisa_required_capital_yen": 16768980,
+        "specific_required_shares": 19815,
+        "specific_required_capital_yen": 21043530
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 123953,
+        "upper_90_yen": 152310,
+        "lower_10_yen": 101265
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 255512,
+        "upper_90_yen": 340478,
+        "lower_10_yen": 193351
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 395146,
+        "upper_90_yen": 561695,
+        "lower_10_yen": 281549
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 543349,
+        "upper_90_yen": 816845,
+        "lower_10_yen": 367674
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 700647,
+        "upper_90_yen": 1107857,
+        "lower_10_yen": 452729
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 867598,
+        "upper_90_yen": 1437259,
+        "lower_10_yen": 537371
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1044795,
+        "upper_90_yen": 1808035,
+        "lower_10_yen": 622078
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1232867,
+        "upper_90_yen": 2223569,
+        "lower_10_yen": 707219
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1432481,
+        "upper_90_yen": 2687636,
+        "lower_10_yen": 793098
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1644345,
+        "upper_90_yen": 3204401,
+        "lower_10_yen": 879974
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ビケンテクノ(9791)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ビケンテクノ(9791)を1株(1,062円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,062円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは22.52%、幾何成長率は2.38%",
+      "新NISAで月1万円の配当金を得るには3,158株（約3,353,796円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ビケンテクノは単元未満株（S株・かぶミニ等）を利用することで1株（約1,062円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,644,345円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり38.0円（利回り3.58%）です。月次95%VaR（最大想定損失率）は-7.87%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ビケンテクノは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,062円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、3,158株（元本目安：約3,353,796円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1062.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "7361",
+    "name": "ヒューマンクリエイションホールディングス",
+    "sector": "サービス業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 960.0,
+    "min_s_kabu_yen": 960,
+    "unit_lot_yen": 96000,
+    "dps_yen": 45.0,
+    "dividend_yield_pct": 4.69,
+    "raw_annual_return_pct": -1.68,
+    "capped_annual_return_pct": -1.68,
+    "geometric_growth_pct": -7.2,
+    "annual_volatility_pct": 33.22,
+    "max_drawdown_pct": -42.02,
+    "monthly_var_95_pct": -12.7,
+    "sharpe_ratio": -0.11,
+    "quant_score": 51.6,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 267,
+        "nisa_required_capital_yen": 256320,
+        "specific_required_shares": 335,
+        "specific_required_capital_yen": 321600
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1334,
+        "nisa_required_capital_yen": 1280640,
+        "specific_required_shares": 1674,
+        "specific_required_capital_yen": 1607040
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2667,
+        "nisa_required_capital_yen": 2560320,
+        "specific_required_shares": 3347,
+        "specific_required_capital_yen": 3213120
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 8000,
+        "nisa_required_capital_yen": 7680000,
+        "specific_required_shares": 10040,
+        "specific_required_capital_yen": 9638400
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 13334,
+        "nisa_required_capital_yen": 12800640,
+        "specific_required_shares": 16733,
+        "specific_required_capital_yen": 16063680
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 118383,
+        "upper_90_yen": 160291,
+        "lower_10_yen": 88174
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 233834,
+        "upper_90_yen": 355870,
+        "lower_10_yen": 156494
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 346423,
+        "upper_90_yen": 577683,
+        "lower_10_yen": 213728
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 456224,
+        "upper_90_yen": 822247,
+        "lower_10_yen": 263077
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 563304,
+        "upper_90_yen": 1087475,
+        "lower_10_yen": 306344
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 667730,
+        "upper_90_yen": 1371903,
+        "lower_10_yen": 344709
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 769570,
+        "upper_90_yen": 1674411,
+        "lower_10_yen": 379014
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 868886,
+        "upper_90_yen": 1994086,
+        "lower_10_yen": 409884
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 965742,
+        "upper_90_yen": 2330162,
+        "lower_10_yen": 437810
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1060198,
+        "upper_90_yen": 2681966,
+        "lower_10_yen": 463180
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヒューマンクリエイションホールディングス(7361)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヒューマンクリエイションホールディングス(7361)を1株(960円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小960円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは33.22%、幾何成長率は-7.2%",
+      "新NISAで月1万円の配当金を得るには2,667株（約2,560,320円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヒューマンクリエイションホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約960円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,060,198円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり45.0円（利回り4.69%）です。月次95%VaR（最大想定損失率）は-12.7%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヒューマンクリエイションホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約960円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,667株（元本目安：約2,560,320円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 960.0
+  }
+}

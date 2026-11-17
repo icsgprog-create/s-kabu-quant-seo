@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "4937",
+    "name": "Ｗａｑｏｏ",
+    "sector": "化学",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1997.0,
+    "min_s_kabu_yen": 1997,
+    "unit_lot_yen": 199700,
+    "dps_yen": 0.0,
+    "dividend_yield_pct": 0.0,
+    "raw_annual_return_pct": 17.97,
+    "capped_annual_return_pct": 17.97,
+    "geometric_growth_pct": -6.23,
+    "annual_volatility_pct": 69.58,
+    "max_drawdown_pct": -69.87,
+    "monthly_var_95_pct": -24.6,
+    "sharpe_ratio": -0.1,
+    "quant_score": 2.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 0,
+        "nisa_required_capital_yen": 0,
+        "specific_required_shares": 0,
+        "specific_required_capital_yen": 0
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 116034,
+        "upper_90_yen": 220518,
+        "lower_10_yen": 63364
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 225055,
+        "upper_90_yen": 549945,
+        "lower_10_yen": 99837
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 327487,
+        "upper_90_yen": 974199,
+        "lower_10_yen": 124730
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 423727,
+        "upper_90_yen": 1489479,
+        "lower_10_yen": 142789
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 514152,
+        "upper_90_yen": 2094119,
+        "lower_10_yen": 156361
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 599110,
+        "upper_90_yen": 2787185,
+        "lower_10_yen": 166807
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 678934,
+        "upper_90_yen": 3567997,
+        "lower_10_yen": 174988
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 753934,
+        "upper_90_yen": 4435932,
+        "lower_10_yen": 181483
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 824400,
+        "upper_90_yen": 5390324,
+        "lower_10_yen": 186696
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 890608,
+        "upper_90_yen": 6430413,
+        "lower_10_yen": 190917
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "Ｗａｑｏｏ(4937)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "Ｗａｑｏｏ(4937)を1株(1,997円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,997円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは69.58%、幾何成長率は-6.23%",
+      "新NISAで月1万円の配当金を得るには0株（約0円）が必要"
+    ],
+    "accumulation_strategy_analysis": "Ｗａｑｏｏは単元未満株（S株・かぶミニ等）を利用することで1株（約1,997円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は890,608円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり0.0円（利回り0.0%）です。月次95%VaR（最大想定損失率）は-24.6%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "Ｗａｑｏｏは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,997円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、0株（元本目安：約0円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1997.0
+  }
+}

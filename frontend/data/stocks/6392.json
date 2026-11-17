@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "6392",
+    "name": "ヤマダコーポレーション",
+    "sector": "機械",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 6850.0,
+    "min_s_kabu_yen": 6850,
+    "unit_lot_yen": 685000,
+    "dps_yen": 230.0,
+    "dividend_yield_pct": 3.36,
+    "raw_annual_return_pct": 25.2,
+    "capped_annual_return_pct": 20.0,
+    "geometric_growth_pct": 16.53,
+    "annual_volatility_pct": 26.35,
+    "max_drawdown_pct": -29.02,
+    "monthly_var_95_pct": -8.14,
+    "sharpe_ratio": 0.72,
+    "quant_score": 68.4,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 53,
+        "nisa_required_capital_yen": 363050,
+        "specific_required_shares": 66,
+        "specific_required_capital_yen": 452100
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 261,
+        "nisa_required_capital_yen": 1787850,
+        "specific_required_shares": 328,
+        "specific_required_capital_yen": 2246800
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 522,
+        "nisa_required_capital_yen": 3575700,
+        "specific_required_shares": 655,
+        "specific_required_capital_yen": 4486750
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 1566,
+        "nisa_required_capital_yen": 10727100,
+        "specific_required_shares": 1965,
+        "specific_required_capital_yen": 13460250
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 2609,
+        "nisa_required_capital_yen": 17871650,
+        "specific_required_shares": 3274,
+        "specific_required_capital_yen": 22426900
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 133866,
+        "upper_90_yen": 170914,
+        "lower_10_yen": 105397
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 297182,
+        "upper_90_yen": 419603,
+        "lower_10_yen": 212814
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 496427,
+        "upper_90_yen": 761438,
+        "lower_10_yen": 329056
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 739506,
+        "upper_90_yen": 1221002,
+        "lower_10_yen": 457714
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 1036062,
+        "upper_90_yen": 1830847,
+        "lower_10_yen": 601999
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 1397859,
+        "upper_90_yen": 2632984,
+        "lower_10_yen": 765254
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1839251,
+        "upper_90_yen": 3681177,
+        "lower_10_yen": 951190
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 2377749,
+        "upper_90_yen": 5043972,
+        "lower_10_yen": 1164040
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 3034716,
+        "upper_90_yen": 6808557,
+        "lower_10_yen": 1408700
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 3836214,
+        "upper_90_yen": 9085658,
+        "lower_10_yen": 1690883
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ヤマダコーポレーション(6392)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ヤマダコーポレーション(6392)を1株(6,850円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小6,850円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは26.35%、幾何成長率は16.53%",
+      "新NISAで月1万円の配当金を得るには522株（約3,575,700円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ヤマダコーポレーションは単元未満株（S株・かぶミニ等）を利用することで1株（約6,850円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は3,836,214円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり230.0円（利回り3.36%）です。月次95%VaR（最大想定損失率）は-8.14%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ヤマダコーポレーションは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約6,850円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、522株（元本目安：約3,575,700円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 6850.0
+  }
+}

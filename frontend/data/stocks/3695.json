@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "3695",
+    "name": "ＧＭＯプロダクトプラットフォーム",
+    "sector": "情報・通信業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1378.0,
+    "min_s_kabu_yen": 1378,
+    "unit_lot_yen": 137800,
+    "dps_yen": 59.52,
+    "dividend_yield_pct": 4.32,
+    "raw_annual_return_pct": -8.78,
+    "capped_annual_return_pct": -8.78,
+    "geometric_growth_pct": -15.64,
+    "annual_volatility_pct": 37.04,
+    "max_drawdown_pct": -71.6,
+    "monthly_var_95_pct": -15.21,
+    "sharpe_ratio": -0.33,
+    "quant_score": 42.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 202,
+        "nisa_required_capital_yen": 278356,
+        "specific_required_shares": 254,
+        "specific_required_capital_yen": 350012
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1009,
+        "nisa_required_capital_yen": 1390402,
+        "specific_required_shares": 1266,
+        "specific_required_capital_yen": 1744548
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2017,
+        "nisa_required_capital_yen": 2779426,
+        "specific_required_shares": 2531,
+        "specific_required_capital_yen": 3487718
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6049,
+        "nisa_required_capital_yen": 8335522,
+        "specific_required_shares": 7591,
+        "specific_required_capital_yen": 10460398
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10081,
+        "nisa_required_capital_yen": 13891618,
+        "specific_required_shares": 12651,
+        "specific_required_capital_yen": 17433078
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 112921,
+        "upper_90_yen": 158005,
+        "lower_10_yen": 81558
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 213751,
+        "upper_90_yen": 339278,
+        "lower_10_yen": 137817
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 303787,
+        "upper_90_yen": 530867,
+        "lower_10_yen": 180207
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 384183,
+        "upper_90_yen": 727063,
+        "lower_10_yen": 213195
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 455972,
+        "upper_90_yen": 924298,
+        "lower_10_yen": 239351
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 520075,
+        "upper_90_yen": 1120106,
+        "lower_10_yen": 260355
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 577315,
+        "upper_90_yen": 1312711,
+        "lower_10_yen": 277378
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 628426,
+        "upper_90_yen": 1500813,
+        "lower_10_yen": 291275
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 674066,
+        "upper_90_yen": 1683456,
+        "lower_10_yen": 302685
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 714819,
+        "upper_90_yen": 1859954,
+        "lower_10_yen": 312100
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ＧＭＯプロダクトプラットフォーム(3695)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ＧＭＯプロダクトプラットフォーム(3695)を1株(1,378円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,378円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは37.04%、幾何成長率は-15.64%",
+      "新NISAで月1万円の配当金を得るには2,017株（約2,779,426円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ＧＭＯプロダクトプラットフォームは単元未満株（S株・かぶミニ等）を利用することで1株（約1,378円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は714,819円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり59.52円（利回り4.32%）です。月次95%VaR（最大想定損失率）は-15.21%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ＧＭＯプロダクトプラットフォームは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,378円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,017株（元本目安：約2,779,426円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1378.0
+  }
+}

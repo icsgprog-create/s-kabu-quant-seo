@@ -1,0 +1,154 @@
+{
+  "metrics": {
+    "code": "9856",
+    "name": "ケーユーホールディングス",
+    "sector": "小売業",
+    "updated_at": "2026-11-17",
+    "current_price_yen": 1188.0,
+    "min_s_kabu_yen": 1188,
+    "unit_lot_yen": 118800,
+    "dps_yen": 58.0,
+    "dividend_yield_pct": 4.88,
+    "raw_annual_return_pct": 8.18,
+    "capped_annual_return_pct": 8.18,
+    "geometric_growth_pct": 4.47,
+    "annual_volatility_pct": 27.23,
+    "max_drawdown_pct": -37.87,
+    "monthly_var_95_pct": -8.95,
+    "sharpe_ratio": 0.31,
+    "quant_score": 69.5,
+    "dividend_roadmap": [
+      {
+        "target_monthly_yen": 1000,
+        "nisa_required_shares": 207,
+        "nisa_required_capital_yen": 245916,
+        "specific_required_shares": 260,
+        "specific_required_capital_yen": 308880
+      },
+      {
+        "target_monthly_yen": 5000,
+        "nisa_required_shares": 1035,
+        "nisa_required_capital_yen": 1229580,
+        "specific_required_shares": 1299,
+        "specific_required_capital_yen": 1543212
+      },
+      {
+        "target_monthly_yen": 10000,
+        "nisa_required_shares": 2069,
+        "nisa_required_capital_yen": 2457972,
+        "specific_required_shares": 2597,
+        "specific_required_capital_yen": 3085236
+      },
+      {
+        "target_monthly_yen": 30000,
+        "nisa_required_shares": 6207,
+        "nisa_required_capital_yen": 7373916,
+        "specific_required_shares": 7790,
+        "specific_required_capital_yen": 9254520
+      },
+      {
+        "target_monthly_yen": 50000,
+        "nisa_required_shares": 10345,
+        "nisa_required_capital_yen": 12289860,
+        "specific_required_shares": 12983,
+        "specific_required_capital_yen": 15423804
+      }
+    ],
+    "default_10y_projection": [
+      {
+        "year": 1,
+        "principal_yen": 120000,
+        "median_yen": 126282,
+        "upper_90_yen": 162194,
+        "lower_10_yen": 98876
+      },
+      {
+        "year": 2,
+        "principal_yen": 240000,
+        "median_yen": 264946,
+        "upper_90_yen": 376042,
+        "lower_10_yen": 188938
+      },
+      {
+        "year": 3,
+        "principal_yen": 360000,
+        "median_yen": 417205,
+        "upper_90_yen": 641719,
+        "lower_10_yen": 276284
+      },
+      {
+        "year": 4,
+        "principal_yen": 480000,
+        "median_yen": 584393,
+        "upper_90_yen": 964271,
+        "lower_10_yen": 363004
+      },
+      {
+        "year": 5,
+        "principal_yen": 600000,
+        "median_yen": 767973,
+        "upper_90_yen": 1350622,
+        "lower_10_yen": 450283
+      },
+      {
+        "year": 6,
+        "principal_yen": 720000,
+        "median_yen": 969552,
+        "upper_90_yen": 1809167,
+        "lower_10_yen": 538939
+      },
+      {
+        "year": 7,
+        "principal_yen": 840000,
+        "median_yen": 1190896,
+        "upper_90_yen": 2349727,
+        "lower_10_yen": 629608
+      },
+      {
+        "year": 8,
+        "principal_yen": 960000,
+        "median_yen": 1433942,
+        "upper_90_yen": 2983635,
+        "lower_10_yen": 722825
+      },
+      {
+        "year": 9,
+        "principal_yen": 1080000,
+        "median_yen": 1700818,
+        "upper_90_yen": 3723867,
+        "lower_10_yen": 819070
+      },
+      {
+        "year": 10,
+        "principal_yen": 1200000,
+        "median_yen": 1993860,
+        "upper_90_yen": 4585232,
+        "lower_10_yen": 918791
+      }
+    ]
+  },
+  "seo": {
+    "seo_title": "ケーユーホールディングス(9856)の単元未満株・NISA積立と配当金シミュレーション",
+    "meta_description": "ケーユーホールディングス(9856)を1株(1,188円)から単元未満株で積立投資した場合の10年後資産推移を定量計算。",
+    "summary_points": [
+      "最小1,188円（1株）から単元未満株で購入可能",
+      "過去5年の年率ボラティリティは27.23%、幾何成長率は4.47%",
+      "新NISAで月1万円の配当金を得るには2,069株（約2,457,972円）が必要"
+    ],
+    "accumulation_strategy_analysis": "ケーユーホールディングスは単元未満株（S株・かぶミニ等）を利用することで1株（約1,188円）から定額積立が可能です。対数正規分布モデルに基づく月1万円積立時の10年後中央値予測は1,993,860円となっています。",
+    "dividend_and_risk_commentary": "年間予想配当金は1株あたり58.0円（利回り4.88%）です。月次95%VaR（最大想定損失率）は-8.95%となっており、一括投資よりも時間分散を効かせた積立投資がリスク緩和に有効です。",
+    "faqs": [
+      {
+        "question": "ケーユーホールディングスは1株いくらから買えますか？",
+        "answer": "単元未満株制度を利用すれば、1株あたり約1,188円から購入可能です。"
+      },
+      {
+        "question": "配当金で毎月1万円を得るにはいくら必要ですか？",
+        "answer": "新NISA（非課税）口座で保有する場合、2,069株（元本目安：約2,457,972円）が必要です。"
+      }
+    ],
+    "is_ai_generated": false,
+    "generated_at": "2026-11-17",
+    "snapshot_price_yen": 1188.0
+  }
+}
