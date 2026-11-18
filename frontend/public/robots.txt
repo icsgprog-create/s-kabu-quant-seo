@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://s-kabu-quant-seo.pages.dev/sitemap.xml
